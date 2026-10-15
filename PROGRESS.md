@@ -9,7 +9,7 @@ Dokumen ini memantau status pengerjaan lokalisasi Bahasa Indonesia untuk seluruh
 | Kategori | Cakupan File | Status Saat Ini | Detail Kemajuan |
 |---|---|---|---|
 | **Fase 1: UI & Sistem Inti** | 11 berkas JSON | **100% Selesai** | Seluruh UI, kamus generik, tutorial, teks item, event blurb, dan trash.json (11.024 key). |
-| **Fase 2: Master Database Gameplay (`masterTrans`)** | 108 berkas JSON | **Dalam Pengerjaan (43/108 tuntas)** | Seluruh 41 berkas Produce (100% tuntas) + SupportCard + Item + Tips 100% selesai. Sisa 61 berkas diproses bertahap. |
+| **Fase 2: Master Database Gameplay (`masterTrans`)** | 108 berkas JSON | **Dalam Pengerjaan (49/108 tuntas)** | Seluruh 41 berkas Produce (100% tuntas) + SupportCard + Item + Tips + Fase 2.2 (Karakter & Kostum) 100% selesai. Sisa 53 berkas diproses bertahap. |
 | **Fase 3: Cerita Prolog, Tutorial & Unit (`resource/`)** | 116 berkas TXT | Belum Mulai | Naskah cerita pembuka (33 file), tutorial visual novel (17 file), dan cerita unit utama (66 file). |
 | **Fase 4: Cerita Karakter & Event (`resource/`)** | 3.093 berkas TXT | Belum Mulai | Cerita kandidat idol (354 file), commu bond (494 file), cerita support (529 file), p-story (611 file), pevent (1.105 file). |
 | **Lirik Lagu (`lyrics/`)** | 64 berkas | Di-skip | Dibiarkan berbahasa asli Jepang sesuai standar resmi proyek. |
@@ -48,7 +48,7 @@ Target: Seluruh antarmuka game, menu, tombol, item, misi, tutorial, dan string U
 
 Target: Menyelesaikan seluruh data gameplay di folder `local-files/masterTrans/` (total 108 berkas) agar fitur **MasterDB Localization** pada Localify bekerja 100% dalam Bahasa Indonesia tanpa ada teks sistem yang bocor.
 
-Status Keseluruhan Fase 2: **43 Selesai** | **61 Belum Mulai** | **4 Di-skip (Nama Asli / Teknis)** (Total: 108 Berkas)
+Status Keseluruhan Fase 2: **49 Selesai** | **53 Belum Mulai** | **6 Di-skip (Nama Asli / Teknis)** (Total: 108 Berkas)
 
 ### 2.1 Inti Produce, Kartu Skill & Pertandingan (Lesson & Audition) — 37 Berkas
 
@@ -94,21 +94,21 @@ Status Keseluruhan Fase 2: **43 Selesai** | **61 Belum Mulai** | **4 Di-skip (Na
 
 ---
 
-### 2.2 Kartu Idol, Karakter & Kostum — 11 Berkas
+### 2.2 Kartu Idol, Karakter & Kostum — 11 Berkas (Status: 100% Selesai)
 
 | Status | Komponen | Berkas di `local-files/` | Volume Data | Status Detail & Keterangan |
 |---|---|---|---|---|
 | `[x]` | **Support Card** | `masterTrans/SupportCard.json` | 208 entri | **100% Selesai**. Seluruh 208 nama Support Card (R, SR, SSR) dan 208 teks tingkat aktivasi efek telah diterjemahkan. |
 | `[-]` | **Produce Idol Card (P-Idol)** | `masterTrans/IdolCard.json` | 156 entri | **Di-skip (Nama Kartu Asli)**. Nama gelar kartu Produce Idol dibiarkan sesuai nama aslinya (School Life, First Love, Fighting My Way, Fluorite, dll.) agar konsisten dengan wiki dan rilis resmi. |
 | `[-]` | **Skin Kartu Produce Idol** | `masterTrans/IdolCardSkin.json` | 306 entri | **Di-skip (Nama Skin Asli)**. Nama variasi skin kartu Produce Idol dibiarkan sesuai nama rilis resminya. |
-| `[ ]` | **Kostum Panggung & Pakaian** | `masterTrans/Costume.json` | 566 entri | Belum Mulai. Nama pakaian, kostum live panggung, dan pakaian kasual idol. |
-| `[ ]` | **Aksesori Kepala & Gaya Rambut** | `masterTrans/CostumeHead.json` | 416 entri | Belum Mulai. Nama gaya rambut, pita, topi, dan aksesori kepala idol. |
-| `[ ]` | **Data Karakter Idol & Staf** | `masterTrans/Character.json` | 24 entri | Belum Mulai. Nama lengkap kanji dan romaji alfabet idol dan guru. |
-| `[ ]` | **Nama Karakter Naskah Cerita** | `masterTrans/CharacterAdv.json` | 25 entri | Belum Mulai. Nama tampilan karakter yang muncul pada script dialog ADV. |
-| `[ ]` | **Profil Detail Karakter** | `masterTrans/CharacterDetail.json` | 181 entri | Belum Mulai. Biodata idol, hobi, keahlian khusus, dan profil pribadi. |
-| `[ ]` | **Level Keakraban (Dearness/Bond)** | `masterTrans/CharacterDearnessLevel.json` | 471 entri | Belum Mulai. Deskripsi syarat pembuka level keakraban tiap idol. |
-| `[ ]` | **Pesan Notifikasi Karakter** | `masterTrans/CharacterPushMessage.json` | 169 entri | Belum Mulai. Pesan notifikasi push dari idol ke perangkat pemain. |
-| `[ ]` | **Filter Skill Support Card** | `masterTrans/SupportCardProduceSkillFilter.json` | 51 entri | Belum Mulai. Label filter pencarian efek skill support card. |
+| `[x]` | **Kostum Panggung & Pakaian** | `masterTrans/Costume.json` | 566 entri | **100% Selesai**. Nama busana kasual, seragam, pakaian event, dan seluruh deskripsi syarat perolehan (Idol Road, Rank Bakat, Pass Misi) diterjemahkan. |
+| `[x]` | **Aksesori Kepala & Gaya Rambut** | `masterTrans/CostumeHead.json` | 416 entri | **100% Selesai**. Nama gaya rambut kasual, kacamata, pita, telinga hewan, tiara, dan seluruh deskripsi syarat perolehan diterjemahkan. |
+| `[-]` | **Data Karakter Idol & Staf** | `masterTrans/Character.json` | 24 entri | **Di-skip (Nama Karakter Asli)**. Nama karakter idol, guru, dan pelatih tetap menggunakan nama resmi aslinya sesuai instruksi proyek. |
+| `[-]` | **Nama Karakter Naskah Cerita** | `masterTrans/CharacterAdv.json` | 25 entri | **Di-skip (Nama Karakter Asli)**. Nama tampilan karakter pada naskah dialog ADV tetap menggunakan nama resmi aslinya. |
+| `[x]` | **Profil Detail Karakter** | `masterTrans/CharacterDetail.json` | 181 entri | **100% Selesai**. Biodata pengantar profil idol, hobi, keahlian khusus, kelas, zodiak, tangan dominan, dan tanggal lahir diterjemahkan ke Bahasa Indonesia natural. |
+| `[x]` | **Level Keakraban (Dearness/Bond)** | `masterTrans/CharacterDearnessLevel.json` | 471 entri | **100% Selesai**. Seluruh 471 syarat pembuka level keakraban tiap idol (minggu Produce, audisi, True End, pencapaian) diterjemahkan. |
+| `[x]` | **Pesan Notifikasi Karakter** | `masterTrans/CharacterPushMessage.json` | 169 entri | **100% Selesai**. Seluruh 169 pesan notifikasi push 13 idol ke Producer diterjemahkan sesuai karakter masing-masing (nama idol pada judul dipertahankan). |
+| `[x]` | **Filter Skill Support Card** | `masterTrans/SupportCardProduceSkillFilter.json` | 51 entri | **100% Selesai**. Seluruh 51 label filter pencarian efek skill support card pada menu deck Produce. |
 
 ---
 
