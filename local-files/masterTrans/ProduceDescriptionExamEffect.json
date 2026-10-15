@@ -11,215 +11,215 @@
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuff",
-      "name": "Good Shape "
+      "name": "Kondisi Baik "
     },
     {
       "type": "ProduceExamEffectType_ExamBlock",
-      "name": "Energy "
+      "name": "Genki "
     },
     {
       "type": "ProduceExamEffectType_ExamCardDraw",
-      "name": "Draw a Skill Card "
+      "name": "Ambil Skill Card "
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionDown",
-      "name": "Reduced Stamina usage "
+      "name": "Pengurangan Biaya Stamina "
     },
     {
       "type": "ProduceExamEffectType_ExamCardCreateId",
-      "name": "Generation "
+      "name": "Pembuatan "
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaReduceFix",
-      "name": "Stamina Usage "
+      "name": "Biaya Stamina "
     },
     {
       "type": "ProduceExamEffectType_ExamLessonBuff",
-      "name": "Focus "
+      "name": "Fokus "
     },
     {
       "type": "ProduceExamEffectType_ExamCardUpgrade",
-      "name": "Upgraded During Lesson "
+      "name": "Diperkuat Saat Lesson "
     },
     {
       "type": "ProduceExamEffectType_ExamPlayableValueAdd",
-      "name": "Skill Card Usage "
+      "name": "Batas Penggunaan Skill Card "
     },
     {
       "type": "ProduceExamEffectType_ExamLessonBuffMultiple",
-      "name": "Focus Enhance "
+      "name": "Penguatan Fokus "
     },
     {
       "type": "ProduceExamEffectType_ExamCardStaminaConsumptionChange",
-      "name": "Stamina Usage Change "
+      "name": "Perubahan Biaya Stamina "
     },
     {
       "type": "ProduceExamEffectType_ExamBlockRestriction",
-      "name": "Energy Increase Disabled "
+      "name": "Peningkatan Genki Tidak Aktif "
     },
     {
       "type": "ProduceExamEffectType_ExamStatusEnchant",
-      "name": "Ongoing Effect "
+      "name": "Efek Berkelanjutan "
     },
     {
       "type": "ProduceExamEffectType_ExamCardStaminaConsumptionDownSpecify",
-      "name": "Reduced Stamina usage "
+      "name": "Pengurangan Biaya Stamina "
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaDamage",
-      "name": "Stamina Decrease "
+      "name": "Pengurangan Stamina "
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaRecoverFix",
-      "name": "Stamina Recovery "
+      "name": "Pemulihan Stamina "
     },
     {
       "type": "ProduceExamEffectType_ExamLessonFix",
-      "name": "Fixed Param "
+      "name": "Param Tetap "
     },
     {
       "type": "ProduceExamEffectType_ExamCardDuplicate",
-      "name": "Dupe "
+      "name": "Duplikasi "
     },
     {
       "type": "ProduceExamEffectType_ExamReview",
-      "name": "Good Impression "
+      "name": "Kesan Baik "
     },
     {
       "type": "ProduceExamEffectType_ExamCardSearchEffectPlayCountBuff",
-      "name": "Additional Skill Card Activation "
+      "name": "Tambahan Aktivasi Skill Card "
     },
     {
       "type": "ProduceExamEffectType_ExamLessonValueMultiple",
-      "name": "Param Increase Amount Boost "
+      "name": "Peningkatan Perolehan Param "
     },
     {
       "type": "ProduceExamEffectType_ExamCardPlayAggressive",
-      "name": "Motivation "
+      "name": "Semangat "
     },
     {
       "type": "ProduceExamEffectType_ExamConcentration",
-      "name": "Confidence "
+      "name": "Percaya Diri "
     },
     {
       "type": "ProduceExamEffectType_ExamPreservation",
-      "name": "Preservation "
+      "name": "Penghematan "
     },
     {
       "type": "ProduceExamEffectType_ExamFullPower",
-      "name": "Full Power "
+      "name": "Daya Penuh "
     },
     {
       "type": "ProduceExamEffectType_ExamStanceReset",
-      "name": "Guideline Removal "
+      "name": "Hapus Pedoman "
     },
     {
       "type": "ProduceExamEffectType_ExamFullPowerPoint",
-      "name": "Full Power Point "
+      "name": "Poin Daya Penuh "
     },
     {
       "type": "ProduceExamEffectType_ExamFullPowerPointReduce",
-      "name": "Full Power Point Decrease "
+      "name": "Pengurangan Poin Daya Penuh "
     },
     {
       "type": "ProduceExamEffectType_ExamSearchPlayCardStaminaConsumptionChange",
-      "name": "Stamina Usage Change "
+      "name": "Perubahan Biaya Stamina "
     },
     {
       "type": "ProduceExamEffectType_ExamUplifting",
-      "name": "Excitement "
+      "name": "Gelora "
     },
     {
       "type": "ProduceExamEffectType_ExamExtraTurn",
-      "name": "Extra Turn "
+      "name": "Giliran Tambahan "
     },
     {
       "type": "ProduceExamEffectType_ExamAntiDebuff",
-      "name": "Debuff Immunity "
+      "name": "Kebal Debuff "
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionAdd",
-      "name": "Increased Stamina Usage "
+      "name": "Peningkatan Biaya Stamina "
     },
     {
       "type": "ProduceExamEffectType_ExamBlockAddDown",
-      "name": "Anxiety "
+      "name": "Cemas "
     },
     {
       "type": "ProduceExamEffectType_ExamBlockAddDownRestriction",
-      "name": "Anxiety Immunity "
+      "name": "Kebal Cemas "
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaRecoverAdd",
-      "name": "Increased Stamina Recovery Effect "
+      "name": "Peningkatan Efek Pemulihan Stamina "
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaReduceChange",
-      "name": "Reduced Stamina Usage"
+      "name": "Pengurangan Biaya Stamina"
     },
     {
       "type": "ProduceExamEffectType_ExamPanic",
-      "name": "Whimsy "
+      "name": "Gelisah "
     },
     {
       "type": "ProduceExamEffectType_ExamLessonChangeSpecifyLessThan",
-      "name": "Param Increase Value Change "
+      "name": "Perubahan Nilai Peningkatan Param "
     },
     {
       "type": "ProduceExamEffectType_ExamHandHold",
-      "name": "Carry Over Hand "
+      "name": "Pertahankan Tangan "
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionAddFix",
-      "name": "Additional Stamina Usage "
+      "name": "Tambahan Biaya Stamina "
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionAddDown",
-      "name": "Reduced Effect of Increased Stamina Usage "
+      "name": "Pengurangan Efek Peningkatan Biaya Stamina "
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaRecoverRestriction",
-      "name": "Stamina Recovery Disabled "
+      "name": "Pemulihan Stamina Tidak Aktif "
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionDownAdd",
-      "name": "Increased Effect of Reduced Stamina Usage "
+      "name": "Peningkatan Efek Pengurangan Biaya Stamina "
     },
     {
       "type": "ProduceExamEffectType_ExamGetCardUpgrade",
-      "name": "Upgraded Generation "
+      "name": "Pembuatan Diperkuat "
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionDownFix",
-      "name": "Reduce Stamina Usage "
+      "name": "Pengurangan Biaya Stamina "
     },
     {
       "type": "ProduceExamEffectType_ExamHandGraveCountCardDraw",
-      "name": "Replace Hand "
+      "name": "Ganti Kartu Tangan "
     },
     {
       "type": "ProduceExamEffectType_ExamEffectTimer",
-      "name": "Activation Reservation "
+      "name": "Pemesanan Aktivasi "
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickLessonDebuff",
-      "name": "Tension "
+      "name": "Tegang "
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickParameterDebuff",
-      "name": "Bad Shape "
+      "name": "Kondisi Buruk "
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickSleepy",
-      "name": "Timid "
+      "name": "Ragu-ragu "
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickEnthusiastic",
-      "name": "Enthusiasm "
+      "name": "Antusiasme "
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickPlayCardLimit",
-      "name": "Skill cards cannot be used "
+      "name": "Skill Card Tidak Dapat Digunakan "
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickSlump",
@@ -227,135 +227,135 @@
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickStartTurnCardDrawDown",
-      "name": "Hand Decrease "
+      "name": "Pengurangan Kartu Tangan "
     },
     {
       "type": "ProduceExamEffectType_ExamBlockFix",
-      "name": "Fixed Energy "
+      "name": "Genki Tetap "
     },
     {
       "type": "ProduceExamEffectType_ExamLessonChangeSpecifyMoreThan",
-      "name": "Distracted "
+      "name": "Terdistraksi "
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuffMultiplePerTurn",
-      "name": "Excellent Shape "
+      "name": "Kondisi Prima "
     },
     {
       "type": "ProduceExamEffectType_StanceLock",
-      "name": "Fixed Guideline "
+      "name": "Kunci Pedoman "
     },
     {
       "type": "ProduceExamEffectType_ExamDebuffRecover",
-      "name": "Debuff Recovery "
+      "name": "Pemulihan Debuff "
     },
     {
       "type": "ProduceExamEffectType_ExamReviewReduce",
-      "name": "Good Impression Reduction "
+      "name": "Pengurangan Kesan Baik "
     },
     {
       "type": "ProduceExamEffectType_ExamAggressiveReduce",
-      "name": "Motivation Decrease "
+      "name": "Pengurangan Semangat "
     },
     {
       "type": "ProduceExamEffectType_ExamLessonBuffReduce",
-      "name": "Focus Decrease "
+      "name": "Pengurangan Fokus "
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuffReduce",
-      "name": "Good Shape Decrease "
+      "name": "Pengurangan Kondisi Baik "
     },
     {
       "type": "ProduceExamEffectType_ExamLessonValueMultipleDown",
-      "name": "Param Increase Amount Reduction "
+      "name": "Pengurangan Nilai Peningkatan Param "
     },
     {
       "type": "ProduceExamEffectType_ExamAddGrowEffect",
-      "name": "Growth "
+      "name": "Pertumbuhan "
     },
     {
       "type": "ProduceExamEffectType_ExamOverPreservation",
-      "name": "Relaxed "
+      "name": "Relaks "
     },
     {
       "type": "ProduceExamEffectType_ExamEnthusiasticAdditive",
-      "name": "Additional Enthusiasm "
+      "name": "Tambahan Antusiasme "
     },
     {
       "type": "ProduceExamEffectType_ExamEnthusiasticMultiple",
-      "name": "Enthusiasm Increase "
+      "name": "Peningkatan Antusiasme "
     },
     {
       "type": "ProduceExamEffectType_ExamFullPowerLessonMultipleAdditive",
-      "name": "Full Power Enhancement "
+      "name": "Penguatan Daya Penuh "
     },
     {
       "type": "ProduceExamEffectType_ExamConcentrationLessonMultipleAdditive",
-      "name": "Confidence Enhancement "
+      "name": "Penguatan Percaya Diri "
     },
     {
       "type": "ProduceExamEffectType_ExamLessonBuffAdditive",
-      "name": "Increased Focus Gain "
+      "name": "Peningkatan Perolehan Fokus "
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuffAdditive",
-      "name": "Increased Good shape Gain "
+      "name": "Peningkatan Perolehan Kondisi Baik "
     },
     {
       "type": "ProduceExamEffectType_ExamAggressiveAdditive",
-      "name": "Increased Motivation Gain "
+      "name": "Peningkatan Perolehan Semangat "
     },
     {
       "type": "ProduceExamEffectType_ExamReviewAdditive",
-      "name": "Increased Good Impression Gain "
+      "name": "Peningkatan Perolehan Kesan Baik "
     },
     {
       "type": "ProduceExamEffectType_ExamFullPowerPointAdditive",
-      "name": "Increased Full Power Point Gain "
+      "name": "Peningkatan Perolehan Poin Daya Penuh "
     },
     {
       "type": "ProduceExamEffectType_ExamGrowEffectLessonAddAdditive",
-      "name": "Increased Param Gain Increase "
+      "name": "Peningkatan Tambahan Param "
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuffMultiplePerTurnReduce",
-      "name": "Great decrease "
+      "name": "Penurunan Drastis "
     },
     {
       "type": "ProduceExamEffectType_ExamLessonValueMultipleDependReviewOrAggressive",
-      "name": "Pride "
+      "name": "Kebanggaan "
     },
     {
       "type": "ProduceExamEffectType_ExamReviewMultiple",
-      "name": "Good Impression Enhancement "
+      "name": "Penguatan Kesan Baik "
     },
     {
       "type": "ProduceExamEffectType_ExamReviewCountAdd",
-      "name": "Good impression added "
+      "name": "Tambahan Kesan Baik "
     },
     {
       "type": "ProduceExamEffectType_ExamBuffConsumptionAdd",
-      "name": "Increased Enhanced State Cost "
+      "name": "Peningkatan Biaya Status Diperkuat "
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuffAdditiveFix",
-      "name": "Additional Good Shape Increase"
+      "name": "Tambahan Kenaikan Kondisi Baik"
     },
     {
       "type": "ProduceExamEffectType_ExamLessonBuffAdditiveFix",
-      "name": "Additional Focus Increase"
+      "name": "Tambahan Kenaikan Fokus"
     },
     {
       "type": "ProduceExamEffectType_ExamAggressiveAdditiveFix",
-      "name": "Additional Motivation Increase"
+      "name": "Tambahan Kenaikan Semangat"
     },
     {
       "type": "ProduceExamEffectType_ExamReviewAdditiveFix",
-      "name": "Additional Good Impression Increase"
+      "name": "Tambahan Kenaikan Kesan Baik"
     },
     {
       "type": "ProduceExamEffectType_ExamFullPowerPointAdditiveFix",
-      "name": "Additional Full Power Point Increase"
+      "name": "Tambahan Kenaikan Poin Daya Penuh"
     },
     {
       "type": "ProduceExamEffectType_ExamStatusEnchantEncore",

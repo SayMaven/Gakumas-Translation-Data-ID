@@ -52,6 +52,10 @@ Target: Dimulai dengan menerjemahkan seluruh kartu skill (`masterTrans/ProduceCa
 | Status | Komponen | File / Folder | Volume | Status Detail |
 |---|---|---|---|---|
 | `[x]` | **Kartu Skill Produce (Prioritas 1)** | `masterTrans/ProduceCard.json` | 1.748 kartu (457 kartu unik, ~438K baris) | **100% Selesai**. Seluruh 447 fragmen efek (11.340 entri) dan 1.748 nama kartu (457 nama unik) telah diterjemahkan ke Bahasa Indonesia dengan glosarium resmi. |
+| `[x]` | **Badge Status & Efek Gameplay** | `masterTrans/ProduceDescriptionExamEffect.json` | 89 entri badge efek status | **100% Selesai**. Badge status buff/debuff di kartu, P-Item, dan P-Drink (Kesan Baik, Semangat, Genki, Pengurangan Biaya Stamina, dll.). |
+| `[x]` | **Label & Tooltip Mekanik** | `masterTrans/ProduceDescriptionLabel.json` | 228 label & seluruh tooltip efek (~390K baris) | **100% Selesai**. Seluruh label mekanik (1x saat Lesson, Efek Langsung, dll.) dan tooltip penjelasannya. |
+| `[x]` | **P-Drink (Minuman Produce)** | `masterTrans/ProduceDrink.json` | 29 minuman P-Drink (~115K baris) | **100% Selesai**. Seluruh 29 nama minuman dan seluruh efek deskripsinya telah berbahasa Indonesia. |
+| `[x]` | **P-Item (Item Produce)** | `masterTrans/ProduceItem.json` | 1.088 item (534 nama dasar, 512 fragmen efek) | **100% Selesai**. Seluruh 7.057 fragmen deskripsi efek dan 1.088 nama item Produce (534 nama unik) telah diterjemahkan ke Bahasa Indonesia. |
 | `[ ]` | Prolog / Opening | `resource/adv_startup_*.txt` | 33 file | Belum Mulai |
 | `[ ]` | Tutorial Interaktif | `resource/adv_tutorial_*.txt` | 17 file | Belum Mulai |
 | `[ ]` | Cerita Unit Utama | `resource/adv_unit_*.txt` | 66 file | Belum Mulai |
@@ -118,3 +122,8 @@ Target: Event produksi mendalam dan cerita pendukung kartu.
 | 2026-10-15 | Perencanaan Tahap 2 (`ProduceCard.json`) | Roadmap | Menetapkan `masterTrans/ProduceCard.json` (1.748 kartu, 458 kartu unik) sebagai prioritas pertama Fase 2 sebelum naskah cerita. |
 | 2026-10-15 | `masterTrans/ProduceCard.json` (Efek Kartu) | Terjemahan | Menerjemahkan seluruh 447 fragmen deskripsi efek kartu skill (11.340 entri diperbarui). Seluruh efek status, buff, giliran, stamina, dan mekanik lesson 100% berbahasa Indonesia. |
 | 2026-10-15 | `masterTrans/ProduceCard.json` (Nama Kartu) | Terjemahan | Menerjemahkan 1.748 nama kartu skill (457 nama dasar unik) ke Bahasa Indonesia, termasuk penyelarasan seluruh seri kartu dasar (`Dasar ...`). `ProduceCard.json` **100% SELESAI**. |
+| 2026-10-15 | `generic.json` & `localization.json` | UI Fix | Memperpendek teks tombol kartu `Konfirmasi Penguatan` menjadi `Penguatan` dan `Konfirmasi Kustomisasi` menjadi `Kustomisasi` agar presisi di batas tombol antarmuka game. |
+| 2026-10-15 | `masterTrans/ProduceDescriptionExamEffect.json` | Terjemahan | Menerjemahkan seluruh 89 badge efek status buff/debuff in-game (Kesan Baik, Semangat, Genki, Pengurangan Biaya Stamina, Daya Penuh, dll.). **100% SELESAI (89 entri)**. |
+| 2026-10-15 | `masterTrans/ProduceDescriptionLabel.json` | Terjemahan | Menerjemahkan seluruh 228 label mekanik gameplay dan seluruh fragmen deskripsi/tooltip penjelasannya (termasuk `1x saat Lesson`, `Efek Langsung`, dan filter lesson). **100% SELESAI (228 label)**. |
+| 2026-10-15 | `masterTrans/ProduceDrink.json` | Terjemahan | Menerjemahkan seluruh 29 nama P-Drink dan seluruh fragmen teks efek penggunaannya ke Bahasa Indonesia alami. **100% SELESAI (29 P-Drink)**. |
+| 2026-10-15 | `masterTrans/ProduceItem.json` | Terjemahan | Menerjemahkan seluruh 7.057 fragmen efek deskripsi dan 1.088 nama P-Item Produce (534 nama dasar unik, varian +) ke Bahasa Indonesia. **100% SELESAI (1.088 P-Item)**. |
