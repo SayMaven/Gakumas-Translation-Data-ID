@@ -11,7 +11,6 @@ on:
 
 jobs:
   validate:
-
     runs-on: ubuntu-22.04
 
     steps:
@@ -33,18 +32,8 @@ jobs:
       id: resource-validate
       run: python ./scripts/resource_validator.py ./local-files/resource
 
-    - name: Send Notification to Discord
-      uses: sarisia/actions-status-discord@v1
-      if: failure() && github.event_name != 'pull_request'
-      with:
-        webhook: ${{ secrets.DISCORD_WEBHOOK }}
-        status: ${{ job.status }}
-        title: "Validate"
-
   format:
-
     runs-on: ubuntu-22.04
-
     needs: validate
 
     permissions:
@@ -91,12 +80,14 @@ jobs:
       continue-on-error: true
 
   update:
-
     runs-on: ubuntu-22.04
-
     needs: [validate, format]
 
-    if: github.event_name != 'pull_request'
+    # Hanya rilis otomatis jika push ke branch main
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+
+    permissions:
+      contents: write
 
     steps:
     - name: Checkout
@@ -118,28 +109,20 @@ jobs:
 
     - name: Create ZIP Archive
       run: |
-        zip -r Gakumas-Translation-Data-EN-${{ env.VERSION }}.zip local-files version.txt
+        zip -r Gakumas-Translation-Data-ID-${{ env.VERSION }}.zip local-files version.txt
 
     - name: Create GitHub Release
       uses: softprops/action-gh-release@v1
       with:
         tag_name: ${{ env.VERSION }}
-        name: Translation Update ${{ env.RELEASE_DATE }}
-        body: |      
-          This is an automated release of the latest translation data.
+        name: Rilis Data Terjemahan ID ${{ env.RELEASE_DATE }}
+        body: |
+          Rilis otomatis data terjemahan Bahasa Indonesia terbaru untuk Gakuen Idolm@ster.
 
-          Changes can be read at our Discord.
+          Lihat PROGRESS.md untuk memantau status terjemahan terkini.
         files: |
-          Gakumas-Translation-Data-EN-${{ env.VERSION }}.zip
+          Gakumas-Translation-Data-ID-${{ env.VERSION }}.zip
         draft: false
         prerelease: false
       env:
         GITHUB_TOKEN: ${{ secrets.PAT }}
-
-    - name: Send Notification to Discord
-      uses: sarisia/actions-status-discord@v1
-      if: always()
-      with:
-        webhook: ${{ secrets.DISCORD_WEBHOOK }}
-        status: ${{ job.status }}
-        title: "Update"
