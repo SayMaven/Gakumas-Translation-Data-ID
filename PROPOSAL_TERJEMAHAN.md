@@ -40,9 +40,9 @@ Menghadirkan pengalaman bermain **Gakuen Idolm@ster** dalam Bahasa Indonesia yan
 | UI Umum & Fallback (`genericTrans/index/trash.json`) | 2.510 key | ✅ Selesai (100%) |
 | General Strings & Misi (`genericTrans/index/*.json`) | 9 file JSON (1.031 key) | ✅ Selesai (100%) |
 | Kartu Skill Produce (`masterTrans/ProduceCard.json`) | 1.748 kartu (~438K baris) | ✅ Selesai (100%) |
-| Lirik lagu (`genericTrans/lyrics/`) | 64 file JSON | ⏸️ Di-skip sementara |
+| Lirik Lagu Panggung / MV (`genericTrans/lyrics/`) | 63 file JSON (1.877 baris) | 🔄 Sedang Berjalan (Batch 1 Selesai: 450 baris) |
+| Database Master Game (`masterTrans/`) | 108 file JSON | 🔄 72 File Selesai (66,7%) |
 | Script ADV/Dialog (`resource/`) | 3.530 file TXT | 🔲 Belum mulai |
-| Database game (`masterTrans/`) | ~100 file JSON | 🔲 Sebagian saja |
 
 ---
 
@@ -416,6 +416,7 @@ Panggilan keluarga **berbeda** dari panggilan senior sekolah — ini adalah kont
 | `local-files/genericTrans/index/mission.fmt.json` | Format string misi dinamis | 22 key | ✅ Selesai (100%) |
 | `local-files/genericTrans/index/EventBlurb.json` | Teks blurb dialog banner event | 334 key | ✅ Selesai (100%) |
 | `local-files/genericTrans/index/trash.json` | Kamus string UI umum & fallback | 2.510 key | ✅ Selesai (100%) |
+| `local-files/genericTrans/lyrics/*.json` | Lirik lagu panggung / live MV (63 file) | 1.877 baris | 🔄 **Batch 1 Selesai (450 baris)** |
 
 ### Fase 2 — Kartu Skill (ProduceCard) & Cerita Utama 🟠
 *Dampak: kartu skill battle/lesson Produce langsung berbahasa Indonesia, lalu diikuti alur cerita utama*
@@ -451,7 +452,6 @@ Panggilan keluarga **berbeda** dari panggilan senior sekolah — ini adalah kont
 ### Skip / Opsional ⚪
 | File | Alasan Skip |
 |---|---|
-| `genericTrans/lyrics/` | Lirik lagu biasanya tidak ditranslate |
 | `masterTrans/ProduceExam*.json` | Data teknis engine, bukan teks narasi |
 | `masterTrans/ConditionSet.json` | Data kondisi teknis |
 | `masterTrans/VoiceGroup.json` | Mapping voice ID |
@@ -629,7 +629,7 @@ Tipe yang valid:
 | 1 | Istilah "Bond" | ✅ Selesai | **Tetap "Bond"** — tidak diterjemahkan |
 | 2 | Istilah "Turn" | ✅ Selesai | **Tetap "Turn"** — tidak diterjemahkan |
 | 3 | Istilah "Fan" | ✅ Selesai | **Kontekstual** — UI=Fan, Dialog=Fan/Penggemar (lihat §5.3) |
-| 4 | Lirik lagu | ✅ Selesai | **Di-skip** — biarkan dalam versi EN |
+| 4 | Lirik lagu | ✅ Selesai | **Diterjemahkan** — diterjemahkan puitis & berirama alami sesuai mood lagu / subtitle live stage (Batch 1 Selesai) |
 | 5 | Format nama karakter | ✅ Selesai | **Ikut EN project** — JP order, ejaan asli |
 | 6 | "Hatsuboshi Academy" | ✅ Selesai | **Tetap "Hatsuboshi Academy"** — tidak diterjemahkan |
 | 7 | Sapaan ke pemain | ✅ Selesai | **Default "Kamu"** — idol yg panggil senpai tetap tulis **"Senpai"** (bukan Kak), pengecualian "Anda" untuk idol formal (lihat §5.4) |
