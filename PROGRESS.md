@@ -9,7 +9,7 @@ Dokumen ini memantau status pengerjaan lokalisasi Bahasa Indonesia untuk seluruh
 | Kategori | Cakupan File | Status Saat Ini | Detail Kemajuan |
 |---|---|---|---|
 | **Fase 1: UI & Sistem Inti** | 11 berkas JSON | **100% Selesai** | Seluruh UI, kamus generik, tutorial, teks item, event blurb, dan trash.json (11.024 key). |
-| **Lirik Lagu Panggung & MV (`lyrics/`)** | 63 berkas JSON | **Dalam Pengerjaan (886/1.877 baris)** | **Batch 1 & 2 Selesai (47,2%)**. Seluruh 19 lagu tema all songs dan 14 lagu solo idol (Aoi, Tsubame, Kotone, Misuzu, Rinami) tuntas. Sisa 2 batch lagu solo & unit dalam antrean. |
+| **Lirik Lagu Panggung & MV (`lyrics/`)** | 63 berkas JSON | **Dalam Pengerjaan (1.396/1.877 baris)** | **Batch 1, 2 & 3 Selesai (74,4%)**. Seluruh 19 lagu tema, 14 lagu solo idol batch 1 & 15 lagu solo idol batch 2 (Saki, Ume, Sena, China, Lilja) tuntas. Sisa 1 batch terakhir (Batch 4: 15 berkas) dalam antrean. |
 | **Fase 2: Master Database Gameplay (`masterTrans`)** | 108 berkas JSON | **Dalam Pengerjaan (72/108 tuntas)** | Seluruh Fase 2.1 (Produce & Mekanik), Fase 2.2 (Karakter & Kostum), Fase 2.3 (Toko & Gacha), dan Fase 2.4 (Tugas & Misi) 100% selesai. Sisa 32 berkas diproses bertahap. |
 | **Fase 3: Cerita Prolog, Tutorial & Unit (`resource/`)** | 116 berkas TXT | Belum Mulai | Naskah cerita pembuka (33 file), tutorial visual novel (17 file), dan cerita unit utama (66 file). |
 | **Fase 4: Cerita Karakter & Event (`resource/`)** | 3.093 berkas TXT | Belum Mulai | Cerita kandidat idol (354 file), commu bond (494 file), cerita support (529 file), p-story (611 file), pevent (1.105 file). |
@@ -41,7 +41,7 @@ Target: Seluruh antarmuka game, menu, tombol, item, misi, tutorial, dan string U
 | `[x]` | `local-files/genericTrans/index/mission.fmt.json` | Format string misi dinamis | 22 key | User & Assistant | **100% Selesai**. Format string dinamis untuk misi SP Lesson, level keakraban, dan peningkatan kartu. |
 | `[x]` | `local-files/genericTrans/index/EventBlurb.json` | Teks blurb dialog banner event | 334 key | User & Assistant | **100% Selesai**. Seluruh dialog blurb festival olahraga antarkelas dan interaksi karakter idol. |
 | `[x]` | `local-files/genericTrans/index/trash.json` | Kamus string UI umum & fallback | 2.510 key | User & Assistant | **100% Selesai**. Seluruh kamus string UI umum, tombol aksi, item AP, P-Idol, achievement, dan label game. |
-| `[/]` | `local-files/genericTrans/lyrics/*.json` | Lirik lagu panggung / MV (63 file) | 1.877 baris | User & Assistant | **Batch 1 & 2 Selesai (886/1.877 baris)**. Seluruh lagu tema all songs dan lagu solo idol Aoi, Tsubame, Kotone, Misuzu, Rinami tuntas diterjemahkan puitis & berirama alami. |
+| `[/]` | `local-files/genericTrans/lyrics/*.json` | Lirik lagu panggung / MV (63 file) | 1.877 baris | User & Assistant | **Batch 1, 2 & 3 Selesai (1.396/1.877 baris)**. Seluruh lagu tema all songs dan 29 lagu solo idol tuntas diterjemahkan puitis & berirama alami. |
 
 ---
 
@@ -49,7 +49,7 @@ Target: Seluruh antarmuka game, menu, tombol, item, misi, tutorial, dan string U
 
 Target: Menerjemahkan seluruh teks subtitle lirik lagu saat penampilan panggung live 3D dan Music Video (MV) idol agar pemain Indonesia dapat menghayati makna emosional lagu secara mendalam.
 
-Status Keseluruhan Lirik: **33 Lagu Selesai (886 baris)** | **30 Lagu Dalam Antrean (991 baris)** | Total: **63 Berkas / 1.877 Baris** (Progres: **47,2%**)
+Status Keseluruhan Lirik: **48 Lagu Selesai (1.396 baris)** | **15 Lagu Dalam Antrean (481 baris)** | Total: **63 Berkas / 1.877 Baris** (Progres: **74,4%**)
 
 ### Rincian Pembagian Batch Lirik Lagu
 
@@ -57,8 +57,8 @@ Status Keseluruhan Lirik: **33 Lagu Selesai (886 baris)** | **30 Lagu Dalam Antr
 |---|---|---|---|---|---|
 | `[x]` | **Batch 1** | `all_001` s/d `all_019` (19 berkas) | Lagu Bersama & Lagu Tema Utama (*Hajime*, *Campus mode!!*, *Kimi to Semi Blue*, *GO MY WAY!!*, dll.) | 450 baris | **100% Selesai**. Diterjemahkan puitis, berirama alami, dan mempertahankan frasa panggung ikonik. |
 | `[x]` | **Batch 2** | `amao_*`, `atbm_*`, `fktn_*`, `hmsz_*`, `hrnm_*` (14 berkas) | Lagu Solo Idol (Bagian 1): Aoi, Tsubame, Kotone, Misuzu, Rinami | 436 baris | **100% Selesai**. Diterjemahkan puitis, bernuansa emosional sesuai karakter masing-masing idol. |
-| `[ ]` | **Batch 3** | `hski_*`, `hume_*`, `jsna_*`, `kcna_*`, `klij_*`, `kllj_*` (17 berkas) | Lagu Solo Idol (Bagian 2): Saki, Ume, Sena, China, Lilja | 514 baris | Menunggu pengerjaan. |
-| `[ ]` | **Batch 4** | `shro_*`, `ssmk_*`, `ttmr_*`, `unit_*` (13 berkas) | Lagu Solo Idol (Bagian 3) & Unit: Hiro, Sumika, Temari, serta Unit (*Begrazia*, *Re;IRIS*, dll.) | 477 baris | Menunggu pengerjaan. |
+| `[x]` | **Batch 3** | `hski_*`, `hume_*`, `jsna_*`, `kcna_*`, `klij_*`, `kllj_*` (15 berkas) | Lagu Solo Idol (Bagian 2): Saki, Ume, Sena, China, Lilja | 510 baris | **100% Selesai**. Diterjemahkan puitis, berirama alami, nuansa kepribadian karakter idol kuat. |
+| `[ ]` | **Batch 4** | `shro_*`, `ssmk_*`, `ttmr_*`, `unit_*` (15 berkas) | Lagu Solo Idol (Bagian 3) & Unit: Hiro, Sumika, Temari, serta Unit (*Begrazia*, *Re;IRIS*, dll.) | 481 baris | Menunggu pengerjaan. |
 
 #### Rincian Lagu Batch 1 (Selesai 100%):
 - `all_001_Hajime.json` — **初 (Hajime)** (22 baris)
@@ -96,6 +96,23 @@ Status Keseluruhan Lirik: **33 Lagu Selesai (886 baris)** | **30 Lagu Dalam Antr
 - `hrnm_001_ClumsyTrick.json` — **Clumsy Trick** / Rinami (40 baris)
 - `hrnm_002_LUV.json` — **L.U.V** / Rinami (38 baris)
 - `hrnm_004_36CUBU.json` — **36℃UBU** / Rinami (32 baris)
+
+#### Rincian Lagu Batch 3 (Selesai 100%):
+- `hski_001_FightingMyWay.json` — **Fighting My Way** / Saki (55 baris)
+- `hski_002_BoomBoomPow.json` — **Boom Boom Pow** / Saki (43 baris)
+- `hski_004_WildestFlower.json` — **Wildest Flower** / Saki (40 baris)
+- `hume_001_TheRollingRiceball.json` — **The Rolling Riceball** / Ume (45 baris)
+- `hume_002_Gu-Su-Pi.json` — **ぐーすーぴー (Gu-Su-Pi)** / Ume (60 baris)
+- `hume_004_MashiroPage.json` — **ましろページ (Mashiro Page)** / Ume (23 baris)
+- `jsna_001_TinyAmbition.json` — **小さな野望 (Tiny Ambition)** / Sena (23 baris)
+- `jsna_002_OurChant.json` — **Our Chant** / Sena (36 baris)
+- `jsna_004_Sekirara.json` — **赤裸々 (Sekirara)** / Sena (25 baris)
+- `kcna_001_WonderScale.json` — **Wonder Scale** / China (27 baris)
+- `kcna_002_EveryStepisforDiscovery.json` — **Every Step is for Discovery** / China (28 baris)
+- `kcna_004_BravePromise.json` — **Brave Promise** / China (15 baris)
+- `klij_004_Atmosphere.json` — **Atmosphere** / Lilja (23 baris)
+- `kllj_001_Hakusen.json` — **白線 (Hakusen)** / Lilja (39 baris)
+- `kllj_002_Aurora.json` — **極光 (Aurora)** / Lilja (28 baris)
 
 ---
 
