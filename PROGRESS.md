@@ -1,33 +1,32 @@
 # Progres — Gakumas-Translation-Data-ID
 
-Dokumen ini memantau status pengerjaan lokalisasi Bahasa Indonesia untuk seluruh komponen game Gakuen Idolm@ster.
+Dokumen ini memantau status pengerjaan lokalisasi Bahasa Indonesia untuk seluruh komponen game Gakuen Idolm@ster secara transparan dan terperinci.
 
 ---
 
 ## Ringkasan Progres Global
 
-| Kategori | Volume | Estimasi Baris/Key | Status | Persentase |
-|---|---|---|---|---|
-| **Fase 1: UI & Sistem Inti** | 11 file | 11.024 key | Selesai | 100% |
-| **Fase 2: Kartu Skill & Cerita Utama** | 118 file | 1.748 kartu + ~25K baris | Dalam Pengerjaan | 15% |
-| **Fase 3: Cerita Idol & Relasi** | 851 file | ~40.000 baris | Belum Mulai | 0% |
-| **Fase 4: Gameplay Dalam & Event** | 2.245 file | ~60.000 baris | Belum Mulai | 0% |
-| **Lirik Lagu** | 64 file | ~15.000 baris | Di-skip | — |
+| Kategori | Cakupan File | Status Saat Ini | Detail Kemajuan |
+|---|---|---|---|
+| **Fase 1: UI & Sistem Inti** | 11 berkas JSON | **100% Selesai** | Seluruh UI, kamus generik, tutorial, teks item, event blurb, dan trash.json (11.024 key). |
+| **Fase 2: Master Database Gameplay (`masterTrans`)** | 108 berkas JSON | **Dalam Pengerjaan (7/108 tuntas)** | Komponen utama Produce (kartu skill, P-item, P-drink, badge efek, label mekanik, support card, item tas) 100% selesai. Sisa 99 berkas sedang diproses bertahap. |
+| **Fase 3: Cerita Prolog, Tutorial & Unit (`resource/`)** | 116 berkas TXT | Belum Mulai | Naskah cerita pembuka (33 file), tutorial visual novel (17 file), dan cerita unit utama (66 file). |
+| **Fase 4: Cerita Karakter & Event (`resource/`)** | 3.093 berkas TXT | Belum Mulai | Cerita kandidat idol (354 file), commu bond (494 file), cerita support (529 file), p-story (611 file), pevent (1.105 file). |
+| **Lirik Lagu (`lyrics/`)** | 64 berkas | Di-skip | Dibiarkan berbahasa asli Jepang sesuai standar resmi proyek. |
 
 ---
 
-## Keterangan Status
+## Keterangan Status Simbol
 
-- `[ ]` **Belum Mulai**: Berkas belum disentuh.
-- `[-]` **Dalam Pengerjaan**: Sedang dalam proses pembuatan draf terjemahan.
-- `[?]` **Perlu Review**: Draf selesai, menunggu peninjauan kelancaran bahasa dan konsistensi.
-- `[x]` **Selesai**: Sudah ditinjau, tervalidasi secara teknis, dan digabungkan.
+- `[x]` **Selesai**: Terjemahan tuntas 100%, divalidasi sintaksis JSON, dan lolos uji konsistensi glosarium.
+- `[-]` **Di-skip / Teknis**: Berkas konfigurasi engine internal tanpa teks tampilan pemain.
+- `[ ]` **Belum Mulai**: Berkas database belum diterjemahkan dan siap dikerjakan.
 
 ---
 
-## Fase 1 — UI & Sistem Inti (Prioritas Utama)
+## Fase 1 — UI & Sistem Inti (Status: 100% Selesai)
 
-Target: Seluruh antarmuka game, menu, tombol, item, misi, tutorial, dan string UI umum berbahasa Indonesia. **Status: 100% SELESAI (11.024 / 11.024 key)**.
+Target: Seluruh antarmuka game, menu, tombol, item, misi, tutorial, dan string UI umum berbahasa Indonesia. **Status: 11 / 11 Berkas Tuntas (11.024 Key)**.
 
 | Status | File Target | Deskripsi | Volume | Penerjemah / Reviewer | Catatan |
 |---|---|---|---|---|---|
@@ -45,53 +44,192 @@ Target: Seluruh antarmuka game, menu, tombol, item, misi, tutorial, dan string U
 
 ---
 
-## Fase 2 — Master Database Gameplay (masterTrans)
+## Fase 2 — Master Database Gameplay (`local-files/masterTrans/`)
 
-Target: Menyelesaikan seluruh data gameplay di folder `local-files/masterTrans/` (komponen Produce, kartu, inventaris, misi, achievement, tips, dan bantuan) agar fitur **MasterDB Localization** pada Localify bekerja 100% dalam Bahasa Indonesia tanpa ada teks sistem yang bocor.
+Target: Menyelesaikan seluruh data gameplay di folder `local-files/masterTrans/` (total 108 berkas) agar fitur **MasterDB Localization** pada Localify bekerja 100% dalam Bahasa Indonesia tanpa ada teks sistem yang bocor.
 
-| Status | Komponen | File / Folder | Volume | Status Detail |
+Status Keseluruhan Fase 2: **7 Selesai** | **99 Belum Mulai** | **2 Di-skip (Konfigurasi Teknis)** (Total: 108 Berkas)
+
+### 2.1 Inti Produce, Kartu Skill & Pertandingan (Lesson & Audition) — 37 Berkas
+
+| Status | Komponen | Berkas di `local-files/` | Volume Data | Status Detail & Keterangan |
 |---|---|---|---|---|
-| `[x]` | **Kartu Skill Produce** | `masterTrans/ProduceCard.json` | 1.748 kartu (457 kartu unik, ~438K baris) | **100% Selesai**. Seluruh 447 fragmen efek (11.340 entri) dan 1.748 nama kartu (457 nama unik) telah diterjemahkan ke Bahasa Indonesia dengan glosarium resmi. |
-| `[x]` | **Badge Status & Efek Gameplay** | `masterTrans/ProduceDescriptionExamEffect.json` | 89 entri badge efek status | **100% Selesai**. Badge status buff/debuff di kartu, P-Item, dan P-Drink (Kesan Baik, Semangat, Genki, Pengurangan Biaya Stamina, dll.). |
-| `[x]` | **Label & Tooltip Mekanik** | `masterTrans/ProduceDescriptionLabel.json` | 228 label & seluruh tooltip efek (~390K baris) | **100% Selesai**. Seluruh label mekanik (1x saat Lesson, Efek Langsung, dll.) dan tooltip penjelasannya. |
-| `[x]` | **P-Drink (Minuman Produce)** | `masterTrans/ProduceDrink.json` | 29 minuman P-Drink (~115K baris) | **100% Selesai**. Seluruh 29 nama minuman dan seluruh efek deskripsinya telah berbahasa Indonesia. |
-| `[x]` | **P-Item (Item Produce)** | `masterTrans/ProduceItem.json` | 1.088 item (534 nama dasar, 512 fragmen efek) | **100% Selesai**. Seluruh 7.057 fragmen deskripsi efek dan 1.088 nama item Produce (534 nama unik) telah diterjemahkan ke Bahasa Indonesia. |
-| `[x]` | **Support Card** | `masterTrans/SupportCard.json` | 208 kartu support | **100% Selesai**. Seluruh 208 nama Support Card (R, SR, SSR) dan 208 deskripsi tingkat probabilitas aktivasi efek (/ Tinggi, / Sedang, / Rendah) telah diterjemahkan. |
-| `[x]` | **Item Tas & Mata Uang** | `masterTrans/Item.json` | 368 item (319 nama unik, 115 deskripsi, 44 rute) | **100% Selesai**. Seluruh nama item, Piece idol, tiket gacha, koin, buku pelajaran, deskripsi fungsi, dan rute perolehan telah berbahasa Indonesia. |
-| `[ ]` | **Produce Idol Card** | `masterTrans/IdolCard.json` | 156 kartu Produce Idol | Siap Dikerjakan |
-| `[ ]` | **Tips Layar Loading** | `masterTrans/Tips.json` | 34 tips | Siap Dikerjakan |
-| `[ ]` | **Tugas Utama Producer** | `masterTrans/MainTask.json` | 310 tugas | Siap Dikerjakan |
-| `[ ]` | **Misi Gameplay** | `masterTrans/Mission.json` | 3.494 misi | Siap Dikerjakan |
-| `[ ]` | **Achievement / Gelar** | `masterTrans/Achievement.json` | 1.242 achievement | Siap Dikerjakan |
-| `[ ]` | **Bantuan & Panduan In-game** | `masterTrans/HelpContent.json` & `HelpCategory.json` | 309 entri bantuan | Siap Dikerjakan |
-| `[ ]` | **Flavor Support Card** | `masterTrans/SupportCardFlavor.json` | 583 teks cuplikan kartu | Siap Dikerjakan |
-| `[ ]` | **Judul Cerita Produksi** | `masterTrans/ProduceStory.json` | 3.454 episode | Siap Dikerjakan |
+| `[x]` | **Kartu Skill Produce** | `masterTrans/ProduceCard.json` | 1748 entri | **100% Selesai**. Seluruh 447 fragmen efek (11.340 entri) dan 1.748 nama kartu (457 nama unik) telah diterjemahkan. |
+| `[x]` | **P-Item (Item Produce)** | `masterTrans/ProduceItem.json` | 1088 entri | **100% Selesai**. Seluruh 7.057 fragmen deskripsi efek dan 1.088 nama item Produce (534 nama unik) telah diterjemahkan. |
+| `[x]` | **P-Drink (Minuman Produce)** | `masterTrans/ProduceDrink.json` | 29 entri | **100% Selesai**. Seluruh 29 nama minuman P-Drink dan seluruh efek deskripsinya telah diterjemahkan. |
+| `[x]` | **Badge Status Efek Game** | `masterTrans/ProduceDescriptionExamEffect.json` | 89 entri | **100% Selesai**. Seluruh 89 badge efek status buff/debuff (Kesan Baik, Semangat, Genki, Pengurangan Biaya Stamina, dll.). |
+| `[x]` | **Label & Tooltip Mekanik** | `masterTrans/ProduceDescriptionLabel.json` | 228 entri | **100% Selesai**. Seluruh 228 label mekanik gameplay dan seluruh fragmen deskripsi/tooltip penjelasannya. |
+| `[ ]` | **Deskripsi Efek Produce** | `masterTrans/ProduceDescriptionProduceEffect.json` | 92 entri | Belum Mulai. Efek perolehan parameter (Vocal +, Dance +, Visual +, dll.) saat sesi Produce. |
+| `[ ]` | **Efek Pertumbuhan Kartu** | `masterTrans/ProduceDescriptionProduceCardGrowEffect.json` | 53 entri | Belum Mulai. Deskripsi efek peningkatan/penurunan nilai parameter kartu skill. |
+| `[ ]` | **Teks Pergantian Kartu** | `masterTrans/ProduceDescriptionSwap.json` | 78 entri | Belum Mulai. Teks instruksi pergantian dan penukaran kartu skill saat sesi lesson/audition. |
+| `[ ]` | **Label Rencana Produce** | `masterTrans/ProduceDescriptionProducePlan.json` | 4 entri | Belum Mulai. Nama dan keterangan kategori rencana (Sense, Logic, Anomaly). |
+| `[ ]` | **Label Tipe Produce** | `masterTrans/ProduceDescriptionProduceType.json` | 5 entri | Belum Mulai. Tipe rute dan pembagian jalur skenario Produce. |
+| `[ ]` | **Label Tahapan Produce** | `masterTrans/ProduceDescriptionProduceStep.json` | 2 entri | Belum Mulai. Teks tahapan alur sesi Produce (Lesson, Istirahat, Audisi, dll.). |
+| `[ ]` | **Kustomisasi Kartu Skill** | `masterTrans/ProduceCardCustomize.json` | 347 entri | Belum Mulai. Atribut efek modifikasi dan peningkatan skill kartu. |
+| `[ ]` | **Pencarian Kartu Skill** | `masterTrans/ProduceCardSearch.json` | 283 entri | Belum Mulai. Filter dan kategori pencarian kartu skill di menu Produce. |
+| `[ ]` | **Enchant Status Kartu** | `masterTrans/ProduceCardStatusEnchant.json` | 79 entri | Belum Mulai. Deskripsi status enchant tambahan pada kartu skill. |
+| `[ ]` | **Database Efek Ujian/Audisi** | `masterTrans/ProduceExamEffect.json` | 2112 entri | Belum Mulai. Kumpulan formula dan efek aksi saat lesson/audition Produce. |
+| `[ ]` | **Status Enchant Ujian** | `masterTrans/ProduceExamStatusEnchant.json` | 2054 entri | Belum Mulai. Efek status enchant khusus saat evaluasi audisi. |
+| `[ ]` | **Grup Efek Gimmick Ujian** | `masterTrans/ProduceExamGimmickEffectGroup.json` | 3762 entri | Belum Mulai. Gimmick khusus rintangan dan mekanik panggung ujian. |
+| `[ ]` | **Pemicu Aksi Ujian** | `masterTrans/ProduceExamTrigger.json` | 691 entri | Belum Mulai. Syarat aktivasi pemicu efek skill saat ujian berlangsung. |
+| `[ ]` | **Nama NPC Rival Audisi** | `masterTrans/ProduceExamBattleNpcMob.json` | 62 entri | Belum Mulai. Nama karakter idol saingan (rival/mob) di panggung audisi. |
+| `[ ]` | **Panel Pertumbuhan Idol** | `masterTrans/ProduceGrowthPanel.json` | 50 entri | Belum Mulai. Pilihan aksi dan peningkatan status idol pada panel perkembangan. |
+| `[ ]` | **Kategori Panduan Kartu** | `masterTrans/ProduceGuideProduceCardCategory.json` | 67 entri | Belum Mulai. Label panduan kategori kartu rekomendasi untuk pemula. |
+| `[ ]` | **Grup Panduan Kartu** | `masterTrans/ProduceGuideProduceCardCategoryGroup.json` | 16 entri | Belum Mulai. Deskripsi kelompok kartu panduan strategi Produce. |
+| `[ ]` | **Sampel Deck Panduan** | `masterTrans/ProduceGuideProduceCardSampleDeckCategory.json` | 65 entri | Belum Mulai. Label panduan contoh susunan deck kartu untuk idol. |
+| `[ ]` | **Sesi Lesson Produce** | `masterTrans/ProduceStepLesson.json` | 955 entri | Belum Mulai. Nama dan detail sesi latihan (Vocal, Dance, Visual Lesson). |
+| `[ ]` | **Detail Event Langkah Produce** | `masterTrans/ProduceStepEventDetail.json` | 6921 entri | Belum Mulai. Teks pilihan aksi dan opsi respon saat event Produce berlangsung. |
+| `[ ]` | **Saran Pilihan Event** | `masterTrans/ProduceStepEventSuggestion.json` | 3066 entri | Belum Mulai. Teks saran dan petunjuk keputusan event langkah Produce. |
+| `[ ]` | **Slot Tantangan Produce** | `masterTrans/ProduceChallengeSlot.json` | 54 entri | Belum Mulai. Syarat dan deskripsi pembuka slot tantangan Produce. |
+| `[ ]` | **Pertumbuhan Karakter Event** | `masterTrans/ProduceEventCharacterGrowth.json` | 39 entri | Belum Mulai. Judul dan dialog pertumbuhan idol setelah event latihan. |
+| `[ ]` | **Grup Skenario Produce** | `masterTrans/ProduceGroup.json` | 3 entri | Belum Mulai. Nama dan deskripsi kelompok skenario Produce. |
+| `[ ]` | **Peringkat Skor Tinggi Produce** | `masterTrans/ProduceHighScore.json` | 19 entri | Belum Mulai. Label kategori pencapaian skor tertinggi Produce. |
+| `[ ]` | **Navigasi & Dialog Asari-sensei** | `masterTrans/ProduceNavigation.json` | 352 entri | Belum Mulai. Instruksi dan saran navigasi Producer selama Produce. |
+| `[ ]` | **Musim Kompetisi Produce** | `masterTrans/ProduceSeason.json` | 2 entri | Belum Mulai. Nama musim kompetisi panggung antarpemain. |
+| `[ ]` | **Skill Pasif Produce** | `masterTrans/ProduceSkill.json` | 1536 entri | Belum Mulai. Nama dan efek skill pasif Produce idol dan support. |
+| `[ ]` | **Item Kustomisasi Produce** | `masterTrans/ProduceCustomizeItem.json` | 180 entri | Belum Mulai. Nama item bahan modifikasi dan kustomisasi kartu. |
+| `[ ]` | **Grup Efek Kartu** | `masterTrans/EffectGroup.json` | 67 entri | Belum Mulai. Nama klasifikasi kelompok efek skill. |
+| `[ ]` | **Transisi Ujian Seminar** | `masterTrans/SeminarExamTransition.json` | 12 entri | Belum Mulai. Nama grup dan instruksi ujian seminar taktik Produce. |
+| `[ ]` | **Mode Skenario Produce** | `masterTrans/Produce.json` | 8 entri | Belum Mulai. Nama mode skenario dasar Produce. |
 
 ---
 
-## Fase 3 — Naskah Cerita Prolog & Cerita Unit
+### 2.2 Kartu Idol, Karakter & Kostum — 11 Berkas
 
-Target: Cerita pembuka, tutorial visual novel, dan alur narasi unit utama.
-
-| Status | Komponen | File / Folder | Volume | Status Detail |
+| Status | Komponen | Berkas di `local-files/` | Volume Data | Status Detail & Keterangan |
 |---|---|---|---|---|
-| `[ ]` | Prolog / Opening | `resource/adv_startup_*.txt` | 33 file | Belum Mulai |
-| `[ ]` | Tutorial Interaktif | `resource/adv_tutorial_*.txt` | 17 file | Belum Mulai |
-| `[ ]` | Cerita Unit Utama | `resource/adv_unit_*.txt` | 66 file | Belum Mulai |
+| `[x]` | **Support Card** | `masterTrans/SupportCard.json` | 208 entri | **100% Selesai**. Seluruh 208 nama Support Card (R, SR, SSR) dan 208 teks tingkat aktivasi efek telah diterjemahkan. |
+| `[ ]` | **Produce Idol Card (P-Idol)** | `masterTrans/IdolCard.json` | 156 entri | Belum Mulai. Nama gelar kartu Produce Idol kandidat (School Life, First Love, Fighting My Way, dll.). |
+| `[ ]` | **Skin Kartu Produce Idol** | `masterTrans/IdolCardSkin.json` | 306 entri | Belum Mulai. Nama variasi skin tampilan kartu Produce Idol. |
+| `[ ]` | **Kostum Panggung & Pakaian** | `masterTrans/Costume.json` | 566 entri | Belum Mulai. Nama pakaian, kostum live panggung, dan pakaian kasual idol. |
+| `[ ]` | **Aksesori Kepala & Gaya Rambut** | `masterTrans/CostumeHead.json` | 416 entri | Belum Mulai. Nama gaya rambut, pita, topi, dan aksesori kepala idol. |
+| `[ ]` | **Data Karakter Idol & Staf** | `masterTrans/Character.json` | 24 entri | Belum Mulai. Nama lengkap kanji dan romaji alfabet idol dan guru. |
+| `[ ]` | **Nama Karakter Naskah Cerita** | `masterTrans/CharacterAdv.json` | 25 entri | Belum Mulai. Nama tampilan karakter yang muncul pada script dialog ADV. |
+| `[ ]` | **Profil Detail Karakter** | `masterTrans/CharacterDetail.json` | 181 entri | Belum Mulai. Biodata idol, hobi, keahlian khusus, dan profil pribadi. |
+| `[ ]` | **Level Keakraban (Dearness/Bond)** | `masterTrans/CharacterDearnessLevel.json` | 471 entri | Belum Mulai. Deskripsi syarat pembuka level keakraban tiap idol. |
+| `[ ]` | **Pesan Notifikasi Karakter** | `masterTrans/CharacterPushMessage.json` | 169 entri | Belum Mulai. Pesan notifikasi push dari idol ke perangkat pemain. |
+| `[ ]` | **Filter Skill Support Card** | `masterTrans/SupportCardProduceSkillFilter.json` | 51 entri | Belum Mulai. Label filter pencarian efek skill support card. |
 
 ---
 
-## Fase 4 — Cerita Karakter & Interaksi Idol
+### 2.3 Inventaris, Toko & Gacha — 7 Berkas
 
-Target: Cerita kandidat idol per karakter, interaksi keakraban (Commu Bond), dan cerita kartu pendukung.
+| Status | Komponen | Berkas di `local-files/` | Volume Data | Status Detail & Keterangan |
+|---|---|---|---|---|
+| `[x]` | **Item Tas, Mata Uang & Tiket** | `masterTrans/Item.json` | 368 entri | **100% Selesai**. Seluruh 368 item tas, Piece idol, tiket gacha, koin, buku pelajaran, deskripsi, dan rute perolehan telah diterjemahkan. |
+| `[ ]` | **Tombol Banner Gacha** | `masterTrans/GashaButton.json` | 108 entri | Belum Mulai. Teks tombol tarik gacha, gacha gratis harian, dan banner promosi. |
+| `[ ]` | **Tombol Gacha Koin** | `masterTrans/CoinGashaButton.json` | 38 entri | Belum Mulai. Teks tombol penarikan gacha menggunakan koin event. |
+| `[ ]` | **Kategori Toko** | `masterTrans/Shop.json` | 5 entri | Belum Mulai. Nama kategori menu toko permainan. |
+| `[ ]` | **Item Toko Penukaran** | `masterTrans/ShopItem.json` | 285 entri | Belum Mulai. Nama barang dan paket yang dijual di toko penukaran. |
+| `[ ]` | **Produk Penjualan & Pemulihan** | `masterTrans/ShopProduct.json` | 14 entri | Belum Mulai. Nama produk pembelian jewel dan pemulihan stamina. |
+| `[ ]` | **Kategori Penukaran Item** | `masterTrans/ExchangeItemCategory.json` | 6 entri | Belum Mulai. Nama kategori item penukaran di exchange shop. |
+
+---
+
+### 2.4 Tugas, Misi, Achievement & Ranking — 14 Berkas
+
+| Status | Komponen | Berkas di `local-files/` | Volume Data | Status Detail & Keterangan |
+|---|---|---|---|---|
+| `[ ]` | **Tugas Utama Producer** | `masterTrans/MainTask.json` | 310 entri | Belum Mulai. Judul, deskripsi beranda, dan petunjuk tugas utama Producer. |
+| `[ ]` | **Grup Tugas Utama** | `masterTrans/MainTaskGroup.json` | 4 entri | Belum Mulai. Nama kelompok bab tugas utama Producer. |
+| `[ ]` | **Misi Gameplay** | `masterTrans/Mission.json` | 3494 entri | Belum Mulai. Teks seluruh 3.494 misi harian, mingguan, event, dan debut idol. |
+| `[ ]` | **Kelompok Misi** | `masterTrans/MissionGroup.json` | 282 entri | Belum Mulai. Nama kategori dan tab kelompok misi permainan. |
+| `[ ]` | **Pass Misi Bulanan** | `masterTrans/MissionPass.json` | 30 entri | Belum Mulai. Nama dan deskripsi tingkatan hadiah Pass Misi bulanan. |
+| `[ ]` | **Poin Pass Misi** | `masterTrans/MissionPassPoint.json` | 1 entri | Belum Mulai. Nama satuan poin kemajuan Pass Misi. |
+| `[ ]` | **Poin Hadiah Misi** | `masterTrans/MissionPoint.json` | 35 entri | Belum Mulai. Nama poin milestone penyelesaian misi. |
+| `[ ]` | **Lembar Misi Panel** | `masterTrans/MissionPanelSheet.json` | 57 entri | Belum Mulai. Nama lembar misi papan panel bingo debut idol. |
+| `[ ]` | **Grup Lembar Misi Panel** | `masterTrans/MissionPanelSheetGroup.json` | 49 entri | Belum Mulai. Nama kelompok lembar misi panel bertingkat. |
+| `[ ]` | **Misi Rilis Harian** | `masterTrans/MissionDailyReleaseGroup.json` | 31 entri | Belum Mulai. Nama kelompok misi pembuka harian kampanye. |
+| `[ ]` | **Achievement & Gelar Idol** | `masterTrans/Achievement.json` | 1242 entri | Belum Mulai. Nama dan syarat 1.242 achievement, gelar, dan trofi kebanggaan. |
+| `[ ]` | **Badge Penghargaan** | `masterTrans/Badge.json` | 364 entri | Belum Mulai. Nama dan deskripsi badge penghargaan pencapaian Produce. |
+| `[ ]` | **Peringkat Producer** | `masterTrans/ProducerRanking.json` | 5 entri | Belum Mulai. Nama tingkatan ranking evaluasi Producer (D, C, B, A, S). |
+| `[ ]` | **Konfigurasi Rating Contest** | `masterTrans/PvpRateConfig.json` | 54 entri | Belum Mulai. Keterangan tier rating kompetisi panggung antarpemain. |
+
+---
+
+### 2.5 Cerita Master & Cuplikan Narasi — 11 Berkas
+
+| Status | Komponen | Berkas di `local-files/` | Volume Data | Status Detail & Keterangan |
+|---|---|---|---|---|
+| `[ ]` | **Judul Episode Cerita Produce** | `masterTrans/ProduceStory.json` | 3454 entri | Belum Mulai. Judul 3.454 episode cerita interaksi selama masa Produce. |
+| `[ ]` | **Flavor Text Support Card** | `masterTrans/SupportCardFlavor.json` | 583 entri | Belum Mulai. Teks cuplikan dialog dan narasi suasana di Support Card. |
+| `[ ]` | **Daftar Cerita & Episode** | `masterTrans/Story.json` | 311 entri | Belum Mulai. Judul episode cerita umum dan cerita unit Hatsuboshi. |
+| `[ ]` | **Judul Event Cerita** | `masterTrans/StoryEvent.json` | 35 entri | Belum Mulai. Nama event cerita berkala dan festival sekolah. |
+| `[ ]` | **Grup Alur Cerita** | `masterTrans/StoryGroup.json` | 100 entri | Belum Mulai. Nama kelompok bab alur cerita komprehensif. |
+| `[ ]` | **Bab Cerita Utama** | `masterTrans/MainStoryChapter.json` | 4 entri | Belum Mulai. Judul dan sinopsis bab cerita utama sekolah idol. |
+| `[ ]` | **Bagian Cerita Utama** | `masterTrans/MainStoryPart.json` | 1 entri | Belum Mulai. Judul bagian cerita panggung utama. |
+| `[ ]` | **Judul Cerita ADV Produce** | `masterTrans/ProduceAdv.json` | 32 entri | Belum Mulai. Tipe dan judul cerita visual novel sesi Produce. |
+| `[ ]` | **Percabangan Cerita Produce** | `masterTrans/ProduceSplitAdv.json` | 26 entri | Belum Mulai. Judul segmen cerita percabangan Produce. |
+| `[ ]` | **Cerita Khusus Karakter Produce** | `masterTrans/ProduceCharacterAdv.json` | 10 entri | Belum Mulai. Judul cerita dialog khusus karakter idol saat Produce. |
+| `[ ]` | **Label Kategori Event** | `masterTrans/EventLabel.json` | 13 entri | Belum Mulai. Label penanda kategori event cerita khusus. |
+
+---
+
+### 2.6 Panduan, Tips, Bantuan, Audio, Media & Aset — 26 Berkas
+
+| Status | Komponen | Berkas di `local-files/` | Volume Data | Status Detail & Keterangan |
+|---|---|---|---|---|
+| `[ ]` | **Tips Layar Loading** | `masterTrans/Tips.json` | 34 entri | Belum Mulai. Tips gameplay, strategi produce, dan trivia saat layar loading. |
+| `[ ]` | **Tutorial Master Sistem** | `masterTrans/Tutorial.json` | 217 entri | Belum Mulai. Judul dan teks navigasi tutorial fitur-fitur permainan. |
+| `[ ]` | **Langkah Tutorial Produce** | `masterTrans/TutorialProduceStep.json` | 12 entri | Belum Mulai. Nama tahap panduan tutorial pertama kali Produce. |
+| `[ ]` | **Artikel Panduan Bantuan** | `masterTrans/HelpContent.json` | 273 entri | Belum Mulai. Judul artikel panduan bantuan lengkap in-game. |
+| `[ ]` | **Kategori Panduan Bantuan** | `masterTrans/HelpCategory.json` | 36 entri | Belum Mulai. Nama kategori navigasi menu bantuan (Help). |
+| `[ ]` | **Syarat Pembuka Fitur Game** | `masterTrans/FeatureLock.json` | 13 entri | Belum Mulai. Keterangan syarat rute untuk membuka fitur terkunci. |
+| `[ ]` | **Pose Pemotretan Idol** | `masterTrans/PhotoPose.json` | 1092 entri | Belum Mulai. Nama gaya dan pose foto idol di studio pemotretan. |
+| `[ ]` | **Latar Belakang Studio Foto** | `masterTrans/PhotoBackground.json` | 9 entri | Belum Mulai. Nama latar pemandangan studio foto. |
+| `[ ]` | **Ekspresi Wajah Pemotretan** | `masterTrans/PhotoFacialMotionGroup.json` | 4 entri | Belum Mulai. Nama kelompok gerakan ekspresi wajah idol. |
+| `[ ]` | **Bingkai Kartu Nama (Meishi)** | `masterTrans/MeishiBaseAsset.json` | 301 entri | Belum Mulai. Nama template dasar kartu nama Producer. |
+| `[ ]` | **Stiker Ilustrasi Meishi** | `masterTrans/MeishiIllustrationAsset.json` | 790 entri | Belum Mulai. Nama stiker dan ilustrasi hiasan kartu nama Producer. |
+| `[ ]` | **Daftar Lagu & Komposer** | `masterTrans/Music.json` | 434 entri | Belum Mulai. Judul lagu, lirikis, komposer, dan arranger musik Hatsuboshi. |
+| `[ ]` | **Daftar Grup Suara Idol** | `masterTrans/VoiceGroup.json` | 3609 entri | Belum Mulai. Judul kelompok rekaman suara idol di ensiklopedia. |
+| `[ ]` | **Daftar Roster Suara** | `masterTrans/VoiceRoster.json` | 2001 entri | Belum Mulai. Judul rekaman suara interaksi idol per situasi. |
+| `[ ]` | **Hadiah Kelulusan Memory** | `masterTrans/MemoryGift.json` | 21 entri | Belum Mulai. Nama kenang-kenangan hasil kelulusan Produce idol. |
+| `[ ]` | **Tag Karakteristik Memory** | `masterTrans/MemoryTag.json` | 24 entri | Belum Mulai. Nama tag penanda kategori atribut memory. |
+| `[ ]` | **Aturan & Regulasi Layanan** | `masterTrans/Rule.json` | 23 entri | Belum Mulai. Teks aturan ketentuan pengguna dan aturan event. |
+| `[ ]` | **Syarat & Kebijakan** | `masterTrans/Terms.json` | 3 entri | Belum Mulai. Ketentuan hukum dan kebijakan privasi aplikasi. |
+| `[ ]` | **Pengaturan Dasar Game** | `masterTrans/Setting.json` | 1 entri | Belum Mulai. Pesan peringatan sistem dan nama bawaan akun pengguna. |
+| `[ ]` | **Mode Tur Wilayah** | `masterTrans/Tour.json` | 4 entri | Belum Mulai. Nama rute tur konser antarwilayah idol. |
+| `[ ]` | **Mode Menara Ujian (Tower)** | `masterTrans/Tower.json` | 13 entri | Belum Mulai. Judul stage lantai menara tantangan idol. |
+| `[ ]` | **Pekerjaan Idol (Work/Jobs)** | `masterTrans/Work.json` | 2 entri | Belum Mulai. Nama aktivitas pekerjaan idle luar sekolah idol. |
+| `[ ]` | **Fallback Terjemahan Master** | `masterTrans/Localization.json` | 98 entri | Belum Mulai. Teks fallback deskripsi cadangan master database. |
+| `[ ]` | **Daftar BGM Musik Latar** | `masterTrans/Bgm.json` | 2 entri | Belum Mulai. Nama musik latar belakang menu game. |
+| `[ ]` | **Pertandingan Circle Raid** | `masterTrans/GvgRaid.json` | 1 entri | Belum Mulai. Nama event kompetisi panggung grup/Circle. |
+| `[ ]` | **Galeri Video & Animasi** | `masterTrans/Media.json` | 232 entri | Belum Mulai. Nama konten video cuplikan dan animasi 4-koma. |
+
+---
+
+### 2.7 Berkas Konfigurasi Teknis / Non-Translatable — 2 Berkas
+
+| Status | Komponen | Berkas di `local-files/` | Volume Data | Status Detail & Keterangan |
+|---|---|---|---|---|
+| `[-]` | **Kondisi Logika Engine** | `masterTrans/ConditionSet.json` | 5332 entri | **Di-skip (Teknis)**. Kumpulan ID formula teknis logika engine tanpa teks antarmuka. |
+| `[-]` | **Tag Teknis Kartu Skill** | `masterTrans/ProduceCardTag.json` | 3 entri | **Di-skip (Teknis)**. ID tag internal klasifikasi kartu tanpa teks antarmuka. |
+
+---
+
+## Fase 3 — Naskah Cerita Prolog, Tutorial & Unit (`resource/`)
+
+Target: Menerjemahkan visual novel dialog pembuka, tutorial cerita, dan alur naratif unit utama. Total 116 berkas cerita.
 
 | Status | Komponen | File / Folder | Volume | Status Detail |
 |---|---|---|---|---|
-| `[ ]` | Cerita Idol Kandidat | `resource/adv_cidol_*.txt` | 354 file | Belum Mulai |
-| `[ ]` | Cerita Bond / Keakraban | `resource/adv_dear_*.txt` | 494 file | Belum Mulai |
-| `[ ]` | Cerita Support Card | `resource/adv_csprt_*.txt` | 529 file | Belum Mulai |
-| `[ ]` | Cerita Story Produksi | `resource/adv_pstory_*.txt` | 611 file | Belum Mulai |
-| `[ ]` | Event Produksi | `resource/adv_pevent_*.txt` | 1.105 file | Belum Mulai |
+| `[ ]` | **Prolog & Cerita Pembuka** | `resource/adv_startup_*.txt` | 33 file | Belum Mulai. Dialog awal kedatangan Producer ke Akademi Hatsuboshi. |
+| `[ ]` | **Tutorial Interaktif ADV** | `resource/adv_tutorial_*.txt` | 17 file | Belum Mulai. Panduan visual cerita pertama bersama idol. |
+| `[ ]` | **Cerita Unit Utama** | `resource/adv_unit_*.txt` | 66 file | Belum Mulai. Naskah cerita pembentukan dan perjalanan unit idol. |
+
+---
+
+## Fase 4 — Cerita Karakter & Interaksi Idol (`resource/`)
+
+Target: Cerita mendalam tiap kandidat idol, interaksi keakraban (Commu Bond), cerita pendukung kartu, dan event produksi. Total 3.093 berkas cerita.
+
+| Status | Komponen | File / Folder | Volume | Status Detail |
+|---|---|---|---|---|
+| `[ ]` | **Cerita Kandidat Idol** | `resource/adv_cidol_*.txt` | 354 file | Belum Mulai. Alur cerita individu masing-masing karakter idol. |
+| `[ ]` | **Commu Bond (Keakraban)** | `resource/adv_dear_*.txt` | 494 file | Belum Mulai. Interaksi kedekatan emosional Producer bersama idol. |
+| `[ ]` | **Cerita Support Card** | `resource/adv_csprt_*.txt` | 529 file | Belum Mulai. Cerita latar belakang dari kartu pendukung idol. |
+| `[ ]` | **Cerita Skenario Produksi (P-Story)** | `resource/adv_pstory_*.txt` | 611 file | Belum Mulai. Skenario perjalanan audisi dan ujian produce. |
+| `[ ]` | **Event Pilihan Produksi (P-Event)** | `resource/adv_pevent_*.txt` | 1.105 file | Belum Mulai. Event acak dan pilihan percabangan saat sesi Produce. |
 
 ---
 
@@ -135,3 +273,4 @@ Target: Cerita kandidat idol per karakter, interaksi keakraban (Commu Bond), dan
 | 2026-10-15 | `masterTrans/ProduceItem.json` | Terjemahan | Menerjemahkan seluruh 7.057 fragmen efek deskripsi dan 1.088 nama P-Item Produce (534 nama dasar unik, varian +) ke Bahasa Indonesia. **100% SELESAI (1.088 P-Item)**. |
 | 2026-10-15 | `masterTrans/SupportCard.json` | Terjemahan | Menerjemahkan seluruh 208 nama Support Card (R, SR, SSR) dan 208 teks tingkat aktivasi probabilitas efek (/ Tinggi, / Sedang, / Rendah). **100% SELESAI (208 Support Card)**. |
 | 2026-10-15 | `masterTrans/Item.json` | Terjemahan | Menerjemahkan seluruh 368 item tas/inventaris (319 nama unik, Piece idol, tiket gacha, koin, buku pelajaran, 115 deskripsi, 44 rute perolehan). **100% SELESAI (368 Item)**. |
+| 2026-10-15 | `README.md` & `docs/` | Dokumentasi | Menambahkan panduan pemakaian dan instalasi Localify untuk Android (`docs/android.md`) dan PC DMM (`docs/dmm-games.md`). |
