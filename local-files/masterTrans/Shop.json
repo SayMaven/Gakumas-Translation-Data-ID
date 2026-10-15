@@ -7,15 +7,15 @@
   "data": [
     {
       "id": "shop_costume",
-      "name": "Costume"
+      "name": "Kostum"
     },
     {
       "id": "shop_jewel",
-      "name": "Jewels"
+      "name": "Jewel"
     },
     {
       "id": "shop_pack",
-      "name": "Pack"
+      "name": "Paket"
     },
     {
       "id": "shop_pass",
@@ -23,7 +23,7 @@
     },
     {
       "id": "shop_webstore",
-      "name": "Payments"
+      "name": "Pembayaran"
     }
   ]
 }

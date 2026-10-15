@@ -15,7 +15,7 @@
       "categoryType": "ExchangeItemCategoryType_All",
       "resourceType": "ResourceType_Unknown",
       "itemType": "ItemType_Unknown",
-      "name": "All"
+      "name": "Semua"
     },
     {
       "exchangeId": "exchange-piece-1",
@@ -31,7 +31,7 @@
       "categoryType": "ExchangeItemCategoryType_Other",
       "resourceType": "ResourceType_Unknown",
       "itemType": "ItemType_Unknown",
-      "name": "Other"
+      "name": "Lainnya"
     },
     {
       "exchangeId": "exchange-support-piece-1",
@@ -39,7 +39,7 @@
       "categoryType": "ExchangeItemCategoryType_All",
       "resourceType": "ResourceType_Unknown",
       "itemType": "ItemType_Unknown",
-      "name": "All"
+      "name": "Semua"
     },
     {
       "exchangeId": "exchange-support-piece-1",
@@ -47,7 +47,7 @@
       "categoryType": "ExchangeItemCategoryType_ResourceType",
       "resourceType": "ResourceType_SupportCard",
       "itemType": "ItemType_Unknown",
-      "name": "Support Cards"
+      "name": "Support Card"
     },
     {
       "exchangeId": "exchange-support-piece-1",
@@ -55,7 +55,7 @@
       "categoryType": "ExchangeItemCategoryType_Other",
       "resourceType": "ResourceType_Unknown",
       "itemType": "ItemType_Unknown",
-      "name": "Other"
+      "name": "Lainnya"
     }
   ]
 }

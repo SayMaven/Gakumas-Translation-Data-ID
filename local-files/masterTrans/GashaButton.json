@@ -9,8 +9,8 @@
     {
       "id": "gasha_000410-ssr-idol-support-3",
       "order": 1,
-      "name": "10-Time Gacha",
-      "description": "10-Time Gacha",
+      "name": "Gacha 10x",
+      "description": "Gacha 10x",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -18,44 +18,44 @@
     {
       "id": "gasha_200limit_button_001-10",
       "order": 3,
-      "name": "10-Time Gacha",
-      "description": "10-Time Gacha",
+      "name": "Gacha 10x",
+      "description": "Gacha 10x",
       "appealText": "",
       "highAppealText": "",
-      "bottomAppealText": "1 Guaranteed SR or Higher "
+      "bottomAppealText": "1 Pasti SR atau Lebih Tinggi "
     },
     {
       "id": "gasha_button_00980-ssr-idol-001",
       "order": 1,
-      "name": "Paid 10-Time gacha",
-      "description": "Paid 10-Time gacha",
+      "name": "Gacha 10x Jewel Beli",
+      "description": "Gacha 10x Jewel Beli",
       "appealText": "",
       "highAppealText": "",
-      "bottomAppealText": "{0}x More"
+      "bottomAppealText": "{0}x Lebih Banyak"
     },
     {
       "id": "gasha_button_01000-ssr-idol-001",
       "order": 1,
-      "name": "Paid 10-Time gacha",
-      "description": "Paid 10-Time gacha",
+      "name": "Gacha 10x Jewel Beli",
+      "description": "Gacha 10x Jewel Beli",
       "appealText": "",
       "highAppealText": "",
-      "bottomAppealText": "{0}x More"
+      "bottomAppealText": "{0}x Lebih Banyak"
     },
     {
       "id": "gasha_button_01018-ssr-idol-001",
       "order": 1,
-      "name": "Paid 10-Time gacha",
-      "description": "Paid 10-Time gacha",
+      "name": "Gacha 10x Jewel Beli",
+      "description": "Gacha 10x Jewel Beli",
       "appealText": "",
       "highAppealText": "",
-      "bottomAppealText": "{0}x More"
+      "bottomAppealText": "{0}x Lebih Banyak"
     },
     {
       "id": "gasha_button_animate-ssr-00630",
       "order": 1,
-      "name": "Paid 10-Time gacha",
-      "description": "Paid 10-Time gacha",
+      "name": "Gacha 10x Jewel Beli",
+      "description": "Gacha 10x Jewel Beli",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -63,62 +63,62 @@
     {
       "id": "gasha_button_merge-ssr-00530",
       "order": 1,
-      "name": "Paid 10-Time gacha",
-      "description": "Paid 10-Time gacha",
+      "name": "Gacha 10x Jewel Beli",
+      "description": "Gacha 10x Jewel Beli",
       "appealText": "",
       "highAppealText": "",
-      "bottomAppealText": "{0}x More"
+      "bottomAppealText": "{0}x Lebih Banyak"
     },
     {
       "id": "gasha_button_merge-ssr-00560",
       "order": 1,
-      "name": "Paid 10-Time gacha",
-      "description": "Paid 10-Time gacha",
+      "name": "Gacha 10x Jewel Beli",
+      "description": "Gacha 10x Jewel Beli",
       "appealText": "",
       "highAppealText": "",
-      "bottomAppealText": "{0}x More"
+      "bottomAppealText": "{0}x Lebih Banyak"
     },
     {
       "id": "gasha_button_merge-ssr-00770",
       "order": 1,
-      "name": "Paid 10-Time gacha",
-      "description": "Paid 10-Time gacha",
+      "name": "Gacha 10x Jewel Beli",
+      "description": "Gacha 10x Jewel Beli",
       "appealText": "",
       "highAppealText": "",
-      "bottomAppealText": "{0}x More"
+      "bottomAppealText": "{0}x Lebih Banyak"
     },
     {
       "id": "gasha_button_merge-ssr-00930",
       "order": 1,
-      "name": "Paid 10-Time gacha",
-      "description": "Paid 10-Time gacha",
+      "name": "Gacha 10x Jewel Beli",
+      "description": "Gacha 10x Jewel Beli",
       "appealText": "",
       "highAppealText": "",
-      "bottomAppealText": "{0}x More"
+      "bottomAppealText": "{0}x Lebih Banyak"
     },
     {
       "id": "gasha_button_merge-ssr-00980",
       "order": 1,
-      "name": "Paid 10-Time gacha",
-      "description": "Paid 10-Time gacha",
+      "name": "Gacha 10x Jewel Beli",
+      "description": "Gacha 10x Jewel Beli",
       "appealText": "",
       "highAppealText": "",
-      "bottomAppealText": "{0}x More"
+      "bottomAppealText": "{0}x Lebih Banyak"
     },
     {
       "id": "gasha_button_merge-ssr-01020",
       "order": 1,
-      "name": "Paid 10-Time gacha",
-      "description": "Paid 10-Time gacha",
+      "name": "Gacha 10x Jewel Beli",
+      "description": "Gacha 10x Jewel Beli",
       "appealText": "",
       "highAppealText": "",
-      "bottomAppealText": "{0}x More"
+      "bottomAppealText": "{0}x Lebih Banyak"
     },
     {
       "id": "gasha_button-001-01",
       "order": 2,
-      "name": "1-Time Gacha",
-      "description": "1-Time Gacha",
+      "name": "Gacha 1x",
+      "description": "Gacha 1x",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -126,8 +126,8 @@
     {
       "id": "gasha_button-001-01-discount",
       "order": 1,
-      "name": "1-Time Daily Gacha",
-      "description": "1-Time Daily Gacha",
+      "name": "Gacha 1x Harian",
+      "description": "Gacha 1x Harian",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -135,17 +135,17 @@
     {
       "id": "gasha_button-001-10",
       "order": 3,
-      "name": "10-Time Gacha",
-      "description": "10-Time Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
+      "name": "Gacha 10x",
+      "description": "Gacha 10x",
+      "appealText": "1 Pasti SR atau Lebih Tinggi ",
       "highAppealText": "",
       "bottomAppealText": ""
     },
     {
       "id": "gasha_button-001-10-ssr",
       "order": 1,
-      "name": "10-Time Gacha",
-      "description": "10-Time Gacha",
+      "name": "Gacha 10x",
+      "description": "Gacha 10x",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -153,8 +153,8 @@
     {
       "id": "gasha_button-001-10-ssr-anniversary",
       "order": 2,
-      "name": "SSR confirmed 10 rounds of gacha (2 times only)",
-      "description": "SSR confirmed 10 rounds of gacha (2 times only)",
+      "name": "Gacha 10x Pasti SSR (Maksimal 2 Kali)",
+      "description": "Gacha 10x Pasti SSR (Maksimal 2 Kali)",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -162,8 +162,8 @@
     {
       "id": "gasha_button-001-ticket",
       "order": 2,
-      "name": "Pull with Ticket",
-      "description": "Pull with Ticket",
+      "name": "Tarik dengan Tiket",
+      "description": "Tarik dengan Tiket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -171,8 +171,8 @@
     {
       "id": "gasha_button-00800-free-10-06",
       "order": 3,
-      "name": "Free 10-round gacha, up to 100-round free gacha",
-      "description": "10-Time Gacha",
+      "name": "Gacha Gratis 10x, hingga Maksimal 100x Gratis",
+      "description": "Gacha 10x",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -180,17 +180,17 @@
     {
       "id": "gasha_button-00810-ticket-001",
       "order": 3,
-      "name": "Pull 10 times with a ticket",
-      "description": "10-Time Gacha",
-      "appealText": "Guaranteed SSR ",
+      "name": "Tarik 10x dengan Tiket",
+      "description": "Gacha 10x",
+      "appealText": "Pasti SSR ",
       "highAppealText": "",
       "bottomAppealText": ""
     },
     {
       "id": "gasha_button-00822-wednesday-001-ticket-01",
       "order": 2,
-      "name": "Pull with Ticket",
-      "description": "Pull with Ticket",
+      "name": "Tarik dengan Tiket",
+      "description": "Tarik dengan Tiket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -198,17 +198,17 @@
     {
       "id": "gasha_button-00822-wednesday-001-ticket-10",
       "order": 3,
-      "name": "10-Time Ticket Gacha",
-      "description": "10-Time Ticket Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
+      "name": "Gacha Tiket 10x",
+      "description": "Gacha Tiket 10x",
+      "appealText": "1 Pasti SR atau Lebih Tinggi ",
       "highAppealText": "",
       "bottomAppealText": ""
     },
     {
       "id": "gasha_button-00822-wednesday-002-ticket-01",
       "order": 2,
-      "name": "Pull with Ticket",
-      "description": "Pull with Ticket",
+      "name": "Tarik dengan Tiket",
+      "description": "Tarik dengan Tiket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -216,17 +216,17 @@
     {
       "id": "gasha_button-00822-wednesday-002-ticket-10",
       "order": 3,
-      "name": "10-Time Ticket Gacha",
-      "description": "10-Time Ticket Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
+      "name": "Gacha Tiket 10x",
+      "description": "Gacha Tiket 10x",
+      "appealText": "1 Pasti SR atau Lebih Tinggi ",
       "highAppealText": "",
       "bottomAppealText": ""
     },
     {
       "id": "gasha_button-00822-wednesday-003-ticket-01",
       "order": 2,
-      "name": "Pull with Ticket",
-      "description": "Pull with Ticket",
+      "name": "Tarik dengan Tiket",
+      "description": "Tarik dengan Tiket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -234,17 +234,17 @@
     {
       "id": "gasha_button-00822-wednesday-003-ticket-10",
       "order": 3,
-      "name": "10-Time Ticket Gacha",
-      "description": "10-Time Ticket Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
+      "name": "Gacha Tiket 10x",
+      "description": "Gacha Tiket 10x",
+      "appealText": "1 Pasti SR atau Lebih Tinggi ",
       "highAppealText": "",
       "bottomAppealText": ""
     },
     {
       "id": "gasha_button-00822-wednesday-004-ticket-01",
       "order": 2,
-      "name": "Pull with Ticket",
-      "description": "Pull with Ticket",
+      "name": "Tarik dengan Tiket",
+      "description": "Tarik dengan Tiket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -252,8 +252,8 @@
     {
       "id": "gasha_button-00822-wednesday-005-ticket-01",
       "order": 2,
-      "name": "Pull with Ticket",
-      "description": "Pull with Ticket",
+      "name": "Tarik dengan Tiket",
+      "description": "Tarik dengan Tiket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -261,8 +261,8 @@
     {
       "id": "gasha_button-00822-wednesday-006-ticket-01",
       "order": 2,
-      "name": "Pull with Ticket",
-      "description": "Pull with Ticket",
+      "name": "Tarik dengan Tiket",
+      "description": "Tarik dengan Tiket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -270,8 +270,8 @@
     {
       "id": "gasha_button-00822-wednesday-007-ticket-01",
       "order": 2,
-      "name": "Pull with Ticket",
-      "description": "Pull with Ticket",
+      "name": "Tarik dengan Tiket",
+      "description": "Tarik dengan Tiket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -279,8 +279,8 @@
     {
       "id": "gasha_button-00822-wednesday-008-ticket-01",
       "order": 2,
-      "name": "Pull with Ticket",
-      "description": "Pull with Ticket",
+      "name": "Tarik dengan Tiket",
+      "description": "Tarik dengan Tiket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -288,8 +288,8 @@
     {
       "id": "gasha_button-00822-wednesday-009-ticket-01",
       "order": 2,
-      "name": "Pull with Ticket",
-      "description": "Pull with Ticket",
+      "name": "Tarik dengan Tiket",
+      "description": "Tarik dengan Tiket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -297,8 +297,8 @@
     {
       "id": "gasha_button-00822-wednesday-010-ticket-01",
       "order": 2,
-      "name": "Pull with Ticket",
-      "description": "Pull with Ticket",
+      "name": "Tarik dengan Tiket",
+      "description": "Tarik dengan Tiket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -306,17 +306,17 @@
     {
       "id": "gasha_button-00822-wednesday-010-ticket-10",
       "order": 3,
-      "name": "10-Time Ticket Gacha",
-      "description": "10-Time Ticket Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
+      "name": "Gacha Tiket 10x",
+      "description": "Gacha Tiket 10x",
+      "appealText": "1 Pasti SR atau Lebih Tinggi ",
       "highAppealText": "",
       "bottomAppealText": ""
     },
     {
       "id": "gasha_button-00822-wednesday-011-ticket-01",
       "order": 2,
-      "name": "Pull with Ticket",
-      "description": "Pull with Ticket",
+      "name": "Tarik dengan Tiket",
+      "description": "Tarik dengan Tiket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -324,8 +324,8 @@
     {
       "id": "gasha_button-00822-wednesday-012-ticket-01",
       "order": 2,
-      "name": "Pull with Ticket",
-      "description": "Pull with Ticket",
+      "name": "Tarik dengan Tiket",
+      "description": "Tarik dengan Tiket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -333,8 +333,8 @@
     {
       "id": "gasha_button-00822-wednesday-013-ticket-01",
       "order": 2,
-      "name": "Pull with Ticket",
-      "description": "Pull with Ticket",
+      "name": "Tarik dengan Tiket",
+      "description": "Tarik dengan Tiket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -342,8 +342,8 @@
     {
       "id": "gasha_button-00870-free-10-07",
       "order": 3,
-      "name": "Free 10-round gacha, up to 100-round free gacha",
-      "description": "10-Time Gacha",
+      "name": "Gacha Gratis 10x, hingga Maksimal 100x Gratis",
+      "description": "Gacha 10x",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -351,8 +351,8 @@
     {
       "id": "gasha_button-00890-wednesday-001-ticket-01",
       "order": 2,
-      "name": "Pull with Ticket",
-      "description": "Pull with Ticket",
+      "name": "Tarik dengan Tiket",
+      "description": "Tarik dengan Tiket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -360,8 +360,8 @@
     {
       "id": "gasha_button-00900-wednesday-001",
       "order": 1,
-      "name": "Pull with Gakumas wednesday gacha ticket",
-      "description": "Pull with Ticket",
+      "name": "Tarik dengan Tiket Gacha Gakumas Wednesday",
+      "description": "Tarik dengan Tiket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -369,8 +369,8 @@
     {
       "id": "gasha_button-00920-wednesday-001",
       "order": 1,
-      "name": "Pull with Gakumas wednesday gacha ticket",
-      "description": "Pull with Ticket",
+      "name": "Tarik dengan Tiket Gacha Gakumas Wednesday",
+      "description": "Tarik dengan Tiket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -378,8 +378,8 @@
     {
       "id": "gasha_button-00920-wednesday-002",
       "order": 1,
-      "name": "Pull with Gakumas wednesday gacha ticket",
-      "description": "Pull with Ticket",
+      "name": "Tarik dengan Tiket Gacha Gakumas Wednesday",
+      "description": "Tarik dengan Tiket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -387,8 +387,8 @@
     {
       "id": "gasha_button-00930-wednesday-001",
       "order": 1,
-      "name": "Pull with Gakumas wednesday gacha ticket",
-      "description": "Pull with Ticket",
+      "name": "Tarik dengan Tiket Gacha Gakumas Wednesday",
+      "description": "Tarik dengan Tiket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -396,8 +396,8 @@
     {
       "id": "gasha_button-00940-wednesday-001-ticket-01",
       "order": 1,
-      "name": "Pull with Ticket",
-      "description": "Pull with Ticket",
+      "name": "Tarik dengan Tiket",
+      "description": "Tarik dengan Tiket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -405,17 +405,17 @@
     {
       "id": "gasha_button-00950-free-10-08",
       "order": 1,
-      "name": "10-Time Gacha",
-      "description": "10-Time Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
+      "name": "Gacha 10x",
+      "description": "Gacha 10x",
+      "appealText": "1 Pasti SR atau Lebih Tinggi ",
       "highAppealText": "",
       "bottomAppealText": ""
     },
     {
       "id": "gasha_button-00950-wednesday-001",
       "order": 1,
-      "name": "Pull with Gakumas wednesday gacha ticket",
-      "description": "Pull with Ticket",
+      "name": "Tarik dengan Tiket Gacha Gakumas Wednesday",
+      "description": "Tarik dengan Tiket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -423,8 +423,8 @@
     {
       "id": "gasha_button-00960-ticket-001",
       "order": 1,
-      "name": "STEP 3 All Idols Appearance Commemorative SSR P-Idol Guaranteed Ticket",
-      "description": "STEP 3 All Idols Appearance Commemorative SSR P-Idol Guaranteed Ticket",
+      "name": "Tiket Pasti SSR P-Idol Peringatan Kemunculan Semua Idol STEP 3",
+      "description": "Tiket Pasti SSR P-Idol Peringatan Kemunculan Semua Idol STEP 3",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -432,8 +432,8 @@
     {
       "id": "gasha_button-00970-wednesday-001-ticket-01",
       "order": 1,
-      "name": "Pull with Ticket",
-      "description": "Pull with Ticket",
+      "name": "Tarik dengan Tiket",
+      "description": "Tarik dengan Tiket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -441,8 +441,8 @@
     {
       "id": "gasha_button-00980-free-10-009",
       "order": 3,
-      "name": "360° Live Addition Celebration! Up to 100 Free Pulls! 10-Pull Free Gacha",
-      "description": "10-Time Gacha",
+      "name": "Perayaan Penambahan 360° Live! Hingga 100x Tarikan Gratis! Gacha Gratis 10x",
+      "description": "Gacha 10x",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -450,8 +450,8 @@
     {
       "id": "gasha_button-00988-wednesday-001-ticket-01",
       "order": 2,
-      "name": "Pull with Ticket",
-      "description": "Pull with Ticket",
+      "name": "Tarik dengan Tiket",
+      "description": "Tarik dengan Tiket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -459,26 +459,26 @@
     {
       "id": "gasha_button-010-item_01",
       "order": 3,
-      "name": "10-Time Item Gacha",
-      "description": "10-Time Item Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
+      "name": "Gacha Item 10x",
+      "description": "Gacha Item 10x",
+      "appealText": "1 Pasti SR atau Lebih Tinggi ",
       "highAppealText": "",
       "bottomAppealText": ""
     },
     {
       "id": "gasha_button-010-ticket",
       "order": 3,
-      "name": "10-Time Ticket Gacha",
-      "description": "10-Time Ticket Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
+      "name": "Gacha Tiket 10x",
+      "description": "Gacha Tiket 10x",
+      "appealText": "1 Pasti SR atau Lebih Tinggi ",
       "highAppealText": "",
       "bottomAppealText": ""
     },
     {
       "id": "gasha_button-01000-wednesday-001",
       "order": 1,
-      "name": "Pull with Gakumas wednesday gacha ticket",
-      "description": "Pull with Ticket",
+      "name": "Tarik dengan Tiket Gacha Gakumas Wednesday",
+      "description": "Tarik dengan Tiket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -486,8 +486,8 @@
     {
       "id": "gasha_button-01018-wednesday-001-ticket-01",
       "order": 1,
-      "name": "Pull with Ticket",
-      "description": "Pull with Ticket",
+      "name": "Tarik dengan Tiket",
+      "description": "Tarik dengan Tiket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -495,8 +495,8 @@
     {
       "id": "gasha_button-01020-wednesday-001-ticket-01",
       "order": 1,
-      "name": "Pull with Ticket",
-      "description": "Pull with Ticket",
+      "name": "Tarik dengan Tiket",
+      "description": "Tarik dengan Tiket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -504,17 +504,17 @@
     {
       "id": "gasha_button-640-fes",
       "order": 1,
-      "name": "5-Times Gacha",
-      "description": "5-Times Gacha",
-      "appealText": "15% SSR Rate ",
+      "name": "Gacha 5x",
+      "description": "Gacha 5x",
+      "appealText": "Rate SSR 15% ",
       "highAppealText": "",
       "bottomAppealText": ""
     },
     {
       "id": "gasha_button-continuous-001",
       "order": 2,
-      "name": "Pull using Items",
-      "description": "Unlimited Pull Gacha",
+      "name": "Tarik Menggunakan Item",
+      "description": "Gacha Tarik Tanpa Batas",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -522,8 +522,8 @@
     {
       "id": "gasha_button-continuous-002",
       "order": 2,
-      "name": "Pull using Items",
-      "description": "Unlimited Pull Gacha",
+      "name": "Tarik Menggunakan Item",
+      "description": "Gacha Tarik Tanpa Batas",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -531,8 +531,8 @@
     {
       "id": "gasha_button-free-10-01",
       "order": 1,
-      "name": "10-Time Gacha",
-      "description": "10-Time Gacha",
+      "name": "Gacha 10x",
+      "description": "Gacha 10x",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -540,8 +540,8 @@
     {
       "id": "gasha_button-free-10-04",
       "order": 3,
-      "name": "Free 10-round gacha, up to 100-round free gacha",
-      "description": "10-Time Gacha",
+      "name": "Gacha Gratis 10x, hingga Maksimal 100x Gratis",
+      "description": "Gacha 10x",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -549,8 +549,8 @@
     {
       "id": "gasha_button-free-10-05",
       "order": 3,
-      "name": "Free 10-round gacha, up to 100-round free gacha",
-      "description": "10-Time Gacha",
+      "name": "Gacha Gratis 10x, hingga Maksimal 100x Gratis",
+      "description": "Gacha 10x",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -558,17 +558,17 @@
     {
       "id": "gasha_button-free-ssr-anotheridol-01",
       "order": 1,
-      "name": "1-Time Gacha",
-      "description": "1-Time Gacha",
-      "appealText": "Guaranteed SSR ",
+      "name": "Gacha 1x",
+      "description": "Gacha 1x",
+      "appealText": "Pasti SSR ",
       "highAppealText": "",
       "bottomAppealText": ""
     },
     {
       "id": "gasha_button-gasha-00970-stepup-001-01-003",
       "order": 1,
-      "name": "Step 1: 3 Pulls",
-      "description": "3-Pull Gacha",
+      "name": "Step 1: Tarik 3x",
+      "description": "Gacha 3x",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -576,8 +576,8 @@
     {
       "id": "gasha_button-gasha-00970-stepup-001-2-010",
       "order": 1,
-      "name": "Step 2: 10 Pulls",
-      "description": "10-Time Gacha",
+      "name": "Step 2: Tarik 10x",
+      "description": "Gacha 10x",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -585,8 +585,8 @@
     {
       "id": "gasha_button-gasha-00970-stepup-001-3-010",
       "order": 1,
-      "name": "Step 3: 10 Pulls",
-      "description": "10-Time Gacha",
+      "name": "Step 3: Tarik 10x",
+      "description": "Gacha 10x",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -594,8 +594,8 @@
     {
       "id": "gasha_button-gasha-00970-ticket-001",
       "order": 1,
-      "name": "Pull with Ticket",
-      "description": "Pull with Ticket",
+      "name": "Tarik dengan Tiket",
+      "description": "Tarik dengan Tiket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -603,8 +603,8 @@
     {
       "id": "gasha_button-gasha-00970-ticket-002",
       "order": 1,
-      "name": "Pull with Ticket",
-      "description": "Pull with Ticket",
+      "name": "Tarik dengan Tiket",
+      "description": "Tarik dengan Tiket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -612,8 +612,8 @@
     {
       "id": "gasha_button-gasha-00970-ticket-003",
       "order": 1,
-      "name": "Pull with Ticket",
-      "description": "Pull with Ticket",
+      "name": "Tarik dengan Tiket",
+      "description": "Tarik dengan Tiket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -621,8 +621,8 @@
     {
       "id": "gasha_button-gasha-00970-ticket-004",
       "order": 1,
-      "name": "Pull with Ticket",
-      "description": "Pull with Ticket",
+      "name": "Tarik dengan Tiket",
+      "description": "Tarik dengan Tiket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -630,8 +630,8 @@
     {
       "id": "gasha_button-pickup-001-01",
       "order": 2,
-      "name": "1-Time Gacha",
-      "description": "1-Time Gacha",
+      "name": "Gacha 1x",
+      "description": "Gacha 1x",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -639,8 +639,8 @@
     {
       "id": "gasha_button-pickup-001-01-discount",
       "order": 1,
-      "name": "1-Time Daily Gacha",
-      "description": "1-Time Daily Gacha",
+      "name": "Gacha 1x Harian",
+      "description": "Gacha 1x Harian",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -648,188 +648,188 @@
     {
       "id": "gasha_button-pickup-001-10",
       "order": 3,
-      "name": "10-Time Gacha",
-      "description": "10-Time Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
+      "name": "Gacha 10x",
+      "description": "Gacha 10x",
+      "appealText": "1 Pasti SR atau Lebih Tinggi ",
       "highAppealText": "",
       "bottomAppealText": ""
     },
     {
       "id": "gasha_button-pickup-001-10-animate",
       "order": 1,
-      "name": "10-Time Gacha",
-      "description": "10-Time Gacha",
-      "appealText": "Guaranteed Animate SSR ",
+      "name": "Gacha 10x",
+      "description": "Gacha 10x",
+      "appealText": "Pasti Animate SSR ",
       "highAppealText": "",
       "bottomAppealText": ""
     },
     {
       "id": "gasha_button-pickup-001-10-another25summer",
       "order": 1,
-      "name": "10-Time Gacha",
-      "description": "10-Time Gacha",
-      "appealText": "Guaranteed SSR ",
+      "name": "Gacha 10x",
+      "description": "Gacha 10x",
+      "appealText": "Pasti SSR ",
       "highAppealText": "",
       "bottomAppealText": ""
     },
     {
       "id": "gasha_button-pickup-001-10-HowlingovertheWorld",
       "order": 1,
-      "name": "10-Time Gacha",
-      "description": "10-Time Gacha",
-      "appealText": "Guaranteed SSR ",
+      "name": "Gacha 10x",
+      "description": "Gacha 10x",
+      "appealText": "Pasti SSR ",
       "highAppealText": "",
       "bottomAppealText": ""
     },
     {
       "id": "gasha_button-pickup-001-10-iwsf2026",
       "order": 1,
-      "name": "10-Time Gacha",
-      "description": "10-Time Gacha",
-      "appealText": "Guaranteed SSR ",
+      "name": "Gacha 10x",
+      "description": "Gacha 10x",
+      "appealText": "Pasti SSR ",
       "highAppealText": "",
       "bottomAppealText": ""
     },
     {
       "id": "gasha_button-pickup-01-discount",
       "order": 3,
-      "name": "10-Time Gacha",
-      "description": "10-Time Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
+      "name": "Gacha 10x",
+      "description": "Gacha 10x",
+      "appealText": "1 Pasti SR atau Lebih Tinggi ",
       "highAppealText": "",
       "bottomAppealText": ""
     },
     {
       "id": "gasha_button-select-pickup-01",
       "order": 1,
-      "name": "10-Time Gacha",
-      "description": "10-Time Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
+      "name": "Gacha 10x",
+      "description": "Gacha 10x",
+      "appealText": "1 Pasti SR atau Lebih Tinggi ",
       "highAppealText": "",
       "bottomAppealText": ""
     },
     {
       "id": "gasha_button-select-pickup-01-discount",
       "order": 3,
-      "name": "10-Time Gacha",
-      "description": "10-Time Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
+      "name": "Gacha 10x",
+      "description": "Gacha 10x",
+      "appealText": "1 Pasti SR atau Lebih Tinggi ",
       "highAppealText": "",
       "bottomAppealText": ""
     },
     {
       "id": "gasha_marge_button-ssr-00520",
       "order": 1,
-      "name": "Paid 10-Time gacha",
-      "description": "Paid 10-Time gacha",
+      "name": "Gacha 10x Jewel Beli",
+      "description": "Gacha 10x Jewel Beli",
       "appealText": "",
       "highAppealText": "",
-      "bottomAppealText": "{0}x More"
+      "bottomAppealText": "{0}x Lebih Banyak"
     },
     {
       "id": "gasha_marge_button-ssr-00620",
       "order": 1,
-      "name": "Paid 10-Time gacha",
-      "description": "Paid 10-Time gacha",
+      "name": "Gacha 10x Jewel Beli",
+      "description": "Gacha 10x Jewel Beli",
       "appealText": "",
       "highAppealText": "",
-      "bottomAppealText": "{0}x More"
+      "bottomAppealText": "{0}x Lebih Banyak"
     },
     {
       "id": "gasha_marge_button-ssr-00670",
       "order": 1,
-      "name": "Paid 10-Time gacha",
-      "description": "Paid 10-Time gacha",
+      "name": "Gacha 10x Jewel Beli",
+      "description": "Gacha 10x Jewel Beli",
       "appealText": "",
       "highAppealText": "",
-      "bottomAppealText": "{0}x More"
+      "bottomAppealText": "{0}x Lebih Banyak"
     },
     {
       "id": "gasha_marge_button-ssr-00750",
       "order": 1,
-      "name": "Paid 10-Time gacha",
-      "description": "Paid 10-Time gacha",
+      "name": "Gacha 10x Jewel Beli",
+      "description": "Gacha 10x Jewel Beli",
       "appealText": "",
       "highAppealText": "",
-      "bottomAppealText": "{0}x More"
+      "bottomAppealText": "{0}x Lebih Banyak"
     },
     {
       "id": "gasha_marge_button-ssr-00860",
       "order": 1,
-      "name": "Paid 10-Time gacha",
-      "description": "Paid 10-Time gacha",
+      "name": "Gacha 10x Jewel Beli",
+      "description": "Gacha 10x Jewel Beli",
       "appealText": "",
       "highAppealText": "",
-      "bottomAppealText": "{0}x More"
+      "bottomAppealText": "{0}x Lebih Banyak"
     },
     {
       "id": "gasha_marge_button-ssr-00875",
       "order": 1,
-      "name": "Paid 10-Time gacha",
-      "description": "Paid 10-Time gacha",
+      "name": "Gacha 10x Jewel Beli",
+      "description": "Gacha 10x Jewel Beli",
       "appealText": "",
       "highAppealText": "",
-      "bottomAppealText": "{0}x More"
+      "bottomAppealText": "{0}x Lebih Banyak"
     },
     {
       "id": "gasha_marge_button-ssr-00940",
       "order": 1,
-      "name": "Paid 10-Time gacha",
-      "description": "Paid 10-Time gacha",
+      "name": "Gacha 10x Jewel Beli",
+      "description": "Gacha 10x Jewel Beli",
       "appealText": "",
       "highAppealText": "",
-      "bottomAppealText": "{0}x More"
+      "bottomAppealText": "{0}x Lebih Banyak"
     },
     {
       "id": "gasha_marge_button-ssr-00975",
       "order": 1,
-      "name": "Paid 10-Time gacha",
-      "description": "Paid 10-Time gacha",
+      "name": "Gacha 10x Jewel Beli",
+      "description": "Gacha 10x Jewel Beli",
       "appealText": "",
       "highAppealText": "",
-      "bottomAppealText": "{0}x More"
+      "bottomAppealText": "{0}x Lebih Banyak"
     },
     {
       "id": "gasha_marge_button-ssr-hif-day1-00912",
       "order": 1,
-      "name": "Paid 10-Time gacha",
-      "description": "Paid 10-Time gacha",
+      "name": "Gacha 10x Jewel Beli",
+      "description": "Gacha 10x Jewel Beli",
       "appealText": "",
       "highAppealText": "",
-      "bottomAppealText": "{0}x More"
+      "bottomAppealText": "{0}x Lebih Banyak"
     },
     {
       "id": "gasha_marge_button-ssr-hif-day2-00914",
       "order": 1,
-      "name": "Paid 10-Time gacha",
-      "description": "Paid 10-Time gacha",
+      "name": "Gacha 10x Jewel Beli",
+      "description": "Gacha 10x Jewel Beli",
       "appealText": "",
       "highAppealText": "",
-      "bottomAppealText": "{0}x More"
+      "bottomAppealText": "{0}x Lebih Banyak"
     },
     {
       "id": "gasha_ticket_aniv-001",
       "order": 3,
-      "name": "Pull with 10 tickets for the 1st anniversary gacha",
-      "description": "10-Time Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
-      "highAppealText": "1 Guaranteed SR or Higher ",
+      "name": "Tarik dengan Tiket Gacha 10x 1st Anniversary",
+      "description": "Gacha 10x",
+      "appealText": "1 Pasti SR atau Lebih Tinggi ",
+      "highAppealText": "1 Pasti SR atau Lebih Tinggi ",
       "bottomAppealText": ""
     },
     {
       "id": "gasha_ticket_anniversary-001",
       "order": 1,
-      "name": "Pull with a 2nd Anniversary 10-Pull Gacha Ticket",
-      "description": "10-Time Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
-      "highAppealText": "1 Guaranteed SR or Higher ",
+      "name": "Tarik dengan Tiket Gacha 10x 2nd Anniversary",
+      "description": "Gacha 10x",
+      "appealText": "1 Pasti SR atau Lebih Tinggi ",
+      "highAppealText": "1 Pasti SR atau Lebih Tinggi ",
       "bottomAppealText": ""
     },
     {
       "id": "gasha_ticket_anniversary-002",
       "order": 1,
-      "name": "Pull with a 2nd Anniversary Live Tour Limited SSR P Idol Guaranteed 10-Pull Gacha Ticket",
-      "description": "Live Tour Limited SSR P Idol Guaranteed 10-Pull ",
+      "name": "Tarik dengan Tiket Gacha 10x Pasti SSR P-Idol Terbatas Live Tour 2nd Anniversary",
+      "description": "Tarik 10x Pasti SSR P-Idol Terbatas Live Tour",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -837,17 +837,17 @@
     {
       "id": "gasha_ticket_christmas-001",
       "order": 3,
-      "name": "Use the Christmas login bonus gacha ticket",
-      "description": "10-Time Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
-      "highAppealText": "1 Guaranteed SR or Higher ",
+      "name": "Gunakan Tiket Gacha Bonus Login Natal",
+      "description": "Gacha 10x",
+      "appealText": "1 Pasti SR atau Lebih Tinggi ",
+      "highAppealText": "1 Pasti SR atau Lebih Tinggi ",
       "bottomAppealText": ""
     },
     {
       "id": "gasha_ticket_ssr_10_button-001",
       "order": 1,
-      "name": "Pull with Guaranteed SSR Ticket",
-      "description": "Guaranteed SSR 10-Pull",
+      "name": "Tarik dengan Tiket Pasti SSR",
+      "description": "Tarik 10x Pasti SSR",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -855,8 +855,8 @@
     {
       "id": "gasha_ticket_ssr_button",
       "order": 1,
-      "name": "Pull with Guaranteed SSR Ticket",
-      "description": "Guaranteed SSR 1-Pull",
+      "name": "Tarik dengan Tiket Pasti SSR",
+      "description": "Tarik 1x Pasti SSR",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -864,8 +864,8 @@
     {
       "id": "gasha_ticket_ssr_button_1st-anniv",
       "order": 1,
-      "name": "Pull with 1st Anniversary Commemorative SSR Ticket",
-      "description": "Guaranteed SSR 1-Pull",
+      "name": "Tarik dengan Tiket Pasti SSR Peringatan 1st Anniversary",
+      "description": "Tarik 1x Pasti SSR",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -873,8 +873,8 @@
     {
       "id": "gasha_ticket_ssr_button_idol",
       "order": 1,
-      "name": "Pull with Guaranteed SSR Ticket",
-      "description": "Guaranteed SSR Idol 1-Pull",
+      "name": "Tarik dengan Tiket Pasti SSR",
+      "description": "Tarik 1x Pasti SSR P-Idol",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -882,8 +882,8 @@
     {
       "id": "gasha_ticket_ssr_button_idol_2",
       "order": 1,
-      "name": "The 1st Period Performance Commemorative SSR P idol fixed ticket to Pull",
-      "description": "Guaranteed SSR 1-Pull",
+      "name": "Tarik dengan Tiket Pasti SSR P-Idol Peringatan Pertunjukan Periode ke-1",
+      "description": "Tarik 1x Pasti SSR",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -891,8 +891,8 @@
     {
       "id": "gasha_ticket_ssr_button_seasons-2511-001",
       "order": 1,
-      "name": "Pull with the 1.5th Anniversary Season Limited SSR Guaranteed Ticket",
-      "description": "Guaranteed SSR 1-Pull",
+      "name": "Tarik dengan Tiket Pasti SSR Terbatas Musim 1.5th Anniversary",
+      "description": "Tarik 1x Pasti SSR",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -900,8 +900,8 @@
     {
       "id": "gasha_ticket_ssr_button_support",
       "order": 1,
-      "name": "Pull with Guaranteed SSR Ticket",
-      "description": "Guaranteed SSR Support 1-Pull",
+      "name": "Tarik dengan Tiket Pasti SSR",
+      "description": "Tarik 1x Pasti SSR Support Card",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -909,8 +909,8 @@
     {
       "id": "gasha_ticket_ssr_button_support-2",
       "order": 1,
-      "name": "Pull with Guaranteed SSR Ticket",
-      "description": "Guaranteed SSR Support 1-Pull",
+      "name": "Tarik dengan Tiket Pasti SSR",
+      "description": "Tarik 1x Pasti SSR Support Card",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -918,8 +918,8 @@
     {
       "id": "gasha_ticket_ssr_button-5",
       "order": 1,
-      "name": "1.5th Anniversary SSR Guaranteed Gacha Ticket",
-      "description": "Guaranteed SSR 1-Pull",
+      "name": "Tiket Gacha Pasti SSR 1.5th Anniversary",
+      "description": "Tarik 1x Pasti SSR",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -927,8 +927,8 @@
     {
       "id": "gasha_ticket_ssr_button-6",
       "order": 1,
-      "name": "MOIW2025 Commemorative SSR P Idol Guaranteed Gacha Ticket",
-      "description": "Guaranteed SSR Idol 1-Pull",
+      "name": "Tiket Gacha Pasti SSR P-Idol Peringatan MOIW2025",
+      "description": "Tarik 1x Pasti SSR P-Idol",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -936,8 +936,8 @@
     {
       "id": "gasha_ticket_ssr_button-7",
       "order": 1,
-      "name": "Pull with a 2nd Anniversary Commemorative SSR Guaranteed Ticket",
-      "description": "Guaranteed SSR 1-Pull",
+      "name": "Tarik dengan Tiket Pasti SSR Peringatan 2nd Anniversary",
+      "description": "Tarik 1x Pasti SSR",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -945,8 +945,8 @@
     {
       "id": "gasha_ticket_ssr_button-8",
       "order": 1,
-      "name": "Pull with a The 2nd Period Season Limited SSR P Idol Guaranteed 10-Pull Gacha Ticket",
-      "description": "Guaranteed SSR Idol 1-Pull",
+      "name": "Tarik dengan Tiket Gacha 10x Pasti SSR P-Idol Terbatas Musim Periode ke-2",
+      "description": "Tarik 1x Pasti SSR P-Idol",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -954,17 +954,17 @@
     {
       "id": "gasha_ticket_valentine-001",
       "order": 3,
-      "name": "Use Valentine's Login Bonus Gacha Tickets",
-      "description": "10-Time Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
-      "highAppealText": "1 Guaranteed SR or Higher ",
+      "name": "Gunakan Tiket Gacha Bonus Login Valentine",
+      "description": "Gacha 10x",
+      "appealText": "1 Pasti SR atau Lebih Tinggi ",
+      "highAppealText": "1 Pasti SR atau Lebih Tinggi ",
       "bottomAppealText": ""
     },
     {
       "id": "gasha-ticket-ssr-idol-seasons_button-01",
       "order": 1,
-      "name": "Pull using Season-Limited SSR P-Idol Guaranteed Gacha Ticket",
-      "description": "Season-Limited SSR Idol Guaranteed Single Pull",
+      "name": "Tarik Menggunakan Tiket Gacha Pasti SSR P-Idol Terbatas Musim",
+      "description": "Tarik 1x Pasti SSR P-Idol Terbatas Musim",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -972,8 +972,8 @@
     {
       "id": "gasha-ticket-ssr-support-seasons_button-01",
       "order": 1,
-      "name": "Pull using Season-Limited SSR Support Card Guaranteed Gacha Ticket",
-      "description": "Season-Limited SSR Support Card Guaranteed Single Pull",
+      "name": "Tarik Menggunakan Tiket Gacha Pasti SSR Support Card Terbatas Musim",
+      "description": "Tarik 1x Pasti SSR Support Card Terbatas Musim",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
