@@ -40,7 +40,7 @@ Menghadirkan pengalaman bermain **Gakuen Idolm@ster** dalam Bahasa Indonesia yan
 | UI Umum & Fallback (`genericTrans/index/trash.json`) | 2.510 key | ✅ Selesai (100%) |
 | General Strings & Misi (`genericTrans/index/*.json`) | 9 file JSON (1.031 key) | ✅ Selesai (100%) |
 | Kartu Skill Produce (`masterTrans/ProduceCard.json`) | 1.748 kartu (~438K baris) | ✅ Selesai (100%) |
-| Lirik Lagu Panggung / MV (`genericTrans/lyrics/`) | 63 file JSON (1.877 baris) | 🔄 Sedang Berjalan (Batch 1 Selesai: 450 baris) |
+| Lirik Lagu Panggung / MV (`genericTrans/lyrics/`) | 63 file JSON (1.877 baris) | ✅ Selesai (100%) |
 | Database Master Game (`masterTrans/`) | 108 file JSON | 🔄 72 File Selesai (66,7%) |
 | Script ADV/Dialog (`resource/`) | 3.530 file TXT | 🔲 Belum mulai |
 
