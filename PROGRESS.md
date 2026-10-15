@@ -9,9 +9,9 @@ Dokumen ini memantau status pengerjaan lokalisasi Bahasa Indonesia untuk seluruh
 | Kategori | Volume | Estimasi Baris/Key | Status | Persentase |
 |---|---|---|---|---|
 | **Fase 1: UI & Sistem Inti** | 11 file | 11.024 key | Selesai | 100% |
-| **Fase 2: Cerita Utama & Tutorial** | 117 file | ~25.000 baris | Belum Mulai | 0% |
+| **Fase 2: Kartu Skill & Cerita Utama** | 118 file | 1.748 kartu + ~25K baris | Dalam Pengerjaan | 0% |
 | **Fase 3: Cerita Idol & Relasi** | 851 file | ~40.000 baris | Belum Mulai | 0% |
-| **Fase 4: Gameplay Dalam & Event** | 2.246 file | ~500.000 baris | Belum Mulai | 0% |
+| **Fase 4: Gameplay Dalam & Event** | 2.245 file | ~60.000 baris | Belum Mulai | 0% |
 | **Lirik Lagu** | 64 file | ~15.000 baris | Di-skip | — |
 
 ---
@@ -45,12 +45,13 @@ Target: Seluruh antarmuka game, menu, tombol, item, misi, tutorial, dan string U
 
 ---
 
-## Fase 2 — Cerita Utama (Main Story) & Pembuka
+## Fase 2 — Kartu Skill (ProduceCard) & Cerita Utama
 
-Target: Pemain dapat menikmati alur cerita prolog, tutorial interaktif, dan cerita unit utama.
+Target: Dimulai dengan menerjemahkan seluruh kartu skill (`masterTrans/ProduceCard.json`) agar interaksi utama saat sesi Produce (Lesson & Audition) langsung berbahasa Indonesia, lalu dilanjutkan dengan alur cerita prolog, tutorial interaktif, dan cerita unit utama.
 
 | Status | Komponen | File / Folder | Volume | Status Detail |
 |---|---|---|---|---|
+| `[-]` | **Kartu Skill Produce (Prioritas 1)** | `masterTrans/ProduceCard.json` | 1.748 kartu (458 kartu unik, ~438K baris) | **Dalam Pengerjaan (50%)**. Seluruh 447 fragmen deskripsi efek kartu (11.340 entri) **100% Selesai**. Tahap berikutnya: Penerjemahan nama kartu. |
 | `[ ]` | Prolog / Opening | `resource/adv_startup_*.txt` | 33 file | Belum Mulai |
 | `[ ]` | Tutorial Interaktif | `resource/adv_tutorial_*.txt` | 17 file | Belum Mulai |
 | `[ ]` | Cerita Unit Utama | `resource/adv_unit_*.txt` | 66 file | Belum Mulai |
@@ -74,14 +75,13 @@ Target: Cerita per karakter idol dan interaksi keakraban (Dearness/Bond).
 
 ## Fase 4 — Konten Gameplay Dalam & Event
 
-Target: Event produksi mendalam dan deskripsi kartu skill lengkap.
+Target: Event produksi mendalam dan cerita pendukung kartu.
 
 | Status | Komponen | File / Folder | Volume | Status Detail |
 |---|---|---|---|---|
 | `[ ]` | Cerita Story Produksi | `resource/adv_pstory_*.txt` | 611 file | Belum Mulai |
 | `[ ]` | Cerita Support Card | `resource/adv_csprt_*.txt` | 529 file | Belum Mulai |
 | `[ ]` | Event Produksi | `resource/adv_pevent_*.txt` | 1.105 file | Belum Mulai |
-| `[ ]` | Deskripsi Kartu Skill | `masterTrans/ProduceCard.json` | ~438K baris | Belum Mulai |
 
 ---
 
@@ -115,3 +115,5 @@ Target: Event produksi mendalam dan deskripsi kartu skill lengkap.
 | 2026-10-15 | `genericTrans/index/trash.json` (Batch 1-5) | Terjemahan | Menerjemahkan seluruh kamus string UI umum, tombol aksi, item AP, P-Idol, achievement, dan label game dalam 5 batch terukur. **100% SELESAI (2.510 key)**. |
 | 2026-10-15 | `local-files/generic.json` | Terjemahan | Menerjemahkan seluruh kamus teks generik root, alur Produce, efek kartu, gacha, dan dialog sistem. **100% SELESAI (525 key)**. |
 | 2026-10-15 | **Fase 1: UI & Sistem Inti** | Milestone | **11 File, 11.024 Key Tuntas 100%**. Seluruh antarmuka UI, menu, tombol, item, tutorial, kamus fallback, dan teks umum resmi berbahasa Indonesia. |
+| 2026-10-15 | Perencanaan Tahap 2 (`ProduceCard.json`) | Roadmap | Menetapkan `masterTrans/ProduceCard.json` (1.748 kartu, 458 kartu unik) sebagai prioritas pertama Fase 2 sebelum naskah cerita. |
+| 2026-10-15 | `masterTrans/ProduceCard.json` (Efek Kartu) | Terjemahan | Menerjemahkan seluruh 447 fragmen deskripsi efek kartu skill (11.340 entri diperbarui). Seluruh efek status, buff, giliran, stamina, dan mekanik lesson 100% berbahasa Indonesia. |

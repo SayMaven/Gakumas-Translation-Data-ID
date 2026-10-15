@@ -39,6 +39,7 @@ Menghadirkan pengalaman bermain **Gakuen Idolm@ster** dalam Bahasa Indonesia yan
 | Kamus Generik Root (`generic.json`) | 525 key | ✅ Selesai (100%) |
 | UI Umum & Fallback (`genericTrans/index/trash.json`) | 2.510 key | ✅ Selesai (100%) |
 | General Strings & Misi (`genericTrans/index/*.json`) | 9 file JSON (1.031 key) | ✅ Selesai (100%) |
+| Kartu Skill Produce (`masterTrans/ProduceCard.json`) | 1.748 kartu (~438K baris) | ⏳ Tahap 2 (Prioritas 1) |
 | Lirik lagu (`genericTrans/lyrics/`) | 64 file JSON | ⏸️ Di-skip sementara |
 | Script ADV/Dialog (`resource/`) | 3.530 file TXT | 🔲 Belum mulai |
 | Database game (`masterTrans/`) | ~100 file JSON | 🔲 Sebagian saja |
@@ -416,15 +417,16 @@ Panggilan keluarga **berbeda** dari panggilan senior sekolah — ini adalah kont
 | `local-files/genericTrans/index/EventBlurb.json` | Teks blurb dialog banner event | 334 key | ✅ Selesai (100%) |
 | `local-files/genericTrans/index/trash.json` | Kamus string UI umum & fallback | 2.510 key | ✅ Selesai (100%) |
 
-### Fase 2 — Cerita Utama 🟠
-*Dampak: pemain bisa mengikuti alur cerita utama*
+### Fase 2 — Kartu Skill (ProduceCard) & Cerita Utama 🟠
+*Dampak: kartu skill battle/lesson Produce langsung berbahasa Indonesia, lalu diikuti alur cerita utama*
 
-| File | Isi | Jumlah |
-|---|---|---|
-| `resource/adv_startup_*.txt` | Opening / cutscene awal | 33 file |
-| `resource/adv_tutorial_*.txt` | Tutorial interaktif | 17 file |
-| `resource/adv_unit_*.txt` | Cerita unit (main story) | 66 file |
-| `masterTrans/ProduceStory.json` | Judul story produksi | ~18K baris |
+| File | Isi | Jumlah | Prioritas |
+|---|---|---|---|
+| `masterTrans/ProduceCard.json` | Deskripsi & nama kartu skill | 1.748 kartu (~438K baris) | **Prioritas 1 (Mulai Sekarang)** |
+| `resource/adv_startup_*.txt` | Opening / cutscene awal | 33 file | Prioritas 2 |
+| `resource/adv_tutorial_*.txt` | Tutorial interaktif | 17 file | Prioritas 3 |
+| `resource/adv_unit_*.txt` | Cerita unit (main story) | 66 file | Prioritas 4 |
+| `masterTrans/ProduceStory.json` | Judul story produksi | ~18K baris | Prioritas 5 |
 
 ### Fase 3 — Konten Idol 🟡
 *Dampak: cerita per karakter bisa dinikmati*
@@ -445,7 +447,6 @@ Panggilan keluarga **berbeda** dari panggilan senior sekolah — ini adalah kont
 | `resource/adv_pstory_*.txt` | Story produksi | 611 file |
 | `resource/adv_csprt_*.txt` | Support card ADV | 529 file |
 | `resource/adv_pevent_*.txt` | Event produksi | 1.105 file |
-| `masterTrans/ProduceCard.json` | Deskripsi skill card | ~438K baris |
 
 ### Skip / Opsional ⚪
 | File | Alasan Skip |
