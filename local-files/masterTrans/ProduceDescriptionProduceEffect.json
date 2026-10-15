@@ -31,35 +31,35 @@
     },
     {
       "type": "ProduceEffectType_VocalGrowthRateAddition",
-      "name": "Vocal Param Bonus +"
+      "name": "Bonus Param Vocal +"
     },
     {
       "type": "ProduceEffectType_DanceGrowthRateAddition",
-      "name": "Dance Param Bonus +"
+      "name": "Bonus Param Dance +"
     },
     {
       "type": "ProduceEffectType_VisualGrowthRateAddition",
-      "name": "Visual Param Bonus +"
+      "name": "Bonus Param Visual +"
     },
     {
       "type": "ProduceEffectType_VocalGrowthRateDown",
-      "name": "Vocal Param Bonus -"
+      "name": "Bonus Param Vocal -"
     },
     {
       "type": "ProduceEffectType_DanceGrowthRateDown",
-      "name": "Dance Param Bonus -"
+      "name": "Bonus Param Dance -"
     },
     {
       "type": "ProduceEffectType_VisualGrowthRateDown",
-      "name": "Visual Param Bonus -"
+      "name": "Bonus Param Visual -"
     },
     {
       "type": "ProduceEffectType_StaminaRecoverFix",
-      "name": "Stamina Recovery "
+      "name": "Pemulihan Stamina"
     },
     {
       "type": "ProduceEffectType_StaminaRecoverMultiple",
-      "name": "Stamina Percentage Recovery "
+      "name": "Pemulihan Stamina (%)"
     },
     {
       "type": "ProduceEffectType_StaminaReduceFix",
@@ -67,311 +67,311 @@
     },
     {
       "type": "ProduceEffectType_StaminaReduceMultiple",
-      "name": "Stamina Percentage Decrease "
+      "name": "Pengurangan Stamina (%)"
     },
     {
       "type": "ProduceEffectType_StaminaSpecify",
-      "name": "Stamina Change "
+      "name": "Perubahan Stamina"
     },
     {
       "type": "ProduceEffectType_StaminaRecoverValueUp",
-      "name": "Stamina Recovery Amount +"
+      "name": "Jumlah Pemulihan Stamina +"
     },
     {
       "type": "ProduceEffectType_StaminaRecoverValueDown",
-      "name": "Stamina Recovery Amount -"
+      "name": "Jumlah Pemulihan Stamina -"
     },
     {
       "type": "ProduceEffectType_StaminaReduceValueUp",
-      "name": "Stamina Decrease Amount +"
+      "name": "Jumlah Pengurangan Stamina +"
     },
     {
       "type": "ProduceEffectType_StaminaReduceValueDown",
-      "name": "Stamina Decrease Amount -"
+      "name": "Jumlah Pengurangan Stamina -"
     },
     {
       "type": "ProduceEffectType_StaminaRecoverDisable",
-      "name": "Stamina Recovery Inactive "
+      "name": "Pemulihan Stamina Dinonaktifkan"
     },
     {
       "type": "ProduceEffectType_MaxStaminaAddition",
-      "name": "Max Stamina +"
+      "name": "Stamina Maks +"
     },
     {
       "type": "ProduceEffectType_MaxStaminaReduceFix",
-      "name": "Max Stamina -"
+      "name": "Stamina Maks -"
     },
     {
       "type": "ProduceEffectType_MaxStaminaReduceMultiple",
-      "name": "Max Stamina Percentage -"
+      "name": "Stamina Maks (%) -"
     },
     {
       "type": "ProduceEffectType_ProducePointReduceFix",
-      "name": "P-Points -"
+      "name": "P-Point -"
     },
     {
       "type": "ProduceEffectType_ProducePointReduceMultiple",
-      "name": "P-Points Percentage -"
+      "name": "P-Point (%) -"
     },
     {
       "type": "ProduceEffectType_ProducePointSpecify",
-      "name": "P-Points Change "
+      "name": "Perubahan P-Point"
     },
     {
       "type": "ProduceEffectType_ProducePointAdditionValueUp",
-      "name": "P-Points Gain Amount +"
+      "name": "Perolehan P-Point +"
     },
     {
       "type": "ProduceEffectType_ProducePointAdditionValueDown",
-      "name": "P-Points Gain Amount -"
+      "name": "Perolehan P-Point -"
     },
     {
       "type": "ProduceEffectType_ProducePointReduceValueUp",
-      "name": "P-Points Decrease Amount +"
+      "name": "Pengurangan P-Point +"
     },
     {
       "type": "ProduceEffectType_ProducePointReduceValueDown",
-      "name": "P-Points Decrease Amount -"
+      "name": "Pengurangan P-Point -"
     },
     {
       "type": "ProduceEffectType_ProduceCardUpgrade",
-      "name": "Upgrade "
+      "name": "Peningkatan"
     },
     {
       "type": "ProduceEffectType_ProduceCardDuplicate",
-      "name": "Copy "
+      "name": "Duplikasi"
     },
     {
       "type": "ProduceEffectType_ProduceCardDuplicateUpgrade",
-      "name": "Copy and Upgrade "
+      "name": "Duplikasi dan Peningkatan"
     },
     {
       "type": "ProduceEffectType_ProduceCardChange",
-      "name": "Change "
+      "name": "Penggantian"
     },
     {
       "type": "ProduceEffectType_ProduceCardChangeUpgrade",
-      "name": "Change and Upgrade "
+      "name": "Penggantian dan Peningkatan"
     },
     {
       "type": "ProduceEffectType_ProduceCardDelete",
-      "name": "Delete "
+      "name": "Penghapusan"
     },
     {
       "type": "ProduceEffectType_ProducePointAddition",
-      "name": "P-Points Gain"
+      "name": "Perolehan P-Point"
     },
     {
       "type": "ProduceEffectType_ProducePointGetDisable",
-      "name": "P-Points Gain Inactive "
+      "name": "Perolehan P-Point Dinonaktifkan"
     },
     {
       "type": "ProduceEffectType_ProduceItemGetDisable",
-      "name": "P-Item Gain Inactive "
+      "name": "Perolehan P-Item Dinonaktifkan"
     },
     {
       "type": "ProduceEffectType_ProduceDrinkGetDisable",
-      "name": "P-Drink Gain Inactive "
+      "name": "Perolehan P-Drink Dinonaktifkan"
     },
     {
       "type": "ProduceEffectType_ProduceReward",
-      "name": "Reward Gain "
+      "name": "Perolehan Hadiah"
     },
     {
       "type": "ProduceEffectType_ProduceRewardSet",
-      "name": "Reward Gain "
+      "name": "Perolehan Hadiah"
     },
     {
       "type": "ProduceEffectType_AuditionParameterBonusMultiple",
-      "name": "Score Bonus Increase "
+      "name": "Peningkatan Bonus Skor"
     },
     {
       "type": "ProduceEffectType_LessonSpChangeRatePermilAddition",
-      "name": "SP Lesson Occurrence Rate +"
+      "name": "Peluang Lesson SP +"
     },
     {
       "type": "ProduceEffectType_LessonVocalSpChangeRatePermilAddition",
-      "name": "Vocal SP Lesson Occurrence Rate +"
+      "name": "Peluang Lesson SP Vocal +"
     },
     {
       "type": "ProduceEffectType_LessonDanceSpChangeRatePermilAddition",
-      "name": "Dance SP Lesson Occurrence Rate +"
+      "name": "Peluang Lesson SP Dance +"
     },
     {
       "type": "ProduceEffectType_LessonVisualSpChangeRatePermilAddition",
-      "name": "Visual SP Lesson Occurrence Rate +"
+      "name": "Peluang Lesson SP Visual +"
     },
     {
       "type": "ProduceEffectType_LessonSpChangeRatePermilDown",
-      "name": "SP Lesson Occurrence Rate -"
+      "name": "Peluang Lesson SP -"
     },
     {
       "type": "ProduceEffectType_ExamStatusEnchant",
-      "name": "Lesson Effect Occurrence "
+      "name": "Pemicuan Efek Lesson"
     },
     {
       "type": "ProduceEffectType_LessonPresentProduceCardRewardCountUp",
-      "name": "Lesson Reward Skill Card Options +"
+      "name": "Opsi Hadiah Skill Card Lesson +"
     },
     {
       "type": "ProduceEffectType_LessonPresentProduceCardRewardCountDown",
-      "name": "Lesson Reward Skill Card Options -"
+      "name": "Opsi Hadiah Skill Card Lesson -"
     },
     {
       "type": "ProduceEffectType_ShopPriceDiscountMultiple",
-      "name": "Consultation All Items Discount "
+      "name": "Diskon Semua Item Konsultasi"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardPriceDiscountMultiple",
-      "name": "Consultation Skill Card Discount "
+      "name": "Diskon Skill Card Konsultasi"
     },
     {
       "type": "ProduceEffectType_ShopProduceDrinkPriceDiscountMultiple",
-      "name": "Consultation P-Drink Discount "
+      "name": "Diskon P-Drink Konsultasi"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardUpgradePriceDiscountMultiple",
-      "name": "Consultation Skill Card Upgrade Discount "
+      "name": "Diskon Peningkatan Skill Card Konsultasi"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardUpgradePriceSpecify",
-      "name": "Consultation Skill Card Upgrade Change "
+      "name": "Perubahan Biaya Peningkatan Skill Card Konsultasi"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardDeletePriceDiscountMultiple",
-      "name": "Consultation Skill Card Deletion Discount "
+      "name": "Diskon Hapus Skill Card Konsultasi"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardDeletePriceSpecify",
-      "name": "Consultation Skill Card Upgrade Change "
+      "name": "Perubahan Biaya Hapus Skill Card Konsultasi"
     },
     {
       "type": "ProduceEffectType_ProduceResultRewardMoneyUp",
-      "name": "Produce Completion Money Gain +"
+      "name": "Perolehan Uang Selesai Produce +"
     },
     {
       "type": "ProduceEffectType_ProduceResultRewardSupportCardEnhancePointUp",
-      "name": "Produce Completion Support Pt +"
+      "name": "Support Pt Selesai Produce +"
     },
     {
       "type": "ProduceEffectType_SupportCardEventStaminaRecoverUp",
-      "name": "Support Event Stamina Recovery +"
+      "name": "Pemulihan Stamina Event Support +"
     },
     {
       "type": "ProduceEffectType_SupportCardEventProducePointAdditionValueUp",
-      "name": "Support Event P-Points Gain +"
+      "name": "Perolehan P-Point Event Support +"
     },
     {
       "type": "ProduceEffectType_SupportCardEventParameterAdditionValueUp",
-      "name": "Support Event Param Increase +"
+      "name": "Peningkatan Param Event Support +"
     },
     {
       "type": "ProduceEffectType_SupportCardEventProbabilityUp",
-      "name": "Support Event Occurrence Rate +"
+      "name": "Peluang Event Support +"
     },
     {
       "type": "ProduceEffectType_LessonPresentProducePointUp",
-      "name": "Lesson Reward P-Points Gain +"
+      "name": "Perolehan P-Point Hadiah Lesson +"
     },
     {
       "type": "ProduceEffectType_SupportCardProduceCardUpgradeProbabilityUp",
-      "name": "Lesson Support Occurrence Rate +"
+      "name": "Peluang Bantuan Lesson +"
     },
     {
       "type": "ProduceEffectType_ProduceCardSelectRerollCountUp",
-      "name": "Re-roll Count +"
+      "name": "Jumlah Reroll +"
     },
     {
       "type": "ProduceEffectType_ProducePointAdditionDisableTrigger",
-      "name": "Initial P-Points +"
+      "name": "P-Point Awal +"
     },
     {
       "type": "ProduceEffectType_ParameterLimitUp",
-      "name": "Param Limit Increase "
+      "name": "Peningkatan Batas Param"
     },
     {
       "type": "ProduceEffectType_ExamTurnUp",
-      "name": "Turn Count +"
+      "name": "Jumlah Giliran +"
     },
     {
       "type": "ProduceEffectType_ExamTurnDown",
-      "name": "Turn Count -"
+      "name": "Jumlah Giliran -"
     },
     {
       "type": "ProduceEffectType_AuditionNpcEnhance",
-      "name": "Rival's score "
+      "name": "Skor Lawan +"
     },
     {
       "type": "ProduceEffectType_ShopPriceUpMultiple",
-      "name": "Consultation All Items +"
+      "name": "Harga Semua Item Konsultasi +"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardPriceUpMultiple",
-      "name": "Consultation Skill Card +"
+      "name": "Harga Skill Card Konsultasi +"
     },
     {
       "type": "ProduceEffectType_ShopProduceDrinkPriceUpMultiple",
-      "name": "Consultation P-Drink +"
+      "name": "Harga P-Drink Konsultasi +"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardUpgradePriceUpMultiple",
-      "name": "Consultation Skill Card Upgrade +"
+      "name": "Harga Peningkatan Skill Card Konsultasi +"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardDeletePriceUpMultiple",
-      "name": "Consultation Skill Card Deletion +"
+      "name": "Harga Hapus Skill Card Konsultasi +"
     },
     {
       "type": "ProduceEffectType_EventSchoolStaminaUp",
-      "name": "Class Stamina usage +"
+      "name": "Konsumsi Stamina Pelajaran +"
     },
     {
       "type": "ProduceEffectType_EventSchoolStaminaDown",
-      "name": "Class Stamina usage -"
+      "name": "Konsumsi Stamina Pelajaran -"
     },
     {
       "type": "ProduceEffectType_EventActivityProducePointUp",
-      "name": "Outing P-Points usage +"
+      "name": "Konsumsi P-Point Jalan-jalan +"
     },
     {
       "type": "ProduceEffectType_EventActivityProducePointDown",
-      "name": "Outing P-Points usage -"
+      "name": "Konsumsi P-Point Jalan-jalan -"
     },
     {
       "type": "ProduceEffectType_BeforeAuditionRefreshStaminaUp",
-      "name": "Pre-exam Stamina Recovery +"
+      "name": "Pemulihan Stamina Sebelum Ujian +"
     },
     {
       "type": "ProduceEffectType_BeforeAuditionRefreshStaminaDown",
-      "name": "Pre-exam Stamina Recovery -"
+      "name": "Pemulihan Stamina Sebelum Ujian -"
     },
     {
       "type": "ProduceEffectType_ProduceCardExcludeCountUp",
-      "name": "Skill Card Removal "
+      "name": "Penyingkiran Skill Card"
     },
     {
       "type": "ProduceEffectType_AuditionNpcWeaken",
-      "name": "Rival's score "
+      "name": "Skor Lawan -"
     },
     {
       "type": "ProduceEffectType_StarPermilUp",
-      "name": "Star Quality Gain Increase "
+      "name": "Peningkatan Perolehan Kualitas Bintang"
     },
     {
       "type": "ProduceEffectType_StarAddition",
-      "name": "Gain Star Quality "
+      "name": "Peroleh Kualitas Bintang"
     },
     {
       "type": "ProduceEffectType_ProduceCardChangeSelect",
-      "name": "Select Change "
+      "name": "Pilih Penggantian"
     },
     {
       "type": "ProduceEffectType_ProduceDrinkPossessLimitUp",
-      "name": "P Drink Carry Limit Increase "
+      "name": "Peningkatan Batas Bawa P-Drink"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardPriceDiscountMultiplePermanent",
-      "name": "Consultation Skill Card Discount "
+      "name": "Diskon Skill Card Konsultasi"
     }
   ]
 }

@@ -8,17 +8,17 @@
     {
       "id": "produce_group-001",
       "name": "Hajime",
-      "description": "It is a stage that only the top performers of Hatsuboshi Idol Academy can stand on. Polishing themselves, now, they begin to shine"
+      "description": "Panggung yang hanya bisa dipijak oleh mereka yang terbaik di Akademi Idol Hatsuboshi. Mengasah diri mereka, kini, mereka mulai bersinar."
     },
     {
       "id": "produce_group-002",
       "name": "NEXT IDOL AUDITION",
-      "description": "The race to determine the top idol of the next generation has begun! Gather fans and join us on the stage of glory"
+      "description": "Persaingan untuk menentukan idol terbaik generasi berikutnya telah dimulai! Kumpulkan penggemar dan melangkahlah ke panggung kejayaan!"
     },
     {
       "id": "produce_group-003",
       "name": "Hatsuboshi IDOL FESTIVAL",
-      "description": "The battle for the top spot at Hatsuboshi Academy begins! Aim for the Prima Stella!"
+      "description": "Pertarungan memperebutkan posisi puncak di Akademi Hatsuboshi dimulai! Raih gelar Prima Stella!"
     }
   ]
 }

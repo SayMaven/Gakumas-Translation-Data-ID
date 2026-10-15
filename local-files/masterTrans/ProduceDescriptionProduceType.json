@@ -9,27 +9,27 @@
     {
       "produceType": "ProduceType_FirstStar",
       "produceSplitType": "ProduceSplitType_Unknown",
-      "name": "Hajime Only"
+      "name": "Khusus Hajime"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "produceSplitType": "ProduceSplitType_Unknown",
-      "name": "N.I.A Only"
+      "name": "Khusus N.I.A"
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "produceSplitType": "ProduceSplitType_Unknown",
-      "name": "H.I.F Only"
+      "name": "Khusus H.I.F"
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "produceSplitType": "ProduceSplitType_Selection",
-      "name": "H.I.F Qualifier Only"
+      "name": "Khusus Kualifikasi H.I.F"
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "produceSplitType": "ProduceSplitType_Final",
-      "name": "H.I.F Finals Only"
+      "name": "Khusus Final H.I.F"
     }
   ]
 }

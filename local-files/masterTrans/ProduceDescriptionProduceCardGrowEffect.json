@@ -16,313 +16,313 @@
       "type": "ProduceCardGrowEffectType_LessonReduce",
       "produceDescriptionLabelId": "Label_LessonReduce",
       "name": "Param -",
-      "produceCardCustomizeDescription": "Param –"
+      "produceCardCustomizeDescription": "Param -"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonCountAdd",
       "produceDescriptionLabelId": "Label_LessonCountAdd",
-      "name": "Param Increase Count +",
-      "produceCardCustomizeDescription": "Param Increase Count +"
+      "name": "Jumlah Peningkatan Param +",
+      "produceCardCustomizeDescription": "Jumlah Peningkatan Param +"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonCountReduce",
       "produceDescriptionLabelId": "Label_LessonCountReduce",
-      "name": "Param Increase Count -",
-      "produceCardCustomizeDescription": "Param Increase Count –"
+      "name": "Jumlah Peningkatan Param -",
+      "produceCardCustomizeDescription": "Jumlah Peningkatan Param -"
     },
     {
       "type": "ProduceCardGrowEffectType_BlockAdd",
       "produceDescriptionLabelId": "Label_BlockAdd",
-      "name": "Energy +",
-      "produceCardCustomizeDescription": "Energy +"
+      "name": "Genki +",
+      "produceCardCustomizeDescription": "Genki +"
     },
     {
       "type": "ProduceCardGrowEffectType_BlockReduce",
       "produceDescriptionLabelId": "Label_BlockReduce",
-      "name": "Energy -",
-      "produceCardCustomizeDescription": "Energy –"
+      "name": "Genki -",
+      "produceCardCustomizeDescription": "Genki -"
     },
     {
       "type": "ProduceCardGrowEffectType_FullPowerPointAdd",
       "produceDescriptionLabelId": "Label_FullPowerPointAdd",
-      "name": "Full Power +",
-      "produceCardCustomizeDescription": "Full Power Point +"
+      "name": "Poin Full Power +",
+      "produceCardCustomizeDescription": "Poin Full Power +"
     },
     {
       "type": "ProduceCardGrowEffectType_FullPowerPointReduce",
       "produceDescriptionLabelId": "Label_FullPowerPointReduce",
-      "name": "Full Power -",
-      "produceCardCustomizeDescription": "Full Power Point –"
+      "name": "Poin Full Power -",
+      "produceCardCustomizeDescription": "Poin Full Power -"
     },
     {
       "type": "ProduceCardGrowEffectType_CostBuffReduce",
       "produceDescriptionLabelId": "Label_CostBuffReduce",
-      "name": "Upgraded State Cost -",
-      "produceCardCustomizeDescription": "Enhancement State Cost –"
+      "name": "Biaya Status Diperkuat -",
+      "produceCardCustomizeDescription": "Biaya Status Penguatan -"
     },
     {
       "type": "ProduceCardGrowEffectType_CostBuffAdd",
       "produceDescriptionLabelId": "Label_CostBuffAdd",
-      "name": "Upgraded State Cost +",
-      "produceCardCustomizeDescription": "Enhancement State Cost +"
+      "name": "Biaya Status Diperkuat +",
+      "produceCardCustomizeDescription": "Biaya Status Penguatan +"
     },
     {
       "type": "ProduceCardGrowEffectType_CostReduce",
       "produceDescriptionLabelId": "Label_CostReduce",
-      "name": "Cost Decrease ",
-      "produceCardCustomizeDescription": "Cost –"
+      "name": "Biaya -",
+      "produceCardCustomizeDescription": "Biaya -"
     },
     {
       "type": "ProduceCardGrowEffectType_CostAdd",
       "produceDescriptionLabelId": "Label_CostAdd",
-      "name": "Cost Increase ",
-      "produceCardCustomizeDescription": "Cost +"
+      "name": "Biaya +",
+      "produceCardCustomizeDescription": "Biaya +"
     },
     {
       "type": "ProduceCardGrowEffectType_CostPenetrateReduce",
       "produceDescriptionLabelId": "Label_CostPenetrateReduce",
-      "name": "Stamina Usage Cost -",
-      "produceCardCustomizeDescription": "Stamina Usage Cost –"
+      "name": "Biaya Stamina -",
+      "produceCardCustomizeDescription": "Biaya Stamina -"
     },
     {
       "type": "ProduceCardGrowEffectType_CostPenetrateAdd",
       "produceDescriptionLabelId": "Label_CostPenetrateAdd",
-      "name": "Stamina Usage Cost +",
-      "produceCardCustomizeDescription": "Stamina Usage Cost +"
+      "name": "Biaya Stamina +",
+      "produceCardCustomizeDescription": "Biaya Stamina +"
     },
     {
       "type": "ProduceCardGrowEffectType_ParameterBuffTurnAdd",
       "produceDescriptionLabelId": "Label_ParameterBuffTurnAdd",
-      "name": "Good Shape +",
-      "produceCardCustomizeDescription": "Good Shape +"
+      "name": "Kondisi Baik +",
+      "produceCardCustomizeDescription": "Kondisi Baik +"
     },
     {
       "type": "ProduceCardGrowEffectType_ParameterBuffTurnReduce",
       "produceDescriptionLabelId": "Label_ParameterBuffTurnReduce",
-      "name": "Good Shape -",
-      "produceCardCustomizeDescription": "Good Shape –"
+      "name": "Kondisi Baik -",
+      "produceCardCustomizeDescription": "Kondisi Baik -"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonBuffAdd",
       "produceDescriptionLabelId": "Label_LessonBuffAdd",
-      "name": "Focus +",
-      "produceCardCustomizeDescription": "Focus +"
+      "name": "Fokus +",
+      "produceCardCustomizeDescription": "Fokus +"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonBuffReduce",
       "produceDescriptionLabelId": "Label_LessonBuffReduce",
-      "name": "Focus -",
-      "produceCardCustomizeDescription": "Focus –"
+      "name": "Fokus -",
+      "produceCardCustomizeDescription": "Fokus -"
     },
     {
       "type": "ProduceCardGrowEffectType_ReviewAdd",
       "produceDescriptionLabelId": "Label_ReviewAdd",
-      "name": "Good Impression +",
-      "produceCardCustomizeDescription": "Good Impression +"
+      "name": "Kesan Baik +",
+      "produceCardCustomizeDescription": "Kesan Baik +"
     },
     {
       "type": "ProduceCardGrowEffectType_ReviewReduce",
       "produceDescriptionLabelId": "Label_ReviewReduce",
-      "name": "Good Impression -",
-      "produceCardCustomizeDescription": "Good Impression –"
+      "name": "Kesan Baik -",
+      "produceCardCustomizeDescription": "Kesan Baik -"
     },
     {
       "type": "ProduceCardGrowEffectType_AggressiveAdd",
       "produceDescriptionLabelId": "Label_AggressiveAdd",
-      "name": "Motivation +",
-      "produceCardCustomizeDescription": "Motivation +"
+      "name": "Semangat +",
+      "produceCardCustomizeDescription": "Semangat +"
     },
     {
       "type": "ProduceCardGrowEffectType_AggressiveReduce",
       "produceDescriptionLabelId": "Label_AggressiveReduce",
-      "name": "Motivation -",
-      "produceCardCustomizeDescription": "Motivation –"
+      "name": "Semangat -",
+      "produceCardCustomizeDescription": "Semangat -"
     },
     {
       "type": "ProduceCardGrowEffectType_CardDrawAdd",
       "produceDescriptionLabelId": "Label_CardDrawAdd",
-      "name": "Draw Count +",
-      "produceCardCustomizeDescription": "Draw Cards +"
+      "name": "Jumlah Ambil Kartu +",
+      "produceCardCustomizeDescription": "Jumlah Ambil Kartu +"
     },
     {
       "type": "ProduceCardGrowEffectType_CardDrawReduce",
       "produceDescriptionLabelId": "Label_CardDrawReduce",
-      "name": "Draw Count -",
-      "produceCardCustomizeDescription": "Draw Cards –"
+      "name": "Jumlah Ambil Kartu -",
+      "produceCardCustomizeDescription": "Jumlah Ambil Kartu -"
     },
     {
       "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnAdd",
       "produceDescriptionLabelId": "Label_ParameterBuffMultiplePerTurnAdd",
-      "name": "Excellent Shape +",
-      "produceCardCustomizeDescription": "Excellent Condition +"
+      "name": "Kondisi Prima +",
+      "produceCardCustomizeDescription": "Kondisi Prima +"
     },
     {
       "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnReduce",
       "produceDescriptionLabelId": "Label_ParameterBuffMultiplePerTurnReduce",
-      "name": "Excellent Shape -",
-      "produceCardCustomizeDescription": "Excellent Condition –"
+      "name": "Kondisi Prima -",
+      "produceCardCustomizeDescription": "Kondisi Prima -"
     },
     {
       "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnAdd",
       "produceDescriptionLabelId": "Label_StaminaConsumptionDownTurnAdd",
-      "name": "Reduced Stamina Usage +",
-      "produceCardCustomizeDescription": "Stamina Usage Decrease +"
+      "name": "Pengurangan Biaya Stamina +",
+      "produceCardCustomizeDescription": "Pengurangan Biaya Stamina +"
     },
     {
       "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnReduce",
       "produceDescriptionLabelId": "Label_StaminaConsumptionDownTurnReduce",
-      "name": "Reduced Stamina Usage -",
-      "produceCardCustomizeDescription": "Stamina Usage Decrease –"
+      "name": "Pengurangan Biaya Stamina -",
+      "produceCardCustomizeDescription": "Pengurangan Biaya Stamina -"
     },
     {
       "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnAdd",
       "produceDescriptionLabelId": "Label_StaminaConsumptionAddTurnAdd",
-      "name": "Increased Stamina Usage -",
-      "produceCardCustomizeDescription": "Stamina Usage Increase +"
+      "name": "Penambahan Biaya Stamina -",
+      "produceCardCustomizeDescription": "Penambahan Biaya Stamina +"
     },
     {
       "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnReduce",
       "produceDescriptionLabelId": "Label_StaminaConsumptionAddTurnReduce",
-      "name": "Increased Stamina Usage +",
-      "produceCardCustomizeDescription": "Stamina Usage Increase –"
+      "name": "Penambahan Biaya Stamina +",
+      "produceCardCustomizeDescription": "Penambahan Biaya Stamina -"
     },
     {
       "type": "ProduceCardGrowEffectType_EffectAdd",
       "produceDescriptionLabelId": "Label_EffectAdd",
-      "name": "Effect Addition ",
-      "produceCardCustomizeDescription": "Effect Addition "
+      "name": "Penambahan Efek",
+      "produceCardCustomizeDescription": "Penambahan Efek"
     },
     {
       "type": "ProduceCardGrowEffectType_EffectDelete",
       "produceDescriptionLabelId": "Label_EffectDelete",
-      "name": "Effect Deletion ",
-      "produceCardCustomizeDescription": "Effect Deletion "
+      "name": "Penghapusan Efek",
+      "produceCardCustomizeDescription": "Penghapusan Efek"
     },
     {
       "type": "ProduceCardGrowEffectType_EffectChange",
       "produceDescriptionLabelId": "Label_EffectChange",
-      "name": "Effect Replacement ",
-      "produceCardCustomizeDescription": "Effect Change"
+      "name": "Penggantian Efek",
+      "produceCardCustomizeDescription": "Penggantian Efek"
     },
     {
       "type": "ProduceCardGrowEffectType_CardStatusEnchantChange",
       "produceDescriptionLabelId": "Label_CardStatusEnchantChange",
-      "name": "Growth Change ",
-      "produceCardCustomizeDescription": "Growth Change "
+      "name": "Ubah Pertumbuhan",
+      "produceCardCustomizeDescription": "Ubah Pertumbuhan"
     },
     {
       "type": "ProduceCardGrowEffectType_PlayTriggerChange",
       "produceDescriptionLabelId": "Label_PlayTriggerChange",
-      "name": "Use Condition Replacement ",
-      "produceCardCustomizeDescription": "Condition Change"
+      "name": "Penggantian Syarat Penggunaan",
+      "produceCardCustomizeDescription": "Penggantian Syarat"
     },
     {
       "type": "ProduceCardGrowEffectType_PlayEffectTriggerChange",
       "produceDescriptionLabelId": "Label_PlayEffectTriggerChange",
-      "name": "Effect Activation Condition",
-      "produceCardCustomizeDescription": "Condition Change"
+      "name": "Syarat Aktivasi Efek",
+      "produceCardCustomizeDescription": "Penggantian Syarat"
     },
     {
       "type": "ProduceCardGrowEffectType_PlayMovePositionTypeChange",
       "produceDescriptionLabelId": "Label_PlayMovePositionTypeChange",
-      "name": "Move Destination Change ",
-      "produceCardCustomizeDescription": "Move Destination Change"
+      "name": "Perubahan Tujuan Kartu",
+      "produceCardCustomizeDescription": "Perubahan Tujuan Kartu"
     },
     {
       "type": "ProduceCardGrowEffectType_InitialAdd",
       "produceDescriptionLabelId": "Label_InitialAdd",
-      "name": "Start Hand Effect Grant ",
-      "produceCardCustomizeDescription": "Added to Hand at Start"
+      "name": "Kartu di Tangan Awal",
+      "produceCardCustomizeDescription": "Ditambahkan ke Tangan di Awal"
     },
     {
       "type": "ProduceCardGrowEffectType_CostLessonBuffReduce",
       "produceDescriptionLabelId": "Label_CostLessonBuffReduce",
-      "name": "Focus Cost +",
-      "produceCardCustomizeDescription": "Focus Cost –"
+      "name": "Biaya Fokus -",
+      "produceCardCustomizeDescription": "Biaya Fokus -"
     },
     {
       "type": "ProduceCardGrowEffectType_CostLessonBuffAdd",
       "produceDescriptionLabelId": "Label_CostLessonBuffAdd",
-      "name": "Focus Cost -",
-      "produceCardCustomizeDescription": "Focus Cost +"
+      "name": "Biaya Fokus +",
+      "produceCardCustomizeDescription": "Biaya Fokus +"
     },
     {
       "type": "ProduceCardGrowEffectType_CostReviewReduce",
       "produceDescriptionLabelId": "Label_CostReviewReduce",
-      "name": "Good Impression Cost -",
-      "produceCardCustomizeDescription": "Good Impression Cost –"
+      "name": "Biaya Kesan Baik -",
+      "produceCardCustomizeDescription": "Biaya Kesan Baik -"
     },
     {
       "type": "ProduceCardGrowEffectType_CostReviewAdd",
       "produceDescriptionLabelId": "Label_CostReviewAdd",
-      "name": "Good Impression Cost +",
-      "produceCardCustomizeDescription": "Good Impression Cost +"
+      "name": "Biaya Kesan Baik +",
+      "produceCardCustomizeDescription": "Biaya Kesan Baik +"
     },
     {
       "type": "ProduceCardGrowEffectType_CostAggressiveReduce",
       "produceDescriptionLabelId": "Label_CostAggressiveReduce",
-      "name": "Motivation Cost -",
-      "produceCardCustomizeDescription": "Motivation Cost –"
+      "name": "Biaya Semangat -",
+      "produceCardCustomizeDescription": "Biaya Semangat -"
     },
     {
       "type": "ProduceCardGrowEffectType_CostAggressiveAdd",
       "produceDescriptionLabelId": "Label_CostAggressiveAdd",
-      "name": "Motivation Cost +",
-      "produceCardCustomizeDescription": "Motivation Cost +"
+      "name": "Biaya Semangat +",
+      "produceCardCustomizeDescription": "Biaya Semangat +"
     },
     {
       "type": "ProduceCardGrowEffectType_CostParameterBuffReduce",
       "produceDescriptionLabelId": "Label_CostParameterBuffReduce",
-      "name": "Good Shape Cost -",
-      "produceCardCustomizeDescription": "Good Shape Cost –"
+      "name": "Biaya Kondisi Baik -",
+      "produceCardCustomizeDescription": "Biaya Kondisi Baik -"
     },
     {
       "type": "ProduceCardGrowEffectType_CostParameterBuffAdd",
       "produceDescriptionLabelId": "Label_CostParameterBuffAdd",
-      "name": "Good Shape Cost +",
-      "produceCardCustomizeDescription": "Good Shape Cost +"
+      "name": "Biaya Kondisi Baik +",
+      "produceCardCustomizeDescription": "Biaya Kondisi Baik +"
     },
     {
       "type": "ProduceCardGrowEffectType_CostFullPowerPointReduce",
       "produceDescriptionLabelId": "Label_CostFullPowerPointReduce",
-      "name": "Full Power Cost -",
-      "produceCardCustomizeDescription": "Full Power Point Cost –"
+      "name": "Biaya Full Power -",
+      "produceCardCustomizeDescription": "Biaya Poin Full Power -"
     },
     {
       "type": "ProduceCardGrowEffectType_CostFullPowerPointAdd",
       "produceDescriptionLabelId": "Label_CostFullPowerPointAdd",
-      "name": "Full Power Cost +",
-      "produceCardCustomizeDescription": "Full Power Point Cost +"
+      "name": "Biaya Full Power +",
+      "produceCardCustomizeDescription": "Biaya Poin Full Power +"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonDependBlockAdd",
       "produceDescriptionLabelId": "Label_LessonDependBlockAdd",
-      "name": "Energy Param Multiplier +",
-      "produceCardCustomizeDescription": "Energy-Based Param +"
+      "name": "Pengali Param Berbasis Genki +",
+      "produceCardCustomizeDescription": "Param Berbasis Genki +"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonDependExamCardPlayAggressiveAdd",
       "produceDescriptionLabelId": "Label_LessonDependExamCardPlayAggressiveAdd",
-      "name": "Motivation Param Multiplier +",
-      "produceCardCustomizeDescription": "Motivation-Based Param +"
+      "name": "Pengali Param Berbasis Semangat +",
+      "produceCardCustomizeDescription": "Param Berbasis Semangat +"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonDependExamReviewAdd",
       "produceDescriptionLabelId": "Label_LessonDependExamReviewAdd",
-      "name": "Good Imp Param Multiplier +",
-      "produceCardCustomizeDescription": "Good Imp-Based Param +"
+      "name": "Pengali Param Berbasis Kesan Baik +",
+      "produceCardCustomizeDescription": "Param Berbasis Kesan Baik +"
     },
     {
       "type": "ProduceCardGrowEffectType_CostParameterBuffMultiplePerTurnAdd",
       "produceDescriptionLabelId": "Label_CostParameterBuffMultiplePerTurnAdd",
-      "name": "Excellent shape Cost +",
-      "produceCardCustomizeDescription": "Excellent Condition Cost +"
+      "name": "Biaya Kondisi Prima +",
+      "produceCardCustomizeDescription": "Biaya Kondisi Prima +"
     },
     {
       "type": "ProduceCardGrowEffectType_CostParameterBuffMultiplePerTurnReduce",
       "produceDescriptionLabelId": "Label_CostParameterBuffMultiplePerTurnReduce",
-      "name": "Excellent shape Cost -",
-      "produceCardCustomizeDescription": "Excellent Condition Cost –"
+      "name": "Biaya Kondisi Prima -",
+      "produceCardCustomizeDescription": "Biaya Kondisi Prima -"
     }
   ]
 }

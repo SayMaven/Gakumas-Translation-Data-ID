@@ -7,67 +7,67 @@
   "data": [
     {
       "id": "CardPlayAggressive_group_20",
-      "description": "I recommend using \"Motivation\" skill cards"
+      "description": "Direkomendasikan menggunakan Skill Card \"Semangat\""
     },
     {
       "id": "CardPlayAggressive_group_35",
-      "description": "I recommend using \"Motivation\" skill cards"
+      "description": "Direkomendasikan menggunakan Skill Card \"Semangat\""
     },
     {
       "id": "CardPlayAggressive_Review_group_20",
-      "description": "It’s good to balance both \"Motivation\" together with \"Good Impression\" skill cards"
+      "description": "Disarankan menyeimbangkan Skill Card \"Semangat\" dan \"Kesan Baik\""
     },
     {
       "id": "CardPlayAggressive_Review_group_35",
-      "description": "It’s good to balance both \"Motivation\" together with \"Good Impression\" skill cards"
+      "description": "Disarankan menyeimbangkan Skill Card \"Semangat\" dan \"Kesan Baik\""
     },
     {
       "id": "Concentration_group_20",
-      "description": "It’s good to balance both \"Confident\" together with \"Preservation\" skill cards"
+      "description": "Disarankan menyeimbangkan Skill Card \"Percaya Diri\" dan \"Penghematan\""
     },
     {
       "id": "Concentration_group_35",
-      "description": "It’s good to balance both \"Confident\" together with \"Preservation\" skill cards"
+      "description": "Disarankan menyeimbangkan Skill Card \"Percaya Diri\" dan \"Penghematan\""
     },
     {
       "id": "FullPower_group_20",
-      "description": "It’s good to balance both \"Full Power Point\" together with \"Preservation\" skill cards"
+      "description": "Disarankan menyeimbangkan Skill Card \"Poin Full Power\" dan \"Penghematan\""
     },
     {
       "id": "FullPower_group_35",
-      "description": "It’s good to balance both \"Full Power Point\" together with \"Preservation\" skill cards"
+      "description": "Disarankan menyeimbangkan Skill Card \"Poin Full Power\" dan \"Penghematan\""
     },
     {
       "id": "LessonBuff_group_20",
-      "description": "It’s good to balance both \"Focus\" together with \"Good Shape\" skill cards"
+      "description": "Disarankan menyeimbangkan Skill Card \"Fokus\" dan \"Kondisi Baik\""
     },
     {
       "id": "LessonBuff_group_35",
-      "description": "It’s good to balance both \"Focus\" together with \"Good Shape\" skill cards"
+      "description": "Disarankan menyeimbangkan Skill Card \"Fokus\" dan \"Kondisi Baik\""
     },
     {
       "id": "ParameterBuff_group_20",
-      "description": "It’s good to balance both \"Good Shape\" together with \"Focus\" skill cards"
+      "description": "Disarankan menyeimbangkan Skill Card \"Kondisi Baik\" dan \"Fokus\""
     },
     {
       "id": "ParameterBuff_group_35",
-      "description": "It’s good to balance both \"Good Shape\" together with \"Focus\" skill cards"
+      "description": "Disarankan menyeimbangkan Skill Card \"Kondisi Baik\" dan \"Fokus\""
     },
     {
       "id": "Review_CardPlayAggressive_group_20",
-      "description": "It’s good to balance both \"Good Impression\" together with \"Motivation\" skill cards"
+      "description": "Disarankan menyeimbangkan Skill Card \"Kesan Baik\" dan \"Semangat\""
     },
     {
       "id": "Review_CardPlayAggressive_group_35",
-      "description": "It’s good to balance both \"Good Impression\" together with \"Motivation\" skill cards"
+      "description": "Disarankan menyeimbangkan Skill Card \"Kesan Baik\" dan \"Semangat\""
     },
     {
       "id": "Review_group_20",
-      "description": "I recommend using \"Good Impression\" skill cards"
+      "description": "Direkomendasikan menggunakan Skill Card \"Kesan Baik\""
     },
     {
       "id": "Review_group_35",
-      "description": "I recommend using \"Good Impression\" skill cards"
+      "description": "Direkomendasikan menggunakan Skill Card \"Kesan Baik\""
     }
   ]
 }

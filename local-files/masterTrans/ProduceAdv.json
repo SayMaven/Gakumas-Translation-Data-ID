@@ -9,122 +9,122 @@
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_BeforeFinalLessonHard",
-      "title": "Start of the final exam lesson!"
+      "title": "Awal Lesson Ujian Akhir!"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_BeforeMid1LessonHard",
-      "title": "Start of the final exam lesson!"
+      "title": "Awal Lesson Ujian Akhir!"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_BeforeMid2LessonHard",
-      "title": "Start of the final exam lesson!"
+      "title": "Awal Lesson Ujian Akhir!"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_BeforeFinalAuditionRefresh",
-      "title": "The day before the final exam"
+      "title": "Sehari Sebelum Ujian Akhir"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_BeforeMid1AuditionRefresh",
-      "title": "The day before the mid-term exam"
+      "title": "Sehari Sebelum Ujian Tengah Semester"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_BeforeMid2AuditionRefresh",
-      "title": "The day before the mid-term exam"
+      "title": "Sehari Sebelum Ujian Tengah Semester"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_Opening",
-      "title": "Regular performance \"Hajime\""
+      "title": "Pertunjukan Reguler \"Hajime\""
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultTrueEnd",
-      "title": "The final results are..."
+      "title": "Hasil Akhirnya adalah..."
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultA",
-      "title": "The final results are..."
+      "title": "Hasil Akhirnya adalah..."
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultB",
-      "title": "The final results are..."
+      "title": "Hasil Akhirnya adalah..."
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultC",
-      "title": "The final results are..."
+      "title": "Hasil Akhirnya adalah..."
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultFailedFinal",
-      "title": "The final results are..."
+      "title": "Hasil Akhirnya adalah..."
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultFailedMid1",
-      "title": "The final results are..."
+      "title": "Hasil Akhirnya adalah..."
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultFailedMid2",
-      "title": "The final results are..."
+      "title": "Hasil Akhirnya adalah..."
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeFinalLessonHard",
-      "title": "Start of the final exam lesson!"
+      "title": "Awal Lesson Ujian Akhir!"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid1LessonHard",
-      "title": "Start of the final exam lesson!"
+      "title": "Awal Lesson Ujian Akhir!"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid2LessonHard",
-      "title": "Start of the final exam lesson!"
+      "title": "Awal Lesson Ujian Akhir!"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeFinalAuditionRefresh",
-      "title": "The day before the final audition"
+      "title": "Sehari Sebelum Audisi Final"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid1AuditionRefresh",
-      "title": "The day before the 1st audition"
+      "title": "Sehari Sebelum Audisi ke-1"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid2AuditionRefresh",
-      "title": "The day before the 2nd audition"
+      "title": "Sehari Sebelum Audisi ke-2"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeFinalAuditionSelect",
-      "title": "Final audition selection"
+      "title": "Seleksi Audisi Final"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid1AuditionSelect",
-      "title": "1st audition selection"
+      "title": "Seleksi Audisi ke-1"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid2AuditionSelect",
-      "title": "2nd audition selection"
+      "title": "Seleksi Audisi ke-2"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_StepSkip",
-      "title": "Let's take a rest today"
+      "title": "Mari Beristirahat Hari Ini"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
@@ -134,37 +134,37 @@
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultTrueEnd",
-      "title": "The final results are..."
+      "title": "Hasil Akhirnya adalah..."
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultA",
-      "title": "The final results are..."
+      "title": "Hasil Akhirnya adalah..."
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultB",
-      "title": "The final results are..."
+      "title": "Hasil Akhirnya adalah..."
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultC",
-      "title": "The final results are..."
+      "title": "Hasil Akhirnya adalah..."
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultFailedFinal",
-      "title": "The final results are..."
+      "title": "Hasil Akhirnya adalah..."
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultFailedMid1",
-      "title": "The final results are..."
+      "title": "Hasil Akhirnya adalah..."
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultFailedMid2",
-      "title": "The final results are..."
+      "title": "Hasil Akhirnya adalah..."
     }
   ]
 }

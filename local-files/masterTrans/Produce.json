@@ -7,7 +7,7 @@
   "data": [
     {
       "id": "produce-001",
-      "name": "Regular"
+      "name": "Reguler"
     },
     {
       "id": "produce-002",
@@ -31,11 +31,11 @@
     },
     {
       "id": "produce-007",
-      "name": "Qualifier"
+      "name": "Babak Kualifikasi"
     },
     {
       "id": "produce-008",
-      "name": "Finals"
+      "name": "Babak Final"
     }
   ]
 }

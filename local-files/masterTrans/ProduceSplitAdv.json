@@ -13,182 +13,182 @@
       "type": "ProduceAdvType_BeforeFinalAuditionRefresh",
       "produceSplitTypes": "ProduceSplitType_Selection",
       "targetCharacterId": "",
-      "title": "Before the 3rd Qualifier"
+      "title": "Sebelum Babak Kualifikasi ke-3"
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_BeforeFinalAuditionRefresh",
       "produceSplitTypes": "ProduceSplitType_Final",
       "targetCharacterId": "",
-      "title": "Before Round 2 of the finals"
+      "title": "Sebelum Babak 2 Final"
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_BeforeMid1AuditionRefresh",
       "produceSplitTypes": "ProduceSplitType_Selection",
       "targetCharacterId": "",
-      "title": "Before the 1st Qualifier"
+      "title": "Sebelum Babak Kualifikasi ke-1"
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_BeforeMid1AuditionRefresh",
       "produceSplitTypes": "ProduceSplitType_Final",
       "targetCharacterId": "",
-      "title": "To the Final Stage!"
+      "title": "Menuju Panggung Final!"
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_BeforeMid2AuditionRefresh",
       "produceSplitTypes": "ProduceSplitType_Selection",
       "targetCharacterId": "",
-      "title": "Before the 2nd Qualifier"
+      "title": "Sebelum Babak Kualifikasi ke-2"
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_Opening",
       "produceSplitTypes": "ProduceSplitType_Selection",
       "targetCharacterId": "",
-      "title": "H.I.F Qualifier"
+      "title": "Babak Kualifikasi H.I.F"
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_Opening",
       "produceSplitTypes": "ProduceSplitType_Selection",
       "targetCharacterId": "hski",
-      "title": "H.I.F Qualifier"
+      "title": "Babak Kualifikasi H.I.F"
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_Opening",
       "produceSplitTypes": "ProduceSplitType_Selection",
       "targetCharacterId": "jsna",
-      "title": "H.I.F Qualifier"
+      "title": "Babak Kualifikasi H.I.F"
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_Opening",
       "produceSplitTypes": "ProduceSplitType_Final",
       "targetCharacterId": "",
-      "title": "H.I.F Finals"
+      "title": "Babak Final H.I.F"
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_Opening",
       "produceSplitTypes": "ProduceSplitType_Final",
       "targetCharacterId": "hski",
-      "title": "H.I.F Finals"
+      "title": "Babak Final H.I.F"
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_Opening",
       "produceSplitTypes": "ProduceSplitType_Final",
       "targetCharacterId": "jsna",
-      "title": "H.I.F Finals"
+      "title": "Babak Final H.I.F"
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_Opening",
       "produceSplitTypes": "ProduceSplitType_Final",
       "targetCharacterId": "kllj",
-      "title": "H.I.F Finals"
+      "title": "Babak Final H.I.F"
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_Opening",
       "produceSplitTypes": "ProduceSplitType_Final",
       "targetCharacterId": "ssmk",
-      "title": "H.I.F Finals"
+      "title": "Babak Final H.I.F"
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_ProduceResultTrueEnd",
       "produceSplitTypes": "ProduceSplitType_Selection",
       "targetCharacterId": "",
-      "title": "The results of the qualifier are..."
+      "title": "Hasil Babak Kualifikasi adalah..."
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_ProduceResultTrueEnd",
       "produceSplitTypes": "ProduceSplitType_Final",
       "targetCharacterId": "",
-      "title": "The results of the H.I.F finals are..."
+      "title": "Hasil Babak Final H.I.F adalah..."
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_ProduceResultA",
       "produceSplitTypes": "ProduceSplitType_Selection",
       "targetCharacterId": "",
-      "title": "The results of the qualifier are..."
+      "title": "Hasil Babak Kualifikasi adalah..."
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_ProduceResultA",
       "produceSplitTypes": "ProduceSplitType_Final",
       "targetCharacterId": "",
-      "title": "The results of the H.I.F finals are..."
+      "title": "Hasil Babak Final H.I.F adalah..."
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_ProduceResultB",
       "produceSplitTypes": "ProduceSplitType_Selection",
       "targetCharacterId": "",
-      "title": "The results of the qualifier are..."
+      "title": "Hasil Babak Kualifikasi adalah..."
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_ProduceResultB",
       "produceSplitTypes": "ProduceSplitType_Final",
       "targetCharacterId": "",
-      "title": "The results of the H.I.F finals are..."
+      "title": "Hasil Babak Final H.I.F adalah..."
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_ProduceResultC",
       "produceSplitTypes": "ProduceSplitType_Selection",
       "targetCharacterId": "",
-      "title": "The results of the qualifier are..."
+      "title": "Hasil Babak Kualifikasi adalah..."
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_ProduceResultC",
       "produceSplitTypes": "ProduceSplitType_Final",
       "targetCharacterId": "",
-      "title": "The results of the H.I.F finals are..."
+      "title": "Hasil Babak Final H.I.F adalah..."
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_ProduceResultFailedFinal",
       "produceSplitTypes": "ProduceSplitType_Selection",
       "targetCharacterId": "",
-      "title": "The results of the qualifier are..."
+      "title": "Hasil Babak Kualifikasi adalah..."
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_ProduceResultFailedFinal",
       "produceSplitTypes": "ProduceSplitType_Final",
       "targetCharacterId": "",
-      "title": "The results of the H.I.F finals are..."
+      "title": "Hasil Babak Final H.I.F adalah..."
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_ProduceResultFailedMid1",
       "produceSplitTypes": "ProduceSplitType_Selection",
       "targetCharacterId": "",
-      "title": "The results of the qualifier are..."
+      "title": "Hasil Babak Kualifikasi adalah..."
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_ProduceResultFailedMid1",
       "produceSplitTypes": "ProduceSplitType_Final",
       "targetCharacterId": "",
-      "title": "The results of the H.I.F finals are..."
+      "title": "Hasil Babak Final H.I.F adalah..."
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_ProduceResultFailedMid2",
       "produceSplitTypes": "ProduceSplitType_Selection",
       "targetCharacterId": "",
-      "title": "The results of the qualifier are..."
+      "title": "Hasil Babak Kualifikasi adalah..."
     }
   ]
 }

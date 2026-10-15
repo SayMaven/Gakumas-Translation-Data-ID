@@ -14,7 +14,7 @@
     {
       "id": "Swap_Convert_001",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Turn "
+      "text": "Giliran "
     },
     {
       "id": "Swap_Convert_002",
@@ -24,27 +24,27 @@
     {
       "id": "Swap_Convert_002",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Exam/Stage "
+      "text": "Ujian/Panggung "
     },
     {
       "id": "Swap_Convert_ConditionThreshold",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Lesson CLEAR "
+      "text": "Lesson SELESAI "
     },
     {
       "id": "Swap_Convert_ConditionThreshold",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Score is "
+      "text": "Skor mencapai "
     },
     {
       "id": "Swap_Convert_ConditionThreshold_NotClear",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Lesson not CLEAR "
+      "text": "Lesson tidak SELESAI "
     },
     {
       "id": "Swap_Convert_ConditionThreshold_NotClear",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Score is 999 or less "
+      "text": "Skor 999 ke bawah "
     },
     {
       "id": "Swap_Convert_ConditionThreshold_Value_100",
@@ -89,122 +89,122 @@
     {
       "id": "Swap_Convert_StepLessonType_DanceLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "【Dance Lesson/Dance Turn only】"
+      "text": "【Khusus Lesson Dance/Giliran Dance】"
     },
     {
       "id": "Swap_Convert_StepLessonType_DanceLesson",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "If it's a Dance Turn, "
+      "text": "Jika Giliran Dance, "
     },
     {
       "id": "Swap_Convert_StepLessonType_SpLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "【SP Lesson only】"
+      "text": "【Khusus Lesson SP】"
     },
     {
       "id": "Swap_Convert_StepLessonType_SpLesson",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "【SP Lesson only】"
+      "text": "【Khusus Lesson SP】"
     },
     {
       "id": "Swap_Convert_StepLessonType_VisualLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "【Visual Lesson/Visual Turn only】"
+      "text": "【Khusus Lesson Visual/Giliran Visual】"
     },
     {
       "id": "Swap_Convert_StepLessonType_VisualLesson",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "If it's a Visual Turn, "
+      "text": "Jika Giliran Visual, "
     },
     {
       "id": "Swap_Convert_StepLessonType_VocalLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "【Vocal Lesson/Vocal Turn only】"
+      "text": "【Khusus Lesson Vocal/Giliran Vocal】"
     },
     {
       "id": "Swap_Convert_StepLessonType_VocalLesson",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "If it's a Vocal Turn, "
+      "text": "Jika Giliran Vocal, "
     },
     {
       "id": "Swap_Label_Audition",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Exam/Audition "
+      "text": "Ujian/Audisi "
     },
     {
       "id": "Swap_Label_Audition",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Exam/Audition "
+      "text": "Ujian/Audisi "
     },
     {
       "id": "Swap_Label_ExamCardUpgrade",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Upgrade during Lesson "
+      "text": "Tingkatkan saat Lesson "
     },
     {
       "id": "Swap_Label_ExamCardUpgrade",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Upgrade during Exam/Stage "
+      "text": "Tingkatkan saat Ujian/Panggung "
     },
     {
       "id": "Swap_Label_ExamGrowEffectLessonAddAdditive",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Param gain +"
+      "text": "Perolehan Param +"
     },
     {
       "id": "Swap_Label_ExamGrowEffectLessonAddAdditive",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Score gain +"
+      "text": "Perolehan Skor +"
     },
     {
       "id": "Swap_Label_ExamLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Params"
+      "text": "Param"
     },
     {
       "id": "Swap_Label_ExamLesson",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Score "
+      "text": "Skor "
     },
     {
       "id": "Swap_Label_ExamLessonChangeSpecifyLessThan",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Param increase change +"
+      "text": "Ubah Peningkatan Param +"
     },
     {
       "id": "Swap_Label_ExamLessonChangeSpecifyLessThan",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Score change +"
+      "text": "Ubah Skor +"
     },
     {
       "id": "Swap_Label_ExamLessonFix",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Fixed Params "
+      "text": "Param Tetap "
     },
     {
       "id": "Swap_Label_ExamLessonFix",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Fixed score "
+      "text": "Skor Tetap "
     },
     {
       "id": "Swap_Label_ExamLessonValueMultiple",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Param boost +"
+      "text": "Pengali Param +"
     },
     {
       "id": "Swap_Label_ExamLessonValueMultiple",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Score increase +"
+      "text": "Pengali Skor +"
     },
     {
       "id": "Swap_Label_ExamLessonValueMultipleDown",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Param boost -"
+      "text": "Pengali Param -"
     },
     {
       "id": "Swap_Label_ExamLessonValueMultipleDown",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Score increase -"
+      "text": "Pengali Skor -"
     },
     {
       "id": "Swap_Label_ExamStaminaDamage",
@@ -229,102 +229,102 @@
     {
       "id": "Swap_Label_LessonAdd",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Param value +"
+      "text": "Nilai Param +"
     },
     {
       "id": "Swap_Label_LessonAdd",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Score value +"
+      "text": "Nilai Skor +"
     },
     {
       "id": "Swap_Label_LessonCountAdd",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Param boost count +"
+      "text": "Jumlah Pengali Param +"
     },
     {
       "id": "Swap_Label_LessonCountAdd",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Score increase count +"
+      "text": "Jumlah Pengali Skor +"
     },
     {
       "id": "Swap_Label_LessonCountReduce",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Param boost count -"
+      "text": "Jumlah Pengali Param -"
     },
     {
       "id": "Swap_Label_LessonCountReduce",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Score increase count -"
+      "text": "Jumlah Pengali Skor -"
     },
     {
       "id": "Swap_Label_LessonReduce",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Param value -"
+      "text": "Nilai Param -"
     },
     {
       "id": "Swap_Label_LessonReduce",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Score value -"
+      "text": "Nilai Skor -"
     },
     {
       "id": "Swap_Label_MemoryAbilityIsUniqueActivation",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Can't Activate Multiple Times "
+      "text": "Tidak Bisa Aktif Berkali-kali "
     },
     {
       "id": "Swap_Label_MemoryAbilityIsUniqueActivation",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Can't Activate Multiple Times "
+      "text": "Tidak Bisa Aktif Berkali-kali "
     },
     {
       "id": "Swap_Label_ProduceCardMovePositionType_Lost",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Once during Lesson "
+      "text": "Sekali selama Lesson "
     },
     {
       "id": "Swap_Label_ProduceCardMovePositionType_Lost",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Once during Exam/Stage "
+      "text": "Sekali selama Ujian/Panggung "
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckFirst",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Top of the deck "
+      "text": "Bagian atas Deck "
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckFirst",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Top of the deck "
+      "text": "Bagian atas Deck "
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckLast",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Bottom of the deck "
+      "text": "Bagian bawah Deck "
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckLast",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Bottom of the deck "
+      "text": "Bagian bawah Deck "
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckRandom",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Random position in the deck "
+      "text": "Posisi acak di Deck "
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckRandom",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Random position in the deck "
+      "text": "Posisi acak di Deck "
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_Grave",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Discard pile "
+      "text": "Discard Pile "
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_Grave",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Discard pile "
+      "text": "Discard Pile "
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_Hand",
@@ -349,52 +349,52 @@
     {
       "id": "Swap_Label_ProduceType_FirstStar",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Hajime Only "
+      "text": "Khusus Hajime "
     },
     {
       "id": "Swap_Label_ProduceType_FirstStar",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Hajime Only "
+      "text": "Khusus Hajime "
     },
     {
       "id": "Swap_Label_ProduceType_HatsuboshiIdolFestival",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "H.I.F Only "
+      "text": "Khusus H.I.F "
     },
     {
       "id": "Swap_Label_ProduceType_HatsuboshiIdolFestival",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "H.I.F Only "
+      "text": "Khusus H.I.F "
     },
     {
       "id": "Swap_Label_ProduceType_HatsuboshiIdolFestival_Final",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "H.I.F Finals Only "
+      "text": "Khusus Final H.I.F "
     },
     {
       "id": "Swap_Label_ProduceType_HatsuboshiIdolFestival_Final",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "H.I.F Finals Only "
+      "text": "Khusus Final H.I.F "
     },
     {
       "id": "Swap_Label_ProduceType_HatsuboshiIdolFestival_Selection",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "H.I.F Qualifier Only "
+      "text": "Khusus Kualifikasi H.I.F "
     },
     {
       "id": "Swap_Label_ProduceType_HatsuboshiIdolFestival_Selection",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "H.I.F Qualifier Only "
+      "text": "Khusus Kualifikasi H.I.F "
     },
     {
       "id": "Swap_Label_ProduceType_NextIdolAudition",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "N.I.A Only "
+      "text": "Khusus N.I.A "
     },
     {
       "id": "Swap_Label_ProduceType_NextIdolAudition",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "N.I.A Only "
+      "text": "Khusus N.I.A "
     }
   ]
 }
