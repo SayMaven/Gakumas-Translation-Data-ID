@@ -11,7 +11,7 @@
       "characterId": "amao",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "3rd Year"
+      "content": "Kelas 3"
     },
     {
       "characterId": "amao",
@@ -41,7 +41,7 @@
       "characterId": "amao",
       "type": "CharacterDetailType_ZodiacSign",
       "order": 6,
-      "content": "Capricorn"
+      "content": "Kaprikornus"
     },
     {
       "characterId": "amao",
@@ -59,13 +59,13 @@
       "characterId": "amao",
       "type": "CharacterDetailType_Birthday",
       "order": 9,
-      "content": "Jan 18"
+      "content": "18 Jan"
     },
     {
       "characterId": "amao",
       "type": "CharacterDetailType_DominantHand",
       "order": 10,
-      "content": "Right"
+      "content": "Kanan"
     },
     {
       "characterId": "amao",
@@ -77,25 +77,25 @@
       "characterId": "amao",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "Martial arts, dexterity"
+      "content": "Bela diri, ketangkasan"
     },
     {
       "characterId": "amao",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "Caring for others, watching plays"
+      "content": "Merawat orang lain, menonton drama teater"
     },
     {
       "characterId": "amao",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "A small 3rd-year aiming to be a cool idol. Admired as a\nsmall prince by juniors.She’s struggled with the gap\nbetween her ideal image and her physical growth\nsince she aspired to be a musical star in childhood."
+      "content": "Siswi kelas 3 bertubuh mungil yang ingin menjadi idol keren. Dikagumi sebagai pangeran kecil oleh para juniornya. Sejak kecil bercita-cita menjadi bintang musikal, ia sempat berjuang menghadapi jurang antara sosok idealnya dan pertumbuhan fisiknya."
     },
     {
       "characterId": "atbm",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "3rd Year"
+      "content": "Kelas 3"
     },
     {
       "characterId": "atbm",
@@ -143,13 +143,13 @@
       "characterId": "atbm",
       "type": "CharacterDetailType_Birthday",
       "order": 9,
-      "content": "May 20"
+      "content": "20 Mei"
     },
     {
       "characterId": "atbm",
       "type": "CharacterDetailType_DominantHand",
       "order": 10,
-      "content": "Right"
+      "content": "Kanan"
     },
     {
       "characterId": "atbm",
@@ -161,19 +161,19 @@
       "characterId": "atbm",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "Calligraphy, History, reading"
+      "content": "Kaligrafi, sejarah, membaca"
     },
     {
       "characterId": "atbm",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "Secretarial skills, mathematics, calligraphy"
+      "content": "Keahlian kesekretariatan, matematika, kaligrafi"
     },
     {
       "characterId": "fktn",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "1st Year"
+      "content": "Kelas 1"
     },
     {
       "characterId": "fktn",
@@ -221,13 +221,13 @@
       "characterId": "fktn",
       "type": "CharacterDetailType_Birthday",
       "order": 9,
-      "content": "Apr 29"
+      "content": "29 Apr"
     },
     {
       "characterId": "fktn",
       "type": "CharacterDetailType_DominantHand",
       "order": 10,
-      "content": "Right"
+      "content": "Kanan"
     },
     {
       "characterId": "fktn",
@@ -239,25 +239,25 @@
       "characterId": "fktn",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "Dancing, getting along with others"
+      "content": "Menari, mudah akrab dengan orang lain"
     },
     {
       "characterId": "fktn",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "Earning money"
+      "content": "Mencari uang"
     },
     {
       "characterId": "fktn",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "A mood maker aiming to be a profitable idol.\nA talented dancer with low self-evaluation\nbut seems off-balance. Works many part-time\njobs, always tired."
+      "content": "Sosok pembawa suasana ceria yang bertekad menjadi idol yang menghasilkan banyak uang. Penari berbakat dengan penilaian diri yang rendah dan sering tampak kelelahan karena bekerja di banyak tempat paruh waktu."
     },
     {
       "characterId": "hmsz",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "1st Year"
+      "content": "Kelas 1"
     },
     {
       "characterId": "hmsz",
@@ -287,7 +287,7 @@
       "characterId": "hmsz",
       "type": "CharacterDetailType_ZodiacSign",
       "order": 6,
-      "content": "Aquarius"
+      "content": "Akuarius"
     },
     {
       "characterId": "hmsz",
@@ -305,13 +305,13 @@
       "characterId": "hmsz",
       "type": "CharacterDetailType_Birthday",
       "order": 9,
-      "content": "Feb 6"
+      "content": "6 Feb"
     },
     {
       "characterId": "hmsz",
       "type": "CharacterDetailType_DominantHand",
       "order": 10,
-      "content": "Right"
+      "content": "Kanan"
     },
     {
       "characterId": "hmsz",
@@ -323,25 +323,25 @@
       "characterId": "hmsz",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "Cooking, Floristry, Perfect Int. Clock"
+      "content": "Memasak, merangkai bunga, jam biologis sempurna"
     },
     {
       "characterId": "hmsz",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "Napping, Taking Walks"
+      "content": "Tidur siang, jalan-jalan santai"
     },
     {
       "characterId": "hmsz",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "A former member of the number one middle school unit, \"SyngUp!\".\nShe was overshadowed by Temari Tsukimura and received somewhat\nlow praise, but her talent is the real deal. She gives the impression of\nbeing a complete idol with few flaws. There's plenty of room for further growth."
+      "content": "Mantan anggota unit nomor satu di SMP, \"SyngUp!\". Sempat dibayangi oleh Temari Tsukimura dan kurang mendapat pujian, namun bakatnya adalah yang sesungguhnya. Memberikan kesan sebagai idol sempurna dengan sedikit kekurangan. Masih banyak ruang untuk berkembang lebih jauh."
     },
     {
       "characterId": "hrnm",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "3rd Year"
+      "content": "Kelas 3"
     },
     {
       "characterId": "hrnm",
@@ -371,7 +371,7 @@
       "characterId": "hrnm",
       "type": "CharacterDetailType_ZodiacSign",
       "order": 6,
-      "content": "Pisces"
+      "content": "Pises"
     },
     {
       "characterId": "hrnm",
@@ -389,13 +389,13 @@
       "characterId": "hrnm",
       "type": "CharacterDetailType_Birthday",
       "order": 9,
-      "content": "Mar 5"
+      "content": "5 Mar"
     },
     {
       "characterId": "hrnm",
       "type": "CharacterDetailType_DominantHand",
       "order": 10,
-      "content": "Right"
+      "content": "Kanan"
     },
     {
       "characterId": "hrnm",
@@ -407,25 +407,25 @@
       "characterId": "hrnm",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "Cooking, sewing, crafts"
+      "content": "Memasak, menjahit, kerajinan tangan"
     },
     {
       "characterId": "hrnm",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "Café hopping, collecting cosmetics"
+      "content": "Keliling kafe, mengoleksi kosmetik"
     },
     {
       "characterId": "hrnm",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "A mature 3rd-year. The older sister in the dorm,\ntaking care of others. Has been in a unit before\nbut didn’t do well."
+      "content": "Siswi kelas 3 yang dewasa. Menjadi sosok kakak di asrama yang selalu merawat orang lain. Pernah bergabung dalam sebuah unit sebelumnya, namun tidak berjalan mulus."
     },
     {
       "characterId": "hski",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "1st Year"
+      "content": "Kelas 1"
     },
     {
       "characterId": "hski",
@@ -473,13 +473,13 @@
       "characterId": "hski",
       "type": "CharacterDetailType_Birthday",
       "order": 9,
-      "content": "Apr 2"
+      "content": "2 Apr"
     },
     {
       "characterId": "hski",
       "type": "CharacterDetailType_DominantHand",
       "order": 10,
-      "content": "Left"
+      "content": "Kiri"
     },
     {
       "characterId": "hski",
@@ -491,25 +491,25 @@
       "characterId": "hski",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "Sports, chores, massage"
+      "content": "Olahraga, pekerjaan rumah, pijat"
     },
     {
       "characterId": "hski",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "All kinds of competitions"
+      "content": "Segala jenis kompetisi"
     },
     {
       "characterId": "hski",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "Top student of the entrance exam, an athlete\nwith excellent physical abilities, and quick\nto learn. While her growth is impressive,\nit’s hard to see major changes now."
+      "content": "Peraih peringkat teratas dalam ujian masuk, seorang atlet dengan kemampuan fisik luar biasa dan cepat belajar. Meski perkembangannya mengesankan, kini sulit untuk melihat lonjakan perubahan yang drastis."
     },
     {
       "characterId": "hume",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "1st Year"
+      "content": "Kelas 1"
     },
     {
       "characterId": "hume",
@@ -557,13 +557,13 @@
       "characterId": "hume",
       "type": "CharacterDetailType_Birthday",
       "order": 9,
-      "content": "Apr 1"
+      "content": "1 Apr"
     },
     {
       "characterId": "hume",
       "type": "CharacterDetailType_DominantHand",
       "order": 10,
-      "content": "Right"
+      "content": "Kanan"
     },
     {
       "characterId": "hume",
@@ -575,25 +575,25 @@
       "characterId": "hume",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "Sports, massage"
+      "content": "Olahraga, pijat"
     },
     {
       "characterId": "hume",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "Competing with her sister"
+      "content": "Bersaing dengan kakaknya"
     },
     {
       "characterId": "hume",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "A new student admitted as a backup.\nFull of energy, a former athlete with excellent physical ability."
+      "content": "Murid baru yang diterima melalui slot cadangan. Penuh energi, mantan atlet dengan kemampuan fisik yang luar biasa."
     },
     {
       "characterId": "jsna",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "3rd Year"
+      "content": "Kelas 3"
     },
     {
       "characterId": "jsna",
@@ -623,7 +623,7 @@
       "characterId": "jsna",
       "type": "CharacterDetailType_ZodiacSign",
       "order": 6,
-      "content": "Sag"
+      "content": "Sagitarius"
     },
     {
       "characterId": "jsna",
@@ -641,13 +641,13 @@
       "characterId": "jsna",
       "type": "CharacterDetailType_Birthday",
       "order": 9,
-      "content": "Dec 7"
+      "content": "7 Des"
     },
     {
       "characterId": "jsna",
       "type": "CharacterDetailType_DominantHand",
       "order": 10,
-      "content": "Both"
+      "content": "Keduanya"
     },
     {
       "characterId": "jsna",
@@ -659,25 +659,25 @@
       "characterId": "jsna",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "Identifying idol talent"
+      "content": "Melihat bakat terpendam idol"
     },
     {
       "characterId": "jsna",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "Training, finding talented idols"
+      "content": "Latihan, mencari idol berbakat"
     },
     {
       "characterId": "jsna",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "Student Council President of Hatsuboshi Academy and last year's \"Prima Stella\".\nAdmired by many students as the \"Top Idol of the Academy\"."
+      "content": "Ketua OSIS Akademi Hatsuboshi sekaligus \"Prima Stella\" tahun lalu. Dikagumi oleh banyak murid sebagai \"Top Idol Akademi\"."
     },
     {
       "characterId": "kcna",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "1st Year"
+      "content": "Kelas 1"
     },
     {
       "characterId": "kcna",
@@ -725,13 +725,13 @@
       "characterId": "kcna",
       "type": "CharacterDetailType_Birthday",
       "order": 9,
-      "content": "Aug 1"
+      "content": "1 Agu"
     },
     {
       "characterId": "kcna",
       "type": "CharacterDetailType_DominantHand",
       "order": 10,
-      "content": "Right"
+      "content": "Kanan"
     },
     {
       "characterId": "kcna",
@@ -743,25 +743,25 @@
       "characterId": "kcna",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "Cheerful greetings, liked by animals"
+      "content": "Sapaan ceria, disukai hewan"
     },
     {
       "characterId": "kcna",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "Drawing"
+      "content": "Menggambar"
     },
     {
       "characterId": "kcna",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "A pampered, cheerful girl aiming to be\na \"proper idol\" at Hatsuboshi Academy."
+      "content": "Gadis ceria dan manja yang bertekad menjadi \"idol sejati\" di Akademi Hatsuboshi."
     },
     {
       "characterId": "kllj",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "1st Year"
+      "content": "Kelas 1"
     },
     {
       "characterId": "kllj",
@@ -809,13 +809,13 @@
       "characterId": "kllj",
       "type": "CharacterDetailType_Birthday",
       "order": 9,
-      "content": "Jul 24"
+      "content": "24 Jul"
     },
     {
       "characterId": "kllj",
       "type": "CharacterDetailType_DominantHand",
       "order": 10,
-      "content": "Right"
+      "content": "Kanan"
     },
     {
       "characterId": "kllj",
@@ -827,25 +827,25 @@
       "characterId": "kllj",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "Baking, gaming"
+      "content": "Membuat kue, bermain game"
     },
     {
       "characterId": "kllj",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "Baking, Japanese anime"
+      "content": "Membuat kue, anime Jepang"
     },
     {
       "characterId": "kllj",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "An international freshman. Lacks experience in\nsinging or dancing, often shrinking with little\nconfidence. Doesn't seem suited for idols..."
+      "content": "Murid pertukaran kelas satu. Kurang berpengalaman dalam menyanyi atau menari, dan sering merasa minder serta kurang percaya diri. Tampaknya tidak cocok menjadi idol..."
     },
     {
       "characterId": "shro",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "1st Year"
+      "content": "Kelas 1"
     },
     {
       "characterId": "shro",
@@ -875,7 +875,7 @@
       "characterId": "shro",
       "type": "CharacterDetailType_ZodiacSign",
       "order": 6,
-      "content": "Sag"
+      "content": "Sagitarius"
     },
     {
       "characterId": "shro",
@@ -893,13 +893,13 @@
       "characterId": "shro",
       "type": "CharacterDetailType_Birthday",
       "order": 9,
-      "content": "Dec 21"
+      "content": "21 Des"
     },
     {
       "characterId": "shro",
       "type": "CharacterDetailType_DominantHand",
       "order": 10,
-      "content": "Left"
+      "content": "Kiri"
     },
     {
       "characterId": "shro",
@@ -911,25 +911,25 @@
       "characterId": "shro",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "Studying, physics, maths, puzzles"
+      "content": "Belajar, fisika, matematika, teka-teki"
     },
     {
       "characterId": "shro",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "Challenging weak subjects, growing houseplants"
+      "content": "Menantang hal yang tidak dikuasai, merawat tanaman hias"
     },
     {
       "characterId": "shro",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "A genius who graduated university at 14.\nGave up a promising future to pursue idol dreams.\nPerfect in academics but failed practicals.\nThe principal rated her highly."
+      "content": "Sosok jenius yang telah lulus universitas di usia 14 tahun. Melepaskan masa depan cerah demi mengejar mimpi menjadi idol. Sempurna dalam hal akademik namun gagal dalam ujian praktik. Kepala Sekolah memberinya penilaian yang sangat tinggi."
     },
     {
       "characterId": "ssmk",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "1st Year"
+      "content": "Kelas 1"
     },
     {
       "characterId": "ssmk",
@@ -959,7 +959,7 @@
       "characterId": "ssmk",
       "type": "CharacterDetailType_ZodiacSign",
       "order": 6,
-      "content": "Scorpio"
+      "content": "Skorpio"
     },
     {
       "characterId": "ssmk",
@@ -977,13 +977,13 @@
       "characterId": "ssmk",
       "type": "CharacterDetailType_Birthday",
       "order": 9,
-      "content": "Nov 11"
+      "content": "11 Nov"
     },
     {
       "characterId": "ssmk",
       "type": "CharacterDetailType_DominantHand",
       "order": 10,
-      "content": "Left"
+      "content": "Kiri"
     },
     {
       "characterId": "ssmk",
@@ -995,25 +995,25 @@
       "characterId": "ssmk",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "Flexible body"
+      "content": "Kelenturan tubuh"
     },
     {
       "characterId": "ssmk",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "Karaoke, SNS"
+      "content": "Karaoke, media sosial"
     },
     {
       "characterId": "ssmk",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "Bright, energetic girl who can make friends with\nanyone. Once a world-class ballet dancer, but\nlacks motivation in class and lessons."
+      "content": "Gadis ceria dan penuh semangat yang bisa berteman dengan siapa saja. Dulunya adalah penari balet kelas dunia, namun kurang termotivasi dalam pelajaran dan sesi latihan."
     },
     {
       "characterId": "ttmr",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "1st Year"
+      "content": "Kelas 1"
     },
     {
       "characterId": "ttmr",
@@ -1061,13 +1061,13 @@
       "characterId": "ttmr",
       "type": "CharacterDetailType_Birthday",
       "order": 9,
-      "content": "Jun 3"
+      "content": "3 Jun"
     },
     {
       "characterId": "ttmr",
       "type": "CharacterDetailType_DominantHand",
       "order": 10,
-      "content": "Right"
+      "content": "Kanan"
     },
     {
       "characterId": "ttmr",
@@ -1079,19 +1079,19 @@
       "characterId": "ttmr",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "Singing"
+      "content": "Menyanyi"
     },
     {
       "characterId": "ttmr",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "Eating delicious food (currently refraining)"
+      "content": "Makan makanan lezat (saat ini sedang menahan diri)"
     },
     {
       "characterId": "ttmr",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "Former member of the top middle school unit \"SyngUp!\".\nA first-year with professional singing skills but known\nfor bad behavior and causing trouble."
+      "content": "Mantan anggota unit nomor satu di SMP, \"SyngUp!\". Murid kelas satu dengan kemampuan menyanyi setingkat profesional, namun dikenal bermasalah dalam sikap dan sering memicu kekacauan."
     }
   ]
 }
