@@ -5226,7 +5226,7 @@
   "producer.level.card_delete_name": "Hapus Skill Card",
   "producer.level.card_upgrade_description": "Membuka fitur upgrade Skill Card saat konsultasi",
   "producer.level.card_upgrade_name": "Upgrade Skill Card",
-  "producer.level.conversion": "Target Pergantian",
+  "producer.level.conversion": "Pergantian",
   "producer.level.exclude_description": "Batas hapus Skill Card bertambah {0}",
   "producer.level.exclude_name": "Hapus Skill Card",
   "producer.level.exp_label": "menuju berikutnya ",
