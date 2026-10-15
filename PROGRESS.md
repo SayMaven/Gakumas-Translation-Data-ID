@@ -8,7 +8,7 @@ Dokumen ini memantau status pengerjaan lokalisasi Bahasa Indonesia untuk seluruh
 
 | Kategori | Volume | Estimasi Baris/Key | Status | Persentase |
 |---|---|---|---|---|
-| **Fase 1: UI & Sistem Inti** | 10 file | 10.499 key | Selesai | 100% |
+| **Fase 1: UI & Sistem Inti** | 11 file | 11.024 key | Selesai | 100% |
 | **Fase 2: Cerita Utama & Tutorial** | 117 file | ~25.000 baris | Belum Mulai | 0% |
 | **Fase 3: Cerita Idol & Relasi** | 851 file | ~40.000 baris | Belum Mulai | 0% |
 | **Fase 4: Gameplay Dalam & Event** | 2.246 file | ~500.000 baris | Belum Mulai | 0% |
@@ -27,11 +27,12 @@ Dokumen ini memantau status pengerjaan lokalisasi Bahasa Indonesia untuk seluruh
 
 ## Fase 1 — UI & Sistem Inti (Prioritas Utama)
 
-Target: Seluruh antarmuka game, menu, tombol, item, misi, tutorial, dan string UI umum berbahasa Indonesia. **Status: 100% SELESAI (10.499 / 10.499 key)**.
+Target: Seluruh antarmuka game, menu, tombol, item, misi, tutorial, dan string UI umum berbahasa Indonesia. **Status: 100% SELESAI (11.024 / 11.024 key)**.
 
 | Status | File Target | Deskripsi | Volume | Penerjemah / Reviewer | Catatan |
 |---|---|---|---|---|---|
 | `[x]` | `local-files/localization.json` | String UI utama, menu, label status | 6.958 key | User & Assistant | **100% Selesai**. Seluruh sistem UI, menu, kartu nama, pemotretan, hadiah, P-Book, live, pengaturan, dan dialog game tuntas. |
+| `[x]` | `local-files/generic.json` | Kamus generik root sistem UI & fallback | 525 key | User & Assistant | **100% Selesai**. Alur produce, gacha, stamina, efek kartu, pencapaian, dan istilah umum game. |
 | `[x]` | `local-files/genericTrans/index/tutorial.json` | Panduan tutorial gameplay | 299 key | User & Assistant | **100% Selesai**. Mekanik turn, kartu, Genki, buff status (Kondisi Prima, Fokus, Kesan Baik, Semangat), dan Anomaly. |
 | `[x]` | `local-files/genericTrans/index/News.json` | Pengumuman dan berita in-game | 283 key | User & Assistant | **100% Selesai**. Judul pengumuman update game, banner gacha, event musim, dan laporan kendala bug. |
 | `[x]` | `local-files/genericTrans/index/ProduceCardCustomize.json` | Teks kustom kartu | 43 key | User & Assistant | **100% Selesai**. Fragmen kustomisasi kartu skill, penyesuaian biaya, dan syarat aktivasi. |
@@ -112,4 +113,5 @@ Target: Event produksi mendalam dan deskripsi kartu skill lengkap.
 | 2026-10-15 | `genericTrans/index/mission.fmt.json` | Terjemahan | Menerjemahkan seluruh template format string misi dinamis (SP Lesson, bond Lv, dll.). **100% SELESAI (22 key)**. |
 | 2026-10-15 | `genericTrans/index/EventBlurb.json` | Terjemahan | Menerjemahkan seluruh dialog blurb festival olahraga antarkelas dan dialog interaksi idol. **100% SELESAI (334 key)**. |
 | 2026-10-15 | `genericTrans/index/trash.json` (Batch 1-5) | Terjemahan | Menerjemahkan seluruh kamus string UI umum, tombol aksi, item AP, P-Idol, achievement, dan label game dalam 5 batch terukur. **100% SELESAI (2.510 key)**. |
-| 2026-10-15 | **Fase 1: UI & Sistem Inti** | Milestone | **10 File, 10.499 Key Tuntas 100%**. Seluruh antarmuka UI, menu, tombol, item, tutorial, dan teks umum resmi berbahasa Indonesia. |
+| 2026-10-15 | `local-files/generic.json` | Terjemahan | Menerjemahkan seluruh kamus teks generik root, alur Produce, efek kartu, gacha, dan dialog sistem. **100% SELESAI (525 key)**. |
+| 2026-10-15 | **Fase 1: UI & Sistem Inti** | Milestone | **11 File, 11.024 Key Tuntas 100%**. Seluruh antarmuka UI, menu, tombol, item, tutorial, kamus fallback, dan teks umum resmi berbahasa Indonesia. |

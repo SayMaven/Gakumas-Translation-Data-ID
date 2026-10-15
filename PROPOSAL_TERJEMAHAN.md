@@ -36,8 +36,9 @@ Menghadirkan pengalaman bermain **Gakuen Idolm@ster** dalam Bahasa Indonesia yan
 | Jenis | Volume | Status |
 |---|---|---|
 | UI & Menu Inti (`localization.json`) | 6.958 key | ✅ Selesai (100%) |
-| UI Umum & Fallback (`genericTrans/index/trash.json`) | ~2.510 key | 🔲 Belum mulai |
-| General Strings & Misi (`genericTrans/index/*.json`) | 9 file JSON (~1.031 key) | 🔄 Sebagian besar selesai (tutorial, News, Item, mission, dll.) |
+| Kamus Generik Root (`generic.json`) | 525 key | ✅ Selesai (100%) |
+| UI Umum & Fallback (`genericTrans/index/trash.json`) | 2.510 key | ✅ Selesai (100%) |
+| General Strings & Misi (`genericTrans/index/*.json`) | 9 file JSON (1.031 key) | ✅ Selesai (100%) |
 | Lirik lagu (`genericTrans/lyrics/`) | 64 file JSON | ⏸️ Di-skip sementara |
 | Script ADV/Dialog (`resource/`) | 3.530 file TXT | 🔲 Belum mulai |
 | Database game (`masterTrans/`) | ~100 file JSON | 🔲 Sebagian saja |
@@ -262,8 +263,15 @@ Semua nama karakter dipertahankan persis seperti di EN project (ejaan dan urutan
 | Inggris | Indonesia | Aturan |
 |---|---|---|
 | **Bond** | **Bond** | Tetap, tidak diterjemahkan |
+| **Bond Effect** | **Efek Bond** | Pengaruh level keakraban idol |
+| **Bond Commu** | **Commu Bond** | Cerita interaksi hubungan idol |
 | **Turn** | **Turn** | Tetap, tidak diterjemahkan |
 | **Fan** | **Fan** / **Penggemar** | Kontekstual — lihat aturan di bawah |
+| **Talent Bloom** | **Rank Bakat** | Peningkatan bintang Produce Idol (bukan Mekar Bakat) |
+| **Awakening** | **Buka Batas** / **Batas Terbuka** | Peningkatan batas level kartu |
+| **Stage** | **Stage** | Tetap "Stage" (bukan Panggung) |
+| **Refresh** | **Refresh** | Tetap "Refresh" (bukan Segarkan) |
+| **Trade Pts / 交換Pt** | **Poin Tukar** | Penukaran gacha / shop (bukan Poin Penukaran) |
 | Achievement | Achievement | Tetap, sudah umum |
 | Mission | Misi | Diterjemahkan |
 | Item | Item | Tetap |
@@ -397,15 +405,16 @@ Panggilan keluarga **berbeda** dari panggilan senior sekolah — ini adalah kont
 | File | Isi | Volume | Status / Prioritas |
 |---|---|---|---|
 | `local-files/localization.json` | String UI utama, menu, live, profil, setting | 6.958 key | ✅ Selesai (100%) |
+| `local-files/generic.json` | Kamus generik root sistem UI & fallback | 525 key | ✅ Selesai (100%) |
 | `local-files/genericTrans/index/tutorial.json` | Teks panduan tutorial & mekanik | 299 key | ✅ Selesai (100%) |
 | `local-files/genericTrans/index/News.json` | Pengumuman update, gacha, event | 283 key | ✅ Selesai (100%) |
 | `local-files/genericTrans/index/ProduceCardCustomize.json` | Kustomisasi kartu & biaya | 43 key | ✅ Selesai (100%) |
 | `local-files/genericTrans/index/Item.json` | Nama & deskripsi item login/paket | 27 key | ✅ Selesai (100%) |
 | `local-files/genericTrans/index/flavor.json` | Flavor text & peringatan hukum | 12 key | ✅ Selesai (100%) |
 | `local-files/genericTrans/index/mission.json` | Teks target misi Produce | 11 key | ✅ Selesai (100%) |
-| `local-files/genericTrans/index/mission.fmt.json` | Format string misi dinamis | 22 key | 🔴 Prioritas 1 |
-| `local-files/genericTrans/index/EventBlurb.json` | Teks blurb dialog banner event | 334 key | 🔴 Prioritas 2 |
-| `local-files/genericTrans/index/trash.json` | Kamus string UI umum & fallback | 2.510 key | 🔴 Prioritas 1 |
+| `local-files/genericTrans/index/mission.fmt.json` | Format string misi dinamis | 22 key | ✅ Selesai (100%) |
+| `local-files/genericTrans/index/EventBlurb.json` | Teks blurb dialog banner event | 334 key | ✅ Selesai (100%) |
+| `local-files/genericTrans/index/trash.json` | Kamus string UI umum & fallback | 2.510 key | ✅ Selesai (100%) |
 
 ### Fase 2 — Cerita Utama 🟠
 *Dampak: pemain bisa mengikuti alur cerita utama*
@@ -437,7 +446,6 @@ Panggilan keluarga **berbeda** dari panggilan senior sekolah — ini adalah kont
 | `resource/adv_csprt_*.txt` | Support card ADV | 529 file |
 | `resource/adv_pevent_*.txt` | Event produksi | 1.105 file |
 | `masterTrans/ProduceCard.json` | Deskripsi skill card | ~438K baris |
-| `genericTrans/index/EventBlurb.json` | Blurb event | ~39K bytes |
 
 ### Skip / Opsional ⚪
 | File | Alasan Skip |
