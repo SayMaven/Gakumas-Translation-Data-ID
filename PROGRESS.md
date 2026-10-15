@@ -9,7 +9,7 @@ Dokumen ini memantau status pengerjaan lokalisasi Bahasa Indonesia untuk seluruh
 | Kategori | Cakupan File | Status Saat Ini | Detail Kemajuan |
 |---|---|---|---|
 | **Fase 1: UI & Sistem Inti** | 11 berkas JSON | **100% Selesai** | Seluruh UI, kamus generik, tutorial, teks item, event blurb, dan trash.json (11.024 key). |
-| **Fase 2: Master Database Gameplay (`masterTrans`)** | 108 berkas JSON | **Dalam Pengerjaan (31/108 tuntas)** | Seluruh berkas konfigurasi, mode, panduan, narasi langkah, dan efek Produce (29 berkas Produce) + SupportCard + Item + Tips 100% selesai. Sisa 73 berkas sedang diproses bertahap. |
+| **Fase 2: Master Database Gameplay (`masterTrans`)** | 108 berkas JSON | **Dalam Pengerjaan (35/108 tuntas)** | Berkas Produce (33 berkas Produce selesai) + SupportCard + Item + Tips 100% selesai. Sisa 69 berkas sedang diproses bertahap. |
 | **Fase 3: Cerita Prolog, Tutorial & Unit (`resource/`)** | 116 berkas TXT | Belum Mulai | Naskah cerita pembuka (33 file), tutorial visual novel (17 file), dan cerita unit utama (66 file). |
 | **Fase 4: Cerita Karakter & Event (`resource/`)** | 3.093 berkas TXT | Belum Mulai | Cerita kandidat idol (354 file), commu bond (494 file), cerita support (529 file), p-story (611 file), pevent (1.105 file). |
 | **Lirik Lagu (`lyrics/`)** | 64 berkas | Di-skip | Dibiarkan berbahasa asli Jepang sesuai standar resmi proyek. |
@@ -48,7 +48,7 @@ Target: Seluruh antarmuka game, menu, tombol, item, misi, tutorial, dan string U
 
 Target: Menyelesaikan seluruh data gameplay di folder `local-files/masterTrans/` (total 108 berkas) agar fitur **MasterDB Localization** pada Localify bekerja 100% dalam Bahasa Indonesia tanpa ada teks sistem yang bocor.
 
-Status Keseluruhan Fase 2: **31 Selesai** | **73 Belum Mulai** | **4 Di-skip (Nama Asli / Teknis)** (Total: 108 Berkas)
+Status Keseluruhan Fase 2: **35 Selesai** | **69 Belum Mulai** | **4 Di-skip (Nama Asli / Teknis)** (Total: 108 Berkas)
 
 ### 2.1 Inti Produce, Kartu Skill & Pertandingan (Lesson & Audition) — 37 Berkas
 
@@ -66,14 +66,14 @@ Status Keseluruhan Fase 2: **31 Selesai** | **73 Belum Mulai** | **4 Di-skip (Na
 | `[x]` | **Label Tipe Produce** | `masterTrans/ProduceDescriptionProduceType.json` | 5 entri | **100% Selesai**. Jalur Khusus Hajime, Khusus N.I.A, Khusus H.I.F, Kualifikasi, dan Final. |
 | `[x]` | **Label Tahapan Produce** | `masterTrans/ProduceDescriptionProduceStep.json` | 2 entri | **100% Selesai**. Teks tahapan Jalan-jalan dan Hadiah Produce. |
 | `[x]` | **Kustomisasi Kartu Skill** | `masterTrans/ProduceCardCustomize.json` | 347 entri | **100% Selesai**. Seluruh 347 entri deskripsi kustomisasi kartu skill Produce. |
-| `[ ]` | **Pencarian Kartu Skill** | `masterTrans/ProduceCardSearch.json` | 283 entri | Belum Mulai. Filter dan kategori pencarian kartu skill di menu Produce. |
-| `[ ]` | **Enchant Status Kartu** | `masterTrans/ProduceCardStatusEnchant.json` | 79 entri | Belum Mulai. Deskripsi status enchant tambahan pada kartu skill. |
+| `[x]` | **Pencarian Kartu Skill** | `masterTrans/ProduceCardSearch.json` | 283 entri | **100% Selesai**. Seluruh 283 entri filter, target deck/hand/exclusion, dan nama kartu skill pencarian Produce. |
+| `[x]` | **Enchant Status Kartu** | `masterTrans/ProduceCardStatusEnchant.json` | 79 entri | **100% Selesai**. Seluruh 79 entri deskripsi status enchant tambahan (pertumbuhan, giliran, penggunaan). |
 | `[ ]` | **Database Efek Ujian/Audisi** | `masterTrans/ProduceExamEffect.json` | 2112 entri | Belum Mulai. Kumpulan formula dan efek aksi saat lesson/audition Produce. |
 | `[ ]` | **Status Enchant Ujian** | `masterTrans/ProduceExamStatusEnchant.json` | 2054 entri | Belum Mulai. Efek status enchant khusus saat evaluasi audisi. |
 | `[ ]` | **Grup Efek Gimmick Ujian** | `masterTrans/ProduceExamGimmickEffectGroup.json` | 3762 entri | Belum Mulai. Gimmick khusus rintangan dan mekanik panggung ujian. |
 | `[ ]` | **Pemicu Aksi Ujian** | `masterTrans/ProduceExamTrigger.json` | 691 entri | Belum Mulai. Syarat aktivasi pemicu efek skill saat ujian berlangsung. |
 | `[x]` | **Nama NPC Rival Audisi** | `masterTrans/ProduceExamBattleNpcMob.json` | 62 entri | **100% Selesai**. Batas Skor diterjemahkan, nama idol/NPC tetap sesuai aslinya. |
-| `[ ]` | **Panel Pertumbuhan Idol** | `masterTrans/ProduceGrowthPanel.json` | 50 entri | Belum Mulai. Pilihan aksi dan peningkatan status idol pada panel perkembangan. |
+| `[x]` | **Panel Pertumbuhan Idol** | `masterTrans/ProduceGrowthPanel.json` | 50 entri | **100% Selesai**. Seluruh 50 entri peningkatan status idol (Vocal, Dance, Visual, SP Lesson, P-Point) pada panel perkembangan. |
 | `[x]` | **Kategori Panduan Kartu** | `masterTrans/ProduceGuideProduceCardCategory.json` | 67 entri | **100% Selesai**. Seluruh 67 label kategori rekomendasi kartu skill (Peningkat Semangat, Genki, dll.). |
 | `[x]` | **Grup Panduan Kartu** | `masterTrans/ProduceGuideProduceCardCategoryGroup.json` | 16 entri | **100% Selesai**. Deskripsi panduan sinergi kartu (Semangat, Kesan Baik, Fokus, Kondisi Baik, dll.). |
 | `[x]` | **Sampel Deck Panduan** | `masterTrans/ProduceGuideProduceCardSampleDeckCategory.json` | 65 entri | **100% Selesai**. Seluruh 65 label susunan contoh deck rekomendasi pemula. |
@@ -87,7 +87,7 @@ Status Keseluruhan Fase 2: **31 Selesai** | **73 Belum Mulai** | **4 Di-skip (Na
 | `[x]` | **Navigasi & Dialog Asari-sensei** | `masterTrans/ProduceNavigation.json` | 352 entri | **100% Selesai**. Seluruh 352 instruksi navigasi bimbingan Produce dan tips taktik ujian. |
 | `[x]` | **Musim Kompetisi Produce** | `masterTrans/ProduceSeason.json` | 2 entri | **100% Selesai**. Penamaan Musim 0 dan Musim 1 kompetisi Produce. |
 | `[ ]` | **Skill Pasif Produce** | `masterTrans/ProduceSkill.json` | 1536 entri | Belum Mulai. Nama dan efek skill pasif Produce idol dan support. |
-| `[ ]` | **Item Kustomisasi Produce** | `masterTrans/ProduceCustomizeItem.json` | 180 entri | Belum Mulai. Nama item bahan modifikasi dan kustomisasi kartu. |
+| `[x]` | **Item Kustomisasi Produce** | `masterTrans/ProduceCustomizeItem.json` | 180 entri | **100% Selesai**. Seluruh 180 nama item pesona kustomisasi (Beruang, Boneka, Kelinci, Burung Parkit, Robot) dan efek Produce. |
 | `[ ]` | **Grup Efek Kartu** | `masterTrans/EffectGroup.json` | 67 entri | Belum Mulai. Nama klasifikasi kelompok efek skill. |
 | `[ ]` | **Transisi Ujian Seminar** | `masterTrans/SeminarExamTransition.json` | 12 entri | Belum Mulai. Nama grup dan instruksi ujian seminar taktik Produce. |
 | `[x]` | **Mode Skenario Produce** | `masterTrans/Produce.json` | 8 entri | **100% Selesai**. Mode tingkat kesulitan Reguler, Pro, Master, Legend, Babak Kualifikasi, dan Babak Final. |
@@ -277,3 +277,4 @@ Target: Cerita mendalam tiap kandidat idol, interaksi keakraban (Commu Bond), ce
 | 2026-10-15 | `masterTrans/Tips.json` | Terjemahan | Menerjemahkan seluruh tips layar loading gameplay, level producer, penukaran uang/AP, dan akademi Hatsuboshi. **100% SELESAI (34 Tips)**. |
 | 2026-10-15 | `IdolCard.json` & `IdolCardSkin.json` | Kebijakan Proyek | Menetapkan kebijakan mempertahankan nama resmi asli kartu Produce Idol dan skin (School Life, First Love, Fighting My Way, Fluorite, dll.) agar sinkron dengan wiki resmi. |
 | 2026-10-15 | `masterTrans/Produce*.json` (Batch 1 & 2) | Terjemahan | Menerjemahkan 23 berkas Produce (2.289 baris data): Produce, ProduceGroup, ProduceSeason, ProducerRanking, ProduceDescriptionProducePlan/Step/Type/Effect/GrowEffect/Swap, ProduceChallengeSlot, ProduceHighScore, ProduceGuideProduceCardCategory/Group/SampleDeck, ProduceAdv, ProduceSplitAdv, ProduceCharacterAdv, ProduceEventCharacterGrowth, ProduceExamBattleNpcMob, ProduceStepLesson, ProduceNavigation, ProduceCardCustomize. Total 29 dari 41 berkas Produce 100% selesai. |
+| 2026-10-15 | `masterTrans/Produce*.json` (Batch 3) | Terjemahan | Menerjemahkan 4 berkas Produce (2.513 baris data): ProduceGrowthPanel, ProduceCardStatusEnchant, ProduceCardSearch, ProduceCustomizeItem. Total 33 dari 41 berkas Produce 100% selesai. |
