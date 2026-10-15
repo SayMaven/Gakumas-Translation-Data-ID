@@ -9,7 +9,7 @@ Dokumen ini memantau status pengerjaan lokalisasi Bahasa Indonesia untuk seluruh
 | Kategori | Volume | Estimasi Baris/Key | Status | Persentase |
 |---|---|---|---|---|
 | **Fase 1: UI & Sistem Inti** | 11 file | 11.024 key | Selesai | 100% |
-| **Fase 2: Kartu Skill & Cerita Utama** | 118 file | 1.748 kartu + ~25K baris | Dalam Pengerjaan | 0% |
+| **Fase 2: Kartu Skill & Cerita Utama** | 118 file | 1.748 kartu + ~25K baris | Dalam Pengerjaan | 15% |
 | **Fase 3: Cerita Idol & Relasi** | 851 file | ~40.000 baris | Belum Mulai | 0% |
 | **Fase 4: Gameplay Dalam & Event** | 2.245 file | ~60.000 baris | Belum Mulai | 0% |
 | **Lirik Lagu** | 64 file | ~15.000 baris | Di-skip | — |
@@ -51,7 +51,7 @@ Target: Dimulai dengan menerjemahkan seluruh kartu skill (`masterTrans/ProduceCa
 
 | Status | Komponen | File / Folder | Volume | Status Detail |
 |---|---|---|---|---|
-| `[-]` | **Kartu Skill Produce (Prioritas 1)** | `masterTrans/ProduceCard.json` | 1.748 kartu (458 kartu unik, ~438K baris) | **Dalam Pengerjaan (50%)**. Seluruh 447 fragmen deskripsi efek kartu (11.340 entri) **100% Selesai**. Tahap berikutnya: Penerjemahan nama kartu. |
+| `[x]` | **Kartu Skill Produce (Prioritas 1)** | `masterTrans/ProduceCard.json` | 1.748 kartu (457 kartu unik, ~438K baris) | **100% Selesai**. Seluruh 447 fragmen efek (11.340 entri) dan 1.748 nama kartu (457 nama unik) telah diterjemahkan ke Bahasa Indonesia dengan glosarium resmi. |
 | `[ ]` | Prolog / Opening | `resource/adv_startup_*.txt` | 33 file | Belum Mulai |
 | `[ ]` | Tutorial Interaktif | `resource/adv_tutorial_*.txt` | 17 file | Belum Mulai |
 | `[ ]` | Cerita Unit Utama | `resource/adv_unit_*.txt` | 66 file | Belum Mulai |
@@ -117,3 +117,4 @@ Target: Event produksi mendalam dan cerita pendukung kartu.
 | 2026-10-15 | **Fase 1: UI & Sistem Inti** | Milestone | **11 File, 11.024 Key Tuntas 100%**. Seluruh antarmuka UI, menu, tombol, item, tutorial, kamus fallback, dan teks umum resmi berbahasa Indonesia. |
 | 2026-10-15 | Perencanaan Tahap 2 (`ProduceCard.json`) | Roadmap | Menetapkan `masterTrans/ProduceCard.json` (1.748 kartu, 458 kartu unik) sebagai prioritas pertama Fase 2 sebelum naskah cerita. |
 | 2026-10-15 | `masterTrans/ProduceCard.json` (Efek Kartu) | Terjemahan | Menerjemahkan seluruh 447 fragmen deskripsi efek kartu skill (11.340 entri diperbarui). Seluruh efek status, buff, giliran, stamina, dan mekanik lesson 100% berbahasa Indonesia. |
+| 2026-10-15 | `masterTrans/ProduceCard.json` (Nama Kartu) | Terjemahan | Menerjemahkan 1.748 nama kartu skill (457 nama dasar unik) ke Bahasa Indonesia, termasuk penyelarasan seluruh seri kartu dasar (`Dasar ...`). `ProduceCard.json` **100% SELESAI**. |

@@ -39,7 +39,7 @@ Menghadirkan pengalaman bermain **Gakuen Idolm@ster** dalam Bahasa Indonesia yan
 | Kamus Generik Root (`generic.json`) | 525 key | ✅ Selesai (100%) |
 | UI Umum & Fallback (`genericTrans/index/trash.json`) | 2.510 key | ✅ Selesai (100%) |
 | General Strings & Misi (`genericTrans/index/*.json`) | 9 file JSON (1.031 key) | ✅ Selesai (100%) |
-| Kartu Skill Produce (`masterTrans/ProduceCard.json`) | 1.748 kartu (~438K baris) | ⏳ Tahap 2 (Prioritas 1) |
+| Kartu Skill Produce (`masterTrans/ProduceCard.json`) | 1.748 kartu (~438K baris) | ✅ Selesai (100%) |
 | Lirik lagu (`genericTrans/lyrics/`) | 64 file JSON | ⏸️ Di-skip sementara |
 | Script ADV/Dialog (`resource/`) | 3.530 file TXT | 🔲 Belum mulai |
 | Database game (`masterTrans/`) | ~100 file JSON | 🔲 Sebagian saja |
@@ -422,7 +422,7 @@ Panggilan keluarga **berbeda** dari panggilan senior sekolah — ini adalah kont
 
 | File | Isi | Jumlah | Prioritas |
 |---|---|---|---|
-| `masterTrans/ProduceCard.json` | Deskripsi & nama kartu skill | 1.748 kartu (~438K baris) | **Prioritas 1 (Mulai Sekarang)** |
+| `masterTrans/ProduceCard.json` | Deskripsi & nama kartu skill | 1.748 kartu (~438K baris) | ✅ **Selesai (100%)** |
 | `resource/adv_startup_*.txt` | Opening / cutscene awal | 33 file | Prioritas 2 |
 | `resource/adv_tutorial_*.txt` | Tutorial interaktif | 17 file | Prioritas 3 |
 | `resource/adv_unit_*.txt` | Cerita unit (main story) | 66 file | Prioritas 4 |
