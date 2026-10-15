@@ -9,7 +9,7 @@ Dokumen ini memantau status pengerjaan lokalisasi Bahasa Indonesia untuk seluruh
 | Kategori | Cakupan File | Status Saat Ini | Detail Kemajuan |
 |---|---|---|---|
 | **Fase 1: UI & Sistem Inti** | 11 berkas JSON | **100% Selesai** | Seluruh UI, kamus generik, tutorial, teks item, event blurb, dan trash.json (11.024 key). |
-| **Fase 2: Master Database Gameplay (`masterTrans`)** | 108 berkas JSON | **Dalam Pengerjaan (55/108 tuntas)** | Seluruh 41 berkas Produce, Fase 2.2 (Karakter & Kostum), dan Fase 2.3 (Toko & Gacha) 100% selesai. Sisa 47 berkas diproses bertahap. |
+| **Fase 2: Master Database Gameplay (`masterTrans`)** | 108 berkas JSON | **Dalam Pengerjaan (69/108 tuntas)** | Seluruh Fase 2.1 (Produce & Mekanik), Fase 2.2 (Karakter & Kostum), Fase 2.3 (Toko & Gacha), dan Fase 2.4 (Tugas & Misi) 100% selesai. Sisa 35 berkas diproses bertahap. |
 | **Fase 3: Cerita Prolog, Tutorial & Unit (`resource/`)** | 116 berkas TXT | Belum Mulai | Naskah cerita pembuka (33 file), tutorial visual novel (17 file), dan cerita unit utama (66 file). |
 | **Fase 4: Cerita Karakter & Event (`resource/`)** | 3.093 berkas TXT | Belum Mulai | Cerita kandidat idol (354 file), commu bond (494 file), cerita support (529 file), p-story (611 file), pevent (1.105 file). |
 | **Lirik Lagu (`lyrics/`)** | 64 berkas | Di-skip | Dibiarkan berbahasa asli Jepang sesuai standar resmi proyek. |
@@ -48,9 +48,9 @@ Target: Seluruh antarmuka game, menu, tombol, item, misi, tutorial, dan string U
 
 Target: Menyelesaikan seluruh data gameplay di folder `local-files/masterTrans/` (total 108 berkas) agar fitur **MasterDB Localization** pada Localify bekerja 100% dalam Bahasa Indonesia tanpa ada teks sistem yang bocor.
 
-Status Keseluruhan Fase 2: **55 Selesai** | **47 Belum Mulai** | **6 Di-skip (Nama Asli / Teknis)** (Total: 108 Berkas)
+Status Keseluruhan Fase 2: **69 Selesai** | **35 Belum Mulai** | **4 Di-skip (Nama Asli Karakter)** (Total: 108 Berkas)
 
-### 2.1 Inti Produce, Kartu Skill & Pertandingan (Lesson & Audition) — 37 Berkas
+### 2.1 Inti Produce, Kartu Skill & Pertandingan (Lesson & Audition) — 37 Berkas (Status: 100% Selesai)
 
 | Status | Komponen | Berkas di `local-files/` | Volume Data | Status Detail & Keterangan |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ Status Keseluruhan Fase 2: **55 Selesai** | **47 Belum Mulai** | **6 Di-skip (Na
 | `[x]` | **Musim Kompetisi Produce** | `masterTrans/ProduceSeason.json` | 2 entri | **100% Selesai**. Penamaan Musim 0 dan Musim 1 kompetisi Produce. |
 | `[x]` | **Skill Pasif Produce** | `masterTrans/ProduceSkill.json` | 1536 entri | **100% Selesai**. Seluruh 1.536 nama dan efek skill pasif Produce idol dan support. |
 | `[x]` | **Item Kustomisasi Produce** | `masterTrans/ProduceCustomizeItem.json` | 180 entri | **100% Selesai**. Seluruh 180 nama item pesona kustomisasi (Beruang, Boneka, Kelinci, Burung Parkit, Robot) dan efek Produce. |
-| `[ ]` | **Grup Efek Kartu** | `masterTrans/EffectGroup.json` | 67 entri | Belum Mulai. Nama klasifikasi kelompok efek skill. |
-| `[ ]` | **Transisi Ujian Seminar** | `masterTrans/SeminarExamTransition.json` | 12 entri | Belum Mulai. Nama grup dan instruksi ujian seminar taktik Produce. |
+| `[x]` | **Grup Efek Kartu** | `masterTrans/EffectGroup.json` | 67 entri | **100% Selesai**. Seluruh 67 nama klasifikasi grup efek skill Produce (Genki, Semangat, Fokus, dll.). |
+| `[x]` | **Transisi Ujian Seminar** | `masterTrans/SeminarExamTransition.json` | 12 entri | **100% Selesai**. Seluruh 12 nama grup dan instruksi modul ujian seminar taktik Produce. |
 | `[x]` | **Mode Skenario Produce** | `masterTrans/Produce.json` | 8 entri | **100% Selesai**. Mode tingkat kesulitan Reguler, Pro, Master, Legend, Babak Kualifikasi, dan Babak Final. |
 
 ---
@@ -126,24 +126,24 @@ Status Keseluruhan Fase 2: **55 Selesai** | **47 Belum Mulai** | **6 Di-skip (Na
 
 ---
 
-### 2.4 Tugas, Misi, Achievement & Ranking — 14 Berkas
+### 2.4 Tugas, Misi, Achievement & Ranking — 14 Berkas (Status: 100% Selesai)
 
 | Status | Komponen | Berkas di `local-files/` | Volume Data | Status Detail & Keterangan |
 |---|---|---|---|---|
-| `[ ]` | **Tugas Utama Producer** | `masterTrans/MainTask.json` | 310 entri | Belum Mulai. Judul, deskripsi beranda, dan petunjuk tugas utama Producer. |
-| `[ ]` | **Grup Tugas Utama** | `masterTrans/MainTaskGroup.json` | 4 entri | Belum Mulai. Nama kelompok bab tugas utama Producer. |
-| `[ ]` | **Misi Gameplay** | `masterTrans/Mission.json` | 3494 entri | Belum Mulai. Teks seluruh 3.494 misi harian, mingguan, event, dan debut idol. |
-| `[ ]` | **Kelompok Misi** | `masterTrans/MissionGroup.json` | 282 entri | Belum Mulai. Nama kategori dan tab kelompok misi permainan. |
-| `[ ]` | **Pass Misi Bulanan** | `masterTrans/MissionPass.json` | 30 entri | Belum Mulai. Nama dan deskripsi tingkatan hadiah Pass Misi bulanan. |
-| `[ ]` | **Poin Pass Misi** | `masterTrans/MissionPassPoint.json` | 1 entri | Belum Mulai. Nama satuan poin kemajuan Pass Misi. |
-| `[ ]` | **Poin Hadiah Misi** | `masterTrans/MissionPoint.json` | 35 entri | Belum Mulai. Nama poin milestone penyelesaian misi. |
-| `[ ]` | **Lembar Misi Panel** | `masterTrans/MissionPanelSheet.json` | 57 entri | Belum Mulai. Nama lembar misi papan panel bingo debut idol. |
-| `[ ]` | **Grup Lembar Misi Panel** | `masterTrans/MissionPanelSheetGroup.json` | 49 entri | Belum Mulai. Nama kelompok lembar misi panel bertingkat. |
-| `[ ]` | **Misi Rilis Harian** | `masterTrans/MissionDailyReleaseGroup.json` | 31 entri | Belum Mulai. Nama kelompok misi pembuka harian kampanye. |
-| `[ ]` | **Achievement & Gelar Idol** | `masterTrans/Achievement.json` | 1242 entri | Belum Mulai. Nama dan syarat 1.242 achievement, gelar, dan trofi kebanggaan. |
-| `[ ]` | **Badge Penghargaan** | `masterTrans/Badge.json` | 364 entri | Belum Mulai. Nama dan deskripsi badge penghargaan pencapaian Produce. |
+| `[x]` | **Tugas Utama Producer** | `masterTrans/MainTask.json` | 310 entri | **100% Selesai**. Seluruh judul, deskripsi beranda, dan petunjuk tugas utama Producer. |
+| `[x]` | **Grup Tugas Utama** | `masterTrans/MainTaskGroup.json` | 4 entri | **100% Selesai**. Seluruh nama kelompok bab tugas utama Producer. |
+| `[x]` | **Misi Gameplay** | `masterTrans/Mission.json` | 3494 entri | **100% Selesai**. Seluruh 3.494 teks misi harian, mingguan, event, dan debut idol ke Bahasa Indonesia natural. |
+| `[x]` | **Kelompok Misi** | `masterTrans/MissionGroup.json` | 282 entri | **100% Selesai**. Seluruh nama kategori dan tab kelompok misi permainan. |
+| `[x]` | **Pass Misi Bulanan** | `masterTrans/MissionPass.json` | 30 entri | **100% Selesai**. Seluruh nama dan deskripsi tingkatan hadiah Pass Misi bulanan. |
+| `[x]` | **Poin Pass Misi** | `masterTrans/MissionPassPoint.json` | 1 entri | **100% Selesai**. Nama satuan poin kemajuan Pass Misi ("Poin Pass"). |
+| `[x]` | **Poin Hadiah Misi** | `masterTrans/MissionPoint.json` | 35 entri | **100% Selesai**. Seluruh nama poin milestone penyelesaian misi. |
+| `[x]` | **Lembar Misi Panel** | `masterTrans/MissionPanelSheet.json` | 57 entri | **100% Selesai**. Seluruh nama lembar misi papan panel bingo debut idol. |
+| `[x]` | **Grup Lembar Misi Panel** | `masterTrans/MissionPanelSheetGroup.json` | 49 entri | **100% Selesai**. Seluruh nama kelompok lembar misi panel bertingkat. |
+| `[x]` | **Misi Rilis Harian** | `masterTrans/MissionDailyReleaseGroup.json` | 31 entri | **100% Selesai**. Seluruh nama kelompok misi pembuka harian kampanye. |
+| `[x]` | **Achievement & Gelar Idol** | `masterTrans/Achievement.json` | 1242 entri | **100% Selesai**. Seluruh 1.242 achievement, gelar, dan trofi kebanggaan (nama idol/kartu tetap original). |
+| `[x]` | **Badge Penghargaan** | `masterTrans/Badge.json` | 364 entri | **100% Selesai**. Seluruh 364 nama dan deskripsi badge penghargaan pencapaian ranking Produce. |
 | `[x]` | **Peringkat Producer** | `masterTrans/ProducerRanking.json` | 5 entri | **100% Selesai**. Musim ranking evaluasi Producer (Musim 0 s/d 4). |
-| `[ ]` | **Konfigurasi Rating Contest** | `masterTrans/PvpRateConfig.json` | 54 entri | Belum Mulai. Keterangan tier rating kompetisi panggung antarpemain. |
+| `[x]` | **Konfigurasi Rating Contest** | `masterTrans/PvpRateConfig.json` | 54 entri | **100% Selesai**. Seluruh keterangan tier rating kompetisi panggung antarpemain ("Contest Pertama" & S2-S54). |
 
 ---
 
