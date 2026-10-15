@@ -9,10 +9,10 @@ Dokumen ini memantau status pengerjaan lokalisasi Bahasa Indonesia untuk seluruh
 | Kategori | Cakupan File | Status Saat Ini | Detail Kemajuan |
 |---|---|---|---|
 | **Fase 1: UI & Sistem Inti** | 11 berkas JSON | **100% Selesai** | Seluruh UI, kamus generik, tutorial, teks item, event blurb, dan trash.json (11.024 key). |
-| **Fase 2: Master Database Gameplay (`masterTrans`)** | 108 berkas JSON | **Dalam Pengerjaan (69/108 tuntas)** | Seluruh Fase 2.1 (Produce & Mekanik), Fase 2.2 (Karakter & Kostum), Fase 2.3 (Toko & Gacha), dan Fase 2.4 (Tugas & Misi) 100% selesai. Sisa 35 berkas diproses bertahap. |
+| **Lirik Lagu Panggung & MV (`lyrics/`)** | 63 berkas JSON | **Dalam Pengerjaan (450/1.877 baris)** | **Batch 1 Selesai (24,0%)**. Seluruh 19 lagu tema & all songs (`all_001` - `all_019`) tuntas. Sisa 3 batch lagu solo & unit dalam antrean. |
+| **Fase 2: Master Database Gameplay (`masterTrans`)** | 108 berkas JSON | **Dalam Pengerjaan (72/108 tuntas)** | Seluruh Fase 2.1 (Produce & Mekanik), Fase 2.2 (Karakter & Kostum), Fase 2.3 (Toko & Gacha), dan Fase 2.4 (Tugas & Misi) 100% selesai. Sisa 32 berkas diproses bertahap. |
 | **Fase 3: Cerita Prolog, Tutorial & Unit (`resource/`)** | 116 berkas TXT | Belum Mulai | Naskah cerita pembuka (33 file), tutorial visual novel (17 file), dan cerita unit utama (66 file). |
 | **Fase 4: Cerita Karakter & Event (`resource/`)** | 3.093 berkas TXT | Belum Mulai | Cerita kandidat idol (354 file), commu bond (494 file), cerita support (529 file), p-story (611 file), pevent (1.105 file). |
-| **Lirik Lagu (`lyrics/`)** | 64 berkas | Di-skip | Dibiarkan berbahasa asli Jepang sesuai standar resmi proyek. |
 
 ---
 
@@ -45,11 +45,49 @@ Target: Seluruh antarmuka game, menu, tombol, item, misi, tutorial, dan string U
 
 ---
 
+## Lirik Lagu Panggung & Live MV (`local-files/genericTrans/lyrics/`)
+
+Target: Menerjemahkan seluruh teks subtitle lirik lagu saat penampilan panggung live 3D dan Music Video (MV) idol agar pemain Indonesia dapat menghayati makna emosional lagu secara mendalam.
+
+Status Keseluruhan Lirik: **19 Lagu Selesai (450 baris)** | **44 Lagu Dalam Antrean (1.427 baris)** | Total: **63 Berkas / 1.877 Baris** (Progres: **24,0%**)
+
+### Rincian Pembagian Batch Lirik Lagu
+
+| Status | Batch | Cakupan Berkas | Karakter / Kategori | Volume | Keterangan & Progres |
+|---|---|---|---|---|---|
+| `[x]` | **Batch 1** | `all_001` s/d `all_019` (19 berkas) | Lagu Bersama & Lagu Tema Utama (*Hajime*, *Campus mode!!*, *Kimi to Semi Blue*, *GO MY WAY!!*, dll.) | 450 baris | **100% Selesai**. Diterjemahkan puitis, berirama alami, dan mempertahankan frasa panggung ikonik. |
+| `[ ]` | **Batch 2** | `amao_*`, `atbm_*`, `fktn_*`, `hmsz_*`, `hrnm_*` (14 berkas) | Lagu Solo Idol (Bagian 1): Aoi, Tsubame, Kotone, Misuzu, Rinami | 440 baris | Menunggu pengerjaan. |
+| `[ ]` | **Batch 3** | `hski_*`, `hume_*`, `jsna_*`, `kcna_*`, `klij_*`, `kllj_*` (17 berkas) | Lagu Solo Idol (Bagian 2): Saki, Ume, Sena, China, Lilja | 510 baris | Menunggu pengerjaan. |
+| `[ ]` | **Batch 4** | `shro_*`, `ssmk_*`, `ttmr_*`, `unit_*` (13 berkas) | Lagu Solo Idol (Bagian 3) & Unit: Hiro, Sumika, Temari, serta Unit (*Begrazia*, *Re;IRIS*, dll.) | 477 baris | Menunggu pengerjaan. |
+
+#### Rincian Lagu Batch 1 (Selesai 100%):
+- `all_001_Hajime.json` — **初 (Hajime)** (22 baris)
+- `all_002_Campusmode.json` — **Campus mode!!** (39 baris)
+- `all_003_Kimitosemiblue.json` — **キミとセミブルー (Kimi to Semi Blue)** (29 baris)
+- `all_004_Kamurogiku.json` — **冠菊 (Kamurogiku)** (19 baris)
+- `all_005_CapriccioOfMasquerades.json` — **仮装狂騒曲 (Capriccio of Masquerades)** (34 baris)
+- `all_006_WhiteNightWhiteWish.json` — **White Night! White Wish!** (15 baris)
+- `all_007_HappyMillefeuille.json` — **ハッピーミルフィーユ (Happy Millefeuille)** (23 baris)
+- `all_008_ItsAWalkInThePark.json` — **It's a walk in the park** (19 baris)
+- `all_009_InThawedSnow.json` — **雪解けに (In Thawed Snow)** (14 baris)
+- `all_010_SakuraPhotograph.json` — **Sakura Photograph** (12 baris)
+- `all_011_HowlingOverTheWorld.json` — **Howling over the World** (23 baris)
+- `all_012_MirakuluNaNow.json` — **ミラクル・ナ・ナウ！ (Miracle na Now!)** (35 baris)
+- `all_013_GamusharaNiIkou.json` — **がむしゃらに行こう！ (Gamushara ni Ikou!)** (24 baris)
+- `all_014_ENDLESSDANCE.json` — **ENDLESS DANCE** (17 baris)
+- `all_015_Shirube.json` — **標 (Shirube - Mars Hatsuboshi)** (13 baris)
+- `all_016_GarakutaRoad.json` — **ガラクタロード (Garakuta Road)** (43 baris)
+- `all_017_GoMyWay.json` — **GO MY WAY!!** (28 baris)
+- `all_018_NeeIcchauYo.json` — **ねえ、言っちゃうよ (Nee, Icchau yo)** (21 baris)
+- `all_019_Agitato.json` — **Agitato** (20 baris)
+
+---
+
 ## Fase 2 — Master Database Gameplay (`local-files/masterTrans/`)
 
 Target: Menyelesaikan seluruh data gameplay di folder `local-files/masterTrans/` (total 108 berkas) agar fitur **MasterDB Localization** pada Localify bekerja 100% dalam Bahasa Indonesia tanpa ada teks sistem yang bocor.
 
-Status Keseluruhan Fase 2: **69 Selesai** | **35 Belum Mulai** | **4 Di-skip (Nama Asli Karakter)** (Total: 108 Berkas)
+Status Keseluruhan Fase 2: **72 Selesai** | **32 Belum Mulai** | **4 Di-skip (Nama Asli Karakter)** (Total: 108 Berkas)
 
 ### 2.1 Inti Produce, Kartu Skill & Pertandingan (Lesson & Audition) — 37 Berkas (Status: 100% Selesai)
 
