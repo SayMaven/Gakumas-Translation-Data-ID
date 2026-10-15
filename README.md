@@ -27,23 +27,6 @@ Lirik lagu (`genericTrans/lyrics/`) dan data teknis engine tidak diterjemahkan.
 
 ---
 
-## Cara Pemasangan
-
-### Prasyarat
-- Gakuen Idolm@ster (versi DMM Games / PC atau Android yang mendukung injeksi).
-- Plugin `gakuen-imas-localify` terpasang dan berfungsi normal.
-
-### Langkah Instalasi
-1. Unduh atau clone repositori ini:
-   ```bash
-   git clone https://github.com/SayMaven/Gakumas-Translation-Data-ID.git
-   ```
-2. Salin isi folder `local-files/` dari repositori ini ke folder data terjemahan plugin `gakuen-imas-localify` di direktori game Anda.
-3. Pastikan konfigurasi plugin mengarah ke file terjemahan yang baru disalin.
-4. Jalankan game seperti biasa.
-
----
-
 ## Struktur Repositori
 
 ```
@@ -73,11 +56,4 @@ Gakumas-Translation-Data-ID/
    - `fix: <koreksi typo atau makna>`
    - `review: <penyesuaian gaya bahasa>`
 
----
 
-## Kredit dan Lisensi
-
-- Hak cipta intelektual Gakuen Idolm@ster (学園アイドルマスター) sepenuhnya dimiliki oleh BANDAI NAMCO Entertainment Inc.
-- Repositori basis terjemahan Bahasa Inggris oleh [NatsumeLS/Gakumas-Translation-Data-EN](https://github.com/NatsumeLS/Gakumas-Translation-Data-EN).
-- Plugin loader oleh [chinosk6/gakuen-imas-localify](https://github.com/chinosk6/gakuen-imas-localify).
-- Data terjemahan Bahasa Indonesia dalam repositori ini disediakan untuk tujuan non-komersial bagi komunitas pemain di Indonesia.

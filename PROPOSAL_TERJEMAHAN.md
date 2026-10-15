@@ -35,8 +35,9 @@ Menghadirkan pengalaman bermain **Gakuen Idolm@ster** dalam Bahasa Indonesia yan
 ### Ruang Lingkup Konten
 | Jenis | Volume | Status |
 |---|---|---|
-| UI & Menu (`localization.json`) | ~3.500 key | 🔲 Belum mulai |
-| General strings (`genericTrans/index/`) | 22 file JSON | 🔲 Belum mulai |
+| UI & Menu Inti (`localization.json`) | 6.958 key | ✅ Selesai (100%) |
+| UI Umum & Fallback (`genericTrans/index/trash.json`) | ~2.510 key | 🔲 Belum mulai |
+| General Strings & Misi (`genericTrans/index/*.json`) | 9 file JSON (~1.031 key) | 🔄 Sebagian besar selesai (tutorial, News, Item, mission, dll.) |
 | Lirik lagu (`genericTrans/lyrics/`) | 64 file JSON | ⏸️ Di-skip sementara |
 | Script ADV/Dialog (`resource/`) | 3.530 file TXT | 🔲 Belum mulai |
 | Database game (`masterTrans/`) | ~100 file JSON | 🔲 Sebagian saja |
@@ -390,16 +391,21 @@ Panggilan keluarga **berbeda** dari panggilan senior sekolah — ini adalah kont
 
 ## 6. Struktur File & Prioritas
 
-### Fase 1 — UI Inti 🔴 (Kerjakan Pertama)
-*Dampak: semua layar game langsung berubah ke Indonesia*
+### Fase 1 — UI Inti & Sistem Game 🔴 (Kerjakan Pertama)
+*Dampak: semua layar game, menu, tombol, item, tutorial, dan teks umum langsung berubah ke Indonesia*
 
-| File | Isi | Prioritas |
-|---|---|---|
-| `local-files/localization.json` | ~3.500 key UI utama | 🔴 Sangat Tinggi |
-| `local-files/genericTrans/index/tutorial.json` | Teks tutorial | 🔴 Sangat Tinggi |
-| `local-files/genericTrans/index/Item.json` | Nama & deskripsi item | 🔴 Tinggi |
-| `local-files/genericTrans/index/mission.json` | Teks misi | 🔴 Tinggi |
-| `local-files/genericTrans/index/News.json` | Pengumuman in-game | 🔴 Tinggi |
+| File | Isi | Volume | Status / Prioritas |
+|---|---|---|---|
+| `local-files/localization.json` | String UI utama, menu, live, profil, setting | 6.958 key | ✅ Selesai (100%) |
+| `local-files/genericTrans/index/tutorial.json` | Teks panduan tutorial & mekanik | 299 key | ✅ Selesai (100%) |
+| `local-files/genericTrans/index/News.json` | Pengumuman update, gacha, event | 283 key | ✅ Selesai (100%) |
+| `local-files/genericTrans/index/ProduceCardCustomize.json` | Kustomisasi kartu & biaya | 43 key | ✅ Selesai (100%) |
+| `local-files/genericTrans/index/Item.json` | Nama & deskripsi item login/paket | 27 key | ✅ Selesai (100%) |
+| `local-files/genericTrans/index/flavor.json` | Flavor text & peringatan hukum | 12 key | ✅ Selesai (100%) |
+| `local-files/genericTrans/index/mission.json` | Teks target misi Produce | 11 key | ✅ Selesai (100%) |
+| `local-files/genericTrans/index/mission.fmt.json` | Format string misi dinamis | 22 key | 🔴 Prioritas 1 |
+| `local-files/genericTrans/index/EventBlurb.json` | Teks blurb dialog banner event | 334 key | 🔴 Prioritas 2 |
+| `local-files/genericTrans/index/trash.json` | Kamus string UI umum & fallback | 2.510 key | 🔴 Prioritas 1 |
 
 ### Fase 2 — Cerita Utama 🟠
 *Dampak: pemain bisa mengikuti alur cerita utama*
@@ -463,6 +469,7 @@ Panggilan keluarga **berbeda** dari panggilan senior sekolah — ini adalah kont
 - [x] Sinkronisasi data acuan EN ke repo ID sebagai baseline
 - [x] Setup struktur folder ID mengikuti hierarki game
 - [x] Siapkan script validasi Python `resource_validator.py`
+- [x] Siapkan script updater JSON Python `scripts/update_translation.py`
 
 **Step 2 — Translate**
 - [ ] Buka file target (mulai dari Fase 1)
@@ -476,9 +483,9 @@ Panggilan keluarga **berbeda** dari panggilan senior sekolah — ini adalah kont
 - [ ] Cek tag HTML/Unity tidak rusak
 - [ ] Cek tidak ada inkonsistensi nama/istilah
 
-**Step 4 — Validasi Teknis**
+**Step 4 — Validasi Teknis & Pembaruan File**
 - [ ] Untuk file resource `.txt`: jalankan `resource_validator.py`
-- [ ] Untuk JSON: pastikan valid JSON (tidak ada trailing comma, dll)
+- [ ] Untuk file JSON (`localization.json`, `genericTrans/*.json`): gunakan `python scripts/update_translation.py <batch_terjemahan.json> -t <target.json>` untuk menerapkan pembaruan tanpa mengacak urutan key, menjaga integritas placeholder/tag, dan memvalidasi sintaks otomatis.
 - [ ] Test di game jika memungkinkan
 
 **Step 5 — Commit**
