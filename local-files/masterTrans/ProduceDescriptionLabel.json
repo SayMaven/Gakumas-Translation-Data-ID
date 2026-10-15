@@ -7413,7 +7413,7 @@
           "text": "Tidak boleh memiliki lebih dari satu, dan tidak dapat diperoleh lagi atau disalin "
         }
       ],
-      "name": "Tidak Boleh Duplikat "
+      "name": "Maks. 1 Kartu "
     },
     {
       "id": "Label_OnHitEffect",
@@ -7680,7 +7680,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_002",
-          "text": "1x saat Lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7713,7 +7713,7 @@
           "text": "Disingkirkan hingga selesai "
         }
       ],
-      "name": "1x saat Lesson "
+      "name": "1x per Lesson "
     },
     {
       "id": "Label_ProduceCardPositionType_DeckFirst",
