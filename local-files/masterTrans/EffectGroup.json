@@ -11,15 +11,15 @@
     },
     {
       "id": "effect_group-visible-audition_npc_enhance-000",
-      "name": "Rival's score "
+      "name": "Skor Rival "
     },
     {
       "id": "effect_group-visible-before_audition_refresh_stamina_down-000",
-      "name": "Reduced Stamina Recovery Before Exam "
+      "name": "Pemulihan Stamina Sebelum Ujian Berkurang "
     },
     {
       "id": "effect_group-visible-before_audition_refresh_stamina_up-000",
-      "name": "Increased Stamina Recovery Before Exam "
+      "name": "Pemulihan Stamina Sebelum Ujian Meningkat "
     },
     {
       "id": "effect_group-visible-dance_addition-000",
@@ -27,75 +27,75 @@
     },
     {
       "id": "effect_group-visible-event_activity_produce_point_down-000",
-      "name": "P-Point usage for Outings -"
+      "name": "Biaya P-Point Jalan-jalan -"
     },
     {
       "id": "effect_group-visible-event_activity_produce_point_up-000",
-      "name": "P-Point usage for Outings +"
+      "name": "Biaya P-Point Jalan-jalan +"
     },
     {
       "id": "effect_group-visible-event_school_stamina_down-000",
-      "name": "Stamina usage in Classes -"
+      "name": "Konsumsi Stamina Pelajaran -"
     },
     {
       "id": "effect_group-visible-event_school_stamina_up-000",
-      "name": "Stamina usage in Classes +"
+      "name": "Konsumsi Stamina Pelajaran +"
     },
     {
       "id": "effect_group-visible-exam_add_grow_effect-000",
-      "name": "Growth"
+      "name": "Pertumbuhan"
     },
     {
       "id": "effect_group-visible-exam_aggressive_reduce-000",
-      "name": "Motivation -"
+      "name": "Semangat -"
     },
     {
       "id": "effect_group-visible-exam_anti_debuff-000",
-      "name": "Status Reduction Immunity "
+      "name": "Kebal Penurunan Status "
     },
     {
       "id": "effect_group-visible-exam_block_restriction-000",
-      "name": "Energy Increase Disabled "
+      "name": "Peningkatan Genki Dinonaktifkan "
     },
     {
       "id": "effect_group-visible-exam_block-000",
-      "name": "Energy "
+      "name": "Genki "
     },
     {
       "id": "effect_group-visible-exam_card_draw-000",
-      "name": "Draw Skill Card "
+      "name": "Tarik Skill Card "
     },
     {
       "id": "effect_group-visible-exam_card_play_aggressive-000",
-      "name": "Motivation "
+      "name": "Semangat "
     },
     {
       "id": "effect_group-visible-exam_card_search_effect_play_count_buff-000",
-      "name": "Additional Skill Card Activation "
+      "name": "Aktivasi Skill Card Tambahan "
     },
     {
       "id": "effect_group-visible-exam_card_upgrade-000",
-      "name": "Upgraded During Lessons "
+      "name": "Diperkuat Selama Lesson "
     },
     {
       "id": "effect_group-visible-exam_concentration-000",
-      "name": "Confident "
+      "name": "Percaya Diri "
     },
     {
       "id": "effect_group-visible-exam_effect_timer-000",
-      "name": "Activation Reserved "
+      "name": "Aktivasi Dicadangkan "
     },
     {
       "id": "effect_group-visible-exam_extra_turn-000",
-      "name": "Additional Turn "
+      "name": "Giliran Tambahan "
     },
     {
       "id": "effect_group-visible-exam_full_power_point_reduce-000",
-      "name": "Full Power Point Decrease "
+      "name": "Poin Kekuatan Penuh Berkurang "
     },
     {
       "id": "effect_group-visible-exam_full_power-000",
-      "name": "Full Power "
+      "name": "Kekuatan Penuh "
     },
     {
       "id": "effect_group-visible-exam_gimmick_slump-000",
@@ -103,15 +103,15 @@
     },
     {
       "id": "effect_group-visible-exam_hand_grave_count_card_draw-000",
-      "name": "Replace Hand "
+      "name": "Ganti Hand "
     },
     {
       "id": "effect_group-visible-exam_lesson_buff_reduce-000",
-      "name": "Focus -"
+      "name": "Fokus -"
     },
     {
       "id": "effect_group-visible-exam_lesson_buff-000",
-      "name": "Focus "
+      "name": "Fokus "
     },
     {
       "id": "effect_group-visible-exam_lesson_depend_block-000",
@@ -123,11 +123,11 @@
     },
     {
       "id": "effect_group-visible-exam_lesson_value_multiple_down-000",
-      "name": "Parameter Increase Amount -"
+      "name": "Jumlah Peningkatan Parameter -"
     },
     {
       "id": "effect_group-visible-exam_lesson_value_multiple-000",
-      "name": "Parameter Increase Amount +"
+      "name": "Jumlah Peningkatan Parameter +"
     },
     {
       "id": "effect_group-visible-exam_lesson-000",
@@ -135,55 +135,55 @@
     },
     {
       "id": "effect_group-visible-exam_parameter_buff_multiple_per_turn_reduce-000",
-      "name": "Great decrease"
+      "name": "Penurunan Drastis"
     },
     {
       "id": "effect_group-visible-exam_parameter_buff_multiple_per_turn-000",
-      "name": "Excellent shape "
+      "name": "Kondisi Prima "
     },
     {
       "id": "effect_group-visible-exam_parameter_buff_reduce-000",
-      "name": "Good Shape -"
+      "name": "Kondisi Baik -"
     },
     {
       "id": "effect_group-visible-exam_parameter_buff-000",
-      "name": "Good Shape "
+      "name": "Kondisi Baik "
     },
     {
       "id": "effect_group-visible-exam_playable_value_add-000",
-      "name": "Skill Card Usage "
+      "name": "Penggunaan Skill Card "
     },
     {
       "id": "effect_group-visible-exam_preservation-000",
-      "name": "Preservation "
+      "name": "Penghematan "
     },
     {
       "id": "effect_group-visible-exam_review_reduce-000",
-      "name": "Good Impression -"
+      "name": "Kesan Baik -"
     },
     {
       "id": "effect_group-visible-exam_review-000",
-      "name": "Good Impression "
+      "name": "Kesan Baik "
     },
     {
       "id": "effect_group-visible-exam_stamina_consumption_add_fix-000",
-      "name": "Additional Stamina usage "
+      "name": "Penggunaan Stamina Tambahan "
     },
     {
       "id": "effect_group-visible-exam_stamina_consumption_add-000",
-      "name": "Increased Stamina usage "
+      "name": "Konsumsi Stamina Meningkat "
     },
     {
       "id": "effect_group-visible-exam_stamina_consumption_down_fix-000",
-      "name": "Reduced Stamina usage "
+      "name": "Konsumsi Stamina Berkurang "
     },
     {
       "id": "effect_group-visible-exam_stamina_consumption_down-000",
-      "name": "Stamina Decrease "
+      "name": "Penurunan Stamina "
     },
     {
       "id": "effect_group-visible-exam_stance_reset-000",
-      "name": "Guideline Release "
+      "name": "Pelepasan Pedoman "
     },
     {
       "id": "effect_group-visible-exam_status_enchant_encore-000",
@@ -191,67 +191,67 @@
     },
     {
       "id": "effect_group-visible-exam_status_enchant-000",
-      "name": "Sustained Effect "
+      "name": "Efek Berkelanjutan "
     },
     {
       "id": "effect_group-visible-exam_turn_down-000",
-      "name": "Reduced Turn Count "
+      "name": "Jumlah Giliran Berkurang "
     },
     {
       "id": "effect_group-visible-produce_card_delete-000",
-      "name": "Delete "
+      "name": "Hapus "
     },
     {
       "id": "effect_group-visible-produce_card_upgrade-000",
-      "name": "Upgrade "
+      "name": "Perkuat "
     },
     {
       "id": "effect_group-visible-produce_point_addition-000",
-      "name": "P-Points +"
+      "name": "P-Point +"
     },
     {
       "id": "effect_group-visible-produce_point_reduce_fix-000",
-      "name": "P-Points -"
+      "name": "P-Point -"
     },
     {
       "id": "effect_group-visible-shop_price_discount_multiple-000",
-      "name": "Discount on All Consultation Options "
+      "name": "Diskon Semua Opsi Konsultasi "
     },
     {
       "id": "effect_group-visible-shop_price_up_multiple-000",
-      "name": "Increase on All Consultation Options "
+      "name": "Kenaikan Harga Semua Opsi Konsultasi "
     },
     {
       "id": "effect_group-visible-shop_produce_card_delete_price_discount_multiple-000",
-      "name": "Discount on Skill Card Deletion in Consultation "
+      "name": "Diskon Hapus Skill Card di Konsultasi "
     },
     {
       "id": "effect_group-visible-shop_produce_card_delete_price_up_multiple-000",
-      "name": "Increase on Skill Card Deletion in Consultation "
+      "name": "Kenaikan Harga Hapus Skill Card di Konsultasi "
     },
     {
       "id": "effect_group-visible-shop_produce_card_price_discount_multiple-000",
-      "name": "Discount on Skill Cards in Consultation "
+      "name": "Diskon Skill Card di Konsultasi "
     },
     {
       "id": "effect_group-visible-shop_produce_card_price_up_multiple-000",
-      "name": "Increase on Skill Cards in Consultation "
+      "name": "Kenaikan Harga Skill Card di Konsultasi "
     },
     {
       "id": "effect_group-visible-shop_produce_card_upgrade_price_discount_multiple-000",
-      "name": "Discount on Skill Card Upgrade in Consultation "
+      "name": "Diskon Perkuat Skill Card di Konsultasi "
     },
     {
       "id": "effect_group-visible-shop_produce_card_upgrade_price_up_multiple-000",
-      "name": "Increase on Skill Card Upgrade in Consultation "
+      "name": "Kenaikan Harga Perkuat Skill Card di Konsultasi "
     },
     {
       "id": "effect_group-visible-shop_produce_drink_price_discount_multiple-000",
-      "name": "Discount on P Drinks in Consultation "
+      "name": "Diskon P-Drink di Konsultasi "
     },
     {
       "id": "effect_group-visible-shop_produce_drink_price_up_multiple-000",
-      "name": "Increase on P Drinks in Consultation "
+      "name": "Kenaikan Harga P-Drink di Konsultasi "
     },
     {
       "id": "effect_group-visible-stamina_recover_fix-000",
@@ -263,7 +263,7 @@
     },
     {
       "id": "effect_group-visible-stance_lock-000",
-      "name": "Guideline Fixation "
+      "name": "Penguncian Pedoman "
     },
     {
       "id": "effect_group-visible-visual_addition-000",
