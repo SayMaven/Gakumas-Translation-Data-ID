@@ -48,7 +48,7 @@ Target: Seluruh antarmuka game, menu, tombol, item, misi, tutorial, dan string U
 
 Target: Menyelesaikan seluruh data gameplay di folder `local-files/masterTrans/` (total 108 berkas) agar fitur **MasterDB Localization** pada Localify bekerja 100% dalam Bahasa Indonesia tanpa ada teks sistem yang bocor.
 
-Status Keseluruhan Fase 2: **7 Selesai** | **99 Belum Mulai** | **2 Di-skip (Konfigurasi Teknis)** (Total: 108 Berkas)
+Status Keseluruhan Fase 2: **8 Selesai** | **96 Belum Mulai** | **4 Di-skip (Nama Asli / Teknis)** (Total: 108 Berkas)
 
 ### 2.1 Inti Produce, Kartu Skill & Pertandingan (Lesson & Audition) — 37 Berkas
 
@@ -99,8 +99,8 @@ Status Keseluruhan Fase 2: **7 Selesai** | **99 Belum Mulai** | **2 Di-skip (Kon
 | Status | Komponen | Berkas di `local-files/` | Volume Data | Status Detail & Keterangan |
 |---|---|---|---|---|
 | `[x]` | **Support Card** | `masterTrans/SupportCard.json` | 208 entri | **100% Selesai**. Seluruh 208 nama Support Card (R, SR, SSR) dan 208 teks tingkat aktivasi efek telah diterjemahkan. |
-| `[ ]` | **Produce Idol Card (P-Idol)** | `masterTrans/IdolCard.json` | 156 entri | Belum Mulai. Nama gelar kartu Produce Idol kandidat (School Life, First Love, Fighting My Way, dll.). |
-| `[ ]` | **Skin Kartu Produce Idol** | `masterTrans/IdolCardSkin.json` | 306 entri | Belum Mulai. Nama variasi skin tampilan kartu Produce Idol. |
+| `[-]` | **Produce Idol Card (P-Idol)** | `masterTrans/IdolCard.json` | 156 entri | **Di-skip (Nama Kartu Asli)**. Nama gelar kartu Produce Idol dibiarkan sesuai nama aslinya (School Life, First Love, Fighting My Way, Fluorite, dll.) agar konsisten dengan wiki dan rilis resmi. |
+| `[-]` | **Skin Kartu Produce Idol** | `masterTrans/IdolCardSkin.json` | 306 entri | **Di-skip (Nama Skin Asli)**. Nama variasi skin kartu Produce Idol dibiarkan sesuai nama rilis resminya. |
 | `[ ]` | **Kostum Panggung & Pakaian** | `masterTrans/Costume.json` | 566 entri | Belum Mulai. Nama pakaian, kostum live panggung, dan pakaian kasual idol. |
 | `[ ]` | **Aksesori Kepala & Gaya Rambut** | `masterTrans/CostumeHead.json` | 416 entri | Belum Mulai. Nama gaya rambut, pita, topi, dan aksesori kepala idol. |
 | `[ ]` | **Data Karakter Idol & Staf** | `masterTrans/Character.json` | 24 entri | Belum Mulai. Nama lengkap kanji dan romaji alfabet idol dan guru. |
@@ -169,7 +169,7 @@ Status Keseluruhan Fase 2: **7 Selesai** | **99 Belum Mulai** | **2 Di-skip (Kon
 
 | Status | Komponen | Berkas di `local-files/` | Volume Data | Status Detail & Keterangan |
 |---|---|---|---|---|
-| `[ ]` | **Tips Layar Loading** | `masterTrans/Tips.json` | 34 entri | Belum Mulai. Tips gameplay, strategi produce, dan trivia saat layar loading. |
+| `[x]` | **Tips Layar Loading** | `masterTrans/Tips.json` | 34 entri | **100% Selesai**. Seluruh tips gameplay, fitur level producer, penukaran uang/AP, dan akademi Hatsuboshi telah diterjemahkan. |
 | `[ ]` | **Tutorial Master Sistem** | `masterTrans/Tutorial.json` | 217 entri | Belum Mulai. Judul dan teks navigasi tutorial fitur-fitur permainan. |
 | `[ ]` | **Langkah Tutorial Produce** | `masterTrans/TutorialProduceStep.json` | 12 entri | Belum Mulai. Nama tahap panduan tutorial pertama kali Produce. |
 | `[ ]` | **Artikel Panduan Bantuan** | `masterTrans/HelpContent.json` | 273 entri | Belum Mulai. Judul artikel panduan bantuan lengkap in-game. |
@@ -274,3 +274,5 @@ Target: Cerita mendalam tiap kandidat idol, interaksi keakraban (Commu Bond), ce
 | 2026-10-15 | `masterTrans/SupportCard.json` | Terjemahan | Menerjemahkan seluruh 208 nama Support Card (R, SR, SSR) dan 208 teks tingkat aktivasi probabilitas efek (/ Tinggi, / Sedang, / Rendah). **100% SELESAI (208 Support Card)**. |
 | 2026-10-15 | `masterTrans/Item.json` | Terjemahan | Menerjemahkan seluruh 368 item tas/inventaris (319 nama unik, Piece idol, tiket gacha, koin, buku pelajaran, 115 deskripsi, 44 rute perolehan). **100% SELESAI (368 Item)**. |
 | 2026-10-15 | `README.md` & `docs/` | Dokumentasi | Menambahkan panduan pemakaian dan instalasi Localify untuk Android (`docs/android.md`) dan PC DMM (`docs/dmm-games.md`). |
+| 2026-10-15 | `masterTrans/Tips.json` | Terjemahan | Menerjemahkan seluruh tips layar loading gameplay, level producer, penukaran uang/AP, dan akademi Hatsuboshi. **100% SELESAI (34 Tips)**. |
+| 2026-10-15 | `IdolCard.json` & `IdolCardSkin.json` | Kebijakan Proyek | Menetapkan kebijakan mempertahankan nama resmi asli kartu Produce Idol dan skin (School Life, First Love, Fighting My Way, Fluorite, dll.) agar sinkron dengan wiki resmi. |
