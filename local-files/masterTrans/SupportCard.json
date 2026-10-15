@@ -27,10 +27,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Low"
+          "text": "/ Rendah"
         }
       ],
-      "name": "Stretch Carefully"
+      "name": "Peregangan Perlahan"
     },
     {
       "id": "s_card-1-0001",
@@ -45,10 +45,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Low"
+          "text": "/ Rendah"
         }
       ],
-      "name": "Full Power, Then Rest"
+      "name": "Kekuatan Penuh, Lalu Istirahat"
     },
     {
       "id": "s_card-1-0002",
@@ -63,10 +63,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Low"
+          "text": "/ Rendah"
         }
       ],
-      "name": "Twirl Split Ends"
+      "name": "Memilin Rambut Bercabang"
     },
     {
       "id": "s_card-1-0003",
@@ -81,10 +81,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Low"
+          "text": "/ Rendah"
         }
       ],
-      "name": "Prince’s Breather"
+      "name": "Istirahat Sejenak sang Pangeran"
     },
     {
       "id": "s_card-1-0004",
@@ -99,10 +99,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Low"
+          "text": "/ Rendah"
         }
       ],
-      "name": "Reliable Big Sis"
+      "name": "Kakak yang Bisa Diandalkan"
     },
     {
       "id": "s_card-1-0005",
@@ -117,10 +117,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Low"
+          "text": "/ Rendah"
         }
       ],
-      "name": "Image Training"
+      "name": "Latihan Imajinasi"
     },
     {
       "id": "s_card-1-0006",
@@ -135,10 +135,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Low"
+          "text": "/ Rendah"
         }
       ],
-      "name": "Focused Extra Practice"
+      "name": "Latihan Tambahan yang Terpusat"
     },
     {
       "id": "s_card-1-0007",
@@ -153,10 +153,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Low"
+          "text": "/ Rendah"
         }
       ],
-      "name": "Switch ON!"
+      "name": "Sakelar ON!"
     },
     {
       "id": "s_card-1-0008",
@@ -171,10 +171,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Low"
+          "text": "/ Rendah"
         }
       ],
-      "name": "Chasing Dreams"
+      "name": "Mengejar Impian"
     },
     {
       "id": "s_card-1-0009",
@@ -189,10 +189,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Low"
+          "text": "/ Rendah"
         }
       ],
-      "name": "Big Sis’ Secret Menu"
+      "name": "Menu Rahasia sang Kakak"
     },
     {
       "id": "s_card-1-0010",
@@ -207,10 +207,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Low"
+          "text": "/ Rendah"
         }
       ],
-      "name": "At My Own Pace"
+      "name": "Sesuai Iramaku Sendiri"
     },
     {
       "id": "s_card-1-0011",
@@ -225,10 +225,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Low"
+          "text": "/ Rendah"
         }
       ],
-      "name": "Flawless Planning"
+      "name": "Rencana yang Sempurna"
     },
     {
       "id": "s_card-1-0012",
@@ -243,10 +243,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Low"
+          "text": "/ Rendah"
         }
       ],
-      "name": "Upright and Diligent"
+      "name": "Tegak dan Rajin"
     },
     {
       "id": "s_card-2-0000",
@@ -261,10 +261,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Heartfelt Love Call"
+      "name": "Panggilan Sayang Sepenuh Hati"
     },
     {
       "id": "s_card-2-0001",
@@ -279,10 +279,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Turning Away For Now"
+      "name": "Memalingkan Muka Sementara"
     },
     {
       "id": "s_card-2-0002",
@@ -297,10 +297,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Easygoing Yet Firm"
+      "name": "Santai Tapi Tegas"
     },
     {
       "id": "s_card-2-0003",
@@ -315,10 +315,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Memorizing Is Hard"
+      "name": "Menghafal Itu Sulit"
     },
     {
       "id": "s_card-2-0004",
@@ -333,10 +333,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Guided Step-by-Step"
+      "name": "Dibimbing Langkah demi Langkah"
     },
     {
       "id": "s_card-2-0005",
@@ -351,10 +351,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Squishy Cheeks"
+      "name": "Pipi yang Kenyal"
     },
     {
       "id": "s_card-2-0006",
@@ -369,10 +369,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Charming Quadriceps"
+      "name": "Otot Paha yang Memesona"
     },
     {
       "id": "s_card-2-0007",
@@ -387,10 +387,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Soft and Exciting"
+      "name": "Lembut dan Mendebarkan"
     },
     {
       "id": "s_card-2-0008",
@@ -405,10 +405,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Blushing Dream State"
+      "name": "Mimpi yang Merona"
     },
     {
       "id": "s_card-2-0009",
@@ -423,10 +423,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "SSD Tasting!"
+      "name": "Mencicipi SSD!"
     },
     {
       "id": "s_card-2-0010",
@@ -441,10 +441,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "My Pace, My Life"
+      "name": "Iramaku, Hidupku"
     },
     {
       "id": "s_card-2-0011",
@@ -459,10 +459,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Shaky Intentions"
+      "name": "Niat yang Goyah"
     },
     {
       "id": "s_card-2-0012",
@@ -477,10 +477,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Can’t Be Ignored"
+      "name": "Tak Bisa Diabaikan"
     },
     {
       "id": "s_card-2-0013",
@@ -495,10 +495,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "A Flower Will Bloom"
+      "name": "Bunga Akan Mekar"
     },
     {
       "id": "s_card-2-0014",
@@ -513,10 +513,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Low"
+          "text": "/ Rendah"
         }
       ],
-      "name": "First Friend Ever"
+      "name": "Teman Pertama Sepanjang Hidup"
     },
     {
       "id": "s_card-2-0015",
@@ -531,10 +531,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Sharing Earphones"
+      "name": "Berbagi Earphone"
     },
     {
       "id": "s_card-2-0016",
@@ -549,10 +549,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Whoa!"
+      "name": "Wah!"
     },
     {
       "id": "s_card-2-0017",
@@ -567,10 +567,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Chomp, Munch"
+      "name": "Nyam, Nyam"
     },
     {
       "id": "s_card-2-0018",
@@ -585,10 +585,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Stiff Stretching"
+      "name": "Peregangan yang Kaku"
     },
     {
       "id": "s_card-2-0019",
@@ -603,10 +603,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Strike a Pose"
+      "name": "Pasang Pose"
     },
     {
       "id": "s_card-2-0020",
@@ -621,10 +621,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Enjoy the Beach!"
+      "name": "Nikmati Pantainya!"
     },
     {
       "id": "s_card-2-0021",
@@ -639,10 +639,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Fifth Kind Encounter"
+      "name": "Pertemuan Jenis Kelima"
     },
     {
       "id": "s_card-2-0022",
@@ -657,10 +657,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "I'm Just Observing Today"
+      "name": "Hari Ini Cuma Mengamati Saja"
     },
     {
       "id": "s_card-2-0023",
@@ -675,10 +675,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Kindness Feels Warm"
+      "name": "Kebaikan Terasa Hangat"
     },
     {
       "id": "s_card-2-0024",
@@ -693,10 +693,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Snug and Tight"
+      "name": "Pas dan Erat"
     },
     {
       "id": "s_card-2-0025",
@@ -711,10 +711,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Fluffy Mask?"
+      "name": "Masker Berbulu?"
     },
     {
       "id": "s_card-2-0026",
@@ -729,10 +729,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Bubbly and smells great♪"
+      "name": "Berbusa dan Harum Banget♪"
     },
     {
       "id": "s_card-2-0027",
@@ -747,10 +747,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Coffee Break"
+      "name": "Rehat Kopi"
     },
     {
       "id": "s_card-2-0028",
@@ -765,10 +765,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Majestic Pampas Grass!"
+      "name": "Rumput Ilalang yang Megah!"
     },
     {
       "id": "s_card-2-0029",
@@ -783,10 +783,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "China’s Gratitude"
+      "name": "Rasa Terima Kasih China"
     },
     {
       "id": "s_card-2-0030",
@@ -801,10 +801,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Intriguing Drink"
+      "name": "Minuman yang Menarik Perhatian"
     },
     {
       "id": "s_card-2-0031",
@@ -819,10 +819,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "SSD Secrets"
+      "name": "Rahasia SSD"
     },
     {
       "id": "s_card-2-0032",
@@ -837,10 +837,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Sizzling Mackerel"
+      "name": "Ikan Kembung yang Mendesis"
     },
     {
       "id": "s_card-2-0033",
@@ -855,10 +855,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Let’s Go Viral!"
+      "name": "Ayo Viral!"
     },
     {
       "id": "s_card-2-0034",
@@ -873,10 +873,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Catch a Dragonfly"
+      "name": "Menangkap Capung"
     },
     {
       "id": "s_card-2-0035",
@@ -891,10 +891,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Decuple XL!"
+      "name": "Sepuluh Kali Lipat XL!"
     },
     {
       "id": "s_card-2-0036",
@@ -909,10 +909,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Cute～ω Pose☆"
+      "name": "Pose Imut～ω☆"
     },
     {
       "id": "s_card-2-0037",
@@ -927,10 +927,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Calories/2 = 2x Happy"
+      "name": "Kalori/2 = 2x Bahagia"
     },
     {
       "id": "s_card-2-0038",
@@ -945,10 +945,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Aiming for the top"
+      "name": "Membidik Puncak Tertinggi"
     },
     {
       "id": "s_card-2-0039",
@@ -963,10 +963,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Still trying to improve"
+      "name": "Masih Berusaha Berkembang"
     },
     {
       "id": "s_card-2-0040",
@@ -981,10 +981,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Basics > Advanced"
+      "name": "Dasar > Lanjutan"
     },
     {
       "id": "s_card-2-0041",
@@ -999,10 +999,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Explosive SSC birth"
+      "name": "Kelahiran SSC yang Menggelegar"
     },
     {
       "id": "s_card-2-0042",
@@ -1017,10 +1017,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "With all my heart"
+      "name": "Dengan Sepenuh Hati"
     },
     {
       "id": "s_card-2-0043",
@@ -1035,10 +1035,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Full Speed Ahead!"
+      "name": "Kecepatan Penuh ke Depan!"
     },
     {
       "id": "s_card-2-0044",
@@ -1053,10 +1053,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Phew and Shoo"
+      "name": "Fiuh dan Huft"
     },
     {
       "id": "s_card-2-0045",
@@ -1071,10 +1071,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Insect-loving prince"
+      "name": "Pangeran Pencinta Serangga"
     },
     {
       "id": "s_card-2-0046",
@@ -1089,10 +1089,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Beep-Beep, Ping!"
+      "name": "Bip-Bip, Ting!"
     },
     {
       "id": "s_card-2-0047",
@@ -1107,10 +1107,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Secret Tech: Triple Jump!"
+      "name": "Jurus Rahasia: Lompatan Tiga Kali!"
     },
     {
       "id": "s_card-2-0048",
@@ -1125,10 +1125,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Girls♡Talk"
+      "name": "Obrolan Gadis♡"
     },
     {
       "id": "s_card-2-0049",
@@ -1143,10 +1143,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Humiliating 2nd place"
+      "name": "Juara 2 yang Memalukan"
     },
     {
       "id": "s_card-2-0050",
@@ -1161,10 +1161,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Table for two～♪"
+      "name": "Meja untuk Berdua～♪"
     },
     {
       "id": "s_card-2-0051",
@@ -1179,10 +1179,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Sweets, tea, astringency"
+      "name": "Kue Manis, Teh, dan Sepat"
     },
     {
       "id": "s_card-2-0052",
@@ -1197,7 +1197,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
       "name": "Un, deux, trois!"
@@ -1215,10 +1215,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Flump~"
+      "name": "Bruk~"
     },
     {
       "id": "s_card-2-0054",
@@ -1233,10 +1233,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Tricky Fashion Show"
+      "name": "Peragaan Busana yang Rumit"
     },
     {
       "id": "s_card-2-0055",
@@ -1251,10 +1251,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Settling in for the night"
+      "name": "Bersiap Tidur Malam"
     },
     {
       "id": "s_card-2-0056",
@@ -1269,10 +1269,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Sparta & Spice"
+      "name": "Sparta & Bumbu Pedas"
     },
     {
       "id": "s_card-2-0058",
@@ -1287,10 +1287,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "A Chilly Moment"
+      "name": "Momen Dingin Menggigil"
     },
     {
       "id": "s_card-2-0059",
@@ -1305,10 +1305,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Disciple Training"
+      "name": "Latihan sang Murid"
     },
     {
       "id": "s_card-2-0060",
@@ -1323,10 +1323,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Spiky Warning"
+      "name": "Peringatan Berduri"
     },
     {
       "id": "s_card-2-0061",
@@ -1341,10 +1341,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Keep your core strong!"
+      "name": "Jaga Tubuhmu Tetap Kuat!"
     },
     {
       "id": "s_card-2-0062",
@@ -1359,10 +1359,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Happy halloween～!"
+      "name": "Selamat Halloween～!"
     },
     {
       "id": "s_card-2-0063",
@@ -1377,10 +1377,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Warm Foot Massage"
+      "name": "Pijatan Kaki yang Hangat"
     },
     {
       "id": "s_card-2-0064",
@@ -1395,10 +1395,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "A Graceful Greeting♪"
+      "name": "Salam yang Anggun♪"
     },
     {
       "id": "s_card-2-0065",
@@ -1413,10 +1413,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "The Sleeping Prince"
+      "name": "Pangeran yang Tertidur"
     },
     {
       "id": "s_card-2-0066",
@@ -1431,10 +1431,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Buddy?"
+      "name": "Sobat?"
     },
     {
       "id": "s_card-2-0067",
@@ -1449,10 +1449,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Sunshines in full bloom"
+      "name": "Mentari Mekar Sempurna"
     },
     {
       "id": "s_card-2-0068",
@@ -1467,10 +1467,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Proof of friendship"
+      "name": "Bukti Persahabatan"
     },
     {
       "id": "s_card-2-0069",
@@ -1485,10 +1485,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Prima Stella & the Prince"
+      "name": "Prima Stella & sang Pangeran"
     },
     {
       "id": "s_card-2-0070",
@@ -1503,10 +1503,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Laundry Balancing act"
+      "name": "Aksi Keseimbangan Cucian"
     },
     {
       "id": "s_card-2-0071",
@@ -1521,10 +1521,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "A sign of friendship☆"
+      "name": "Tanda Persahabatan☆"
     },
     {
       "id": "s_card-2-0072",
@@ -1539,10 +1539,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Knight and the Tomboy"
+      "name": "Ksatria dan Gadis Tomboy"
     },
     {
       "id": "s_card-2-0073",
@@ -1557,10 +1557,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Stretch and Pull"
+      "name": "Regang dan Tarik"
     },
     {
       "id": "s_card-2-0074",
@@ -1575,10 +1575,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Delicious relaxing moment"
+      "name": "Momen Santai yang Lezat"
     },
     {
       "id": "s_card-2-0075",
@@ -1593,10 +1593,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Things I won't compromise"
+      "name": "Hal yang Takkan Kukompromikan"
     },
     {
       "id": "s_card-2-0076",
@@ -1611,10 +1611,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "A relaxed, yawning face"
+      "name": "Wajah Santai Menguap"
     },
     {
       "id": "s_card-2-0077",
@@ -1629,10 +1629,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Mmm watermelon, delish!"
+      "name": "Nyam, Semangkanya Enak!"
     },
     {
       "id": "s_card-2-0078",
@@ -1647,10 +1647,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "A Test of Konjac"
+      "name": "Ujian Konnyaku"
     },
     {
       "id": "s_card-2-0079",
@@ -1665,10 +1665,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "What a weird coincidence!"
+      "name": "Kebetulan yang Aneh Banget!"
     },
     {
       "id": "s_card-2-0080",
@@ -1683,10 +1683,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Extra Spicy! Hatsuboshi Curry!!"
+      "name": "Ekstra Pedas! Kari Hatsuboshi!!"
     },
     {
       "id": "s_card-2-0081",
@@ -1701,10 +1701,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Winter Princess and Prince"
+      "name": "Putri dan Pangeran Musim Dingin"
     },
     {
       "id": "s_card-2-0082",
@@ -1719,10 +1719,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Making costumes together"
+      "name": "Membuat Kostum Bersama"
     },
     {
       "id": "s_card-3-0000",
@@ -1737,10 +1737,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "I’ll Make It For You Too!"
+      "name": "Akan Kubuatkan untukmu Juga!"
     },
     {
       "id": "s_card-3-0001",
@@ -1755,10 +1755,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "What are you doing?"
+      "name": "Lagi Ngapain?"
     },
     {
       "id": "s_card-3-0002",
@@ -1773,10 +1773,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Freaking annoying"
+      "name": "Nyebelin Banget"
     },
     {
       "id": "s_card-3-0003",
@@ -1791,10 +1791,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Leave It to Big Sis!"
+      "name": "Serahkan pada Kakak!"
     },
     {
       "id": "s_card-3-0004",
@@ -1809,10 +1809,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Mgggrrrrrr…!"
+      "name": "Grrrrr…!"
     },
     {
       "id": "s_card-3-0005",
@@ -1827,10 +1827,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Next Cherry Blossom"
+      "name": "Bunga Sakura Berikutnya"
     },
     {
       "id": "s_card-3-0006",
@@ -1845,10 +1845,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Great Work, China."
+      "name": "Kerja Bagus, China."
     },
     {
       "id": "s_card-3-0007",
@@ -1863,10 +1863,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Like a Real Prince"
+      "name": "Bagaikan Pangeran Sungguhan"
     },
     {
       "id": "s_card-3-0008",
@@ -1881,10 +1881,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Got your yummy face!"
+      "name": "Kena Kamu, Wajah Lezat!"
     },
     {
       "id": "s_card-3-0009",
@@ -1899,10 +1899,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "We Can Do It Together"
+      "name": "Kita Pasti Bisa Bersama"
     },
     {
       "id": "s_card-3-0010",
@@ -1917,10 +1917,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Cute + Cute = Super Cute!"
+      "name": "Imut + Imut = Super Imut!"
     },
     {
       "id": "s_card-3-0011",
@@ -1935,10 +1935,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "I Wasn’t Wrong"
+      "name": "Aku Tidak Salah"
     },
     {
       "id": "s_card-3-0012",
@@ -1953,10 +1953,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Pushed Too Hard Again"
+      "name": "Memaksakan Diri Lagi"
     },
     {
       "id": "s_card-3-0013",
@@ -1971,10 +1971,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Oh, What a Coincidence"
+      "name": "Wah, Kebetulan Sekali"
     },
     {
       "id": "s_card-3-0014",
@@ -1989,10 +1989,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Seriously?"
+      "name": "Yang Bener?"
     },
     {
       "id": "s_card-3-0015",
@@ -2007,10 +2007,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Treat It Like Work"
+      "name": "Anggap Saja Pekerjaan"
     },
     {
       "id": "s_card-3-0016",
@@ -2025,10 +2025,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Nobody Left Behind"
+      "name": "Tak Ada yang Tertinggal"
     },
     {
       "id": "s_card-3-0017",
@@ -2043,10 +2043,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Let’s Carry It Together♪"
+      "name": "Ayo Bawa Bersama♪"
     },
     {
       "id": "s_card-3-0018",
@@ -2061,10 +2061,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Second Classroom Party!"
+      "name": "Pesta Kelas Kedua!"
     },
     {
       "id": "s_card-3-0019",
@@ -2079,10 +2079,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "You’re My Pride and Joy"
+      "name": "Kaulah Kebanggaan dan Kebahagiaanku"
     },
     {
       "id": "s_card-3-0020",
@@ -2097,10 +2097,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "Autumn Appetite is Here"
+      "name": "Nafsu Makan Musim Gugur Telah Tiba"
     },
     {
       "id": "s_card-3-0021",
@@ -2115,7 +2115,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
       "name": "Samidare"
@@ -2133,10 +2133,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "It’s Sunny"
+      "name": "Cuacanya Cerah"
     },
     {
       "id": "s_card-3-0023",
@@ -2151,10 +2151,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Please Don’t Rise Yet!"
+      "name": "Tolong Jangan Terbit Dulu!"
     },
     {
       "id": "s_card-3-0024",
@@ -2169,10 +2169,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Not \"A\" But \"E\"!"
+      "name": "Bukan \"A\" Tapi \"E\"!"
     },
     {
       "id": "s_card-3-0025",
@@ -2187,10 +2187,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "New Challenge Success!"
+      "name": "Tantangan Baru Berhasil!"
     },
     {
       "id": "s_card-3-0026",
@@ -2205,10 +2205,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Hey! That’s Cold!"
+      "name": "Hei! Dingin Banget!"
     },
     {
       "id": "s_card-3-0027",
@@ -2223,10 +2223,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Let’s Enjoy Summer!"
+      "name": "Ayo Nikmati Musim Panas!"
     },
     {
       "id": "s_card-3-0028",
@@ -2241,10 +2241,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Temporary Truce"
+      "name": "Gencatan Senjata Sementara"
     },
     {
       "id": "s_card-3-0029",
@@ -2259,10 +2259,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Savoring Summer"
+      "name": "Menikmati Musim Panas"
     },
     {
       "id": "s_card-3-0030",
@@ -2277,10 +2277,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "I Want to Go There Too!"
+      "name": "Aku Mau ke Sana Juga!"
     },
     {
       "id": "s_card-3-0031",
@@ -2295,10 +2295,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Want to Do Fireworks?"
+      "name": "Mau Main Kembang Api?"
     },
     {
       "id": "s_card-3-0032",
@@ -2313,10 +2313,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Producing Is Tough"
+      "name": "Mem-produce Itu Berat"
     },
     {
       "id": "s_card-3-0033",
@@ -2331,10 +2331,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Let's Make Up"
+      "name": "Ayo Baikan"
     },
     {
       "id": "s_card-3-0034",
@@ -2349,10 +2349,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Together, It’s a Breeze"
+      "name": "Bersama Jadi Terasa Ringan"
     },
     {
       "id": "s_card-3-0035",
@@ -2367,10 +2367,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Let’s Take It Slow"
+      "name": "Ayo Pelan-pelan Saja"
     },
     {
       "id": "s_card-3-0036",
@@ -2385,10 +2385,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Doesn’t It Suit You?"
+      "name": "Bukannya Cocok untukmu?"
     },
     {
       "id": "s_card-3-0037",
@@ -2403,10 +2403,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Autumn Is In Full Swing"
+      "name": "Musim Gugur Sedang Puncak-puncaknya"
     },
     {
       "id": "s_card-3-0038",
@@ -2421,10 +2421,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "President, We’re All Set"
+      "name": "Ketua, Semua Sudah Siap"
     },
     {
       "id": "s_card-3-0039",
@@ -2439,10 +2439,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "I’ll Definitely Catch Up!"
+      "name": "Aku Pasti Akan Menyusul!"
     },
     {
       "id": "s_card-3-0040",
@@ -2457,10 +2457,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Is It Cooked Yet?"
+      "name": "Sudah Matang Belum?"
     },
     {
       "id": "s_card-3-0041",
@@ -2475,10 +2475,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "So Sparkly and Pretty!"
+      "name": "Sangat Berkilau dan Cantik!"
     },
     {
       "id": "s_card-3-0042",
@@ -2493,10 +2493,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "It’s So Warm"
+      "name": "Hangat Sekali"
     },
     {
       "id": "s_card-3-0043",
@@ -2511,10 +2511,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Wait Up!"
+      "name": "Tunggu Dulu!"
     },
     {
       "id": "s_card-3-0044",
@@ -2529,10 +2529,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "One More Time!"
+      "name": "Sekali Lagi!"
     },
     {
       "id": "s_card-3-0045",
@@ -2547,10 +2547,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Together Now♪"
+      "name": "Sekarang Bersama♪"
     },
     {
       "id": "s_card-3-0046",
@@ -2565,10 +2565,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "This Is Our Three Years"
+      "name": "Inilah Tiga Tahun Kita"
     },
     {
       "id": "s_card-3-0047",
@@ -2583,10 +2583,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Valentine ♡ meeting!"
+      "name": "Pertemuan Valentine♡!"
     },
     {
       "id": "s_card-3-0048",
@@ -2601,10 +2601,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "No matter what!"
+      "name": "Bagaimanapun Juga!"
     },
     {
       "id": "s_card-3-0049",
@@ -2619,10 +2619,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Stand on your own?"
+      "name": "Berdiri Sendiri?"
     },
     {
       "id": "s_card-3-0050",
@@ -2637,10 +2637,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "I like you two"
+      "name": "Aku Suka Kalian Berdua"
     },
     {
       "id": "s_card-3-0051",
@@ -2655,10 +2655,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Beginning of a new life"
+      "name": "Awal Kehidupan Baru"
     },
     {
       "id": "s_card-3-0052",
@@ -2673,10 +2673,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Congrats on Passing!"
+      "name": "Selamat Atas Kelulusannya!"
     },
     {
       "id": "s_card-3-0053",
@@ -2691,10 +2691,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Alright, One More Round!"
+      "name": "Baiklah, Satu Ronde Lagi!"
     },
     {
       "id": "s_card-3-0054",
@@ -2709,10 +2709,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "You're a worthy opponent!"
+      "name": "Kamu Lawan yang Seimbang!"
     },
     {
       "id": "s_card-3-0055",
@@ -2727,10 +2727,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "It Starts Here, Doesn't It!"
+      "name": "Semua Dimulai dari Sini, Kan!"
     },
     {
       "id": "s_card-3-0056",
@@ -2745,10 +2745,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Clumsy as ever"
+      "name": "Ceroboh Seperti Biasa"
     },
     {
       "id": "s_card-3-0057",
@@ -2763,10 +2763,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Totally useful friends!"
+      "name": "Teman yang Sangat Berfaedah!"
     },
     {
       "id": "s_card-3-0058",
@@ -2781,10 +2781,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Just talking to myself"
+      "name": "Cuma Bicara Sendiri Kok"
     },
     {
       "id": "s_card-3-0059",
@@ -2799,10 +2799,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Totally close now♪"
+      "name": "Sekarang Makin Akrab♪"
     },
     {
       "id": "s_card-3-0060",
@@ -2817,10 +2817,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "A lost child"
+      "name": "Anak yang Hilang"
     },
     {
       "id": "s_card-3-0061",
@@ -2835,10 +2835,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Everyone’s opinions♪"
+      "name": "Pendapat Semua Orang♪"
     },
     {
       "id": "s_card-3-0062",
@@ -2853,10 +2853,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Well done, Kuramoto"
+      "name": "Bagus Sekali, Kuramoto"
     },
     {
       "id": "s_card-3-0063",
@@ -2871,10 +2871,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "A bit of fangirling is nice!"
+      "name": "Mengagumi Sedikit Boleh Dong!"
     },
     {
       "id": "s_card-3-0064",
@@ -2889,10 +2889,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Always doing your best"
+      "name": "Selalu Berusaha Keras"
     },
     {
       "id": "s_card-3-0065",
@@ -2907,10 +2907,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "What kind of relationship?"
+      "name": "Hubungan Macam Apa?"
     },
     {
       "id": "s_card-3-0066",
@@ -2925,10 +2925,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Just can't leave alone"
+      "name": "Tak Bisa Kubiarkan Begitu Saja"
     },
     {
       "id": "s_card-3-0067",
@@ -2943,10 +2943,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "We're super close!"
+      "name": "Kita Akrab Banget!"
     },
     {
       "id": "s_card-3-0068",
@@ -2961,10 +2961,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "I ain't your mom!"
+      "name": "Aku Bukan Ibumu!"
     },
     {
       "id": "s_card-3-0069",
@@ -2979,10 +2979,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Hope it lasts Forever"
+      "name": "Kuharap Bertahan Selamanya"
     },
     {
       "id": "s_card-3-0070",
@@ -2997,10 +2997,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Hey, I came for you!"
+      "name": "Hei, Aku Datang untukmu!"
     },
     {
       "id": "s_card-3-0071",
@@ -3015,10 +3015,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Let's Hype It Up!"
+      "name": "Ayo Ramaikan!"
     },
     {
       "id": "s_card-3-0072",
@@ -3033,10 +3033,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Whoops, careful there"
+      "name": "Ups, Hati-hati di Sana"
     },
     {
       "id": "s_card-3-0073",
@@ -3051,7 +3051,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
       "name": "#GyaruPeace"
@@ -3069,10 +3069,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "I know about this!"
+      "name": "Aku Tahu Soal Ini!"
     },
     {
       "id": "s_card-3-0075",
@@ -3087,10 +3087,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "This is a castle!!"
+      "name": "Ini Kastel!!"
     },
     {
       "id": "s_card-3-0076",
@@ -3105,10 +3105,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "How Interesting"
+      "name": "Menarik Sekali"
     },
     {
       "id": "s_card-3-0077",
@@ -3123,10 +3123,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Cooling Is Important!"
+      "name": "Pendinginan Itu Penting!"
     },
     {
       "id": "s_card-3-0078",
@@ -3141,10 +3141,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Ready, Set, Go!"
+      "name": "Bersedia, Siap, Mulai!"
     },
     {
       "id": "s_card-3-0079",
@@ -3159,10 +3159,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "There you are!"
+      "name": "Ketemu Juga!"
     },
     {
       "id": "s_card-3-0080",
@@ -3177,10 +3177,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Cmon, grab it!"
+      "name": "Ayo, Tangkap!"
     },
     {
       "id": "s_card-3-0081",
@@ -3195,10 +3195,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Merry Christmas, Sis♪"
+      "name": "Selamat Natal, Kakak♪"
     },
     {
       "id": "s_card-3-0082",
@@ -3213,10 +3213,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Why are you here?!"
+      "name": "Kenapa Kamu Ada di Sini?!"
     },
     {
       "id": "s_card-3-0083",
@@ -3231,10 +3231,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "She's openly slacking off!?"
+      "name": "Dia Malas-malasan Terang-terangan!?"
     },
     {
       "id": "s_card-3-0084",
@@ -3249,10 +3249,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "A temari recital, right?"
+      "name": "Pentas Temari, Kan?"
     },
     {
       "id": "s_card-3-0085",
@@ -3267,10 +3267,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "It's time to face myself"
+      "name": "Waktunya Menghadapi Diri Sendiri"
     },
     {
       "id": "s_card-3-0086",
@@ -3285,10 +3285,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "I’ll show you how it’s done!"
+      "name": "Kuperlihatkan Cara Melakukannya!"
     },
     {
       "id": "s_card-3-0087",
@@ -3303,10 +3303,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Fashion and makeup♪"
+      "name": "Mode dan Riasan♪"
     },
     {
       "id": "s_card-3-0088",
@@ -3321,10 +3321,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Treasured memories"
+      "name": "Kenangan Berharga"
     },
     {
       "id": "s_card-3-0089",
@@ -3339,10 +3339,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Take care!"
+      "name": "Hati-hati di Jalan!"
     },
     {
       "id": "s_card-3-0090",
@@ -3357,10 +3357,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "I found it"
+      "name": "Sudah Kutemukan"
     },
     {
       "id": "s_card-3-0091",
@@ -3375,10 +3375,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "I totally won, right～?!"
+      "name": "Aku Menang Telak, Kan～?!"
     },
     {
       "id": "s_card-3-0092",
@@ -3393,10 +3393,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Evolved lunch box"
+      "name": "Kotak Bekal yang Berevolusi"
     },
     {
       "id": "s_card-3-0093",
@@ -3411,10 +3411,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Good luck on the journey!"
+      "name": "Semoga Berhasil dalam Perjalanannya!"
     },
     {
       "id": "s_card-3-0094",
@@ -3429,10 +3429,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Up there?!"
+      "name": "Di Atas Sana?!"
     },
     {
       "id": "s_card-3-0095",
@@ -3447,10 +3447,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "I’m excited for the party!"
+      "name": "Aku Tak Sabar Menunggu Pestanya!"
     },
     {
       "id": "s_card-3-0096",
@@ -3465,10 +3465,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Two of us, on the train"
+      "name": "Kita Berdua di Atas Kereta"
     },
     {
       "id": "s_card-3-0097",
@@ -3483,10 +3483,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "......What a noisy festival"
+      "name": "......Festival yang Berisik Sekali"
     },
     {
       "id": "s_card-3-0098",
@@ -3501,10 +3501,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "The big sports day!"
+      "name": "Hari Festival Olahraga Besar!"
     },
     {
       "id": "s_card-3-0099",
@@ -3519,10 +3519,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "The event is coming, isn't it?"
+      "name": "Event-nya Segera Tiba, Kan?"
     },
     {
       "id": "s_card-3-0100",
@@ -3537,10 +3537,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
-      "name": "We're going to grow too!"
+      "name": "Kita Juga Akan Berkembang!"
     },
     {
       "id": "s_card-3-0101",
@@ -3555,10 +3555,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "What's going to happen～?"
+      "name": "Kira-kira Bakal Terjadi Apa, Ya～?"
     },
     {
       "id": "s_card-3-0102",
@@ -3573,10 +3573,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Oden, coming through～!"
+      "name": "Oden Segera Datang～!"
     },
     {
       "id": "s_card-3-0103",
@@ -3591,10 +3591,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "The next song is～ that!!"
+      "name": "Lagu Berikutnya adalah～ Itu!!"
     },
     {
       "id": "s_card-3-0104",
@@ -3609,10 +3609,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Interview please"
+      "name": "Mohon Wawancaranya"
     },
     {
       "id": "s_card-3-0105",
@@ -3627,10 +3627,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Entertain me"
+      "name": "Hibur Aku"
     },
     {
       "id": "s_card-3-0106",
@@ -3645,10 +3645,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Good at food reviews!"
+      "name": "Jago Mengulas Makanan!"
     },
     {
       "id": "s_card-3-0107",
@@ -3663,10 +3663,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Another precious memory"
+      "name": "Satu Lagi Kenangan Berharga"
     },
     {
       "id": "s_card-3-0108",
@@ -3681,10 +3681,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Disturbance of order!"
+      "name": "Gangguan Ketertiban!"
     },
     {
       "id": "s_card-3-0109",
@@ -3699,10 +3699,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Leave It to Me"
+      "name": "Serahkan Padaku"
     },
     {
       "id": "s_card-3-0110",
@@ -3717,10 +3717,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Salmon roe～♪ Sea urchin～♪"
+      "name": "Telur Salmon～♪ Bulu Babi～♪"
     },
     {
       "id": "s_card-3-0111",
@@ -3735,10 +3735,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "Become a Little Devil♪"
+      "name": "Menjadi Iblis Kecil♪"
     },
     {
       "id": "s_card-3-0112",
@@ -3753,10 +3753,10 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
-      "name": "So this is that pumpkin..."
+      "name": "Jadi Ini Labu Itu..."
     }
   ]
 }
