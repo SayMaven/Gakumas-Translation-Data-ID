@@ -9,7 +9,7 @@ Dokumen ini memantau status pengerjaan lokalisasi Bahasa Indonesia untuk seluruh
 | Kategori | Cakupan File | Status Saat Ini | Detail Kemajuan |
 |---|---|---|---|
 | **Fase 1: UI & Sistem Inti** | 11 berkas JSON | **100% Selesai** | Seluruh UI, kamus generik, tutorial, teks item, event blurb, dan trash.json (11.024 key). |
-| **Fase 2: Master Database Gameplay (`masterTrans`)** | 108 berkas JSON | **Dalam Pengerjaan (49/108 tuntas)** | Seluruh 41 berkas Produce (100% tuntas) + SupportCard + Item + Tips + Fase 2.2 (Karakter & Kostum) 100% selesai. Sisa 53 berkas diproses bertahap. |
+| **Fase 2: Master Database Gameplay (`masterTrans`)** | 108 berkas JSON | **Dalam Pengerjaan (55/108 tuntas)** | Seluruh 41 berkas Produce, Fase 2.2 (Karakter & Kostum), dan Fase 2.3 (Toko & Gacha) 100% selesai. Sisa 47 berkas diproses bertahap. |
 | **Fase 3: Cerita Prolog, Tutorial & Unit (`resource/`)** | 116 berkas TXT | Belum Mulai | Naskah cerita pembuka (33 file), tutorial visual novel (17 file), dan cerita unit utama (66 file). |
 | **Fase 4: Cerita Karakter & Event (`resource/`)** | 3.093 berkas TXT | Belum Mulai | Cerita kandidat idol (354 file), commu bond (494 file), cerita support (529 file), p-story (611 file), pevent (1.105 file). |
 | **Lirik Lagu (`lyrics/`)** | 64 berkas | Di-skip | Dibiarkan berbahasa asli Jepang sesuai standar resmi proyek. |
@@ -48,7 +48,7 @@ Target: Seluruh antarmuka game, menu, tombol, item, misi, tutorial, dan string U
 
 Target: Menyelesaikan seluruh data gameplay di folder `local-files/masterTrans/` (total 108 berkas) agar fitur **MasterDB Localization** pada Localify bekerja 100% dalam Bahasa Indonesia tanpa ada teks sistem yang bocor.
 
-Status Keseluruhan Fase 2: **49 Selesai** | **53 Belum Mulai** | **6 Di-skip (Nama Asli / Teknis)** (Total: 108 Berkas)
+Status Keseluruhan Fase 2: **55 Selesai** | **47 Belum Mulai** | **6 Di-skip (Nama Asli / Teknis)** (Total: 108 Berkas)
 
 ### 2.1 Inti Produce, Kartu Skill & Pertandingan (Lesson & Audition) — 37 Berkas
 
@@ -112,17 +112,17 @@ Status Keseluruhan Fase 2: **49 Selesai** | **53 Belum Mulai** | **6 Di-skip (Na
 
 ---
 
-### 2.3 Inventaris, Toko & Gacha — 7 Berkas
+### 2.3 Inventaris, Toko & Gacha — 7 Berkas (Status: 100% Selesai)
 
 | Status | Komponen | Berkas di `local-files/` | Volume Data | Status Detail & Keterangan |
 |---|---|---|---|---|
 | `[x]` | **Item Tas, Mata Uang & Tiket** | `masterTrans/Item.json` | 368 entri | **100% Selesai**. Seluruh 368 item tas, Piece idol, tiket gacha, koin, buku pelajaran, deskripsi, dan rute perolehan telah diterjemahkan. |
-| `[ ]` | **Tombol Banner Gacha** | `masterTrans/GashaButton.json` | 108 entri | Belum Mulai. Teks tombol tarik gacha, gacha gratis harian, dan banner promosi. |
-| `[ ]` | **Tombol Gacha Koin** | `masterTrans/CoinGashaButton.json` | 38 entri | Belum Mulai. Teks tombol penarikan gacha menggunakan koin event. |
-| `[ ]` | **Kategori Toko** | `masterTrans/Shop.json` | 5 entri | Belum Mulai. Nama kategori menu toko permainan. |
-| `[ ]` | **Item Toko Penukaran** | `masterTrans/ShopItem.json` | 285 entri | Belum Mulai. Nama barang dan paket yang dijual di toko penukaran. |
-| `[ ]` | **Produk Penjualan & Pemulihan** | `masterTrans/ShopProduct.json` | 14 entri | Belum Mulai. Nama produk pembelian jewel dan pemulihan stamina. |
-| `[ ]` | **Kategori Penukaran Item** | `masterTrans/ExchangeItemCategory.json` | 6 entri | Belum Mulai. Nama kategori item penukaran di exchange shop. |
+| `[x]` | **Tombol Banner Gacha** | `masterTrans/GashaButton.json` | 108 entri | **100% Selesai**. Seluruh teks tombol tarik gacha (Gacha 10x Jewel Beli, Gacha Tiket, Gacha Item, Step-up, Pasti SSR, dll.) dan teks banner promosi. |
+| `[x]` | **Tombol Gacha Koin** | `masterTrans/CoinGashaButton.json` | 38 entri | **100% Selesai**. Seluruh teks tombol penarikan box gacha koin event ("Tarik", "Tarik 1x"). |
+| `[x]` | **Kategori Toko** | `masterTrans/Shop.json` | 5 entri | **100% Selesai**. Seluruh 5 kategori menu toko (Kostum, Jewel, Paket, Pass, Pembayaran). |
+| `[x]` | **Item Toko Penukaran** | `masterTrans/ShopItem.json` | 285 entri | **100% Selesai**. Seluruh 285 item dan paket penawaran khusus toko (Paket Anniversary, Paket Piece Idol, Paket Celemek Anak, Busana Kasual, Jewel, dll.). |
+| `[x]` | **Produk Penjualan & Pemulihan** | `masterTrans/ShopProduct.json` | 14 entri | **100% Selesai**. Seluruh produk pembelian Jewel dan aktivasi Premium Mission Pass. |
+| `[x]` | **Kategori Penukaran Item** | `masterTrans/ExchangeItemCategory.json` | 6 entri | **100% Selesai**. Seluruh 6 kategori tab penukaran item di exchange shop (Semua, Piece, Support Card, Lainnya). |
 
 ---
 
