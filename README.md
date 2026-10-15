@@ -27,10 +27,22 @@ Lirik lagu (`genericTrans/lyrics/`) dan data teknis engine tidak diterjemahkan.
 
 ---
 
+## Panduan Pemakaian & Instalasi
+
+Ikuti panduan instalasi di bawah ini untuk memasang dan memperbarui data terjemahan Bahasa Indonesia sesuai perangkat yang Anda gunakan:
+
+- **[Panduan Instalasi Android (Mobile)](./docs/android.md)** — Menyiapkan Localify di Android (metode Embedded / Embedded Cloned).
+- **[Panduan Instalasi PC (DMM Games)](./docs/dmm-games.md)** — Menyiapkan Localify di PC Windows melalui DMM Game Player dan konfigurasi update otomatis dari rilis repositori ini.
+
+---
+
 ## Struktur Repositori
 
 ```
 Gakumas-Translation-Data-ID/
+├── docs/                      # Panduan pemakaian dan instalasi Localify
+│   ├── android.md             # Panduan instalasi Android (Mobile)
+│   └── dmm-games.md           # Panduan instalasi PC (DMM Games)
 ├── local-files/
 │   ├── localization.json      # Terjemahan teks antarmuka (UI)
 │   ├── generic.json           # Teks umum hasil kompilasi
