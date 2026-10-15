@@ -41,6 +41,7 @@ Target: Seluruh antarmuka game, menu, tombol, item, misi, tutorial, dan string U
 | `[x]` | `local-files/genericTrans/index/mission.fmt.json` | Format string misi dinamis | 22 key | User & Assistant | **100% Selesai**. Format string dinamis untuk misi SP Lesson, level keakraban, dan peningkatan kartu. |
 | `[x]` | `local-files/genericTrans/index/EventBlurb.json` | Teks blurb dialog banner event | 334 key | User & Assistant | **100% Selesai**. Seluruh dialog blurb festival olahraga antarkelas dan interaksi karakter idol. |
 | `[x]` | `local-files/genericTrans/index/trash.json` | Kamus string UI umum & fallback | 2.510 key | User & Assistant | **100% Selesai**. Seluruh kamus string UI umum, tombol aksi, item AP, P-Idol, achievement, dan label game. |
+| `[/]` | `local-files/genericTrans/lyrics/*.json` | Lirik lagu panggung / MV (63 file) | 1.877 baris | User & Assistant | **Batch 1 Selesai (450/1.877 baris)**. Seluruh 19 lagu tema & all songs (`all_001` - `all_019`) tuntas diterjemahkan puitis & berirama alami. |
 
 ---
 
@@ -279,3 +280,4 @@ Target: Cerita mendalam tiap kandidat idol, interaksi keakraban (Commu Bond), ce
 | 2026-10-15 | `masterTrans/Produce*.json` (Batch 1 & 2) | Terjemahan | Menerjemahkan 23 berkas Produce (2.289 baris data): Produce, ProduceGroup, ProduceSeason, ProducerRanking, ProduceDescriptionProducePlan/Step/Type/Effect/GrowEffect/Swap, ProduceChallengeSlot, ProduceHighScore, ProduceGuideProduceCardCategory/Group/SampleDeck, ProduceAdv, ProduceSplitAdv, ProduceCharacterAdv, ProduceEventCharacterGrowth, ProduceExamBattleNpcMob, ProduceStepLesson, ProduceNavigation, ProduceCardCustomize. Total 29 dari 41 berkas Produce 100% selesai. |
 | 2026-10-15 | `masterTrans/Produce*.json` (Batch 3) | Terjemahan | Menerjemahkan 4 berkas Produce (2.513 baris data): ProduceGrowthPanel, ProduceCardStatusEnchant, ProduceCardSearch, ProduceCustomizeItem. Total 33 dari 41 berkas Produce 100% selesai. |
 | 2026-10-15 | `ProduceStepEvent*.json` | Terjemahan | Menerjemahkan ProduceStepEventDetail (6.921 baris) dan ProduceStepEventSuggestion (3.066 baris) mencakup seluruh saran keputusan dan detail event pilihan Produce. Total 35 dari 41 berkas Produce 100% selesai. |
+| 2026-10-16 | `genericTrans/lyrics/` (Batch 1) | Terjemahan | Menerjemahkan seluruh 19 lagu tema utama & all songs (`all_001` - `all_019`, total 450 baris lirik) ke Bahasa Indonesia dengan gaya puitis, berirama alami, dan mempertahankan frasa ikonik. **Batch 1 SELESAI (450 baris)**. |
