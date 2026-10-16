@@ -10,7 +10,7 @@ Dokumen ini memantau status pengerjaan lokalisasi Bahasa Indonesia untuk seluruh
 |---|---|---|---|
 | **Fase 1: UI & Sistem Inti** | 11 berkas JSON | **100% Selesai** | Seluruh UI, kamus generik, tutorial, teks item, event blurb, dan trash.json (11.024 key). |
 | **Lirik Lagu Panggung & MV (`lyrics/`)** | 63 berkas JSON | **100% Selesai (1.877/1.877 baris)** | **Seluruh 4 Batch Tuntas**. Seluruh 19 lagu tema all songs, 29 lagu solo idol, dan 5 lagu unit tuntas diterjemahkan puitis & berirama alami. |
-| **Fase 2: Master Database Gameplay (`masterTrans`)** | 108 berkas JSON | **Dalam Pengerjaan (93/108 tuntas)** | Seluruh Fase 2.1 s/d 2.5 100% selesai. Fase 2.6 Batch 1 (14 berkas sistem/bantuan/media) selesai. Sisa berkas foto/kartu nama/voice dalam antrean. |
+| **Fase 2: Master Database Gameplay (`masterTrans`)** | 108 berkas JSON | **100% Selesai (99 Diterjemahkan, 9 Di-skip)** | Seluruh database gameplay master (Fase 2.1 s/d 2.6) 100% tuntas dalam Bahasa Indonesia. |
 | **Fase 3: Cerita Prolog, Tutorial & Unit (`resource/`)** | 116 berkas TXT | Belum Mulai | Naskah cerita pembuka (33 file), tutorial visual novel (17 file), dan cerita unit utama (66 file). |
 | **Fase 4: Cerita Karakter & Event (`resource/`)** | 3.093 berkas TXT | Belum Mulai | Cerita kandidat idol (354 file), commu bond (494 file), cerita support (529 file), p-story (611 file), pevent (1.105 file). |
 
@@ -137,7 +137,7 @@ Status Keseluruhan Lirik: **63 Lagu Selesai (1.877 baris)** | **0 Dalam Antrean*
 
 Target: Menyelesaikan seluruh data gameplay di folder `local-files/masterTrans/` (total 108 berkas) agar fitur **MasterDB Localization** pada Localify bekerja 100% dalam Bahasa Indonesia tanpa ada teks sistem yang bocor.
 
-Status Keseluruhan Fase 2: **93 Selesai** | **6 Belum Mulai** | **9 Di-skip (Nama Karakter/Musik/Regulasi)** (Total: 108 Berkas)
+Status Keseluruhan Fase 2: **99 Selesai** | **0 Belum Mulai** | **9 Di-skip (Nama Karakter/Musik/Regulasi)** (Total: 108 Berkas) — **100% TUNTAS**
 
 ### 2.1 Inti Produce, Kartu Skill & Pertandingan (Lesson & Audition) — 37 Berkas (Status: 100% Selesai)
 
@@ -259,20 +259,20 @@ Status Keseluruhan Fase 2: **93 Selesai** | **6 Belum Mulai** | **9 Di-skip (Nam
 | Status | Komponen | Berkas di `local-files/` | Volume Data | Status Detail & Keterangan |
 |---|---|---|---|---|
 | `[x]` | **Tips Layar Loading** | `masterTrans/Tips.json` | 34 entri | **100% Selesai**. Seluruh tips gameplay, fitur level producer, penukaran uang/AP, dan akademi Hatsuboshi telah diterjemahkan. |
-| `[ ]` | **Tutorial Master Sistem** | `masterTrans/Tutorial.json` | 217 entri | Belum Mulai. Judul dan teks navigasi tutorial fitur-fitur permainan. |
+| `[x]` | **Tutorial Master Sistem** | `masterTrans/Tutorial.json` | 217 entri | **100% Selesai**. Seluruh 217 judul dan teks panduan tutorial sistem permainan ke Bahasa Indonesia. |
 | `[x]` | **Langkah Tutorial Produce** | `masterTrans/TutorialProduceStep.json` | 12 entri | **100% Selesai**. Seluruh 12 nama tahapan panduan latihan dan ujian Produce. |
 | `[x]` | **Artikel Panduan Bantuan** | `masterTrans/HelpContent.json` | 273 entri | **100% Selesai**. Seluruh 273 judul artikel panduan bantuan lengkap in-game. |
 | `[x]` | **Kategori Panduan Bantuan** | `masterTrans/HelpCategory.json` | 36 entri | **100% Selesai**. Seluruh 36 nama kategori dan teks pengantar panduan bantuan. |
 | `[x]` | **Syarat Pembuka Fitur Game** | `masterTrans/FeatureLock.json` | 13 entri | **100% Selesai**. Seluruh 13 syarat dan petunjuk rute pembuka fitur terkunci. |
-| `[ ]` | **Pose Pemotretan Idol** | `masterTrans/PhotoPose.json` | 1092 entri | Belum Mulai. Nama gaya dan pose foto idol di studio pemotretan. |
+| `[x]` | **Pose Pemotretan Idol** | `masterTrans/PhotoPose.json` | 1092 entri | **100% Selesai**. Seluruh 1.092 penamaan 71 ragam gaya dan pose foto idol di studio pemotretan. |
 | `[x]` | **Latar Belakang Studio Foto** | `masterTrans/PhotoBackground.json` | 9 entri | **100% Selesai**. Seluruh 9 nama latar pemandangan studio foto. |
 | `[x]` | **Ekspresi Wajah Pemotretan** | `masterTrans/PhotoFacialMotionGroup.json` | 4 entri | **100% Selesai**. Seluruh 4 nama gerakan ekspresi wajah idol (Senyum, Marah, Bingung, Malu). |
-| `[ ]` | **Bingkai Kartu Nama (Meishi)** | `masterTrans/MeishiBaseAsset.json` | 301 entri | Belum Mulai. Nama template dasar kartu nama Producer. |
-| `[ ]` | **Stiker Ilustrasi Meishi** | `masterTrans/MeishiIllustrationAsset.json` | 790 entri | Belum Mulai. Nama stiker dan ilustrasi hiasan kartu nama Producer. |
+| `[x]` | **Bingkai Kartu Nama (Meishi)** | `masterTrans/MeishiBaseAsset.json` | 301 entri | **100% Selesai**. Seluruh 301 nama template dasar kartu nama Producer dan ranking event. |
+| `[x]` | **Stiker Ilustrasi Meishi** | `masterTrans/MeishiIllustrationAsset.json` | 790 entri | **100% Selesai**. Seluruh 790 nama stiker hiasan kartu nama Producer, badge P-Ranking, dan bulan pelatihan. |
 | `[-]` | **Daftar Lagu & Komposer** | `masterTrans/Music.json` | 434 entri | **Di-skip (Nama Asli)**. Nama musik, nama karakter, nama komposer, dan pembuat lagu tetap dalam bahasa asli sesuai instruksi. |
-| `[ ]` | **Daftar Grup Suara Idol** | `masterTrans/VoiceGroup.json` | 3609 entri | Belum Mulai. Judul kelompok rekaman suara idol di ensiklopedia. |
-| `[ ]` | **Daftar Roster Suara** | `masterTrans/VoiceRoster.json` | 2001 entri | Belum Mulai. Judul rekaman suara interaksi idol per situasi. |
-| `[ ]` | **Hadiah Kelulusan Memory** | `masterTrans/MemoryGift.json` | 21 entri | Belum Mulai. Nama kenang-kenangan hasil kelulusan Produce idol. |
+| `[x]` | **Daftar Grup Suara Idol** | `masterTrans/VoiceGroup.json` | 3609 entri | **100% Selesai**. Seluruh judul suara kostum/sistem ke Bahasa Indonesia; judul lagu/musik idol tetap asli. |
+| `[x]` | **Daftar Roster Suara** | `masterTrans/VoiceRoster.json` | 2001 entri | **100% Selesai**. Seluruh 2.001 judul rekaman suara interaksi idol per situasi ke Bahasa Indonesia. |
+| `[x]` | **Hadiah Kelulusan Memory** | `masterTrans/MemoryGift.json` | 21 entri | **100% Selesai**. Seluruh 21 kenang-kenangan hasil kelulusan Produce idol ke Bahasa Indonesia. |
 | `[x]` | **Tag Karakteristik Memory** | `masterTrans/MemoryTag.json` | 24 entri | **100% Selesai**. Seluruh 24 tag penanda kategori atribut memory (Vocal, Dance, Visual, Semangat, Genki, dll.). |
 | `[-]` | **Aturan & Regulasi Layanan** | `masterTrans/Rule.json` | 23 entri | **Di-skip (Hukum Legal)**. Dokumen regulasi undang-undang penyelesaian dana resmi Bandai Namco Jepang. |
 | `[x]` | **Syarat & Kebijakan** | `masterTrans/Terms.json` | 3 entri | **100% Selesai**. Seluruh nama dokumen ketentuan hukum dan kebijakan privasi. |
@@ -283,7 +283,7 @@ Status Keseluruhan Fase 2: **93 Selesai** | **6 Belum Mulai** | **9 Di-skip (Nam
 | `[x]` | **Fallback Terjemahan Master** | `masterTrans/Localization.json` | 98 entri | **100% Selesai**. Seluruh 98 teks fallback deskripsi cadangan master database. |
 | `[-]` | **Daftar BGM Musik Latar** | `masterTrans/Bgm.json` | 2 entri | **Di-skip (Nama Audio Asli)**. Nama track musik latar belakang bawaan. |
 | `[x]` | **Pertandingan Circle Raid** | `masterTrans/GvgRaid.json` | 1 entri | **100% Selesai**. Nama event kompetisi panggung grup/Circle. |
-| `[ ]` | **Galeri Video & Animasi** | `masterTrans/Media.json` | 232 entri | Belum Mulai. Nama konten video cuplikan dan animasi 4-koma. |
+| `[x]` | **Galeri Video & Animasi** | `masterTrans/Media.json` | 232 entri | **100% Selesai**. Seluruh 232 nama konten video cuplikan dan animasi komik 4-koma ke Bahasa Indonesia. |
 
 ---
 
