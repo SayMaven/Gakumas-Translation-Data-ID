@@ -9,25 +9,25 @@
     {
       "mainStoryPartId": "story-main-01",
       "id": "story-main-01-01",
-      "title": "Ch.1",
-      "description": "Welcome to Hatsuboshi Academy"
+      "title": "Bab 1",
+      "description": "Selamat Datang di Akademi Hatsuboshi"
     },
     {
       "mainStoryPartId": "story-main-01",
       "id": "story-main-01-02",
-      "title": "Ch.2",
-      "description": "Idols living together"
+      "title": "Bab 2",
+      "description": "Idol yang Tinggal Bersama"
     },
     {
       "mainStoryPartId": "story-main-01",
       "id": "story-main-01-03",
-      "title": "Ch.3",
-      "description": "We are Re:IRIS"
+      "title": "Bab 3",
+      "description": "Kamilah Re:IRIS"
     },
     {
       "mainStoryPartId": "story-main-01",
       "id": "story-main-01-04",
-      "title": "Ch.4",
+      "title": "Bab 4",
       "description": "Hatsuboshi IDOL FESTIVAL"
     }
   ]

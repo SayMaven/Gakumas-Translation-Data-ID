@@ -7,55 +7,55 @@
   "data": [
     {
       "eventType": "EventType_MissionDailyRelease",
-      "name": "Special Missions"
+      "name": "Misi Spesial"
     },
     {
       "eventType": "EventType_MissionPanel",
-      "name": "Panel Missions"
+      "name": "Misi Panel"
     },
     {
       "eventType": "EventType_ProduceHighScore",
-      "name": "Kunio Juo's Idol Enhancement Month"
+      "name": "Bulan Peningkatan Idol Kunio Juo"
     },
     {
       "eventType": "EventType_StoryCampaign",
-      "name": "Free Commu Unlock Period"
+      "name": "Periode Buka Commu Gratis"
     },
     {
       "eventType": "EventType_StoryEvent",
-      "name": "Story"
+      "name": "Cerita"
     },
     {
       "eventType": "EventType_StoryEventMainStory",
-      "name": "Hatsuboshi Commu"
+      "name": "Commu Hatsuboshi"
     },
     {
       "eventType": "EventType_StoryEventBoxGasha",
-      "name": "Story"
+      "name": "Cerita"
     },
     {
       "eventType": "EventType_StoryEventGuildMission",
-      "name": "Story"
+      "name": "Cerita"
     },
     {
       "eventType": "EventType_GvgRaid",
-      "name": "Regional Tour"
+      "name": "Tur Wilayah"
     },
     {
       "eventType": "EventType_DearnessBoost",
-      "name": "Bond Boost Campaign"
+      "name": "Kampanye Peningkatan Bond"
     },
     {
       "eventType": "EventType_Tour",
-      "name": "Story"
+      "name": "Cerita"
     },
     {
       "eventType": "EventType_Research",
-      "name": "Asari-Sensei's Production Seminar"
+      "name": "Seminar Produce Asari-sensei"
     },
     {
       "eventType": 13,
-      "name": "Memorable Outfit"
+      "name": "Kostum Kenangan"
     }
   ]
 }
