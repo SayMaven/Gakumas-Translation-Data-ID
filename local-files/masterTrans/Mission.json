@@ -831,7 +831,7 @@
     },
     {
       "id": "dearness_normal-mission_amao-003",
-      "name": "Perkuat Skill Card {threshold} kali saat Produce Mao Arimura"
+      "name": "Tingkatkan Skill Card {threshold} kali saat Produce Mao Arimura"
     },
     {
       "id": "dearness_normal-mission_amao-004",
@@ -851,7 +851,7 @@
     },
     {
       "id": "dearness_normal-mission_atbm-003",
-      "name": "Perkuat Skill Card {threshold} kali saat Produce Tsubame Amaya"
+      "name": "Tingkatkan Skill Card {threshold} kali saat Produce Tsubame Amaya"
     },
     {
       "id": "dearness_normal-mission_atbm-004",
@@ -871,7 +871,7 @@
     },
     {
       "id": "dearness_normal-mission_fktn-003",
-      "name": "Perkuat Skill Card {threshold} kali saat Produce Kotone Fujita"
+      "name": "Tingkatkan Skill Card {threshold} kali saat Produce Kotone Fujita"
     },
     {
       "id": "dearness_normal-mission_fktn-004",
@@ -891,7 +891,7 @@
     },
     {
       "id": "dearness_normal-mission_hmsz-003",
-      "name": "Perkuat Skill Card {threshold} kali saat Produce Misuzu Hataya"
+      "name": "Tingkatkan Skill Card {threshold} kali saat Produce Misuzu Hataya"
     },
     {
       "id": "dearness_normal-mission_hmsz-004",
@@ -911,7 +911,7 @@
     },
     {
       "id": "dearness_normal-mission_hrnm-003",
-      "name": "Perkuat Skill Card {threshold} kali saat Produce"
+      "name": "Tingkatkan Skill Card {threshold} kali saat Produce"
     },
     {
       "id": "dearness_normal-mission_hrnm-004",
@@ -951,7 +951,7 @@
     },
     {
       "id": "dearness_normal-mission_hume-003",
-      "name": "Perkuat Skill Card {threshold} kali saat Produce Ume Hanami"
+      "name": "Tingkatkan Skill Card {threshold} kali saat Produce Ume Hanami"
     },
     {
       "id": "dearness_normal-mission_hume-004",
@@ -991,7 +991,7 @@
     },
     {
       "id": "dearness_normal-mission_kcna-003",
-      "name": "Perkuat Skill Card {threshold} kali saat Produce China Kuramoto"
+      "name": "Tingkatkan Skill Card {threshold} kali saat Produce China Kuramoto"
     },
     {
       "id": "dearness_normal-mission_kcna-004",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": "dearness_normal-mission_kllj-003",
-      "name": "Perkuat Skill Card {threshold} kali saat Produce Lilja Katsuragi"
+      "name": "Tingkatkan Skill Card {threshold} kali saat Produce Lilja Katsuragi"
     },
     {
       "id": "dearness_normal-mission_kllj-004",
@@ -1031,7 +1031,7 @@
     },
     {
       "id": "dearness_normal-mission_shro-003",
-      "name": "Perkuat Skill Card {threshold} kali saat Produce Hiro Shinosawa"
+      "name": "Tingkatkan Skill Card {threshold} kali saat Produce Hiro Shinosawa"
     },
     {
       "id": "dearness_normal-mission_shro-004",
@@ -1051,7 +1051,7 @@
     },
     {
       "id": "dearness_normal-mission_ssmk-003",
-      "name": "Perkuat Skill Card {threshold} kali saat Produce Sumika Shiun"
+      "name": "Tingkatkan Skill Card {threshold} kali saat Produce Sumika Shiun"
     },
     {
       "id": "dearness_normal-mission_ssmk-004",
@@ -2151,7 +2151,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_22",
-      "name": "Perkuat Skill Card {threshold} kali saat Produce"
+      "name": "Tingkatkan Skill Card {threshold} kali saat Produce"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_23",
@@ -2203,7 +2203,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_43",
-      "name": "Perkuat Skill Card {threshold} kali saat Produce"
+      "name": "Tingkatkan Skill Card {threshold} kali saat Produce"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_44",
@@ -2251,7 +2251,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_63",
-      "name": "Perkuat Skill Card {threshold} kali saat Produce"
+      "name": "Tingkatkan Skill Card {threshold} kali saat Produce"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_64",
@@ -2323,7 +2323,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_003-mission_22",
-      "name": "Perkuat Skill Card {threshold} kali saat Produce"
+      "name": "Tingkatkan Skill Card {threshold} kali saat Produce"
     },
     {
       "id": "mission-comeback_daily_release_mission_003-mission_23",
@@ -2375,7 +2375,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_003-mission_43",
-      "name": "Perkuat Skill Card {threshold} kali saat Produce"
+      "name": "Tingkatkan Skill Card {threshold} kali saat Produce"
     },
     {
       "id": "mission-comeback_daily_release_mission_003-mission_44",
@@ -2423,7 +2423,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_003-mission_63",
-      "name": "Perkuat Skill Card {threshold} kali saat Produce"
+      "name": "Tingkatkan Skill Card {threshold} kali saat Produce"
     },
     {
       "id": "mission-comeback_daily_release_mission_003-mission_64",
@@ -2763,11 +2763,11 @@
     },
     {
       "id": "mission-daily-incrementreceivemoney-1",
-      "name": "Kumpulkan maney"
+      "name": "Kumpulkan uang"
     },
     {
       "id": "mission-daily-incrementsupportcardenhancecount-1",
-      "name": "Perkuat Support Card {threshold} kali"
+      "name": "Tingkatkan Support Card {threshold} kali"
     },
     {
       "id": "mission-daily-incrementworkcount-1",
@@ -5995,7 +5995,7 @@
     },
     {
       "id": "mission-normal-incrementsupportcardenhancecount-1",
-      "name": "Perkuat Support Card {threshold} kali"
+      "name": "Tingkatkan Support Card {threshold} kali"
     },
     {
       "id": "mission-normal-incrementsupportcardlevellimitrankupdatecount-1",
@@ -6247,7 +6247,7 @@
     },
     {
       "id": "mission-panel-mission-2-4",
-      "name": "Perkuat Skill Card {threshold} kali saat Produce"
+      "name": "Tingkatkan Skill Card {threshold} kali saat Produce"
     },
     {
       "id": "mission-panel-mission-2-5",
@@ -6359,7 +6359,7 @@
     },
     {
       "id": "mission-release_mission-4-3",
-      "name": "Perkuat Skill Card {threshold} kali saat Produce"
+      "name": "Tingkatkan Skill Card {threshold} kali saat Produce"
     },
     {
       "id": "mission-release_mission-4-4",
@@ -7155,7 +7155,7 @@
     },
     {
       "id": "mission-weekly-incrementsupportcardenhancecount-1",
-      "name": "Perkuat Support Card {threshold} kali"
+      "name": "Tingkatkan Support Card {threshold} kali"
     },
     {
       "id": "mission-weekly-incrementworktimecount-1",
@@ -7179,7 +7179,7 @@
     },
     {
       "id": "panel_mission-event-002-mission_14",
-      "name": "Perkuat Skill Card {threshold} kali saat Produce"
+      "name": "Tingkatkan Skill Card {threshold} kali saat Produce"
     },
     {
       "id": "panel_mission-event-002-mission_15",
@@ -7263,7 +7263,7 @@
     },
     {
       "id": "panel_mission-event-003-mission_8",
-      "name": "Perkuat Skill Card {threshold} kali saat Produce"
+      "name": "Tingkatkan Skill Card {threshold} kali saat Produce"
     },
     {
       "id": "panel_mission-event-003-mission_9",
@@ -7287,7 +7287,7 @@
     },
     {
       "id": "panel_mission-event-004-mission_14",
-      "name": "Perkuat Skill Card {threshold} kali saat Produce"
+      "name": "Tingkatkan Skill Card {threshold} kali saat Produce"
     },
     {
       "id": "panel_mission-event-004-mission_15",
@@ -7359,7 +7359,7 @@
     },
     {
       "id": "panel_mission-event-006-mission_14",
-      "name": "Perkuat Skill Card {threshold} kali saat Produce"
+      "name": "Tingkatkan Skill Card {threshold} kali saat Produce"
     },
     {
       "id": "panel_mission-event-006-mission_15",
@@ -7651,7 +7651,7 @@
     },
     {
       "id": "panel_mission-event-010-mission_15",
-      "name": "Perkuat Skill Card {threshold} kali saat Produce"
+      "name": "Tingkatkan Skill Card {threshold} kali saat Produce"
     },
     {
       "id": "panel_mission-event-010-mission_16",
@@ -7703,7 +7703,7 @@
     },
     {
       "id": "panel_mission-event-011-mission_1",
-      "name": "Kumpulkan maney"
+      "name": "Kumpulkan uang"
     },
     {
       "id": "panel_mission-event-011-mission_2",
@@ -10911,7 +10911,7 @@
     },
     {
       "id": "achieve-p_common-014",
-      "name": "Perkuat Skill Card {threshold} kali saat Produce"
+      "name": "Tingkatkan Skill Card {threshold} kali saat Produce"
     },
     {
       "id": "achieve-p_common-015",
@@ -11607,7 +11607,7 @@
     },
     {
       "id": "achieve-p_idol-hmsz-013",
-      "name": "Perkuat Skill Card {threshold} kali saat Produce Misuzu Hataya"
+      "name": "Tingkatkan Skill Card {threshold} kali saat Produce Misuzu Hataya"
     },
     {
       "id": "achieve-p_idol-hmsz-014",
@@ -11843,7 +11843,7 @@
     },
     {
       "id": "achieve-p_idol-hski-013",
-      "name": "Perkuat Skill Card {threshold} kali saat Produce Saki Hanami"
+      "name": "Tingkatkan Skill Card {threshold} kali saat Produce Saki Hanami"
     },
     {
       "id": "achieve-p_idol-hski-014",
@@ -12315,7 +12315,7 @@
     },
     {
       "id": "achieve-p_idol-kllj-013",
-      "name": "Perkuat Skill Card {threshold} kali saat Produce Lilja Katsuragi"
+      "name": "Tingkatkan Skill Card {threshold} kali saat Produce Lilja Katsuragi"
     },
     {
       "id": "achieve-p_idol-kllj-014",
@@ -12663,7 +12663,7 @@
     },
     {
       "id": "achieve-p_idol-ttmr-012",
-      "name": "Perkuat Skill Card {threshold} kali saat Produce Temari Tsukimura"
+      "name": "Tingkatkan Skill Card {threshold} kali saat Produce Temari Tsukimura"
     },
     {
       "id": "achieve-p_idol-ttmr-013",
@@ -12751,7 +12751,7 @@
     },
     {
       "id": "main_task_group-01-01#3",
-      "name": "Perkuat Support Card"
+      "name": "Tingkatkan Support Card"
     },
     {
       "id": "main_task_group-01-01#4",
@@ -13259,7 +13259,7 @@
     },
     {
       "id": "main_task_group-02-01#70",
-      "name": "Perkuat Skill Card {threshold} kali saat Produce"
+      "name": "Tingkatkan Skill Card {threshold} kali saat Produce"
     },
     {
       "id": "main_task_group-02-01#71",
