@@ -8,11 +8,12 @@ Dokumen ini memantau status pengerjaan lokalisasi Bahasa Indonesia untuk seluruh
 
 | Kategori | Cakupan File | Status Saat Ini | Detail Kemajuan |
 |---|---|---|---|
-| **Fase 1: UI & Sistem Inti** | 11 berkas JSON | **100% Selesai** | Seluruh UI, kamus generik, tutorial, teks item, event blurb, dan trash.json (11.024 key). |
+| **Fase 1: UI & Sistem Inti** | 24 berkas JSON | **100% Selesai (11 Aktif, 13 Standby)** | Seluruh UI utama, kamus generik, tutorial, teks item, event blurb, kustom kartu, misi, flavor, dan trash.json (11.024 key tuntas) + 13 berkas template engine standby. |
 | **Lirik Lagu Panggung & MV (`lyrics/`)** | 63 berkas JSON | **100% Selesai (1.877/1.877 baris)** | **Seluruh 4 Batch Tuntas**. Seluruh 19 lagu tema all songs, 29 lagu solo idol, dan 5 lagu unit tuntas diterjemahkan puitis & berirama alami. |
-| **Fase 2: Master Database Gameplay (`masterTrans`)** | 108 berkas JSON | **100% Selesai (99 Diterjemahkan, 9 Di-skip)** | Seluruh database gameplay master (Fase 2.1 s/d 2.6) 100% tuntas dalam Bahasa Indonesia. |
+| **Fase 2: Master Database Gameplay (`masterTrans`)** | 108 berkas JSON | **100% Selesai (99 Diterjemahkan, 9 Di-skip)** | **108 Berkas Tuntas**. Seluruh database gameplay master (Fase 2.1 s/d 2.6) 100% tuntas dalam Bahasa Indonesia. |
 | **Fase 3: Cerita Prolog, Tutorial & Unit (`resource/`)** | 116 berkas TXT | Belum Mulai | Naskah cerita pembuka (33 file), tutorial visual novel (17 file), dan cerita unit utama (66 file). |
-| **Fase 4: Cerita Karakter & Event (`resource/`)** | 3.093 berkas TXT | Belum Mulai | Cerita kandidat idol (354 file), commu bond (494 file), cerita support (529 file), p-story (611 file), pevent (1.105 file). |
+| **Fase 4: Cerita Karakter, Event & Stage (`resource/`)** | 3.414 berkas TXT | Belum Mulai | Cerita kandidat idol (354 file), commu bond (494 file), cerita support (529 file), p-story (611 file), pevent & event (1.256 file), live mc (106 file), p-growth (39 file), p-result (13 file), produce commu (11 file), tower commu (1 file). |
+| **TOTAL DATA GAME** | **3.725 berkas** | **Aktif Dikerjakan** | **195 Berkas Tuntas (100% UI, Lirik & MasterDB Selesai)**, 3.530 Naskah Cerita Resource Siap Dikerjakan. |
 
 ---
 
@@ -26,7 +27,7 @@ Dokumen ini memantau status pengerjaan lokalisasi Bahasa Indonesia untuk seluruh
 
 ## Fase 1 — UI & Sistem Inti (Status: 100% Selesai)
 
-Target: Seluruh antarmuka game, menu, tombol, item, misi, tutorial, dan string UI umum berbahasa Indonesia. **Status: 11 / 11 Berkas Tuntas (11.024 Key)**.
+Target: Seluruh antarmuka game, menu, tombol, item, misi, tutorial, dan string UI umum berbahasa Indonesia. **Status: 11 / 11 Berkas Teks Tuntas (11.024 Key) + 13 Berkas Template Standby (Total: 24 Berkas)**.
 
 | Status | File Target | Deskripsi | Volume | Penerjemah / Reviewer | Catatan |
 |---|---|---|---|---|---|
@@ -41,7 +42,7 @@ Target: Seluruh antarmuka game, menu, tombol, item, misi, tutorial, dan string U
 | `[x]` | `local-files/genericTrans/index/mission.fmt.json` | Format string misi dinamis | 22 key | User & Assistant | **100% Selesai**. Format string dinamis untuk misi SP Lesson, level keakraban, dan peningkatan kartu. |
 | `[x]` | `local-files/genericTrans/index/EventBlurb.json` | Teks blurb dialog banner event | 334 key | User & Assistant | **100% Selesai**. Seluruh dialog blurb festival olahraga antarkelas dan interaksi karakter idol. |
 | `[x]` | `local-files/genericTrans/index/trash.json` | Kamus string UI umum & fallback | 2.510 key | User & Assistant | **100% Selesai**. Seluruh kamus string UI umum, tombol aksi, item AP, P-Idol, achievement, dan label game. |
-| `[x]` | `local-files/genericTrans/lyrics/*.json` | Lirik lagu panggung / MV (63 file) | 1.877 baris | User & Assistant | **100% Selesai**. Seluruh 63 lagu (1.877 baris lirik) tuntas diterjemahkan puitis, berirama alami ala subtitle MV/anime musik, dengan frasa panggung ikonik terjaga. |
+| `[-]` | `genericTrans/index/*.fmt.json` & template (13 file) | Berkas Template Engine Localify | 13 berkas | Engine System | **Standby / Engine Template**. 13 berkas wadah template format Localify (`achievement[.fmt]`, `Bond_level[.fmt]`, `Description_Split`, `News.fmt`, `Photo`, `ProduceSkill`, `chara_profiles`, `maintance`, `media`, `term[.fmt]`). Tiap file berisi 1 dummy key `{"": ""}` kosong untuk cadangan injeksi engine. |
 
 ---
 
@@ -308,17 +309,22 @@ Target: Menerjemahkan visual novel dialog pembuka, tutorial cerita, dan alur nar
 
 ---
 
-## Fase 4 — Cerita Karakter & Interaksi Idol (`resource/`)
+## Fase 4 — Cerita Karakter, Event & Interaksi Panggung (`resource/`)
 
-Target: Cerita mendalam tiap kandidat idol, interaksi keakraban (Commu Bond), cerita pendukung kartu, dan event produksi. Total 3.093 berkas cerita.
+Target: Cerita mendalam tiap kandidat idol, interaksi keakraban (Commu Bond), cerita pendukung kartu, event produksi, dan dialog panggung live. Total **3.414 berkas cerita**.
 
 | Status | Komponen | File / Folder | Volume | Status Detail |
 |---|---|---|---|---|
 | `[ ]` | **Cerita Kandidat Idol** | `resource/adv_cidol_*.txt` | 354 file | Belum Mulai. Alur cerita individu masing-masing karakter idol. |
 | `[ ]` | **Commu Bond (Keakraban)** | `resource/adv_dear_*.txt` | 494 file | Belum Mulai. Interaksi kedekatan emosional Producer bersama idol. |
 | `[ ]` | **Cerita Support Card** | `resource/adv_csprt_*.txt` | 529 file | Belum Mulai. Cerita latar belakang dari kartu pendukung idol. |
-| `[ ]` | **Cerita Skenario Produksi (P-Story)** | `resource/adv_pstory_*.txt` | 611 file | Belum Mulai. Skenario perjalanan audisi dan ujian produce. |
-| `[ ]` | **Event Pilihan Produksi (P-Event)** | `resource/adv_pevent_*.txt` | 1.105 file | Belum Mulai. Event acak dan pilihan percabangan saat sesi Produce. |
+| `[ ]` | **Cerita Skenario Produksi (P-Story)** | `resource/adv_pstory_*.txt` / `adv_pidol_*.txt` | 611 file | Belum Mulai. Skenario perjalanan audisi dan ujian produce. |
+| `[ ]` | **Event Pilihan Produksi & Story Event** | `resource/adv_pevent_*.txt` / `adv_event_*.txt` | 1.256 file | Belum Mulai. Event acak pilihan Produce dan narasi event festival. |
+| `[ ]` | **Dialog Interaksi Panggung Live (MC)** | `resource/adv_live_*.txt` | 106 file | Belum Mulai. Percakapan panggung, seruan konser, dan interaksi live show idol. |
+| `[ ]` | **Dialog Pertumbuhan Idol (Growth)** | `resource/adv_pgrowth_*.txt` | 39 file | Belum Mulai. Percakapan perkembangan kemampuan dan evaluasi latihan idol. |
+| `[ ]` | **Dialog Evaluasi Hasil Akhir Produce** | `resource/adv_presult_*.txt` | 13 file | Belum Mulai. Reaksi kelulusan dan penutup hasil Produce. |
+| `[ ]` | **Interaksi Khusus Mingguan Produce** | `resource/adv_produce_*.txt` | 11 file | Belum Mulai. Dialog percakapan transisi jadwal produce idol. |
+| `[ ]` | **Percakapan Mode Menara (Tower)** | `resource/adv_tower_*.txt` | 1 file | Belum Mulai. Cerita naratif tantangan lantai menara Idol Road. |
 
 ---
 
@@ -369,3 +375,9 @@ Target: Cerita mendalam tiap kandidat idol, interaksi keakraban (Commu Bond), ce
 | 2026-10-15 | `masterTrans/Produce*.json` (Batch 3) | Terjemahan | Menerjemahkan 4 berkas Produce (2.513 baris data): ProduceGrowthPanel, ProduceCardStatusEnchant, ProduceCardSearch, ProduceCustomizeItem. Total 33 dari 41 berkas Produce 100% selesai. |
 | 2026-10-15 | `ProduceStepEvent*.json` | Terjemahan | Menerjemahkan ProduceStepEventDetail (6.921 baris) dan ProduceStepEventSuggestion (3.066 baris) mencakup seluruh saran keputusan dan detail event pilihan Produce. Total 35 dari 41 berkas Produce 100% selesai. |
 | 2026-10-16 | `genericTrans/lyrics/` (Batch 1) | Terjemahan | Menerjemahkan seluruh 19 lagu tema utama & all songs (`all_001` - `all_019`, total 450 baris lirik) ke Bahasa Indonesia dengan gaya puitis, berirama alami, dan mempertahankan frasa ikonik. **Batch 1 SELESAI (450 baris)**. |
+| 2026-10-16 | `genericTrans/lyrics/` (Batch 2-4) | Terjemahan | Menerjemahkan seluruh sisa 44 lagu solo idol dan unit (1.427 baris lirik). Seluruh 63 lagu panggung & live MV (1.877 baris lirik) tuntas 100% ke Bahasa Indonesia. **LIRIK 100% SELESAI (63 Lagu, 1.877 Baris)**. |
+| 2026-10-16 | `masterTrans/` (Fase 2.5 Cerita Master) | Terjemahan | Menerjemahkan 11 berkas cerita master (MainStoryChapter, MainStoryPart, Story, StoryEvent, StoryGroup, EventLabel, SupportCardFlavor [583 entri], ProduceAdv, ProduceSplitAdv, ProduceCharacterAdv). Total Fase 2.5 **100% SELESAI**. |
+| 2026-10-16 | `masterTrans/` (Fase 2.6 Batch 1 Sistem & Bantuan) | Terjemahan | Menerjemahkan 14 berkas batch 1 (HelpContent, HelpCategory, FeatureLock, Tour, Tower, Work, GvgRaid, MemoryTag, Terms, Setting, Localization, PhotoBackground, PhotoFacialMotionGroup, TutorialProduceStep). Total 493 entri tuntas. |
+| 2026-10-16 | `masterTrans/` (Fase 2.6 Batch 2 & Final) | Terjemahan | Menerjemahkan MemoryGift (21), PhotoPose (1.092), Tutorial (217), Media (232 komik/movie), MeishiBaseAsset (301), MeishiIllustrationAsset (790), VoiceGroup (3.609), VoiceRoster (2.001). Mempertahankan nama asli lagu, komposer, lirikis, dan karakter idol. |
+| 2026-10-16 | **Fase 2: Master Database Gameplay** | Milestone | **108 Berkas MasterDB TUNTAS 100%** (99 berkas diterjemahkan, 9 berkas di-skip nama asli/regulasi). Fitur MasterDB Localization siap penuh dalam Bahasa Indonesia. |
+| 2026-10-16 | Audit & Pendataan Repositori Global | Audit File | Melakukan pemindaian menyeluruh terhadap seluruh 3.725 berkas game: mendata 13 berkas template engine di `genericTrans/index` dan 321 berkas cerita tambahan di `resource/` (live MC 106, p-growth 39, p-result 13, produce 11, tower 1, event 1.256). Struktur PROGRESS.md 100% sinkron dengan disk fisik. |
