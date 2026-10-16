@@ -12,8 +12,8 @@ Dokumen ini memantau status pengerjaan lokalisasi Bahasa Indonesia untuk seluruh
 | **Lirik Lagu Panggung & MV (`lyrics/`)** | 63 berkas JSON | **100% Selesai (1.877/1.877 baris)** | **Seluruh 4 Batch Tuntas**. Seluruh 19 lagu tema all songs, 29 lagu solo idol, dan 5 lagu unit tuntas diterjemahkan puitis & berirama alami. |
 | **Fase 2: Master Database Gameplay (`masterTrans`)** | 108 berkas JSON | **100% Selesai (99 Diterjemahkan, 9 Di-skip)** | **108 Berkas Tuntas**. Seluruh database gameplay master (Fase 2.1 s/d 2.6) 100% tuntas dalam Bahasa Indonesia. |
 | **Fase 3: Cerita Prolog, Tutorial & Unit (`resource/`)** | 116 berkas TXT | Belum Mulai | Naskah cerita pembuka (33 file), tutorial visual novel (17 file), dan cerita unit utama (66 file). |
-| **Fase 4: Cerita Karakter, Event & Stage (`resource/`)** | 3.414 berkas TXT | Belum Mulai | Cerita kandidat idol (354 file), commu bond (494 file), cerita support (529 file), p-story (611 file), pevent & event (1.256 file), live mc (106 file), p-growth (39 file), p-result (13 file), produce commu (11 file), tower commu (1 file). |
-| **TOTAL DATA GAME** | **3.725 berkas** | **Aktif Dikerjakan** | **195 Berkas Tuntas (100% UI, Lirik & MasterDB Selesai)**, 3.530 Naskah Cerita Resource Siap Dikerjakan. |
+| **Fase 4: Cerita Karakter, Event & Stage (`resource/`)** | 3.414 berkas TXT | **Aktif Dikerjakan (26/3.414 File)** | Cerita Support Card R tuntas 100% (26 file, 471 dialog); cerita kandidat idol (354 file), commu bond (494 file), sisa support card SR/SSR (503 file), p-story (611 file), pevent & event (1.256 file), live mc (106 file), p-growth (39 file), p-result (13 file), produce commu (11 file), tower commu (1 file). |
+| **TOTAL DATA GAME** | **3.725 berkas** | **Aktif Dikerjakan** | **221 Berkas Tuntas (100% UI, Lirik & MasterDB + 26 Cerita Support Card Selesai)**, 3.504 Naskah Cerita Resource Siap Dikerjakan. |
 
 ---
 
@@ -317,7 +317,7 @@ Target: Cerita mendalam tiap kandidat idol, interaksi keakraban (Commu Bond), ce
 |---|---|---|---|---|
 | `[ ]` | **Cerita Kandidat Idol** | `resource/adv_cidol_*.txt` | 354 file | Belum Mulai. Alur cerita individu masing-masing karakter idol. |
 | `[ ]` | **Commu Bond (Keakraban)** | `resource/adv_dear_*.txt` | 494 file | Belum Mulai. Interaksi kedekatan emosional Producer bersama idol. |
-| `[ ]` | **Cerita Support Card** | `resource/adv_csprt_*.txt` | 529 file | Belum Mulai. Cerita latar belakang dari kartu pendukung idol. |
+| `[>]` | **Cerita Support Card** | `resource/adv_csprt_*.txt` | 529 file | **Aktif Dikerjakan (26/529 Selesai)**. Support Card R (26 file, 471 dialog) **100% Selesai**. Sedang antrean Support Card SR (164 file) & SSR (339 file). |
 | `[ ]` | **Cerita Skenario Produksi (P-Story)** | `resource/adv_pstory_*.txt` / `adv_pidol_*.txt` | 611 file | Belum Mulai. Skenario perjalanan audisi dan ujian produce. |
 | `[ ]` | **Event Pilihan Produksi & Story Event** | `resource/adv_pevent_*.txt` / `adv_event_*.txt` | 1.256 file | Belum Mulai. Event acak pilihan Produce dan narasi event festival. |
 | `[ ]` | **Dialog Interaksi Panggung Live (MC)** | `resource/adv_live_*.txt` | 106 file | Belum Mulai. Percakapan panggung, seruan konser, dan interaksi live show idol. |
@@ -325,6 +325,16 @@ Target: Cerita mendalam tiap kandidat idol, interaksi keakraban (Commu Bond), ce
 | `[ ]` | **Dialog Evaluasi Hasil Akhir Produce** | `resource/adv_presult_*.txt` | 13 file | Belum Mulai. Reaksi kelulusan dan penutup hasil Produce. |
 | `[ ]` | **Interaksi Khusus Mingguan Produce** | `resource/adv_produce_*.txt` | 11 file | Belum Mulai. Dialog percakapan transisi jadwal produce idol. |
 | `[ ]` | **Percakapan Mode Menara (Tower)** | `resource/adv_tower_*.txt` | 1 file | Belum Mulai. Cerita naratif tantangan lantai menara Idol Road. |
+
+### Rincian Progres Cerita Support Card (`adv_csprt*.txt`)
+
+Total: **529 berkas** (10.414 baris dialog).
+
+| Status | Tingkat Kelangkaan | Prefiks Berkas | Jumlah File | Jumlah Baris Dialog | Status Detail |
+|---|---|---|---|---|---|
+| `[x]` | **Support Card R** | `adv_csprt-1-*.txt` | **26 file** | **471 baris** | **100% Selesai**. Terdiri dari Batch 1A (file 1-13, 242 dialog) & Batch 1B (file 14-26, 229 dialog). Lolos validasi sintaksis. |
+| `[ ]` | **Support Card SR** | `adv_csprt-2-*.txt` | 164 file | ~3.200 baris | Siap dikerjakan bertahap (batch terukur). |
+| `[ ]` | **Support Card SSR** | `adv_csprt-3-*.txt` | 339 file | ~6.700 baris | Menunggu giliran setelah SR selesai. |
 
 ---
 
@@ -381,3 +391,4 @@ Target: Cerita mendalam tiap kandidat idol, interaksi keakraban (Commu Bond), ce
 | 2026-10-16 | `masterTrans/` (Fase 2.6 Batch 2 & Final) | Terjemahan | Menerjemahkan MemoryGift (21), PhotoPose (1.092), Tutorial (217), Media (232 komik/movie), MeishiBaseAsset (301), MeishiIllustrationAsset (790), VoiceGroup (3.609), VoiceRoster (2.001). Mempertahankan nama asli lagu, komposer, lirikis, dan karakter idol. |
 | 2026-10-16 | **Fase 2: Master Database Gameplay** | Milestone | **108 Berkas MasterDB TUNTAS 100%** (99 berkas diterjemahkan, 9 berkas di-skip nama asli/regulasi). Fitur MasterDB Localization siap penuh dalam Bahasa Indonesia. |
 | 2026-10-16 | Audit & Pendataan Repositori Global | Audit File | Melakukan pemindaian menyeluruh terhadap seluruh 3.725 berkas game: mendata 13 berkas template engine di `genericTrans/index` dan 321 berkas cerita tambahan di `resource/` (live MC 106, p-growth 39, p-result 13, produce 11, tower 1, event 1.256). Struktur PROGRESS.md 100% sinkron dengan disk fisik. |
+| 2026-10-16 | `resource/adv_csprt-1-*.txt` (Support Card R) | Terjemahan | Menerjemahkan seluruh 26 berkas cerita Support Card R (471 baris dialog) ke Bahasa Indonesia natural ala fansub anime. Validasi sintaksis ADV 100% lolos tanpa error, line endings LF murni. **Support Card R 100% SELESAI (26 Berkas / 471 Baris)**. |
