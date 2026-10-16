@@ -10,7 +10,7 @@ Dokumen ini memantau status pengerjaan lokalisasi Bahasa Indonesia untuk seluruh
 |---|---|---|---|
 | **Fase 1: UI & Sistem Inti** | 11 berkas JSON | **100% Selesai** | Seluruh UI, kamus generik, tutorial, teks item, event blurb, dan trash.json (11.024 key). |
 | **Lirik Lagu Panggung & MV (`lyrics/`)** | 63 berkas JSON | **100% Selesai (1.877/1.877 baris)** | **Seluruh 4 Batch Tuntas**. Seluruh 19 lagu tema all songs, 29 lagu solo idol, dan 5 lagu unit tuntas diterjemahkan puitis & berirama alami. |
-| **Fase 2: Master Database Gameplay (`masterTrans`)** | 108 berkas JSON | **Dalam Pengerjaan (72/108 tuntas)** | Seluruh Fase 2.1 (Produce & Mekanik), Fase 2.2 (Karakter & Kostum), Fase 2.3 (Toko & Gacha), dan Fase 2.4 (Tugas & Misi) 100% selesai. Sisa 32 berkas diproses bertahap. |
+| **Fase 2: Master Database Gameplay (`masterTrans`)** | 108 berkas JSON | **Dalam Pengerjaan (79/108 tuntas)** | Seluruh Fase 2.1 (Produce & Mekanik), Fase 2.2 (Karakter & Kostum), Fase 2.3 (Toko & Gacha), Fase 2.4 (Tugas & Misi), dan Fase 2.5 (Cerita Master & Cuplikan Narasi) 100% selesai. Sisa 25 berkas pada Fase 2.6 diproses bertahap. |
 | **Fase 3: Cerita Prolog, Tutorial & Unit (`resource/`)** | 116 berkas TXT | Belum Mulai | Naskah cerita pembuka (33 file), tutorial visual novel (17 file), dan cerita unit utama (66 file). |
 | **Fase 4: Cerita Karakter & Event (`resource/`)** | 3.093 berkas TXT | Belum Mulai | Cerita kandidat idol (354 file), commu bond (494 file), cerita support (529 file), p-story (611 file), pevent (1.105 file). |
 
@@ -137,7 +137,7 @@ Status Keseluruhan Lirik: **63 Lagu Selesai (1.877 baris)** | **0 Dalam Antrean*
 
 Target: Menyelesaikan seluruh data gameplay di folder `local-files/masterTrans/` (total 108 berkas) agar fitur **MasterDB Localization** pada Localify bekerja 100% dalam Bahasa Indonesia tanpa ada teks sistem yang bocor.
 
-Status Keseluruhan Fase 2: **72 Selesai** | **32 Belum Mulai** | **4 Di-skip (Nama Asli Karakter)** (Total: 108 Berkas)
+Status Keseluruhan Fase 2: **79 Selesai** | **25 Belum Mulai** | **4 Di-skip (Nama Asli Karakter)** (Total: 108 Berkas)
 
 ### 2.1 Inti Produce, Kartu Skill & Pertandingan (Lesson & Audition) — 37 Berkas (Status: 100% Selesai)
 
@@ -236,21 +236,21 @@ Status Keseluruhan Fase 2: **72 Selesai** | **32 Belum Mulai** | **4 Di-skip (Na
 
 ---
 
-### 2.5 Cerita Master & Cuplikan Narasi — 11 Berkas
+### 2.5 Cerita Master & Cuplikan Narasi — 11 Berkas (Status: 100% Selesai)
 
 | Status | Komponen | Berkas di `local-files/` | Volume Data | Status Detail & Keterangan |
 |---|---|---|---|---|
 | `[x]` | **Judul Episode Cerita Produce** | `masterTrans/ProduceStory.json` | 3454 entri | **100% Selesai**. Seluruh 1.349 judul episode cerita dan 75 syarat kondisi interaksi selama masa Produce. |
-| `[ ]` | **Flavor Text Support Card** | `masterTrans/SupportCardFlavor.json` | 583 entri | Belum Mulai. Teks cuplikan dialog dan narasi suasana di Support Card. |
-| `[ ]` | **Daftar Cerita & Episode** | `masterTrans/Story.json` | 311 entri | Belum Mulai. Judul episode cerita umum dan cerita unit Hatsuboshi. |
-| `[ ]` | **Judul Event Cerita** | `masterTrans/StoryEvent.json` | 35 entri | Belum Mulai. Nama event cerita berkala dan festival sekolah. |
-| `[ ]` | **Grup Alur Cerita** | `masterTrans/StoryGroup.json` | 100 entri | Belum Mulai. Nama kelompok bab alur cerita komprehensif. |
-| `[ ]` | **Bab Cerita Utama** | `masterTrans/MainStoryChapter.json` | 4 entri | Belum Mulai. Judul dan sinopsis bab cerita utama sekolah idol. |
-| `[ ]` | **Bagian Cerita Utama** | `masterTrans/MainStoryPart.json` | 1 entri | Belum Mulai. Judul bagian cerita panggung utama. |
+| `[x]` | **Flavor Text Support Card** | `masterTrans/SupportCardFlavor.json` | 583 entri | **100% Selesai**. Seluruh 583 teks cuplikan dialog dan narasi suasana di Support Card telah diterjemahkan secara alami sesuai kepribadian masing-masing idol. |
+| `[x]` | **Daftar Cerita & Episode** | `masterTrans/Story.json` | 311 entri | **100% Selesai**. Seluruh 311 judul episode cerita umum, ulang tahun idol/Producer, dan cerita unit Hatsuboshi. |
+| `[x]` | **Judul Event Cerita** | `masterTrans/StoryEvent.json` | 35 entri | **100% Selesai**. Seluruh 35 nama event cerita berkala, tur live, dan festival sekolah. |
+| `[x]` | **Grup Alur Cerita** | `masterTrans/StoryGroup.json` | 100 entri | **100% Selesai**. Seluruh 100 nama kelompok bab alur cerita komprehensif. |
+| `[x]` | **Bab Cerita Utama** | `masterTrans/MainStoryChapter.json` | 4 entri | **100% Selesai**. Seluruh 4 judul dan sinopsis bab cerita utama sekolah idol (Bab 1 s/d Bab 4). |
+| `[x]` | **Bagian Cerita Utama** | `masterTrans/MainStoryPart.json` | 1 entri | **100% Selesai**. Judul bagian cerita panggung utama ("Bagian 1"). |
 | `[x]` | **Judul Cerita ADV Produce** | `masterTrans/ProduceAdv.json` | 32 entri | **100% Selesai**. Seluruh 32 judul segmen cerita Produce (Sehari sebelum audisi, Awal lesson, Hasil akhir, dll.). |
 | `[x]` | **Percabangan Cerita Produce** | `masterTrans/ProduceSplitAdv.json` | 26 entri | **100% Selesai**. Seluruh 26 judul segmen percabangan Kualifikasi & Final H.I.F. |
 | `[x]` | **Cerita Khusus Karakter Produce** | `masterTrans/ProduceCharacterAdv.json` | 10 entri | **100% Selesai**. Judul cerita interaksi khusus idol (Ep.10.5). |
-| `[ ]` | **Label Kategori Event** | `masterTrans/EventLabel.json` | 13 entri | Belum Mulai. Label penanda kategori event cerita khusus. |
+| `[x]` | **Label Kategori Event** | `masterTrans/EventLabel.json` | 13 entri | **100% Selesai**. Seluruh 13 label penanda kategori event cerita khusus. |
 
 ---
 
