@@ -12,8 +12,8 @@ Dokumen ini memantau status pengerjaan lokalisasi Bahasa Indonesia untuk seluruh
 | **Lirik Lagu Panggung & MV (`lyrics/`)** | 63 berkas JSON | **100% Selesai (1.877/1.877 baris)** | **Seluruh 4 Batch Tuntas**. Seluruh 19 lagu tema all songs, 29 lagu solo idol, dan 5 lagu unit tuntas diterjemahkan puitis & berirama alami. |
 | **Fase 2: Master Database Gameplay (`masterTrans`)** | 108 berkas JSON | **100% Selesai (99 Diterjemahkan, 9 Di-skip)** | **108 Berkas Tuntas**. Seluruh database gameplay master (Fase 2.1 s/d 2.6) 100% tuntas dalam Bahasa Indonesia. |
 | **Fase 3: Cerita Prolog, Tutorial & Unit (`resource/`)** | 116 berkas TXT | Belum Mulai | Naskah cerita pembuka (33 file), tutorial visual novel (17 file), dan cerita unit utama (66 file). |
-| **Fase 4: Cerita Karakter, Event & Stage (`resource/`)** | 3.414 berkas TXT | **Aktif Dikerjakan (126/3.414 File)** | Cerita Support Card R tuntas 100% (26 file, 471 dialog); Support Card SR Batch 2A, 2B, 2C & 2D tuntas (100 file, 1.918 dialog); cerita kandidat idol (354 file), commu bond (494 file), sisa support card SR/SSR (403 file), p-story (611 file), pevent & event (1.256 file), live mc (106 file), p-growth (39 file), p-result (13 file), produce commu (11 file), tower commu (1 file). |
-| **TOTAL DATA GAME** | **3.725 berkas** | **Aktif Dikerjakan** | **321 Berkas Tuntas (100% UI, Lirik & MasterDB + 126 Cerita Support Card Selesai)**, 3.404 Naskah Cerita Resource Siap Dikerjakan. |
+| **Fase 4: Cerita Karakter, Event & Stage (`resource/`)** | 3.414 berkas TXT | **Aktif Dikerjakan (156/3.414 File)** | Cerita Support Card R tuntas 100% (26 file, 471 dialog); Support Card SR Batch 2A, 2B, 2C, 2D & 2E tuntas (130 file, 2.516 dialog); cerita kandidat idol (354 file), commu bond (494 file), sisa support card SR/SSR (373 file), p-story (611 file), pevent & event (1.256 file), live mc (106 file), p-growth (39 file), p-result (13 file), produce commu (11 file), tower commu (1 file). |
+| **TOTAL DATA GAME** | **3.725 berkas** | **Aktif Dikerjakan** | **351 Berkas Tuntas (100% UI, Lirik & MasterDB + 156 Cerita Support Card Selesai)**, 3.374 Naskah Cerita Resource Siap Dikerjakan. |
 
 ---
 
@@ -317,7 +317,7 @@ Target: Cerita mendalam tiap kandidat idol, interaksi keakraban (Commu Bond), ce
 |---|---|---|---|---|
 | `[ ]` | **Cerita Kandidat Idol** | `resource/adv_cidol_*.txt` | 354 file | Belum Mulai. Alur cerita individu masing-masing karakter idol. |
 | `[ ]` | **Commu Bond (Keakraban)** | `resource/adv_dear_*.txt` | 494 file | Belum Mulai. Interaksi kedekatan emosional Producer bersama idol. |
-| `[>]` | **Cerita Support Card** | `resource/adv_csprt_*.txt` | 529 file | **Aktif Dikerjakan (126/529 Selesai)**. Support Card R tuntas 100% (26 file, 471 dialog); Support Card SR Batch 2A, 2B, 2C & 2D tuntas (100 file, 1.918 dialog). Sisa SR & SSR sedang berlanjut. |
+| `[>]` | **Cerita Support Card** | `resource/adv_csprt_*.txt` | 529 file | **Aktif Dikerjakan (156/529 Selesai)**. Support Card R tuntas 100% (26 file, 471 dialog); Support Card SR Batch 2A, 2B, 2C, 2D & 2E tuntas (130 file, 2.516 dialog). Sisa SR & SSR sedang berlanjut. |
 | `[ ]` | **Cerita Skenario Produksi (P-Story)** | `resource/adv_pstory_*.txt` / `adv_pidol_*.txt` | 611 file | Belum Mulai. Skenario perjalanan audisi dan ujian produce. |
 | `[ ]` | **Event Pilihan Produksi & Story Event** | `resource/adv_pevent_*.txt` / `adv_event_*.txt` | 1.256 file | Belum Mulai. Event acak pilihan Produce dan narasi event festival. |
 | `[ ]` | **Dialog Interaksi Panggung Live (MC)** | `resource/adv_live_*.txt` | 106 file | Belum Mulai. Percakapan panggung, seruan konser, dan interaksi live show idol. |
@@ -333,7 +333,7 @@ Total: **529 berkas** (10.414 baris dialog).
 | Status | Tingkat Kelangkaan | Prefiks Berkas | Jumlah File | Jumlah Baris Dialog | Status Detail |
 |---|---|---|---|---|---|
 | `[x]` | **Support Card R** | `adv_csprt-1-*.txt` | **26 file** | **471 baris** | **100% Selesai**. Terdiri dari Batch 1A (file 1-13, 242 dialog) & Batch 1B (file 14-26, 229 dialog). Lolos validasi sintaksis. |
-| `[>]` | **Support Card SR** | `adv_csprt-2-*.txt` | 164 file (100 selesai) | ~3.200 baris (1.918 selesai) | **Sedang Berjalan**. Batch 2A (file 1-25, 439 dialog), Batch 2B (file 26-50, 484 dialog), Batch 2C (file 51-75, 498 dialog) & Batch 2D (file 76-100, 497 dialog) tuntas. Batch 2E & 2F siap dikerjakan bertahap. |
+| `[>]` | **Support Card SR** | `adv_csprt-2-*.txt` | 164 file (130 selesai) | ~3.200 baris (2.516 selesai) | **Sedang Berjalan**. Batch 2A (file 1-25, 439 dialog), Batch 2B (file 26-50, 484 dialog), Batch 2C (file 51-75, 498 dialog), Batch 2D (file 76-100, 497 dialog) & Batch 2E (file 101-130, 598 dialog) tuntas. Batch 2F (file 131-164) siap dikerjakan sebagai penutup SR. |
 | `[ ]` | **Support Card SSR** | `adv_csprt-3-*.txt` | 339 file | ~6.700 baris | Menunggu giliran setelah SR selesai. |
 
 ---
@@ -396,3 +396,4 @@ Total: **529 berkas** (10.414 baris dialog).
 | 2026-10-16 | `resource/adv_csprt-2*.txt` (Support Card SR Batch 2B) | Terjemahan | Menerjemahkan 25 berkas kedua cerita Support Card SR (484 baris dialog) ke Bahasa Indonesia natural. Lolos validasi sintaksis tanpa error, line endings LF murni. **Batch 2B SELESAI (25 Berkas / 484 Baris)**. |
 | 2026-10-16 | `resource/adv_csprt-2*.txt` (Support Card SR Batch 2C) | Terjemahan | Menerjemahkan 25 berkas ketiga cerita Support Card SR (498 baris dialog) ke Bahasa Indonesia natural. Lolos validasi sintaksis tanpa error, line endings LF murni. **Batch 2C SELESAI (25 Berkas / 498 Baris)**. |
 | 2026-10-16 | `resource/adv_csprt-2*.txt` (Support Card SR Batch 2D) | Terjemahan | Menerjemahkan 25 berkas keempat cerita Support Card SR (497 baris dialog) ke Bahasa Indonesia natural. Lolos validasi sintaksis tanpa error, line endings LF murni. **Batch 2D SELESAI (25 Berkas / 497 Baris)**. |
+| 2026-10-16 | `resource/adv_csprt-2*.txt` (Support Card SR Batch 2E) | Terjemahan | Menerjemahkan 30 berkas kelima cerita Support Card SR (598 baris dialog) ke Bahasa Indonesia natural. Lolos validasi sintaksis tanpa error, line endings LF murni. **Batch 2E SELESAI (30 Berkas / 598 Baris)**. |
