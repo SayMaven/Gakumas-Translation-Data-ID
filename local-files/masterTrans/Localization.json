@@ -7,35 +7,35 @@
   "data": [
     {
       "id": "achievement.true_end.receive.initial_status",
-      "description": "Initial param"
+      "description": "Parameter Awal"
     },
     {
       "id": "achievement.true_end.receive.lesson_bonus",
-      "description": "Parameter Bonus"
+      "description": "Bonus Parameter"
     },
     {
       "id": "card.detail.enhance.invalid.point.exp.short",
-      "description": "Not enough Training Points."
+      "description": "Poin Pelatihan tidak cukup."
     },
     {
       "id": "card.idol_card.prima_stella.unlock_confirm_sheet.limit_level_condition_text",
-      "description": "Training Stage {0}"
+      "description": "Tahap Pelatihan {0}"
     },
     {
       "id": "card.idol_card.prima_stella.unlock_confirm_sheet.list.empty_label",
-      "description": "There are no eligible P-Idols"
+      "description": "Tidak ada P-Idol yang memenuhi syarat"
     },
     {
       "id": "card.produce_card_customize.detail_sheet.nia_condition",
-      "description": "※Customization can be performed through Special Guidance"
+      "description": "※Kustomisasi dapat dilakukan melalui Bimbingan Khusus"
     },
     {
       "id": "common.story_event_point",
-      "description": "Asari-sensei's Production Seminar"
+      "description": "Seminar Produce Asari-sensei"
     },
     {
       "id": "competition.rehearsal_battle_confirm.label.description",
-      "description": "※Does not consume challenge attempts / Rate Pt cannot be earned"
+      "description": "※Tidak menghabiskan batas percobaan / Rate Pt tidak dapat diperoleh"
     },
     {
       "id": "competition.unit.score",
@@ -43,83 +43,83 @@
     },
     {
       "id": "dearness.dearness_level_detail_sheet.title",
-      "description": "Bond Lv Details"
+      "description": "Detail Level Keakraban"
     },
     {
       "id": "exchange.complete.confirm",
-      "description": "Exchanged"
+      "description": "Berhasil Ditukar"
     },
     {
       "id": "grade_mission.top.button.idol.disabled",
-      "description": "No Produce Results"
+      "description": "Belum Ada Hasil Produce"
     },
     {
       "id": "grade_mission.top.next_mission.description",
-      "description": "Earn an Rate of {0} or higher with {1} idols"
+      "description": "Raih Rate {0} atau lebih tinggi dengan {1} idol"
     },
     {
       "id": "high_score_event.event_info.caution_exam_effect",
-      "description": "※When playing with idols from certain Produce Plans, the Skill Cards, P-Items, and P-Drinks that appear will be the same as in a regular Produce.\n※In the \"Selection Exam\" of the \"Hatsuboshi IDOL FESTIVAL\" Produce, Event P-Items and P-Items will not appear."
+      "description": "※Saat bermain dengan idol dari Rencana Produce tertentu, Kartu Skill, P-Item, dan P-Drink yang muncul akan sama seperti sesi Produce biasa.\n※Pada \"Ujian Seleksi\" Produce \"Hatsuboshi IDOL FESTIVAL\", P-Item Event dan P-Item biasa tidak akan muncul."
     },
     {
       "id": "high_score_event.event_info.caution_plan",
-      "description": "※When playing with idols from certain Produce Plans, the Skill Cards, P-Items, and P-Drinks that appear will be the same as in a regular Produce.\n※In the \"Selection Exam\" of the \"Hatsuboshi IDOL FESTIVAL\" Produce, Event P-Items and P-Items will not appear."
+      "description": "※Saat bermain dengan idol dari Rencana Produce tertentu, Kartu Skill, P-Item, dan P-Drink yang muncul akan sama seperti sesi Produce biasa.\n※Pada \"Ujian Seleksi\" Produce \"Hatsuboshi IDOL FESTIVAL\", P-Item Event dan P-Item biasa tidak akan muncul."
     },
     {
       "id": "high_score_event.top.adv.title_label",
-      "description": "Idol Enhancement Month\n〜Twinkling of the Stars〜"
+      "description": "Bulan Peningkatan Idol\n〜Kilauan Bintang-Bintang〜"
     },
     {
       "id": "home.gasha.continuous_share.share_text",
-      "description": "＼ H.I.F Launch Celebration Unlimited Gacha Live ／\n\nAs long as you keep getting Continue, you can pull\nthe gacha for free without limit!\nThe gacha guarantees at least 1 SSR!\n\n#学マス引き放題ガシャ #祝学マス2周年"
+      "description": "＼ Gacha Tanpa Batas Perayaan Peluncuran H.I.F ／\n\nSelama Anda terus mendapatkan Continue, Anda bisa menarik\ngacha gratis tanpa batas!\nGacha menjamin setidaknya 1 kartu SSR!\n\n#学マス引き放題ガシャ #祝学マス2周年"
     },
     {
       "id": "home.gasha.continuous_share.title",
-      "description": "H.I.F Launch Unlimited Gacha Results"
+      "description": "Hasil Gacha Tanpa Batas Peluncuran H.I.F"
     },
     {
       "id": "home.gasha.detail.bonus_reward.idol_card.prefix",
-      "description": "When you acquire the target P idol"
+      "description": "Saat Anda memperoleh P-Idol target"
     },
     {
       "id": "home.gasha.draw_button.item",
-      "description": "Ticket "
+      "description": "Tiket "
     },
     {
       "id": "home.gasha.item_confirm_sheet.ticket.short_balance_alert",
-      "description": "Insufficient Quantity "
+      "description": "Jumlah Tidak Cukup "
     },
     {
       "id": "home.gasha.point_detail_overlay.point_limit_time",
-      "description": "Pt exp date: Till {0}"
+      "description": "Masa berlaku Pt: Sampai {0}"
     },
     {
       "id": "home.gasha.point_detail_overlay.resource_type_group_limit_time",
-      "description": "Update: {0}"
+      "description": "Pembaruan: {0}"
     },
     {
       "id": "home.produce.tutorial_reward",
-      "description": "Get an SSR P-Idol!"
+      "description": "Dapatkan P-Idol SSR!"
     },
     {
       "id": "home.pvp.contest.out_of_term_toast",
-      "description": "Outside the event period"
+      "description": "Di luar periode event"
     },
     {
       "id": "idol_dearness.step3_condition",
-      "description": "Unlocks after the Bond Boost Campaign ends"
+      "description": "Terbuka setelah Kampanye Peningkatan Bond berakhir"
     },
     {
       "id": "idol_dearness.top.mission_unlock_description",
-      "description": "Unlocks on {0}"
+      "description": "Terbuka pada {0}"
     },
     {
       "id": "memory.inherit.select_produce_card.before_select.message",
-      "description": "Select the skill card you want to swap"
+      "description": "Pilih kartu skill yang ingin Anda tukar"
     },
     {
       "id": "mission.mission_list.max_point_text.event",
-      "description": "Weekly Points earned have reached the maximum."
+      "description": "Poin Mingguan yang diperoleh telah mencapai batas maksimum."
     },
     {
       "id": "mission.panel.mission_text",
@@ -131,63 +131,63 @@
     },
     {
       "id": "produce_card_skin.preview_overlay.label.select_skin",
-      "description": "You can view the effects shown when using Skill Cards."
+      "description": "Anda dapat melihat efek tampilan saat menggunakan Kartu Skill."
     },
     {
       "id": "produce_card_skin.top.label.description",
-      "description": "You can change the appearance of Skill Cards and some of the effects shown."
+      "description": "Anda dapat mengubah tampilan Kartu Skill dan beberapa efek visualnya."
     },
     {
       "id": "produce_prepare.easy_mode_apply",
-      "description": "Assist Mode Active"
+      "description": "Mode Bantuan Aktif"
     },
     {
       "id": "produce_prepare.easy_mode.continue_sheet.message",
-      "description": "Do you want to disable assist mode?"
+      "description": "Apakah Anda ingin menonaktifkan mode bantuan?"
     },
     {
       "id": "produce_prepare.easy_mode.continue_sheet.title",
-      "description": "Assist Mode Confirmation"
+      "description": "Konfirmasi Mode Bantuan"
     },
     {
       "id": "produce_prepare.easy_mode.setting_sheet.confirm",
-      "description": "Apply\nAssist Mode"
+      "description": "Terapkan\nMode Bantuan"
     },
     {
       "id": "produce_prepare.easy_mode.setting_sheet.message",
-      "description": "You can start producing with Assist Mode applied to the next play of {0} difficulty: {1}"
+      "description": "Anda dapat memulai sesi Produce dengan Mode Bantuan diterapkan pada permainan berikutnya tingkat kesulitan {0}: {1}"
     },
     {
       "id": "produce_prepare.easy_mode.setting_sheet.title",
-      "description": "Assist Mode Settings"
+      "description": "Pengaturan Mode Bantuan"
     },
     {
       "id": "produce_prepare.easy_mode.start_produce_sheet.message",
-      "description": "Start producing in Assist Mode\nProceed?"
+      "description": "Mulai sesi Produce dalam Mode Bantuan\nLanjutkan?"
     },
     {
       "id": "produce_prepare.edit.warning",
-      "description": "Formations can be set individually for each Produce. If you set a formation for one Produce, it will not apply to others."
+      "description": "Formasi dapat diatur secara terpisah untuk setiap sesi Produce. Pengaturan formasi pada satu Produce tidak akan berpengaruh pada yang lain."
     },
     {
       "id": "produce_prepare.produce_character_unit.costume_change_sheet.warning1",
-      "description": "※If the \"{0}\" performance is selected, the live costume for the P-idol cannot be set.\n※There are no changes to the P-Live performance."
+      "description": "※Jika penampilan \"{0}\" dipilih, kostum live untuk P-Idol tidak dapat diatur.\n※Tidak ada perubahan pada penampilan P-Live."
     },
     {
       "id": "produce_prepare.top.event_icon.high_score_rush.description",
-      "description": "You can now obtain Star Sparkles as a Produce reward"
+      "description": "Kini Anda dapat memperoleh Kilau Bintang sebagai hadiah Produce"
     },
     {
       "id": "produce_prepare.top.event_icon.high_score_rush.title",
-      "description": "Kunio Juo’s Idol Enhancement Month"
+      "description": "Bulan Peningkatan Idol Kunio Juo"
     },
     {
       "id": "produce_prepare.top.event_icon.research.description",
-      "description": "You can now obtain Asari-sensei stickers, Seminar Tanuki, and event points as produce rewards."
+      "description": "Kini Anda dapat memperoleh stiker Asari-sensei, Tanuki Seminar, dan poin event sebagai hadiah Produce."
     },
     {
       "id": "produce.card.move_position.deckall",
-      "description": "Other Formation Slot "
+      "description": "Slot Formasi Lainnya "
     },
     {
       "id": "produce.card.rarity.legend",
@@ -195,71 +195,71 @@
     },
     {
       "id": "produce.hif.audition.qualify.audition_final.title",
-      "description": "Qualifier 3"
+      "description": "Babak Kualifikasi 3"
     },
     {
       "id": "produce.hif.audition.qualify.audition_mid1.title",
-      "description": "Qualifier 1"
+      "description": "Babak Kualifikasi 1"
     },
     {
       "id": "produce.hif.audition.qualify.audition_mid2.title",
-      "description": "Qualifier 2"
+      "description": "Babak Kualifikasi 2"
     },
     {
       "id": "produce.hif.audition.qualify.description",
-      "description": "You will face your rival in a performance showdown. If you surpass the border line, you will pass the selection exam."
+      "description": "Anda akan menghadapi rival dalam adu performa panggung. Jika Anda melampaui garis batas skor, Anda akan lolos ujian seleksi."
     },
     {
       "id": "produce.hif.audition.qualify.title",
-      "description": "H.I.F Qualifier "
+      "description": "Kualifikasi H.I.F "
     },
     {
       "id": "produce.hif.result.qualify.title",
-      "description": "Qualifier Cleared"
+      "description": "Kualifikasi Berhasil Dilewati"
     },
     {
       "id": "produce.high_score_rush.gold.description",
-      "description": "An item obtainable in \"Kunio Juo's Idol Intensive Month 〜Twinkling of the Stars〜\" Can be used in the event gacha."
+      "description": "Item yang dapat diperoleh di \"Bulan Peningkatan Intensif Idol Kunio Juo 〜Kilauan Bintang-Bintang〜\". Dapat digunakan pada gacha event."
     },
     {
       "id": "produce.interval.reroll_sheet.description",
-      "description": "Use P-Points to refresh the Skill Card and P Drink lineup, customization count, and enhancement count?"
+      "description": "Gunakan P-Point untuk menyegarkan daftar Kartu Skill dan P-Drink, batas kustomisasi, serta batas peningkatan?"
     },
     {
       "id": "produce.lesson.no_effect.stance_over_preservation",
-      "description": "Because the guideline is set to “Relaxed”, the effect to change it to “Preservation” will not activate."
+      "description": "Karena panduan diatur ke \"Santai\", efek untuk mengubahnya menjadi \"Perlindungan\" tidak akan aktif."
     },
     {
       "id": "produce.schedule.step_exam_final_audition3.qualify",
-      "description": "Qualifier 3"
+      "description": "Babak Kualifikasi 3"
     },
     {
       "id": "produce.schedule.step_exam_mid1_audition3.qualify",
-      "description": "Qualifier 1"
+      "description": "Babak Kualifikasi 1"
     },
     {
       "id": "produce.schedule.step_exam_mid2_audition3.qualify",
-      "description": "Qualifier 2"
+      "description": "Babak Kualifikasi 2"
     },
     {
       "id": "produce.select.restrict.change",
-      "description": "Skill Card cannot be changed"
+      "description": "Kartu Skill tidak dapat diubah"
     },
     {
       "id": "produce.server_force_reset.confirm.description",
-      "description": "The Produce data in progress has been discarded."
+      "description": "Data sesi Produce yang sedang berjalan telah dihapus."
     },
     {
       "id": "produce.sheet.drink_max.description",
-      "description": "The P-Drink carry limit has been reached.\nPlease select the drinks you want to keep."
+      "description": "Batas kapasitas membawa P-Drink telah tercapai.\nSilakan pilih minuman yang ingin Anda simpan."
     },
     {
       "id": "producer_ranking.character_reward.description",
-      "description": "You will receive rewards after the calculation period ends, depending on your producer ranking at the end of the season."
+      "description": "Anda akan menerima hadiah setelah periode kalkulasi berakhir, sesuai peringkat Producer Anda di akhir musim."
     },
     {
       "id": "profile.badge_select.thumb_empty.empty.toast",
-      "description": "Can be obtained from Producer Rankings "
+      "description": "Dapat diperoleh dari Peringkat Producer "
     },
     {
       "id": "profile.report.share.text",
@@ -267,87 +267,87 @@
     },
     {
       "id": "research_event.target_idol_sheet.description",
-      "description": "Only P-idols eligible can challenge the event mode."
+      "description": "Hanya P-Idol yang memenuhi syarat yang dapat menantang mode event."
     },
     {
       "id": "setting.preference.live.camera.description",
-      "description": "When this option is ON, camera movement will be inverted when using gesture controls during Live recording."
+      "description": "Saat opsi ini AKTIF, pergerakan kamera akan dibalik ketika menggunakan kontrol gestur selama perekaman Live."
     },
     {
       "id": "setting.preference.live.camera.position_depth",
-      "description": "Flip Camera"
+      "description": "Balik Kamera"
     },
     {
       "id": "setting.preference.other.produce_growth_panel.level_up_confirm.description",
-      "description": "Display a confirmation message when unlocking or enhancing H.I.F Bonuses."
+      "description": "Tampilkan pesan konfirmasi saat membuka atau meningkatkan Bonus H.I.F."
     },
     {
       "id": "setting.preference.other.produce_growth_panel.level_up_confirm.title",
-      "description": "Display Confirmation Message"
+      "description": "Tampilkan Pesan Konfirmasi"
     },
     {
       "id": "setting.preference.other.produce_growth_panel.title",
-      "description": "H.I.F Bonus Settings"
+      "description": "Pengaturan Bonus H.I.F"
     },
     {
       "id": "setting.produce.custom_item_customize_confirm",
-      "description": "Custom P Item Selection Confirmation"
+      "description": "Konfirmasi Pemilihan Custom P-Item"
     },
     {
       "id": "setting.produce.custom_item_customize_confirm.description",
-      "description": "Display a confirmation message when obtaining or enhancing Custom P Items."
+      "description": "Tampilkan pesan konfirmasi saat memperoleh atau meningkatkan Custom P-Item."
     },
     {
       "id": "setting.produce.easy_mode_confirm",
-      "description": "Assist Mode Display"
+      "description": "Tampilan Mode Bantuan"
     },
     {
       "id": "setting.produce.easy_mode_confirm.description",
-      "description": "When this option is ON, a message to apply Assist Mode will appear when conditions are met."
+      "description": "Saat opsi ini AKTIF, pesan untuk menerapkan Mode Bantuan akan muncul jika syarat terpenuhi."
     },
     {
       "id": "setting.produce.easy_mode_setting",
-      "description": "Assist Mode Settings"
+      "description": "Pengaturan Mode Bantuan"
     },
     {
       "id": "setting.produce.easy_mode_setting.description",
-      "description": "When this option is ON,\nAssist Mode will be applied when challenging NEXT IDOL AUDITION difficulty: PRO."
+      "description": "Saat opsi ini AKTIF,\nMode Bantuan akan diterapkan saat menantang NEXT IDOL AUDITION tingkat kesulitan: PRO."
     },
     {
       "id": "setting.produce.easy_mode.title",
-      "description": "【Produce】Assist Mode"
+      "description": "【Produce】Mode Bantuan"
     },
     {
       "id": "setting.produce.exit_interval_confirm",
-      "description": "Confirm End of Interval"
+      "description": "Konfirmasi Selesai Jeda"
     },
     {
       "id": "setting.produce.exit_interval_confirm.description",
-      "description": "Display a confirmation message when ending the interval."
+      "description": "Tampilkan pesan konfirmasi saat mengakhiri waktu jeda (interval)."
     },
     {
       "id": "setting.produce.reroll_interval_confirm",
-      "description": "Refresh Confirmation"
+      "description": "Konfirmasi Segarkan Pilihan"
     },
     {
       "id": "setting.produce.reroll_interval_confirm.description",
-      "description": "Display a confirmation message when refreshing during an interval."
+      "description": "Tampilkan pesan konfirmasi saat menyegarkan pilihan selama jeda Produce."
     },
     {
       "id": "setting.produce.select_change_card_confirm",
-      "description": "Skill Card Change Confirmation"
+      "description": "Konfirmasi Pergantian Kartu Skill"
     },
     {
       "id": "setting.produce.select_change_card_confirm.description",
-      "description": "Display a confirmation message when selecting and changing a Skill Card."
+      "description": "Tampilkan pesan konfirmasi saat memilih dan menukar Kartu Skill."
     },
     {
       "id": "setting.produce.support_event_produce_card_upgrade",
-      "description": "Obtain upgraded skill card"
+      "description": "Peroleh kartu skill yang telah ditingkatkan"
     },
     {
       "id": "shop.need_init.description",
-      "description": "Retrieving information.\nPlease update."
+      "description": "Sedang mengambil informasi.\nSilakan perbarui."
     },
     {
       "id": "shop.need_init.title",
@@ -355,35 +355,35 @@
     },
     {
       "id": "shop.web_store.confirm.description",
-      "description": "Do you want to open a web browser?\nYou can set your date of birth from [Menu > Other > Enter Date of Birth]."
+      "description": "Apakah Anda ingin membuka peramban web?\nAnda dapat mengatur tanggal lahir dari [Menu > Lainnya > Masukkan Tanggal Lahir]."
     },
     {
       "id": "startup.gasha_point_expire_sheet.bottom_message",
-      "description": "Gacha where you can obtain these exchange points"
+      "description": "Gacha tempat Anda dapat memperoleh poin penukaran ini"
     },
     {
       "id": "story.idol.others.birthday",
-      "description": "Other"
+      "description": "Lainnya"
     },
     {
       "id": "story.story_event.section.normal_condition_lock_text",
-      "description": "Earn Event Pt and read the previous commu to unlock "
+      "description": "Peroleh Pt Event dan baca commu sebelumnya untuk membuka "
     },
     {
       "id": "tour.exam.to_home.alert",
-      "description": "※If there is paused data, you can resume it by going to the Special Event during the event period\n※If you go to the Special Event on a different device, the paused data will be deleted"
+      "description": "※Jika ada data yang dijeda, Anda dapat melanjutkannya dengan menuju ke Event Spesial selama periode event berlangsung\n※Jika Anda membuka Event Spesial di perangkat yang berbeda, data yang dijeda akan dihapus"
     },
     {
       "id": "tour.play_consumption_item_detail.add_initial_daily_diff_count.annotation",
-      "description": "※Usable only during the event period"
+      "description": "※Hanya dapat digunakan selama periode event"
     },
     {
       "id": "tour.play_consumption_item_detail.annotation",
-      "description": "※Usable only during the event period"
+      "description": "※Hanya dapat digunakan selama periode event"
     },
     {
       "id": "tour.play_consumption_item_detail.message",
-      "description": "An item used when challenging stages in Special Events."
+      "description": "Item yang digunakan saat menantang stage dalam Event Spesial."
     },
     {
       "id": "tour.top.user_status.point_complete_label",
@@ -391,11 +391,11 @@
     },
     {
       "id": "voice.idol_use_prima_stella_produce_card",
-      "description": "Use P-Idol Exclusive Legend Skill Card"
+      "description": "Gunakan Kartu Skill Legend Eksklusif P-Idol"
     },
     {
       "id": "voice.idol_use_produce_card",
-      "description": "Use P-idol's unique skill card"
+      "description": "Gunakan Kartu Skill Khas P-Idol"
     }
   ]
 }

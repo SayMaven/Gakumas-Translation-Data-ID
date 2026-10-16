@@ -47,7 +47,7 @@
     },
     {
       "id": "memory_tag_11",
-      "defaultName": "P-Points"
+      "defaultName": "P-Point"
     },
     {
       "id": "memory_tag_12",
@@ -59,27 +59,27 @@
     },
     {
       "id": "memory_tag_14",
-      "defaultName": "Good Shape"
+      "defaultName": "Kondisi Baik"
     },
     {
       "id": "memory_tag_15",
-      "defaultName": "Focus"
+      "defaultName": "Fokus"
     },
     {
       "id": "memory_tag_16",
-      "defaultName": "Good Impression"
+      "defaultName": "Kesan Baik"
     },
     {
       "id": "memory_tag_17",
-      "defaultName": "Motivation"
+      "defaultName": "Semangat"
     },
     {
       "id": "memory_tag_18",
-      "defaultName": "Energy"
+      "defaultName": "Genki"
     },
     {
       "id": "memory_tag_19",
-      "defaultName": "Reduced ST usage "
+      "defaultName": "Pengurangan Biaya Stamina "
     },
     {
       "id": "memory_tag_20",
@@ -87,19 +87,19 @@
     },
     {
       "id": "memory_tag_21",
-      "defaultName": "Full Power"
+      "defaultName": "Kekuatan Penuh"
     },
     {
       "id": "memory_tag_22",
-      "defaultName": "Confident"
+      "defaultName": "Percaya Diri"
     },
     {
       "id": "memory_tag_23",
-      "defaultName": "Preservation"
+      "defaultName": "Perlindungan"
     },
     {
       "id": "memory_tag_24",
-      "defaultName": "Growth Effect"
+      "defaultName": "Efek Pertumbuhan"
     }
   ]
 }

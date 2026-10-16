@@ -7,81 +7,81 @@
   "data": [
     {
       "tutorialType": "TutorialType_Work",
-      "name": "Job",
-      "description": "Job feature unlocked",
-      "routeDescription": "Check from \"Job\" on the Home screen"
+      "name": "Pekerjaan",
+      "description": "Fitur Pekerjaan telah terbuka",
+      "routeDescription": "Periksa dari menu \"Pekerjaan\" di Beranda"
     },
     {
       "tutorialType": "TutorialType_PvpRate",
       "name": "Contest",
-      "description": "Contest feature unlocked",
-      "routeDescription": "Check from \"Contest\""
+      "description": "Fitur Contest telah terbuka",
+      "routeDescription": "Periksa dari menu \"Contest\""
     },
     {
       "tutorialType": "TutorialType_CoinGasha",
-      "name": "Coin Gacha",
-      "description": "Coin Gacha feature unlocked",
-      "routeDescription": "Check from \"Coin Gacha\" in the Shop"
+      "name": "Gacha Koin",
+      "description": "Fitur Gacha Koin telah terbuka",
+      "routeDescription": "Periksa dari menu \"Gacha Koin\" di Toko"
     },
     {
       "tutorialType": "TutorialType_MoneyReceive",
-      "name": "Activity Funds",
-      "description": "Activity Funds feature unlocked",
-      "routeDescription": "Check from \"Activity Funds\" on the Home screen"
+      "name": "Uang Saku",
+      "description": "Fitur Uang Saku telah terbuka",
+      "routeDescription": "Periksa dari menu \"Uang Saku\" di Beranda"
     },
     {
       "tutorialType": "TutorialType_IdolCardLevelLimitRankUpdate",
-      "name": "Produce Idol Training",
-      "description": "Produce Idol Training feature unlocked",
-      "routeDescription": "Check from \"P-Idol Development\" under Idol"
+      "name": "Buka Batas P-Idol",
+      "description": "Fitur Buka Batas P-Idol telah terbuka",
+      "routeDescription": "Periksa dari menu \"Pelatihan P-Idol\" di tab Idol"
     },
     {
       "tutorialType": "TutorialType_SupportCardLevelUpdate",
-      "name": "Support Card Upgrade",
-      "description": "Support Card Upgrade feature unlocked",
-      "routeDescription": "Check from \"Support Cards\" under Idol"
+      "name": "Tingkatkan Support Card",
+      "description": "Fitur Tingkatkan Support Card telah terbuka",
+      "routeDescription": "Periksa dari menu \"Support Card\" di tab Idol"
     },
     {
       "tutorialType": "TutorialType_DailyExchange",
-      "name": "Daily Exchange Shop",
-      "description": "Daily Exchange Shop feature unlocked",
-      "routeDescription": "Check from \"Daily Exchange Shop\" in the Shop"
+      "name": "Toko Penukaran Harian",
+      "description": "Fitur Toko Penukaran Harian telah terbuka",
+      "routeDescription": "Periksa dari menu \"Toko Penukaran Harian\" di Toko"
     },
     {
       "tutorialType": "TutorialType_Tower",
-      "name": "The Idol Road",
-      "description": "The Idol Road feature unlocked",
-      "routeDescription": "Check from \"The Idol Road\" under Contest"
+      "name": "Idol Road",
+      "description": "Fitur Idol Road telah terbuka",
+      "routeDescription": "Periksa dari menu \"Idol Road\" di tab Contest"
     },
     {
       "tutorialType": "TutorialType_Guild",
       "name": "Circle",
-      "description": "Circle feature unlocked",
-      "routeDescription": "Check from \"Circle\" in the Menu"
+      "description": "Fitur Circle telah terbuka",
+      "routeDescription": "Periksa dari menu \"Circle\" di Menu"
     },
     {
       "tutorialType": "TutorialType_DearnessTop",
-      "name": "BondLv Menu",
-      "description": "\"BondLv Menu\" function unlocked",
-      "routeDescription": "You can check this from the Home BondLv"
+      "name": "Menu Keakraban",
+      "description": "Fitur \"Menu Keakraban\" telah terbuka",
+      "routeDescription": "Dapat diperiksa dari menu Keakraban di Beranda"
     },
     {
       "tutorialType": 32,
-      "name": "P-Rating\nAchievements",
-      "description": "P-Rating Achievements \nunlocked",
-      "routeDescription": "You can check them from the normal missions menu"
+      "name": "Achievement\nP-Rating",
+      "description": "Achievement P-Rating\ntelah terbuka",
+      "routeDescription": "Dapat diperiksa dari menu misi reguler"
     },
     {
       "tutorialType": "TutorialType_ProducerRanking",
-      "name": "Producer Ranking",
-      "description": "[Producer Ranking] unlocked",
-      "routeDescription": "You can check your P-rankings here"
+      "name": "Peringkat Producer",
+      "description": "Fitur [Peringkat Producer] telah terbuka",
+      "routeDescription": "Dapat memeriksa peringkat P-Ranking di sini"
     },
     {
       "tutorialType": "TutorialType_ProduceCardConvert",
-      "name": "Skill Card Switch",
-      "description": "\"Skill Card Switch\" unlocked",
-      "routeDescription": "Available in produce"
+      "name": "Tukar Kartu Skill",
+      "description": "Fitur \"Tukar Kartu Skill\" telah terbuka",
+      "routeDescription": "Tersedia saat sesi Produce"
     }
   ]
 }

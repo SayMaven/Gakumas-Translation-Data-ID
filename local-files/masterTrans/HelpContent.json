@@ -11,21 +11,21 @@
       "helpCategoryId": "help-achievement",
       "id": "achievement-achievement",
       "order": 1,
-      "name": "Achievements",
+      "name": "Achievement",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/be6f0d53ed8743ac3ab79af37f542459ee7558656c5f32012b8c00611206f521/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-achievement",
       "id": "achievement-idol",
       "order": 2,
-      "name": "Idol Achievements",
+      "name": "Achievement Idol",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/696f88b3357c9c547697f4d3131e783f4c0001181ef70c6f9aeb37f940a6fd33/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-achievement",
       "id": "achievement-others",
       "order": 4,
-      "name": "Other Achievements",
+      "name": "Achievement Lainnya",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/5c049150e00aad2531d72b1cf66483a60e5a7b7ec6d93e559f24b84ac10f206b/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -39,7 +39,7 @@
       "helpCategoryId": "help-box-gasha-event",
       "id": "box-gasha-event",
       "order": 1,
-      "name": "Story Events",
+      "name": "Event Cerita",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/5718ca277c0e55876721f6565da942a63d9f7c62339a0506ca1d68b7b1ed00bd/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -53,14 +53,14 @@
       "helpCategoryId": "help-box-gasha-event",
       "id": "box-gasha-event-finish",
       "order": 8,
-      "name": "After the Event",
+      "name": "Setelah Event Berakhir",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/61a3ad2ed9fce3180615ec76a2c6751bdc8f537b81e84c1dbb59d19f3ae349d3/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-box-gasha-event",
       "id": "box-gasha-event-gasha",
       "order": 4,
-      "name": "Event Gacha",
+      "name": "Gacha Event",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/0f8de71942e90d3d380be5ab9979aa7e45227d1d5a61c45fd47a44e21eac459e/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -81,14 +81,14 @@
       "helpCategoryId": "help-box-gasha-event",
       "id": "box-gasha-event-mission",
       "order": 6,
-      "name": "Event Missions",
+      "name": "Misi Event",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/97eb593d69a39aa5e54935a63ffc55b69d387cc7d710333c4742319680915a1c/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-box-gasha-event",
       "id": "box-gasha-event-story",
       "order": 5,
-      "name": "Event Commu",
+      "name": "Commu Event",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/4d74ef61854d742ff34de31dc842d430a531d4be8719f6bd439e58d52aecee23/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -102,7 +102,7 @@
       "helpCategoryId": "help-circle-battle-event",
       "id": "circle-battle-event-finish",
       "order": 9,
-      "name": "After the Event",
+      "name": "Setelah Event Berakhir",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/fafe494dbb5f236ab4ba38d6eac73e9a332c6d4e995518ae84cf14a8be018230/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -116,14 +116,14 @@
       "helpCategoryId": "help-circle-battle-event",
       "id": "circle-battle-event-mission",
       "order": 7,
-      "name": "Event Missions",
+      "name": "Misi Event",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/0bd4695fe42edf37fc92d37413f131afab505b060a454af65f942a890d0d8cf6/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-circle-battle-event",
       "id": "circle-battle-event-ranking",
       "order": 8,
-      "name": "Circle Rankings",
+      "name": "Peringkat Circle",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/c2482ea0b746cc6bc9d44b0e51732c391313d69e191b45b0ff60dedf5b74b6b7/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -137,7 +137,7 @@
       "helpCategoryId": "help-circle-battle-event",
       "id": "circle-battle-event-rule",
       "order": 1,
-      "name": "Regional Tour Events",
+      "name": "Event Tur Wilayah",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/f5c599d710e4df06a3ebb24ca6fd704bb49ad1e766eca8c9d587685005b2f2ce/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -151,7 +151,7 @@
       "helpCategoryId": "help-circle-battle-event",
       "id": "circle-battle-event-story",
       "order": 6,
-      "name": "Event Commu",
+      "name": "Commu Event",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/20c208df7b7ff6ec7af42582b19bbdcee4c718ff83f57c5e6ec38a0e9a988311/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -172,7 +172,7 @@
       "helpCategoryId": "help-competition",
       "id": "competition-grade",
       "order": 8,
-      "name": "Grades",
+      "name": "Tingkat Grade",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/6bae1383e32a5e56b01ad2cad22076d62a048c75f1da2034d7b11428377c5628/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -235,21 +235,21 @@
       "helpCategoryId": "help-contest",
       "id": "contest-contest",
       "order": 1,
-      "name": "Contests",
+      "name": "Contest",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/59cb73d0e7617c2f890a2962b7733f20a7eda7e7d060e9dbcf79719a65a0d3ca/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-contest",
       "id": "contest-contest-ranking",
       "order": 10,
-      "name": "Contest Rankings",
+      "name": "Peringkat Contest",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/68d8b0b139e1301c46570af58353cdf58d958a3ccc47ffb2204e155365008417/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-contest",
       "id": "contest-grade",
       "order": 8,
-      "name": "Grades",
+      "name": "Tingkat Grade",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/62d0e0ace86216d3be88dd829a5d0e8316e35cad34f9c8b88584196484f5d8e5/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -277,7 +277,7 @@
       "helpCategoryId": "help-contest",
       "id": "contest-rule",
       "order": 2,
-      "name": "Contest Rules",
+      "name": "Aturan Contest",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/e88125f4aab736ec3faf39fb5426792332248cb35d8951527da9fd82376e431c/index.html?_cb=39174970686372a53afaa2bab2c1512a38c2f3978ecc285ec036d508e415b36c"
     },
     {
@@ -312,28 +312,28 @@
       "helpCategoryId": "help-dearness-doost-campaign",
       "id": "help-dearness-doost-campaign-info",
       "order": 57,
-      "name": "Bond Boost Mission",
+      "name": "Misi Peningkatan Bond",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/d4d4f42f86c8e3dc2a35b27755ab8b4d33de08615a4682c554a95ccc59940482/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-dearness-map",
       "id": "help-dearness-map-info",
       "order": 56,
-      "name": "Bond Map",
+      "name": "Peta Bond",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/a6b7c96963ab0063249f2040abb6f6a25b450aa5363faa5b3f4d4323f4422688/index.html?_cb=93108200b5035a17c9f42b4e053ad6863628f473e3f646b98521368a002dfa57"
     },
     {
       "helpCategoryId": "help-dearness-top",
       "id": "help-dearness-top-info",
       "order": 55,
-      "name": "Bond Menu",
+      "name": "Menu Bond",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/d61bf747cbfdd653807c27da82880e11fc123ad4883bc9039fe10dbfb275d509/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-event_mission",
       "id": "event_mission-event_mission",
       "order": 1,
-      "name": "Event Missions",
+      "name": "Misi Event",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/807ee7e79b72ab256195db206b2d7b6b80884d261709c6cf19ce91baf2036cb4/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -368,21 +368,21 @@
       "helpCategoryId": "help-guild",
       "id": "guild-create",
       "order": 2,
-      "name": "Circle Creation",
+      "name": "Membuat Circle",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/750e998a0f4f609f3cc290848dce4059ec9e9fae1403f88bc6213e936bfcff06/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-guild",
       "id": "guild-Guild",
       "order": 1,
-      "name": "Circles",
+      "name": "Circle",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/fb292097472eb10d0cafee447f7b1e3e89f16cd603633e26d716382c3606aba1/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-guild",
       "id": "guild-join",
       "order": 3,
-      "name": "Joining a Circle",
+      "name": "Bergabung ke Circle",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/6c9268073be3283b9395c95d472171a341f855d083a3c2957e9586606c0e9c99/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -410,7 +410,7 @@
       "helpCategoryId": "help-highscore",
       "id": "highscore-highscore",
       "order": 1,
-      "name": "Idol Enhancement Month",
+      "name": "Bulan Peningkatan Idol",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/e38cd1c76b10c41d827e56eb7e13703b02dac556efaf462a8ce69a3f0404e210/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -431,14 +431,14 @@
       "helpCategoryId": "help-highscorerush",
       "id": "highscorerush-event-finish",
       "order": 8,
-      "name": "After the Event",
+      "name": "Setelah Event Berakhir",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/8a2afa49a59e6874499845f58adfc59b8c7e9d78d4e818092577489d2d172768/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-highscorerush",
       "id": "highscorerush-event-gasha",
       "order": 6,
-      "name": "Event Gacha",
+      "name": "Gacha Event",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/26b77d1896624a24e10d923d59276cbd45ccb78372d52509ed6af794f51a19f6/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -452,7 +452,7 @@
       "helpCategoryId": "help-highscorerush",
       "id": "highscorerush-event-mission",
       "order": 7,
-      "name": "Event Missions",
+      "name": "Misi Event",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/794f06605f1ea1f6fcf44101bfeeeb220e6d01a9776e6c6afff50df4dfaeb2e0/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -501,7 +501,7 @@
       "helpCategoryId": "help-home",
       "id": "home-home",
       "order": 1,
-      "name": "Home",
+      "name": "Beranda",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/2b78ebbb004539a5ee9d3d3d441082a3343d9f12e4c4ed5a062c9756e0607e4d/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -515,21 +515,21 @@
       "helpCategoryId": "help-home",
       "id": "home-jewel",
       "order": 4,
-      "name": "Jewels",
+      "name": "Jewel",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/a1fa796178c4e39f334946c0b8203f2f12ed607fd91dbd13cf205fe53b3b1f6b/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-home",
       "id": "home-main-task",
       "order": 8,
-      "name": "Challenges",
+      "name": "Tantangan",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/fa025897784040453a97a52f21095e3e45b5c14129e666f12e1738dde0bc0189/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-home",
       "id": "home-money-received",
       "order": 5,
-      "name": "Activity Funds",
+      "name": "Uang Saku",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/4bdcb748a914c214eb2ee34234159b9d3ec692d7ec5b17e53948c828d34d0c8d/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -550,7 +550,7 @@
       "helpCategoryId": "help-idol",
       "id": "idol-another",
       "order": 2,
-      "name": "Another Idol",
+      "name": "Idol Lainnya",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/5ebf2428cfaa4d1dbdc456311a18711b5b68d0713dc984fa70bf09fb99d7ba3b/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -564,7 +564,7 @@
       "helpCategoryId": "help-idol",
       "id": "idol-dearness-pt",
       "order": 54,
-      "name": "BondPT",
+      "name": "Poin Bond",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/f4f7406c4cab626ed608ba3ad0f68221497e661db5912478f6e7df938490f9e8/index.html?_cb=93108200b5035a17c9f42b4e053ad6863628f473e3f646b98521368a002dfa57"
     },
     {
@@ -585,7 +585,7 @@
       "helpCategoryId": "help-idol",
       "id": "idol-idol-card-potential-rank",
       "order": 51,
-      "name": "Talent Bloom",
+      "name": "Rank Bakat",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/658470b38139f3bd2e41269672e91c54e2244d702948677e7194a6354fc5d52c/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -648,7 +648,7 @@
       "helpCategoryId": "help-lesson",
       "id": "lesson-audition",
       "order": 15,
-      "name": "Exams",
+      "name": "Ujian",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/b56b3fcbe0ed538326d734a36802ef02bf8b3f1be04d10935150d55a557ff2b0/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -697,7 +697,7 @@
       "helpCategoryId": "help-lesson",
       "id": "lesson-lesson",
       "order": 1,
-      "name": "Lessons",
+      "name": "Lesson",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/952aacc9e77bda96bb30a987cc8db9d4f34e43206e38ad2c8fa5c4308948228c/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -711,14 +711,14 @@
       "helpCategoryId": "help-lesson",
       "id": "lesson-p-drink",
       "order": 9,
-      "name": "P-Items",
+      "name": "P-Item",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/c05bd5db643cb99d12bb006c3dd7366a5c40f519f79ca7dcb3a08a6da699c6ba/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-lesson",
       "id": "lesson-p-item",
       "order": 8,
-      "name": "P-Drinks",
+      "name": "P-Drink",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/b4e130e4c39a81b9a7baa79ca99b2623e1ffaaa4ed43074e33489672cc7f992c/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -732,7 +732,7 @@
       "helpCategoryId": "help-lesson",
       "id": "lesson-produce-card",
       "order": 5,
-      "name": "Skill Cards",
+      "name": "Kartu Skill",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/5633ff0a9021e5f9f6a228ad507d0ceacb26c4f6f77590b4e9ef37bc0bba64d7/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -795,7 +795,7 @@
       "helpCategoryId": "help-livetour-event",
       "id": "tour-finish",
       "order": 9,
-      "name": "After the Event",
+      "name": "Setelah Event Berakhir",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/52df56d15b86ad800428a2f261267a3bbd87836953119c6da2331867327dde4d/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -809,7 +809,7 @@
       "helpCategoryId": "help-livetour-event",
       "id": "tour-play-ticket",
       "order": 4,
-      "name": "Challenge Ticket",
+      "name": "Tiket Tantangan",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/ed71794342f73cc2584b86ce0cf6774d6d3f3ef260c639b9d8f5c737997f582c/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -830,7 +830,7 @@
       "helpCategoryId": "help-livetour-event",
       "id": "tour-story",
       "order": 6,
-      "name": "Event Commu",
+      "name": "Commu Event",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/f63e5591f0202933c0a7f3187aa05eab52d9fce9e4c79050d47b5612d78c2c16/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -858,7 +858,7 @@
       "helpCategoryId": "help-main-story-event",
       "id": "help-main-story-event-finish",
       "order": 7,
-      "name": "After the Event",
+      "name": "Setelah Event Berakhir",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/99290a774cf77e64edf0ff809117ca0f585dae0a6ffb571c7334eb74039fdcaa/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -872,7 +872,7 @@
       "helpCategoryId": "help-main-story-event",
       "id": "help-main-story-event-mission",
       "order": 2,
-      "name": "Event Missions",
+      "name": "Misi Event",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/0ee6ebdaf7014b85cd1797169cd9aa6633c2620e3c20789599ac0c8cce00c0b9/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -907,7 +907,7 @@
       "helpCategoryId": "help-memory",
       "id": "memory-memory",
       "order": 1,
-      "name": "Memories",
+      "name": "Memory",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/5597f96b1017578d35bf8a7db9189c2c1fdb6c5449373c3027c20838ec7d87bb/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1019,7 +1019,7 @@
       "helpCategoryId": "help-menu",
       "id": "menu-meishi",
       "order": 4,
-      "name": "Business Cards",
+      "name": "Kartu Nama",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/5d25fffd5963f71e1fb87020ab538dfdcb860e6a36223b938ec8aa73c9e210b2/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1033,7 +1033,7 @@
       "helpCategoryId": "help-menu",
       "id": "menu-predownload",
       "order": 16,
-      "name": "Batch Download",
+      "name": "Unduh Massal",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/62357b8804000d57d44aab5e9d9f3a25d18c13952d26b75b76e9de8b19cbdb8c/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1047,7 +1047,7 @@
       "helpCategoryId": "help-menu",
       "id": "menu-profile",
       "order": 1,
-      "name": "Profile",
+      "name": "Profil",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/246c2eaf6690bc463a1e7d5039f60d116d868b7632709dbc583c690aa8cc8814/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1068,21 +1068,21 @@
       "helpCategoryId": "help-menu",
       "id": "menu-title",
       "order": 15,
-      "name": "Title",
+      "name": "Gelar",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/3c8f57827cb87885aa570e0351fbe226916e3266a207a1b0a55bce3e3e737f70/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-mission",
       "id": "mission-daily",
       "order": 2,
-      "name": "Daily Missions",
+      "name": "Misi Harian",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/3b8d4ed61ab7b47fe28bb2a2de167505441eb843760ecf573405841bb8bb464b/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-mission",
       "id": "mission-event",
       "order": 7,
-      "name": "Event Missions",
+      "name": "Misi Event",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/46ca8fd39d3001f8ce198cd801fdb8cf7e4f7a9fad2257d0c95d080344cb2702/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1096,7 +1096,7 @@
       "helpCategoryId": "help-mission",
       "id": "mission-mission",
       "order": 1,
-      "name": "Missions",
+      "name": "Misi",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/b83e714b8a4f327e719baa2bab4af0bb1234c3e9b273353f811b227f69df507f/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1110,7 +1110,7 @@
       "helpCategoryId": "help-mission",
       "id": "mission-pass",
       "order": 8,
-      "name": "Mission Pass",
+      "name": "Pass Misi",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/20089854976f5844e39ddaa28ec744cf38722cfeb01bca499ab7187259a88d83/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1124,7 +1124,7 @@
       "helpCategoryId": "help-mission",
       "id": "mission-weekly",
       "order": 3,
-      "name": "Weekly Missions",
+      "name": "Misi Mingguan",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/089cc62bb48a9f27488817ae126306a5a2485bdd2b32c8731654b225e638e3c7/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1271,7 +1271,7 @@
       "helpCategoryId": "help-produce",
       "id": "produce-easy-mode",
       "order": 54,
-      "name": "Assist mode",
+      "name": "Mode Bantuan",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/dc6dcca18772ecafd7f4e3ab4c46cb9187b0474acf3de7ae8856e74816f74780/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1327,7 +1327,7 @@
       "helpCategoryId": "help-produce",
       "id": "produce-guide",
       "order": 49,
-      "name": "Acquisition Guide",
+      "name": "Panduan Perolehan",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/0569c934f9e234ab1f0699f131ea156fc58e9172e9a58743f101ce1488f8ec45/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1390,7 +1390,7 @@
       "helpCategoryId": "help-produce",
       "id": "produce-nia_audition",
       "order": 45,
-      "name": "Auditions",
+      "name": "Audisi",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/8950993e0f2566d3e973153c130b924328e964cc4f716cef106c88f27d70efed/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1404,7 +1404,7 @@
       "helpCategoryId": "help-produce",
       "id": "produce-present",
       "order": 21,
-      "name": "Allowance",
+      "name": "Uang Saku",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/1f9824eba32662fcd0d13fd801ba1103054e23bc8eb6f3c4f52b4e96492e7b97/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1432,14 +1432,14 @@
       "helpCategoryId": "help-produce",
       "id": "produce-produce-drink",
       "order": 16,
-      "name": "P-Drinks",
+      "name": "P-Drink",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/18153e1564b37807532c144ce77376fde49d0a20571240bad7849a2c262ac6d2/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-produce-item",
       "order": 17,
-      "name": "P-Items",
+      "name": "P-Item",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/4e85c926d879241b2181a28e1b58e6f357f41426e1d172d31f612c29f5ae52af/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1460,7 +1460,7 @@
       "helpCategoryId": "help-produce",
       "id": "produce-refresh",
       "order": 15,
-      "name": "Rest",
+      "name": "Istirahat",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/e3d4f372f1ae3672ca4af2a35ba552d10ba2bb1196f25c2740cd4291d40652ec/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1523,7 +1523,7 @@
       "helpCategoryId": "help-produce",
       "id": "produce-shop",
       "order": 19,
-      "name": "Consultations",
+      "name": "Konsultasi",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/b7db60a48469ba11bfe78ff24adf226089ee61c9618baf83b777fca72901c8fa/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1586,14 +1586,14 @@
       "helpCategoryId": "help-produce_card_skin",
       "id": "help-produce_card_skin",
       "order": 1,
-      "name": "Skill Card Skin",
+      "name": "Skin Kartu Skill",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/43143dcab9202f7df0a73d38380aa34c3de211a49efbc4b6851ba1e0208bad61/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-producer-ranking",
       "id": "producer-ranking",
       "order": 1,
-      "name": "Producer Ranking",
+      "name": "Peringkat Producer",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/24339460f5106eb18b80c0e08070d2f910b76f85d246202582b4decc2f62f714/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1649,14 +1649,14 @@
       "helpCategoryId": "help-research-event",
       "id": "research-event-research-event",
       "order": 1,
-      "name": "Asari-Sensei's Produce Seminar",
+      "name": "Seminar Produce Asari-sensei",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/8b329388918a9179f7dd8d3e4a249f76872135055703548cc96f153b789aff16/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-shop",
       "id": "shop-coingasha",
       "order": 5,
-      "name": "Coin Gacha",
+      "name": "Gacha Koin",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/7284b1b9c3487104ec03df3bd6e01bc458cd68ce8f6a1458204cf1c23d0b0fb8/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1691,14 +1691,14 @@
       "helpCategoryId": "help-shop",
       "id": "shop-itemshop",
       "order": 3,
-      "name": "Packs",
+      "name": "Paket Penjualan",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/ddd84f7386d5042fd2e3167533357d11532ffb6ac065dac98bde07dffd7c2b73/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-shop",
       "id": "shop-jewel",
       "order": 2,
-      "name": "Jewels",
+      "name": "Jewel",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/7c6b5b26a715a34d83955a674027d6d6d1ccec71f15694f44878b7baebf4fc99/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1712,7 +1712,7 @@
       "helpCategoryId": "help-shop",
       "id": "shop-shop-all",
       "order": 1,
-      "name": "Shop",
+      "name": "Toko",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/c2534b34b4a52629c80ae458297c23c9f7e1a849f6abbbfd69389ecf9d86c723/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1726,14 +1726,14 @@
       "helpCategoryId": "help-story",
       "id": "story-story-event-story",
       "order": 5,
-      "name": "Event Commu",
+      "name": "Commu Event",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/b83d73d654f16d498b7a2f5cebef214abcbeabecf5e895faf8903428fb3efe26/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-story",
       "id": "story-story-idol",
       "order": 3,
-      "name": "Idol Commu",
+      "name": "Commu Idol",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/d5429c5704179444c78ec9d5d61cfb1da5dfe0f824f86a51bdf595c3114cabae/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1761,14 +1761,14 @@
       "helpCategoryId": "help-story-event",
       "id": "story-event-event-finish",
       "order": 7,
-      "name": "After the Event",
+      "name": "Setelah Event Berakhir",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/beddcb43c8c14d4c804981013b310d4d7ee39c803829d2e99d14d5ab7a870fb8/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-story-event",
       "id": "story-event-event-mission",
       "order": 5,
-      "name": "Event Missions",
+      "name": "Misi Event",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/acae3544777787c490e9bd1ae6cda0010a3d0d58c3ceeebcbc279c04bebf896f/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1782,7 +1782,7 @@
       "helpCategoryId": "help-story-event",
       "id": "story-event-event-story",
       "order": 1,
-      "name": "Story Events",
+      "name": "Event Cerita",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/38ff07b3fa6b2636953560c595129892572fc043730c2835aef199ed8441e484/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1796,14 +1796,14 @@
       "helpCategoryId": "help-story-event",
       "id": "story-event-event-story-story-unlock",
       "order": 4,
-      "name": "Event Commu",
+      "name": "Commu Event",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/3cb663d2655076e8acaa5c0b6e69cb5d8ad8dee76dd0593f3d7e6a515f0ad04a/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-story-event-guild-mission",
       "id": "guild-mission",
       "order": 1,
-      "name": "Linked Missions",
+      "name": "Misi Terhubung",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/016a1e23f1525519c8ecb35d46b9e2e851d75de269a649fdbcdc098f45d697a3/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1838,7 +1838,7 @@
       "helpCategoryId": "help-support",
       "id": "support-support-card",
       "order": 1,
-      "name": "Support Cards",
+      "name": "Support Card",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/04d3385d8bc107805f7e661b5675c050bfbbf3434817f486ba1ee6a5df7e9218/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1873,7 +1873,7 @@
       "helpCategoryId": "help-tower",
       "id": "clear-rank",
       "order": 3,
-      "name": "Clear Condition Stars",
+      "name": "Bintang Syarat Selesai",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/ef4b13222933e6a963be5b9e3a19d7dcf74aa6e2b6a9162fec3755be31df9503/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1915,7 +1915,7 @@
       "helpCategoryId": "help-trail",
       "id": "trail",
       "order": 1,
-      "name": "Memorable Outfit",
+      "name": "Kostum Kenangan",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/0d5915c13562bd46b260d3ff4653ad458006d89e490d8f441ce895d54b3ced92/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     }
   ]

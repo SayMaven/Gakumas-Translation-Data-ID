@@ -9,25 +9,25 @@
     {
       "id": "help-achievement",
       "order": 17,
-      "name": "Achievements",
+      "name": "Achievement",
       "texts": [
-        " Achievements can be obtained by meeting various conditions. Collect achievements actively to earn rewards such as experience points for increasing your Producer Level. ",
-        " When the number of stars earned through achievements reaches a certain amount, you can obtain Master Achievements. Master Achievements rank up based on the number of stars collected and grant rewards. ",
-        " True End Achievements can be obtained by reaching the True End. Acquiring True End Achievements increases an idol's parameters."
+        " Achievement dapat diperoleh dengan memenuhi berbagai macam syarat. Kumpulkan achievement secara aktif untuk mendapatkan hadiah seperti poin pengalaman guna meningkatkan Level Producer Anda. ",
+        " Saat jumlah bintang yang diperoleh melalui achievement mencapai jumlah tertentu, Anda dapat memperoleh Master Achievement. Master Achievement akan naik tingkatan berdasarkan jumlah bintang yang terkumpul dan memberikan berbagai hadiah menarik. ",
+        " Achievement True End dapat diperoleh dengan mencapai True End Produce. Memperoleh Achievement True End akan meningkatkan parameter idol."
       ],
       "hiddenHelpList": false
     },
     {
       "id": "help-box-gasha-event",
       "order": 24,
-      "name": "Story Events",
+      "name": "Event Cerita",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-circle-battle-event",
       "order": 26,
-      "name": "Regional Tour Events",
+      "name": "Event Tur Wilayah",
       "texts": [],
       "hiddenHelpList": true
     },
@@ -41,47 +41,47 @@
     {
       "id": "help-contest",
       "order": 12,
-      "name": "Contests",
+      "name": "Contest",
       "texts": [
-        " You can compete against producers nationwide. In contests, you can use the parameters, skill cards, and P items tied to the memories gained during production. ",
-        " Performance battles are conducted on each stage, and victories are determined by the scores obtained. The producer with the most stage victories wins. ",
-        " Contests have grades. Ranking high allows you to be promoted to a higher grade. Higher grades grant more luxurious rewards. ",
-        " Collect contest medals to exchange them for lavish rewards at the item exchange."
+        " Anda dapat berkompetisi melawan Producer dari seluruh penjuru negeri. Dalam contest, Anda dapat memanfaatkan parameter, kartu skill, dan P-Item yang terikat pada Memory yang diperoleh selama sesi Produce. ",
+        " Pertandingan unjuk performa dilangsungkan di setiap stage panggung, dan kemenangan ditentukan oleh perolehan skor akhir. Producer dengan jumlah kemenangan stage terbanyak adalah pemenangnya. ",
+        " Contest memiliki tingkatan Grade. Meraih peringkat tinggi memungkinkan Anda dipromosikan ke Grade yang lebih tinggi. Grade yang lebih tinggi memberikan hadiah yang jauh lebih mewah. ",
+        " Kumpulkan Medali Contest untuk ditukarkan dengan beragam hadiah menarik di toko penukaran item."
       ],
       "hiddenHelpList": false
     },
     {
       "id": "help-dearness-doost-campaign",
       "order": 11,
-      "name": "Bond Boost Mission",
+      "name": "Misi Peningkatan Bond",
       "texts": [],
       "hiddenHelpList": false
     },
     {
       "id": "help-dearness-map",
       "order": 10,
-      "name": "Bond Map",
+      "name": "Peta Bond",
       "texts": [],
       "hiddenHelpList": false
     },
     {
       "id": "help-dearness-top",
       "order": 9,
-      "name": "Bond Menu",
+      "name": "Menu Bond",
       "texts": [],
       "hiddenHelpList": false
     },
     {
       "id": "help-event_mission",
       "order": 25,
-      "name": "Event Missions",
+      "name": "Misi Event",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-event-mission",
       "order": 22,
-      "name": "Special Missions",
+      "name": "Misi Spesial",
       "texts": [],
       "hiddenHelpList": true
     },
@@ -102,66 +102,66 @@
     {
       "id": "help-guild",
       "order": 16,
-      "name": "Circles",
+      "name": "Circle",
       "texts": [
-        " In Circles, you can team up and interact with producers nationwide. ",
-        " In Circles, you can request training items from Circle members and receive donated items. Donating items also earns you Friend Coins."
+        " Di dalam Circle, Anda dapat membentuk grup dan saling berinteraksi dengan para Producer dari seluruh negeri. ",
+        " Di dalam Circle, Anda dapat mengajukan permintaan item pelatihan kepada sesama anggota Circle serta menerima donasi item. Mendonasikan item kepada teman juga akan memberikan Anda Koin Teman (Friend Coin)."
       ],
       "hiddenHelpList": false
     },
     {
       "id": "help-highscore",
       "order": 24,
-      "name": "Idol Enhancement Month",
+      "name": "Bulan Peningkatan Idol",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-highscorerush",
       "order": 23,
-      "name": "Idol Enhancement Month",
+      "name": "Bulan Peningkatan Idol",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-home",
       "order": 1,
-      "name": "Home",
+      "name": "Beranda",
       "texts": [],
       "hiddenHelpList": false
     },
     {
       "id": "help-idol",
       "order": 2,
-      "name": "Idols",
+      "name": "Idol",
       "texts": [],
       "hiddenHelpList": false
     },
     {
       "id": "help-lesson",
       "order": 6,
-      "name": "Lessons/Exams",
+      "name": "Lesson / Ujian",
       "texts": [],
       "hiddenHelpList": false
     },
     {
       "id": "help-livetour-event",
       "order": 23,
-      "name": "Story Events",
+      "name": "Event Cerita",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-main-story-event",
       "order": 23,
-      "name": "Hatsuboshi Commu Event",
+      "name": "Event Commu Hatsuboshi",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-memory",
       "order": 4,
-      "name": "Memories",
+      "name": "Memory",
       "texts": [],
       "hiddenHelpList": false
     },
@@ -175,21 +175,21 @@
     {
       "id": "help-mission",
       "order": 15,
-      "name": "Missions",
+      "name": "Misi",
       "texts": [],
       "hiddenHelpList": false
     },
     {
       "id": "help-panel-mission",
       "order": 21,
-      "name": "Panel Mission Events",
+      "name": "Event Misi Panel",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-photography-prepare-top",
       "order": 23,
-      "name": "Idol Photo Shoots",
+      "name": "Pemotretan Idol",
       "texts": [],
       "hiddenHelpList": true
     },
@@ -198,37 +198,37 @@
       "order": 5,
       "name": "Produce",
       "texts": [
-        " Aim to pass exams and participate in live performances. To participate in lives, you need to pass the midterm and final exams. ",
-        " Idol parameters are crucial for passing exams. Train your parameters to prepare for exams. ",
-        " Each exam has evaluation criteria. Training parameters to match the evaluation criteria makes it easier to pass."
+        " Raih kelulusan ujian dan tampil di atas panggung konser live. Untuk dapat tampil di konser live, Anda harus berhasil melewati babak ujian tengah dan ujian akhir. ",
+        " Parameter idol sangat penting untuk menentukan kelulusan ujian. Latihlah parameter idol Anda dengan baik untuk mempersiapkan diri menghadapi ujian. ",
+        " Setiap ujian memiliki kriteria evaluasi tersendiri. Melatih parameter yang sesuai dengan kriteria evaluasi ujian akan membuat Anda lebih mudah meraih kelulusan."
       ],
       "hiddenHelpList": false
     },
     {
       "id": "help-produce_card_skin",
       "order": 99,
-      "name": "Skill Card Skin",
+      "name": "Skin Kartu Skill",
       "texts": [],
       "hiddenHelpList": false
     },
     {
       "id": "help-producer-ranking",
       "order": 24,
-      "name": "Producer Ranking",
+      "name": "Peringkat Producer",
       "texts": [],
       "hiddenHelpList": false
     },
     {
       "id": "help-research-event",
       "order": 28,
-      "name": "Asari-Sensei's Produce Seminar",
+      "name": "Seminar Produce Asari-sensei",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-shop",
       "order": 18,
-      "name": "Shop",
+      "name": "Toko",
       "texts": [],
       "hiddenHelpList": false
     },
@@ -242,21 +242,21 @@
     {
       "id": "help-story-event",
       "order": 20,
-      "name": "Story Events",
+      "name": "Event Cerita",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-story-event-guild-mission",
       "order": 25,
-      "name": "Linked Missions",
+      "name": "Misi Terhubung",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-support",
       "order": 3,
-      "name": "Support Cards",
+      "name": "Support Card",
       "texts": [],
       "hiddenHelpList": false
     },
@@ -270,7 +270,7 @@
     {
       "id": "help-trail",
       "order": 30,
-      "name": "Memorable Outfit",
+      "name": "Kostum Kenangan",
       "texts": [],
       "hiddenHelpList": true
     }
