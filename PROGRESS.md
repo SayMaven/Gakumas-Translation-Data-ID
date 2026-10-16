@@ -12,8 +12,8 @@ Dokumen ini memantau status pengerjaan lokalisasi Bahasa Indonesia untuk seluruh
 | **Lirik Lagu Panggung & MV (`lyrics/`)** | 63 berkas JSON | **100% Selesai (1.877/1.877 baris)** | **Seluruh 4 Batch Tuntas**. Seluruh 19 lagu tema all songs, 29 lagu solo idol, dan 5 lagu unit tuntas diterjemahkan puitis & berirama alami. |
 | **Fase 2: Master Database Gameplay (`masterTrans`)** | 108 berkas JSON | **100% Selesai (99 Diterjemahkan, 9 Di-skip)** | **108 Berkas Tuntas**. Seluruh database gameplay master (Fase 2.1 s/d 2.6) 100% tuntas dalam Bahasa Indonesia. |
 | **Fase 3: Cerita Prolog, Tutorial & Unit (`resource/`)** | 116 berkas TXT | Belum Mulai | Naskah cerita pembuka (33 file), tutorial visual novel (17 file), dan cerita unit utama (66 file). |
-| **Fase 4: Cerita Karakter, Event & Stage (`resource/`)** | 3.414 berkas TXT | **Aktif Dikerjakan (365/3.414 File)** | Cerita Support Card R tuntas 100% (26 file, 471 dialog); Support Card SR tuntas 100% (164 file, 3.196 dialog); Support Card SSR aktif (175/339 file, 3.467 dialog); cerita kandidat idol (354 file), commu bond (494 file), sisa support card SSR (164 file), p-story (611 file), pevent & event (1.256 file), live mc (106 file), p-growth (39 file), p-result (13 file), produce commu (11 file), tower commu (1 file). |
-| **TOTAL DATA GAME** | **3.725 berkas** | **Aktif Dikerjakan** | **560 Berkas Tuntas (100% UI, Lirik & MasterDB + 365 Cerita Support Card Selesai)**, 3.165 Naskah Cerita Resource Siap Dikerjakan. |
+| **Fase 4: Cerita Karakter, Event & Stage (`resource/`)** | 3.414 berkas TXT | **Aktif Dikerjakan (390/3.414 File)** | Cerita Support Card R tuntas 100% (26 file, 471 dialog); Support Card SR tuntas 100% (164 file, 3.196 dialog); Support Card SSR aktif (200/339 file, 3.967 dialog); cerita kandidat idol (354 file), commu bond (494 file), sisa support card SSR (139 file), p-story (611 file), pevent & event (1.256 file), live mc (106 file), p-growth (39 file), p-result (13 file), produce commu (11 file), tower commu (1 file). |
+| **TOTAL DATA GAME** | **3.725 berkas** | **Aktif Dikerjakan** | **585 Berkas Tuntas (100% UI, Lirik & MasterDB + 390 Cerita Support Card Selesai)**, 3.140 Naskah Cerita Resource Siap Dikerjakan. |
 
 ---
 
@@ -317,7 +317,7 @@ Target: Cerita mendalam tiap kandidat idol, interaksi keakraban (Commu Bond), ce
 |---|---|---|---|---|
 | `[ ]` | **Cerita Kandidat Idol** | `resource/adv_cidol_*.txt` | 354 file | Belum Mulai. Alur cerita individu masing-masing karakter idol. |
 | `[ ]` | **Commu Bond (Keakraban)** | `resource/adv_dear_*.txt` | 494 file | Belum Mulai. Interaksi kedekatan emosional Producer bersama idol. |
-| `[>]` | **Cerita Support Card** | `resource/adv_csprt_*.txt` | 529 file | **Aktif Dikerjakan (365/529 Selesai)**. Support Card R tuntas 100% (26 file, 471 dialog); Support Card SR tuntas 100% (164 file, 3.196 dialog); Support Card SSR aktif (175/339 file, 3.467 dialog tuntas). |
+| `[>]` | **Cerita Support Card** | `resource/adv_csprt_*.txt` | 529 file | **Aktif Dikerjakan (390/529 Selesai)**. Support Card R tuntas 100% (26 file, 471 dialog); Support Card SR tuntas 100% (164 file, 3.196 dialog); Support Card SSR aktif (200/339 file, 3.967 dialog tuntas). |
 | `[ ]` | **Cerita Skenario Produksi (P-Story)** | `resource/adv_pstory_*.txt` / `adv_pidol_*.txt` | 611 file | Belum Mulai. Skenario perjalanan audisi dan ujian produce. |
 | `[ ]` | **Event Pilihan Produksi & Story Event** | `resource/adv_pevent_*.txt` / `adv_event_*.txt` | 1.256 file | Belum Mulai. Event acak pilihan Produce dan narasi event festival. |
 | `[ ]` | **Dialog Interaksi Panggung Live (MC)** | `resource/adv_live_*.txt` | 106 file | Belum Mulai. Percakapan panggung, seruan konser, dan interaksi live show idol. |
@@ -334,7 +334,7 @@ Total: **529 berkas** (10.414 baris dialog).
 |---|---|---|---|---|---|
 | `[x]` | **Support Card R** | `adv_csprt-1-*.txt` | **26 file** | **471 baris** | **100% Selesai**. Terdiri dari Batch 1A (file 1-13, 242 dialog) & Batch 1B (file 14-26, 229 dialog). Lolos validasi sintaksis. |
 | `[x]` | **Support Card SR** | `adv_csprt-2-*.txt` | **164 file** | **3.196 baris** | **100% Selesai**. Terdiri dari 6 batch (Batch 2A: 25 file / 439 dialog, Batch 2B: 25 file / 484 dialog, Batch 2C: 25 file / 498 dialog, Batch 2D: 25 file / 497 dialog, Batch 2E: 30 file / 598 dialog, Batch 2F: 34 file / 680 dialog). Lolos validasi sintaksis ADV. |
-| `[>]` | **Support Card SSR** | `adv_csprt-3-*.txt` | 339 file | ~6.700 baris | **Aktif Dikerjakan (175/339 Berkas / 3.467 Baris Selesai)**. Terdiri dari Batch 3A (25 berkas / 496 dialog), Batch 3B (25 berkas / 481 dialog), Batch 3C (25 berkas / 499 dialog), Batch 3D (25 berkas / 499 dialog), Batch 3E (25 berkas / 494 dialog), Batch 3F (25 berkas / 499 dialog), dan Batch 3G (25 berkas / 499 dialog tuntas). Lolos validasi sintaksis ADV. |
+| `[>]` | **Support Card SSR** | `adv_csprt-3-*.txt` | 339 file | ~6.700 baris | **Aktif Dikerjakan (200/339 Berkas / 3.967 Baris Selesai)**. Terdiri dari Batch 3A (25 berkas / 496 dialog), Batch 3B (25 berkas / 481 dialog), Batch 3C (25 berkas / 499 dialog), Batch 3D (25 berkas / 499 dialog), Batch 3E (25 berkas / 494 dialog), Batch 3F (25 berkas / 499 dialog), Batch 3G (25 berkas / 499 dialog), dan Batch 3H (25 berkas / 500 dialog tuntas). Lolos validasi sintaksis ADV. |
 
 ---
 
@@ -405,3 +405,4 @@ Total: **529 berkas** (10.414 baris dialog).
 | 2026-10-16 | `resource/adv_csprt-3*.txt` (Support Card SSR Batch 3E) | Terjemahan | Menerjemahkan 25 berkas kelima cerita Support Card SSR (494 baris dialog) ke Bahasa Indonesia natural. Lolos validasi sintaksis tanpa error, line endings LF murni. **Batch 3E SELESAI (25 Berkas / 494 Baris)**. |
 | 2026-10-16 | `resource/adv_csprt-3*.txt` (Support Card SSR Batch 3F) | Terjemahan | Menerjemahkan 25 berkas keenam cerita Support Card SSR (499 baris dialog) ke Bahasa Indonesia natural. Lolos validasi sintaksis tanpa error, line endings LF murni. **Batch 3F SELESAI (25 Berkas / 499 Baris)**. |
 | 2026-10-16 | `resource/adv_csprt-3*.txt` (Support Card SSR Batch 3G) | Terjemahan | Menerjemahkan 25 berkas ketujuh cerita Support Card SSR (499 baris dialog) ke Bahasa Indonesia natural. Lolos validasi sintaksis tanpa error, line endings LF murni. **Batch 3G SELESAI (25 Berkas / 499 Baris)**. |
+| 2026-10-16 | `resource/adv_csprt-3*.txt` (Support Card SSR Batch 3H) | Terjemahan | Menerjemahkan 25 berkas kedelapan cerita Support Card SSR (500 baris dialog) ke Bahasa Indonesia natural. Lolos validasi sintaksis tanpa error, line endings LF murni. **Batch 3H SELESAI (25 Berkas / 500 Baris)**. |
