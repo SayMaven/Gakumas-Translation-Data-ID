@@ -282,6 +282,8 @@ Semua nama karakter dipertahankan persis seperti di EN project (ejaan dan urutan
 | Memory | Memory | Tetap — fitur game |
 | Costume | Kostum | Diterjemahkan |
 | Jewel | Jewel | Tetap — mata uang game |
+| Paid Jewel / 有償ジュエル | Jewel Paid / Paid | Mata uang premium berbayar (Gacha, Toko, Saldo) |
+| Free Jewel / 無償ジュエル | Jewel Gratis / Gratis | Mata uang reward gratis |
 
 #### Aturan Khusus: "Fan" vs "Penggemar"
 

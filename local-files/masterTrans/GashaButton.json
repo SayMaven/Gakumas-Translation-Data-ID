@@ -27,8 +27,8 @@
     {
       "id": "gasha_button_00980-ssr-idol-001",
       "order": 1,
-      "name": "Gacha 10x Jewel Beli",
-      "description": "Gacha 10x Jewel Beli",
+      "name": "Gacha 10x Jewel Paid",
+      "description": "Gacha 10x Jewel Paid",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x Lebih Banyak"
@@ -36,8 +36,8 @@
     {
       "id": "gasha_button_01000-ssr-idol-001",
       "order": 1,
-      "name": "Gacha 10x Jewel Beli",
-      "description": "Gacha 10x Jewel Beli",
+      "name": "Gacha 10x Jewel Paid",
+      "description": "Gacha 10x Jewel Paid",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x Lebih Banyak"
@@ -45,8 +45,8 @@
     {
       "id": "gasha_button_01018-ssr-idol-001",
       "order": 1,
-      "name": "Gacha 10x Jewel Beli",
-      "description": "Gacha 10x Jewel Beli",
+      "name": "Gacha 10x Jewel Paid",
+      "description": "Gacha 10x Jewel Paid",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x Lebih Banyak"
@@ -54,8 +54,8 @@
     {
       "id": "gasha_button_animate-ssr-00630",
       "order": 1,
-      "name": "Gacha 10x Jewel Beli",
-      "description": "Gacha 10x Jewel Beli",
+      "name": "Gacha 10x Jewel Paid",
+      "description": "Gacha 10x Jewel Paid",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -63,8 +63,8 @@
     {
       "id": "gasha_button_merge-ssr-00530",
       "order": 1,
-      "name": "Gacha 10x Jewel Beli",
-      "description": "Gacha 10x Jewel Beli",
+      "name": "Gacha 10x Jewel Paid",
+      "description": "Gacha 10x Jewel Paid",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x Lebih Banyak"
@@ -72,8 +72,8 @@
     {
       "id": "gasha_button_merge-ssr-00560",
       "order": 1,
-      "name": "Gacha 10x Jewel Beli",
-      "description": "Gacha 10x Jewel Beli",
+      "name": "Gacha 10x Jewel Paid",
+      "description": "Gacha 10x Jewel Paid",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x Lebih Banyak"
@@ -81,8 +81,8 @@
     {
       "id": "gasha_button_merge-ssr-00770",
       "order": 1,
-      "name": "Gacha 10x Jewel Beli",
-      "description": "Gacha 10x Jewel Beli",
+      "name": "Gacha 10x Jewel Paid",
+      "description": "Gacha 10x Jewel Paid",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x Lebih Banyak"
@@ -90,8 +90,8 @@
     {
       "id": "gasha_button_merge-ssr-00930",
       "order": 1,
-      "name": "Gacha 10x Jewel Beli",
-      "description": "Gacha 10x Jewel Beli",
+      "name": "Gacha 10x Jewel Paid",
+      "description": "Gacha 10x Jewel Paid",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x Lebih Banyak"
@@ -99,8 +99,8 @@
     {
       "id": "gasha_button_merge-ssr-00980",
       "order": 1,
-      "name": "Gacha 10x Jewel Beli",
-      "description": "Gacha 10x Jewel Beli",
+      "name": "Gacha 10x Jewel Paid",
+      "description": "Gacha 10x Jewel Paid",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x Lebih Banyak"
@@ -108,8 +108,8 @@
     {
       "id": "gasha_button_merge-ssr-01020",
       "order": 1,
-      "name": "Gacha 10x Jewel Beli",
-      "description": "Gacha 10x Jewel Beli",
+      "name": "Gacha 10x Jewel Paid",
+      "description": "Gacha 10x Jewel Paid",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x Lebih Banyak"
@@ -720,8 +720,8 @@
     {
       "id": "gasha_marge_button-ssr-00520",
       "order": 1,
-      "name": "Gacha 10x Jewel Beli",
-      "description": "Gacha 10x Jewel Beli",
+      "name": "Gacha 10x Jewel Paid",
+      "description": "Gacha 10x Jewel Paid",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x Lebih Banyak"
@@ -729,8 +729,8 @@
     {
       "id": "gasha_marge_button-ssr-00620",
       "order": 1,
-      "name": "Gacha 10x Jewel Beli",
-      "description": "Gacha 10x Jewel Beli",
+      "name": "Gacha 10x Jewel Paid",
+      "description": "Gacha 10x Jewel Paid",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x Lebih Banyak"
@@ -738,8 +738,8 @@
     {
       "id": "gasha_marge_button-ssr-00670",
       "order": 1,
-      "name": "Gacha 10x Jewel Beli",
-      "description": "Gacha 10x Jewel Beli",
+      "name": "Gacha 10x Jewel Paid",
+      "description": "Gacha 10x Jewel Paid",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x Lebih Banyak"
@@ -747,8 +747,8 @@
     {
       "id": "gasha_marge_button-ssr-00750",
       "order": 1,
-      "name": "Gacha 10x Jewel Beli",
-      "description": "Gacha 10x Jewel Beli",
+      "name": "Gacha 10x Jewel Paid",
+      "description": "Gacha 10x Jewel Paid",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x Lebih Banyak"
@@ -756,8 +756,8 @@
     {
       "id": "gasha_marge_button-ssr-00860",
       "order": 1,
-      "name": "Gacha 10x Jewel Beli",
-      "description": "Gacha 10x Jewel Beli",
+      "name": "Gacha 10x Jewel Paid",
+      "description": "Gacha 10x Jewel Paid",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x Lebih Banyak"
@@ -765,8 +765,8 @@
     {
       "id": "gasha_marge_button-ssr-00875",
       "order": 1,
-      "name": "Gacha 10x Jewel Beli",
-      "description": "Gacha 10x Jewel Beli",
+      "name": "Gacha 10x Jewel Paid",
+      "description": "Gacha 10x Jewel Paid",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x Lebih Banyak"
@@ -774,8 +774,8 @@
     {
       "id": "gasha_marge_button-ssr-00940",
       "order": 1,
-      "name": "Gacha 10x Jewel Beli",
-      "description": "Gacha 10x Jewel Beli",
+      "name": "Gacha 10x Jewel Paid",
+      "description": "Gacha 10x Jewel Paid",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x Lebih Banyak"
@@ -783,8 +783,8 @@
     {
       "id": "gasha_marge_button-ssr-00975",
       "order": 1,
-      "name": "Gacha 10x Jewel Beli",
-      "description": "Gacha 10x Jewel Beli",
+      "name": "Gacha 10x Jewel Paid",
+      "description": "Gacha 10x Jewel Paid",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x Lebih Banyak"
@@ -792,8 +792,8 @@
     {
       "id": "gasha_marge_button-ssr-hif-day1-00912",
       "order": 1,
-      "name": "Gacha 10x Jewel Beli",
-      "description": "Gacha 10x Jewel Beli",
+      "name": "Gacha 10x Jewel Paid",
+      "description": "Gacha 10x Jewel Paid",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x Lebih Banyak"
@@ -801,8 +801,8 @@
     {
       "id": "gasha_marge_button-ssr-hif-day2-00914",
       "order": 1,
-      "name": "Gacha 10x Jewel Beli",
-      "description": "Gacha 10x Jewel Beli",
+      "name": "Gacha 10x Jewel Paid",
+      "description": "Gacha 10x Jewel Paid",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x Lebih Banyak"
