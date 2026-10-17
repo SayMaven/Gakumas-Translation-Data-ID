@@ -11,9 +11,9 @@ Dokumen ini memantau status pengerjaan lokalisasi Bahasa Indonesia untuk seluruh
 | **Fase 1: UI & Sistem Inti** | 24 berkas JSON | **100% Selesai (11 Aktif, 13 Standby)** | Seluruh UI utama, kamus generik, tutorial, teks item, event blurb, kustom kartu, misi, flavor, dan trash.json (11.024 key tuntas) + 13 berkas template engine standby. |
 | **Lirik Lagu Panggung & MV (`lyrics/`)** | 63 berkas JSON | **100% Selesai (1.877/1.877 baris)** | **Seluruh 4 Batch Tuntas**. Seluruh 19 lagu tema all songs, 29 lagu solo idol, dan 5 lagu unit tuntas diterjemahkan puitis & berirama alami. |
 | **Fase 2: Master Database Gameplay (`masterTrans`)** | 108 berkas JSON | **100% Selesai (99 Diterjemahkan, 9 Di-skip)** | **108 Berkas Tuntas**. Seluruh database gameplay master (Fase 2.1 s/d 2.6) 100% tuntas dalam Bahasa Indonesia. |
-| **Fase 3: Cerita Prolog, Tutorial & Unit (`resource/`)** | 116 berkas TXT | Belum Mulai | Naskah cerita pembuka (33 file), tutorial visual novel (17 file), dan cerita unit utama (66 file). |
+| **Fase 3: Cerita Prolog, Tutorial & Unit (`resource/`)** | 116 berkas TXT | **Aktif Dikerjakan (66/116 File)** | **Bab 1 Cerita Unit Utama TUNTAS 100% (66/66 Berkas / 4.525 Dialog, 41 Narasi, 41 Pilihan)**. Seluruh Bab 1-1 (14 file), Bab 1-2 (15 file), Bab 1-3 (12 file), dan Bab 1-4 (25 file: 1.637 dialog, 18 narasi, 7 pilihan) tuntas paripurna dalam Bahasa Indonesia natural. Cerita pembuka (33 file) & tutorial visual novel (17 file) standby. |
 | **Fase 4: Cerita Karakter, Event & Stage (`resource/`)** | 3.414 berkas TXT | **Aktif Dikerjakan (529/3.414 File)** | Cerita Support Card R tuntas 100% (26 file, 471 dialog); Support Card SR tuntas 100% (164 file, 3.196 dialog); Support Card SSR tuntas 100% (339 file, 6.747 dialog); total 529 cerita support card tuntas paripurna (10.414 baris dialog). Sisa kategori: cerita kandidat idol (354 file), commu bond (494 file), p-story (611 file), pevent & event (1.256 file), live mc (106 file), p-growth (39 file), p-result (13 file), produce commu (11 file), tower commu (1 file). |
-| **TOTAL DATA GAME** | **3.725 berkas** | **Aktif Dikerjakan** | **724 Berkas Tuntas (100% UI, Lirik & MasterDB + 529 Cerita Support Card Selesai)**, 3.001 Naskah Cerita Resource Siap Dikerjakan. |
+| **TOTAL DATA GAME** | **3.725 berkas** | **Aktif Dikerjakan** | **790 Berkas Tuntas (100% UI, Lirik & MasterDB + 529 Cerita CSprt + 66 Cerita Unit Selesai)**, 2.935 Naskah Cerita Resource Siap Dikerjakan. |
 
 ---
 
@@ -304,8 +304,10 @@ Target: Menerjemahkan visual novel dialog pembuka, tutorial cerita, dan alur nar
 | Status | Komponen | File / Folder | Volume | Status Detail |
 |---|---|---|---|---|
 | `[ ]` | **Prolog & Cerita Pembuka** | `resource/adv_startup_*.txt` | 33 file | Belum Mulai. Dialog awal kedatangan Producer ke Akademi Hatsuboshi. |
-| `[ ]` | **Tutorial Interaktif ADV** | `resource/adv_tutorial_*.txt` | 17 file | Belum Mulai. Panduan visual cerita pertama bersama idol. |
-| `[ ]` | **Cerita Unit Utama** | `resource/adv_unit_*.txt` | 66 file | Belum Mulai. Naskah cerita pembentukan dan perjalanan unit idol. |
+| `[x]` | **Cerita Unit Utama (Bab 1-1)** | `resource/adv_unit_01-01_*.txt` | 14 / 66 file | **100% Selesai**. Seluruh 14 episode Bab 1-1 tuntas (979 dialog, 21 narasi, 6 pilihan). Lolos validasi sintaksis ADV, LF murni. |
+| `[x]` | **Cerita Unit Utama (Bab 1-2)** | `resource/adv_unit_01-02_*.txt` | 15 / 66 file | **100% Selesai**. Seluruh 15 episode Bab 1-2 tuntas (1.024 dialog). Lolos validasi sintaksis ADV, LF murni. |
+| `[x]` | **Cerita Unit Utama (Bab 1-3)** | `resource/adv_unit_01-03_*.txt` | 12 / 66 file | **100% Selesai**. Seluruh 12 episode Bab 1-3 tuntas (885 dialog, 2 narasi, 18 pilihan). Lolos validasi sintaksis ADV, LF murni. |
+| `[x]` | **Cerita Unit Utama (Bab 1-4)** | `resource/adv_unit_01-04_*.txt` | 25 / 66 file | **100% Selesai**. Seluruh 25 episode Bab 1-4 tuntas (1.637 dialog, 18 narasi, 7 pilihan). Lolos validasi sintaksis ADV, LF murni. |
 
 ---
 
@@ -413,3 +415,10 @@ Total: **529 berkas** (10.414 baris dialog).
 | 2026-10-16 | `resource/adv_csprt-3*.txt` (Support Card SSR Batch 3M) | Terjemahan | Menerjemahkan 25 berkas ketigabelas cerita Support Card SSR (501 baris dialog) ke Bahasa Indonesia natural. Lolos validasi sintaksis tanpa error, line endings LF murni. **Batch 3M SELESAI (25 Berkas / 501 Baris)**. |
 | 2026-10-16 | `resource/adv_csprt-3*.txt` (Support Card SSR Batch 3N & Final SSR) | Terjemahan | Menerjemahkan 14 berkas terakhir cerita Support Card SSR (280 baris dialog) ke Bahasa Indonesia natural. Lolos validasi sintaksis tanpa error, line endings LF murni. **Support Card SSR 100% SELESAI (339 Berkas / 6.747 Baris)**. |
 | 2026-10-16 | **Cerita Support Card (R, SR, SSR)** | Milestone | **529 Berkas Cerita Support Card TUNTAS 100% (10.414 Baris Dialog)**. Seluruh 26 kartu R, 164 kartu SR, dan 339 kartu SSR selesai diterjemahkan ke Bahasa Indonesia natural & lolos validasi menyeluruh. |
+| 2026-10-18 | `resource/adv_unit_01-01_*.txt` (Batch 1A) | Terjemahan | Menerjemahkan 7 berkas pertama cerita Bab 1-1 (445 dialog). Lolos validasi sintaksis ADV, LF murni. **Batch 1A SELESAI (7 Berkas / 445 Baris)**. |
+| 2026-10-18 | `resource/adv_unit_01-01_*.txt` (Batch 1B & Bab 1-1 Tuntas) | Terjemahan | Menerjemahkan 7 berkas kedua cerita Bab 1-1 (534 dialog, 2 narasi, 3 pilihan). Lolos validasi sintaksis ADV, LF murni. **Bab 1-1 TUNTAS 100% (14 Berkas / 979 Baris Dialog, 21 Narasi, 6 Pilihan)**. |
+| 2026-10-18 | `resource/adv_unit_01-02_*.txt` (Batch 2A & 2B & Bab 1-2 Tuntas) | Terjemahan | Menerjemahkan seluruh 15 berkas cerita Bab 1-2 (1.024 dialog). Lolos validasi sintaksis ADV, LF murni. **Bab 1-2 TUNTAS 100% (15 Berkas / 1.024 Baris Dialog)**. |
+| 2026-10-18 | `resource/adv_unit_01-03_*.txt` (Batch 3A & 3B & Bab 1-3 Tuntas) | Terjemahan | Menerjemahkan seluruh 12 berkas cerita Bab 1-3 (885 dialog, 2 narasi, 18 pilihan). Lolos validasi sintaksis ADV, LF murni. **Bab 1-3 TUNTAS 100% (12 Berkas / 885 Baris Dialog, 2 Narasi, 18 Pilihan)**. |
+| 2026-10-18 | `resource/adv_unit_01-04_*.txt` (Bab 1-4 Tuntas) | Terjemahan | Menerjemahkan seluruh 25 berkas cerita Bab 1-4 (1.637 dialog, 18 narasi, 7 pilihan). Lolos validasi sintaksis ADV, LF murni. **Bab 1-4 TUNTAS 100% (25 Berkas / 1.637 Dialog, 18 Narasi, 7 Pilihan)**. |
+| 2026-10-18 | **Seluruh Bab 1 Cerita Unit Utama (`adv_unit_01-*.txt`)** | Milestone | **66 Berkas Cerita Unit Utama Bab 1 TUNTAS 100% (4.525 Dialog, 41 Narasi, 41 Pilihan Respon)**. Seluruh Bab 1-1 s/d Bab 1-4 tuntas ke Bahasa Indonesia natural. Lolos validasi sintaksis ADV, LF murni. |
+

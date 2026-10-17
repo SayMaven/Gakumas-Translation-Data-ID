@@ -194,17 +194,27 @@ Jika ruang UI sempit atau teks berpotensi terpotong (overflow), terapkan aturan 
 ---
 
 ### 4.2 Dialog ADV/Script (`.txt` di `resource/`)
-- Format: `[message text=... name=...]` dan `[narration text=...]`
-- **Jangan ubah** apapun selain isi `text=`
-- Pertahankan semua parameter lain (`name=`, `clip={...}`, `se=`, dll) persis seperti aslinya
-- Hati-hati dengan backslash escape `\{` dan `\"` — jangan diubah
+Setiap berkas naskah visual novel (ADV) memiliki 3 jenis elemen teks yang **WAJIB diterjemahkan ke Bahasa Indonesia**:
+1. **Dialog Karakter**: `[message text=... name=...]`
+2. **Teks Narasi & Monolog**: `[narration text=...]` (misal: pidato pengantar, narasi suasana adegan panggung, atau penjelasan latar belakang).
+3. **Pilihan Respons Dialog Pemain**: `[choice text=...]` atau `[choicegroup choices=[choice text=...] ...]` (opsi pilihan interaktif Producer).
+
+#### Aturan Format ADV:
+- **Hanya ubah isi nilai `text=`** pada tag `[message]`, `[narration]`, maupun `[choice]`.
+- **Dilarang keras mengubah** parameter lain (`name=`, `clip={...}`, `choices=[choice text=...]`, `se=`, `actorId=`, dll.).
+- Hati-hati dengan backslash escape `\{`, `\}`, dan `\"` — biarkan apa adanya tanpa diubah.
+- Pertahankan newline literal `\n` jika ada di dalam parameter `text=`.
+- Format baris baru file wajib menggunakan **LF (`\n`) murni** dan encoding **UTF-8 No BOM**.
 
 ```
 // Contoh BENAR:
-[message text=Eh, kamu juga ada di sini? name=hume ...]
+[message text=Eh, kamu juga ada di sini? name=Ume clip={...}]
+[narration text=Sebuah festival yang digelar di Akademi Hatsuboshi\nuntuk menentukan idol nomor satu. clip={...}]
+[choicegroup choices=[choice text=Jawabanku adalah tidak] clip={...}]
 
-// Contoh SALAH (parameter ikut diubah):
-[pesan teks=Eh, kamu juga ada di sini? nama=hume ...]
+// Contoh SALAH (nama tag atau parameter ikut diubah / narration terlewat):
+[pesan teks=Eh, kamu juga ada di sini? nama=Ume ...]
+[narration text=A festival held at Hatsuboshi Academy... clip={...}] // <- SALAH: Narasi tidak boleh dibiarkan berbahasa Inggris!
 ```
 
 ---
