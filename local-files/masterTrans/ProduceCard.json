@@ -2197,7 +2197,7 @@
           "text": ""
         }
       ],
-      "name": "Penuh Semangat!"
+      "name": "Penuh Motivasi!"
     },
     {
       "id": "p_card-00-men-1_005",
@@ -2344,7 +2344,7 @@
           "text": ""
         }
       ],
-      "name": "Penuh Semangat!+"
+      "name": "Penuh Motivasi!+"
     },
     {
       "id": "p_card-00-men-1_005",
@@ -2491,7 +2491,7 @@
           "text": ""
         }
       ],
-      "name": "Penuh Semangat!++"
+      "name": "Penuh Motivasi!++"
     },
     {
       "id": "p_card-00-men-1_005",
@@ -2638,7 +2638,7 @@
           "text": ""
         }
       ],
-      "name": "Penuh Semangat!+++"
+      "name": "Penuh Motivasi!+++"
     },
     {
       "id": "p_card-00-men-1_007",
@@ -37385,7 +37385,7 @@
           "text": ""
         }
       ],
-      "name": "Semangat Membara"
+      "name": "Motivasi Membara"
     },
     {
       "id": "p_card-01-act-1_036",
@@ -37552,7 +37552,7 @@
           "text": ""
         }
       ],
-      "name": "Semangat Membara+"
+      "name": "Motivasi Membara+"
     },
     {
       "id": "p_card-01-act-1_036",
@@ -37719,7 +37719,7 @@
           "text": ""
         }
       ],
-      "name": "Semangat Membara++"
+      "name": "Motivasi Membara++"
     },
     {
       "id": "p_card-01-act-1_036",
@@ -37886,7 +37886,7 @@
           "text": ""
         }
       ],
-      "name": "Semangat Membara+++"
+      "name": "Motivasi Membara+++"
     },
     {
       "id": "p_card-01-act-1_068",
@@ -39221,7 +39221,7 @@
           "text": ""
         }
       ],
-      "name": "Pompa Semangat"
+      "name": "Pompa Motivasi"
     },
     {
       "id": "p_card-01-act-1_069",
@@ -39488,7 +39488,7 @@
           "text": ""
         }
       ],
-      "name": "Pompa Semangat+"
+      "name": "Pompa Motivasi+"
     },
     {
       "id": "p_card-01-act-1_069",
@@ -39755,7 +39755,7 @@
           "text": ""
         }
       ],
-      "name": "Pompa Semangat++"
+      "name": "Pompa Motivasi++"
     },
     {
       "id": "p_card-01-act-1_069",
@@ -40022,7 +40022,7 @@
           "text": ""
         }
       ],
-      "name": "Pompa Semangat+++"
+      "name": "Pompa Motivasi+++"
     },
     {
       "id": "p_card-01-act-1_074",
@@ -57886,7 +57886,7 @@
           "text": ""
         }
       ],
-      "name": "Gemuruh Semangat"
+      "name": "Gemuruh Motivasi"
     },
     {
       "id": "p_card-01-act-3_184",
@@ -58213,7 +58213,7 @@
           "text": ""
         }
       ],
-      "name": "Gemuruh Semangat+"
+      "name": "Gemuruh Motivasi+"
     },
     {
       "id": "p_card-01-act-3_184",
@@ -58540,7 +58540,7 @@
           "text": ""
         }
       ],
-      "name": "Gemuruh Semangat++"
+      "name": "Gemuruh Motivasi++"
     },
     {
       "id": "p_card-01-act-3_184",
@@ -58867,7 +58867,7 @@
           "text": ""
         }
       ],
-      "name": "Gemuruh Semangat+++"
+      "name": "Gemuruh Motivasi+++"
     },
     {
       "id": "p_card-01-act-3_185",
@@ -103440,7 +103440,7 @@
           "text": ""
         }
       ],
-      "name": "Semangat yang Tersisa"
+      "name": "Motivasi yang Tersisa"
     },
     {
       "id": "p_card-01-ido-3_168",
@@ -103727,7 +103727,7 @@
           "text": ""
         }
       ],
-      "name": "Semangat yang Tersisa+"
+      "name": "Motivasi yang Tersisa+"
     },
     {
       "id": "p_card-01-ido-3_168",
@@ -104014,7 +104014,7 @@
           "text": ""
         }
       ],
-      "name": "Semangat yang Tersisa++"
+      "name": "Motivasi yang Tersisa++"
     },
     {
       "id": "p_card-01-ido-3_168",
@@ -104301,7 +104301,7 @@
           "text": ""
         }
       ],
-      "name": "Semangat yang Tersisa+++"
+      "name": "Motivasi yang Tersisa+++"
     },
     {
       "id": "p_card-01-ido-3_170",
@@ -162433,7 +162433,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -162640,7 +162640,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -162847,7 +162847,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -163024,7 +163024,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -163261,7 +163261,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -163448,7 +163448,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -163635,7 +163635,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -163822,7 +163822,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -165833,7 +165833,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -166060,7 +166060,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -166287,7 +166287,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -166514,7 +166514,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -166771,7 +166771,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -166928,7 +166928,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -167085,7 +167085,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -167242,7 +167242,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -169935,7 +169935,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -170222,7 +170222,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -170509,7 +170509,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -170796,7 +170796,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -171003,7 +171003,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -171053,7 +171053,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -175229,7 +175229,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -175486,7 +175486,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -175743,7 +175743,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -176000,7 +176000,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -176257,7 +176257,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -176504,7 +176504,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -176771,7 +176771,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -177038,7 +177038,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -178233,7 +178233,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -178293,7 +178293,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -178460,7 +178460,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -178520,7 +178520,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -178687,7 +178687,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -178747,7 +178747,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -178914,7 +178914,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -178974,7 +178974,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -180239,7 +180239,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -180439,7 +180439,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -180636,7 +180636,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -180726,7 +180726,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -180856,7 +180856,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -181053,7 +181053,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -181143,7 +181143,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -181273,7 +181273,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -181470,7 +181470,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -181560,7 +181560,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -181690,7 +181690,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -181837,7 +181837,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -182124,7 +182124,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -182411,7 +182411,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -182698,7 +182698,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -188097,7 +188097,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -188304,7 +188304,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -188511,7 +188511,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -188718,7 +188718,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -189913,7 +189913,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -190220,7 +190220,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -190527,7 +190527,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -190834,7 +190834,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -193305,7 +193305,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -193532,7 +193532,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -193759,7 +193759,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -193986,7 +193986,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -194153,7 +194153,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -194213,7 +194213,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -194233,7 +194233,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -194400,7 +194400,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -194460,7 +194460,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -194480,7 +194480,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -194647,7 +194647,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -194707,7 +194707,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -194727,7 +194727,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -194894,7 +194894,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -194954,7 +194954,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -194974,7 +194974,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -195181,7 +195181,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -195518,7 +195518,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -195855,7 +195855,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196192,7 +196192,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196519,7 +196519,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196716,7 +196716,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196913,7 +196913,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197110,7 +197110,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -198859,7 +198859,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -199861,7 +199861,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -200078,7 +200078,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -200295,7 +200295,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -200512,7 +200512,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -201637,7 +201637,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -201824,7 +201824,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -202011,7 +202011,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -202198,7 +202198,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -203423,7 +203423,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -203710,7 +203710,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -203997,7 +203997,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -204284,7 +204284,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -205279,7 +205279,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -205496,7 +205496,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -205713,7 +205713,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -205930,7 +205930,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -207125,7 +207125,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -207432,7 +207432,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -207739,7 +207739,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -208046,7 +208046,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -210577,7 +210577,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -210637,7 +210637,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -210657,7 +210657,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -210824,7 +210824,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -210884,7 +210884,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -210904,7 +210904,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -211071,7 +211071,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -211131,7 +211131,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -211151,7 +211151,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -211318,7 +211318,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -211378,7 +211378,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -211398,7 +211398,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -211655,7 +211655,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -212002,7 +212002,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -212349,7 +212349,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -212696,7 +212696,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -213951,7 +213951,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -214208,7 +214208,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -214465,7 +214465,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -214722,7 +214722,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -215069,7 +215069,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -215376,7 +215376,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -215683,7 +215683,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -215990,7 +215990,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -217675,7 +217675,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -217715,7 +217715,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -217922,7 +217922,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -217962,7 +217962,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -218169,7 +218169,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -218209,7 +218209,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -218416,7 +218416,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -218456,7 +218456,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -218693,7 +218693,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -219030,7 +219030,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -219367,7 +219367,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -219704,7 +219704,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -220749,7 +220749,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -221096,7 +221096,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -221443,7 +221443,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -221790,7 +221790,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -225211,7 +225211,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -225538,7 +225538,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -225865,7 +225865,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -226192,7 +226192,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -227257,7 +227257,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -227484,7 +227484,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -227711,7 +227711,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -227938,7 +227938,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -228075,7 +228075,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -228342,7 +228342,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -228609,7 +228609,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -228876,7 +228876,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -229173,7 +229173,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -229560,7 +229560,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -229947,7 +229947,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -230334,7 +230334,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -232657,7 +232657,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -232984,7 +232984,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -233311,7 +233311,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -233638,7 +233638,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -233985,7 +233985,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -234162,7 +234162,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -234232,7 +234232,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -234409,7 +234409,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -234479,7 +234479,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -234656,7 +234656,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -234726,7 +234726,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -235023,7 +235023,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -235280,7 +235280,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -235537,7 +235537,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -235794,7 +235794,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -236061,7 +236061,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -236438,7 +236438,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -236815,7 +236815,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -237192,7 +237192,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -238727,7 +238727,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -238807,7 +238807,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -239044,7 +239044,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -239124,7 +239124,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -239361,7 +239361,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -239441,7 +239441,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -239678,7 +239678,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -239758,7 +239758,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -239915,7 +239915,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -240392,7 +240392,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -240869,7 +240869,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -241346,7 +241346,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -244897,7 +244897,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -245244,7 +245244,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -245591,7 +245591,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -245938,7 +245938,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -248611,7 +248611,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -248968,7 +248968,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -249325,7 +249325,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -249682,7 +249682,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -250039,7 +250039,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -250099,7 +250099,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAggressiveAdditiveFix",
-          "text": "Tambahan Semangat "
+          "text": "Tambahan Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -250269,7 +250269,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -250426,7 +250426,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -250486,7 +250486,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAggressiveAdditiveFix",
-          "text": "Tambahan Semangat "
+          "text": "Tambahan Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -250656,7 +250656,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -250813,7 +250813,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -250873,7 +250873,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAggressiveAdditiveFix",
-          "text": "Tambahan Semangat "
+          "text": "Tambahan Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -251043,7 +251043,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -251200,7 +251200,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -251260,7 +251260,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAggressiveAdditiveFix",
-          "text": "Tambahan Semangat "
+          "text": "Tambahan Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -251430,7 +251430,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -251687,7 +251687,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -252074,7 +252074,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -252521,7 +252521,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -252968,7 +252968,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -253315,7 +253315,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -253612,7 +253612,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -253909,7 +253909,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -254206,7 +254206,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -254443,7 +254443,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -254593,7 +254593,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -254710,7 +254710,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -254860,7 +254860,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -254977,7 +254977,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -255127,7 +255127,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -255244,7 +255244,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -255394,7 +255394,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -259535,7 +259535,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -259615,7 +259615,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -259842,7 +259842,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -259922,7 +259922,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -260149,7 +260149,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -260229,7 +260229,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -260456,7 +260456,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -260536,7 +260536,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -262829,7 +262829,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -262976,7 +262976,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -263123,7 +263123,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -263270,7 +263270,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -264733,7 +264733,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -264950,7 +264950,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -265167,7 +265167,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -265384,7 +265384,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -265541,7 +265541,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -265698,7 +265698,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -265855,7 +265855,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -266012,7 +266012,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -266229,7 +266229,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -266446,7 +266446,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -266663,7 +266663,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -266880,7 +266880,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -267375,7 +267375,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -267435,7 +267435,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -267518,7 +267518,7 @@
           "text": ""
         }
       ],
-      "name": "Dorongan Semangat"
+      "name": "Dorongan Motivasi"
     },
     {
       "id": "p_card-02-men-1_009",
@@ -267552,7 +267552,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -267612,7 +267612,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -267695,7 +267695,7 @@
           "text": ""
         }
       ],
-      "name": "Dorongan Semangat+"
+      "name": "Dorongan Motivasi+"
     },
     {
       "id": "p_card-02-men-1_009",
@@ -267729,7 +267729,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -267789,7 +267789,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -267872,7 +267872,7 @@
           "text": ""
         }
       ],
-      "name": "Dorongan Semangat++"
+      "name": "Dorongan Motivasi++"
     },
     {
       "id": "p_card-02-men-1_009",
@@ -267906,7 +267906,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -267966,7 +267966,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -268049,7 +268049,7 @@
           "text": ""
         }
       ],
-      "name": "Dorongan Semangat+++"
+      "name": "Dorongan Motivasi+++"
     },
     {
       "id": "p_card-02-men-1_030",
@@ -268721,7 +268721,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -268784,7 +268784,7 @@
           "text": ""
         }
       ],
-      "name": "Semangat!"
+      "name": "Motivasi!"
     },
     {
       "id": "p_card-02-men-1_031",
@@ -268868,7 +268868,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -268931,7 +268931,7 @@
           "text": ""
         }
       ],
-      "name": "Semangat!+"
+      "name": "Motivasi!+"
     },
     {
       "id": "p_card-02-men-1_031",
@@ -269015,7 +269015,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -269078,7 +269078,7 @@
           "text": ""
         }
       ],
-      "name": "Semangat!++"
+      "name": "Motivasi!++"
     },
     {
       "id": "p_card-02-men-1_031",
@@ -269162,7 +269162,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -269225,7 +269225,7 @@
           "text": ""
         }
       ],
-      "name": "Semangat!+++"
+      "name": "Motivasi!+++"
     },
     {
       "id": "p_card-02-men-1_032",
@@ -269339,7 +269339,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -269516,7 +269516,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -269693,7 +269693,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -269870,7 +269870,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -270017,7 +270017,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -270184,7 +270184,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -270351,7 +270351,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -270518,7 +270518,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -271043,7 +271043,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -271250,7 +271250,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -271457,7 +271457,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -271714,7 +271714,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -272525,7 +272525,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -272635,7 +272635,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -272755,7 +272755,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -272872,7 +272872,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -272962,7 +272962,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -273065,7 +273065,7 @@
           "text": ""
         }
       ],
-      "name": "Semangat Tanpa Henti"
+      "name": "Motivasi Tanpa Henti"
     },
     {
       "id": "p_card-02-men-2_004",
@@ -273099,7 +273099,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -273189,7 +273189,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -273292,7 +273292,7 @@
           "text": ""
         }
       ],
-      "name": "Semangat Tanpa Henti+"
+      "name": "Motivasi Tanpa Henti+"
     },
     {
       "id": "p_card-02-men-2_004",
@@ -273326,7 +273326,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -273416,7 +273416,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -273519,7 +273519,7 @@
           "text": ""
         }
       ],
-      "name": "Semangat Tanpa Henti++"
+      "name": "Motivasi Tanpa Henti++"
     },
     {
       "id": "p_card-02-men-2_004",
@@ -273553,7 +273553,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -273643,7 +273643,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -273746,7 +273746,7 @@
           "text": ""
         }
       ],
-      "name": "Semangat Tanpa Henti+++"
+      "name": "Motivasi Tanpa Henti+++"
     },
     {
       "id": "p_card-02-men-2_008",
@@ -273830,7 +273830,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -273987,7 +273987,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -274144,7 +274144,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -274301,7 +274301,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -274919,7 +274919,7 @@
           "text": ""
         }
       ],
-      "name": "Penuh Semangat"
+      "name": "Penuh Motivasi"
     },
     {
       "id": "p_card-02-men-2_051",
@@ -275076,7 +275076,7 @@
           "text": ""
         }
       ],
-      "name": "Penuh Semangat+"
+      "name": "Penuh Motivasi+"
     },
     {
       "id": "p_card-02-men-2_051",
@@ -275233,7 +275233,7 @@
           "text": ""
         }
       ],
-      "name": "Penuh Semangat++"
+      "name": "Penuh Motivasi++"
     },
     {
       "id": "p_card-02-men-2_051",
@@ -275390,7 +275390,7 @@
           "text": ""
         }
       ],
-      "name": "Penuh Semangat+++"
+      "name": "Penuh Motivasi+++"
     },
     {
       "id": "p_card-02-men-2_052",
@@ -275474,7 +275474,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -275721,7 +275721,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -275968,7 +275968,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -276215,7 +276215,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -276462,7 +276462,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -276609,7 +276609,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -276756,7 +276756,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -276903,7 +276903,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -277090,7 +277090,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -277287,7 +277287,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -277484,7 +277484,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -277681,7 +277681,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -278406,7 +278406,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -278693,7 +278693,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -278980,7 +278980,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -279317,7 +279317,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -279614,7 +279614,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -279841,7 +279841,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -280068,7 +280068,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -280295,7 +280295,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -281370,7 +281370,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -281597,7 +281597,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -281904,7 +281904,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -282211,7 +282211,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -282598,7 +282598,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -282955,7 +282955,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -283312,7 +283312,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -283669,7 +283669,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -285214,7 +285214,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -285591,7 +285591,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -285968,7 +285968,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -286345,7 +286345,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -287700,7 +287700,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -288037,7 +288037,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -288404,7 +288404,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -288771,7 +288771,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -289228,7 +289228,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -289595,7 +289595,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -289962,7 +289962,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -290329,7 +290329,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -290706,7 +290706,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -290963,7 +290963,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -291220,7 +291220,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -291477,7 +291477,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -292682,7 +292682,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -292879,7 +292879,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -293076,7 +293076,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -293273,7 +293273,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -295196,7 +295196,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -295463,7 +295463,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -295730,7 +295730,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -295997,7 +295997,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -297132,7 +297132,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -297389,7 +297389,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -297646,7 +297646,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -297903,7 +297903,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -299238,7 +299238,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -299495,7 +299495,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -299752,7 +299752,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -300009,7 +300009,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -301284,7 +301284,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -301671,7 +301671,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -302058,7 +302058,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -302445,7 +302445,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -302742,7 +302742,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -303009,7 +303009,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -303276,7 +303276,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -303543,7 +303543,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -304968,7 +304968,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -305198,7 +305198,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -305325,7 +305325,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -305555,7 +305555,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -305682,7 +305682,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -305912,7 +305912,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -306039,7 +306039,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -306269,7 +306269,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -306396,7 +306396,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -306586,7 +306586,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -306763,7 +306763,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -306953,7 +306953,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -307130,7 +307130,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -307320,7 +307320,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -307497,7 +307497,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -307687,7 +307687,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -307904,7 +307904,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -308271,7 +308271,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -308638,7 +308638,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -309005,7 +309005,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -309382,7 +309382,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -309442,7 +309442,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAggressiveAdditive",
-          "text": "Semangat meningkat "
+          "text": "Motivasi meningkat "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -309689,7 +309689,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -309749,7 +309749,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAggressiveAdditive",
-          "text": "Semangat meningkat "
+          "text": "Motivasi meningkat "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -309996,7 +309996,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -310056,7 +310056,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAggressiveAdditive",
-          "text": "Semangat meningkat "
+          "text": "Motivasi meningkat "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -310303,7 +310303,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -310363,7 +310363,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAggressiveAdditive",
-          "text": "Semangat meningkat "
+          "text": "Motivasi meningkat "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -310580,7 +310580,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -310837,7 +310837,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -311094,7 +311094,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -311351,7 +311351,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -409614,7 +409614,7 @@
           "text": ""
         }
       ],
-      "name": "Semangat"
+      "name": "Motivasi"
     },
     {
       "id": "p_card-03-men-2_075",
@@ -409841,7 +409841,7 @@
           "text": ""
         }
       ],
-      "name": "Semangat+"
+      "name": "Motivasi+"
     },
     {
       "id": "p_card-03-men-2_075",
@@ -410068,7 +410068,7 @@
           "text": ""
         }
       ],
-      "name": "Semangat++"
+      "name": "Motivasi++"
     },
     {
       "id": "p_card-03-men-2_075",
@@ -410295,7 +410295,7 @@
           "text": ""
         }
       ],
-      "name": "Semangat+++"
+      "name": "Motivasi+++"
     },
     {
       "id": "p_card-03-men-2_076",
@@ -410502,7 +410502,7 @@
           "text": ""
         }
       ],
-      "name": "Pemicu Semangat"
+      "name": "Pemicu Motivasi"
     },
     {
       "id": "p_card-03-men-2_076",
@@ -410729,7 +410729,7 @@
           "text": ""
         }
       ],
-      "name": "Pemicu Semangat+"
+      "name": "Pemicu Motivasi+"
     },
     {
       "id": "p_card-03-men-2_076",
@@ -410956,7 +410956,7 @@
           "text": ""
         }
       ],
-      "name": "Pemicu Semangat++"
+      "name": "Pemicu Motivasi++"
     },
     {
       "id": "p_card-03-men-2_076",
@@ -411183,7 +411183,7 @@
           "text": ""
         }
       ],
-      "name": "Pemicu Semangat+++"
+      "name": "Pemicu Motivasi+++"
     },
     {
       "id": "p_card-03-men-2_077",

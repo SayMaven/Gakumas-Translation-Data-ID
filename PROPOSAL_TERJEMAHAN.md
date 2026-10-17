@@ -359,7 +359,7 @@ Panggilan keluarga **berbeda** dari panggilan senior sekolah — ini adalah kont
 | **絶好調 (Peak Condition)** | **Kondisi Puncak** | Tier di atas Kondisi Prima. Boleh disingkat **"Puncak"**. |
 | **不調 (Poor Condition)** | **Kondisi Buruk** | Debuff penurun efektivitas skor. |
 | **集中 (Concentration)** | **Fokus** | Flat bonus skor pada setiap kartu aktif. Ringkas dan pas di kartu. |
-| **やる気 (Motivation)** | **Semangat** | Nuansa khas idol, meningkatkan perolehan Genki/shield. |
+| **やる気 (Motivation)** | **Motivasi** | Arketipe Logic, meningkatkan perolehan Genki/shield. |
 | **好印象 (Good Impression)** | **Kesan Baik** | Memberikan skor pasif di akhir setiap turn. Singkatan UI: **"Kesan"**. |
 | **元気 (Genki)** | **Genki** | ⭐ **TETAP "Genki"**. Berfungsi sebagai shield penahan stamina. Selaras dengan audio & identitas game. |
 | **消費体力減少** | **Konsumsi Stamina Turun** | Efek efisiensi penggunaan stamina. |
@@ -888,5 +888,5 @@ Tipe yang valid:
 
 ---
 
-*Dokumen ini bersifat hidup — akan terus diperbarui seiring project berkembang.*  
+*Dokumen ini bersifat aktif — akan terus diperbarui seiring project berkembang.*  
 *Terakhir diperbarui: Oktober 2026*

@@ -171,10 +171,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Meningkatkan perolehan Semangat "
+          "text": "Meningkatkan perolehan Motivasi "
         }
       ],
-      "name": "Peningkatan Nilai Semangat "
+      "name": "Peningkatan Nilai Motivasi "
     },
     {
       "id": "Label_AggressiveReduce",
@@ -187,10 +187,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Mengurangi perolehan Semangat "
+          "text": "Mengurangi perolehan Motivasi "
         }
       ],
-      "name": "Pengurangan Nilai Semangat "
+      "name": "Pengurangan Nilai Motivasi "
     },
     {
       "id": "Label_Audition",
@@ -610,7 +610,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -623,7 +623,7 @@
           "text": "bertambah\nTidak memengaruhi biaya dari status diperkuat yang berbeda "
         }
       ],
-      "name": "Peningkatan Biaya Semangat "
+      "name": "Peningkatan Biaya Motivasi "
     },
     {
       "id": "Label_CostAggressiveReduce",
@@ -646,7 +646,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -659,7 +659,7 @@
           "text": "berkurang\nTidak memengaruhi biaya dari status diperkuat yang berbeda "
         }
       ],
-      "name": "Pengurangan Biaya Semangat "
+      "name": "Pengurangan Biaya Motivasi "
     },
     {
       "id": "Label_CostBuffAdd",
@@ -1272,7 +1272,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1315,7 +1315,7 @@
           "text": ""
         }
       ],
-      "name": "Peningkatan Perolehan Semangat "
+      "name": "Peningkatan Perolehan Motivasi "
     },
     {
       "id": "Label_ExamAggressiveAdditiveFix",
@@ -1328,7 +1328,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1371,7 +1371,7 @@
           "text": ""
         }
       ],
-      "name": "Tambahan Kenaikan Semangat "
+      "name": "Tambahan Kenaikan Motivasi "
     },
     {
       "id": "Label_ExamAggressiveReduce",
@@ -1384,7 +1384,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1397,7 +1397,7 @@
           "text": "berkurang sebesar ini "
         }
       ],
-      "name": "Pengurangan Semangat "
+      "name": "Pengurangan Motivasi "
     },
     {
       "id": "Label_ExamAntiDebuff",
@@ -1749,7 +1749,7 @@
           "text": "bertambah "
         }
       ],
-      "name": "Semangat "
+      "name": "Motivasi "
     },
     {
       "id": "Label_ExamCardPlayAggressive_Produce",
@@ -1762,7 +1762,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Untuk setiap +1 Semangat, "
+          "text": "Untuk setiap +1 Motivasi, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1785,7 +1785,7 @@
           "text": "perolehan bertambah 1"
         }
       ],
-      "name": "Semangat "
+      "name": "Motivasi "
     },
     {
       "id": "Label_ExamCardSearchEffectPlayCountBuff",
@@ -4181,7 +4181,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5703,7 +5703,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7229,10 +7229,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Peningkatan Pengali Param Berbasis Semangat "
+          "text": "Peningkatan Pengali Param Berbasis Motivasi "
         }
       ],
-      "name": "Peningkatan Pengali Param Berbasis Semangat "
+      "name": "Peningkatan Pengali Param Berbasis Motivasi "
     },
     {
       "id": "Label_LessonDependExamReviewAdd",
@@ -7910,7 +7910,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",

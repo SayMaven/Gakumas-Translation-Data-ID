@@ -95,7 +95,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamCardPlayAggressive",
-      "name": "Semangat "
+      "name": "Motivasi "
     },
     {
       "type": "ProduceExamEffectType_ExamConcentration",
@@ -255,7 +255,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamAggressiveReduce",
-      "name": "Pengurangan Semangat "
+      "name": "Pengurangan Motivasi "
     },
     {
       "type": "ProduceExamEffectType_ExamLessonBuffReduce",
@@ -303,7 +303,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamAggressiveAdditive",
-      "name": "Peningkatan Perolehan Semangat "
+      "name": "Peningkatan Perolehan Motivasi "
     },
     {
       "type": "ProduceExamEffectType_ExamReviewAdditive",
@@ -347,7 +347,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamAggressiveAdditiveFix",
-      "name": "Tambahan Kenaikan Semangat"
+      "name": "Tambahan Kenaikan Motivasi"
     },
     {
       "type": "ProduceExamEffectType_ExamReviewAdditiveFix",

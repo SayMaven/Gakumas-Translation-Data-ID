@@ -4319,7 +4319,7 @@
   "produce.lesson.no_diff.contest": "Skor tidak bertambah",
   "produce.lesson.no_diff.score": "Tidak ada kenaikan",
   "produce.lesson.no_effect": "Beberapa efek tidak akan terpicu.\nIngin melanjutkan?",
-  "produce.lesson.no_effect.aggressive_zero": "Semangat bernilai 0, sehingga efek tidak akan aktif.",
+  "produce.lesson.no_effect.aggressive_zero": "Motivasi bernilai 0, sehingga efek tidak akan aktif.",
   "produce.lesson.no_effect.block_consumption_zero": "Efek tidak aktif karena Genki yang dikonsumsi adalah 0.",
   "produce.lesson.no_effect.block_restriction": "Efek tidak aktif karena Penambahan Genki Dinonaktifkan.",
   "produce.lesson.no_effect.block_zero": "Genki bernilai 0, sehingga efek tidak akan aktif.",
