@@ -61,9 +61,9 @@
     },
     {
       "tutorialType": "TutorialType_DearnessTop",
-      "name": "Menu Keakraban",
-      "description": "Fitur \"Menu Keakraban\" telah terbuka",
-      "routeDescription": "Dapat diperiksa dari menu Keakraban di Beranda"
+      "name": "Menu Bond",
+      "description": "Fitur \"Menu Bond\" telah terbuka",
+      "routeDescription": "Dapat diperiksa dari menu Bond di Beranda"
     },
     {
       "tutorialType": 32,
