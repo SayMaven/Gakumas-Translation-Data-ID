@@ -111,9 +111,9 @@ Dokumen ini merangkum semua karakter utama, termasuk idol playable, rival, NPC, 
 - **Sifat**: Sangat energik, loud, impulsive, childlike, dan ekspresif. Mantan atlet dengan fisik luar biasa. Memori buruk (gagal ujian masuk total). Mimpi utamanya adalah “mengalahkan kakak”. Awalnya tidak tertarik idol, hanya ikut karena Saki jadi idol.
 - **Hubungan**:
   - Adik kandung **Saki**. Saling rival tapi sangat sayang.
-  - Anggota unit **Begrazia** bersama Misuzu dan Sena.
+  - Anggota unit **Starmine** bersama Misuzu dan Sena.
   - Dekat dengan Hiro dan China.
-- **Unit**: Begrazia
+- **Unit**: Starmine
 - **Catatan**: Late-bloomer yang tumbuh pesat.
 
 ### 秦谷 美鈴 (Hataya Misuzu)
@@ -123,8 +123,8 @@ Dokumen ini merangkum semua karakter utama, termasuk idol playable, rival, NPC, 
 - **Hubungan**:
   - Mantan anggota **SyngUp!** bersama Temari dan Rinha.
   - Sangat sayang pada Temari (memanggil “Mari-chan”, khawatir Temari overwork).
-  - Anggota **Begrazia** bersama Ume dan Sena.
-- **Unit**: Begrazia (sekarang) / SyngUp! (mantan)
+  - Anggota **Starmine** bersama Ume dan Sena.
+- **Unit**: Starmine (sekarang) / SyngUp! (mantan)
 - **Catatan**: “Ibu” bagi banyak orang, tapi punya rasa cemburu tersembunyi.
 
 ### 十王 星南 (Juo / Jūō Sena)
@@ -135,9 +135,9 @@ Dokumen ini merangkum semua karakter utama, termasuk idol playable, rival, NPC, 
   - Cucu Kepala Sekolah Kunio Juo, putri Ryusei Juo.
   - Childhood friend & rival dengan **雨夜燕 (Tsubame)**.
   - Sangat tertarik pada Kotone (ingin produce dia).
-  - Anggota **Begrazia** (sebagai producer sekaligus member di beberapa konteks).
+  - Anggota **Starmine** (sebagai producer sekaligus member di beberapa konteks).
   - Ketua OSIS.
-- **Unit**: Begrazia
+- **Unit**: Starmine
 - **Catatan**: Representasi “yang sudah di puncak dan mencari arti baru”.
 
 ### 雨夜 燕 (Amaya Tsubame)
@@ -158,7 +158,7 @@ Dokumen ini merangkum semua karakter utama, termasuk idol playable, rival, NPC, 
 | Nama Unit | Anggota | Keterangan |
 |-----------|---------|------------|
 | **Re;IRIS** | Saki, Temari, Kotone | Unit inti *Hatsuboshi Komyu*. Warna sinyal lalu lintas (merah-biru-kuning). |
-| **Begrazia** | Ume, Misuzu, Sena | Unit rival utama di story awal. |
+| **Starmine** | Ume, Misuzu, Sena | Unit rival utama di story awal. |
 | **SyngUp!** | Temari, Misuzu, Rinha Kaya | Unit lama di SMP. Bubar karena konflik. |
 | Unit 2 orang (contoh) | Lilja + Sumika, China + Hiro, Mao + Rinami | Sering muncul di story produce. |
 
