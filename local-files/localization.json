@@ -2285,7 +2285,7 @@
   "home.money_received_sheet.alert": "Biaya kegiatan yang melebihi batas penyimpanan telah dikirim ke Hadiah",
   "home.money_received_sheet.amount_per_hour_value": "+{0:N0}",
   "home.money_received_sheet.amount_pre_hour_label": "Per Jam",
-  "home.money_received_sheet.description": "Semakin tinggi PLv, semakin bertambah jumlah\nperolehan dan batas penyimpanan",
+  "home.money_received_sheet.description": "Makin tinggi PLv, pendapatan\ndan batas simpan meningkat",
   "home.money_received_sheet.elapsed_time": "Waktu Berlalu",
   "home.money_received_sheet.max": "Maks",
   "home.money_received_sheet.max_amount": "Batas",
