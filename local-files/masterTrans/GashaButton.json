@@ -22,7 +22,7 @@
       "description": "Gacha 10x",
       "appealText": "",
       "highAppealText": "",
-      "bottomAppealText": "1 Pasti SR atau Lebih Tinggi "
+      "bottomAppealText": "1 Pasti SR+"
     },
     {
       "id": "gasha_button_00980-ssr-idol-001",
@@ -137,7 +137,7 @@
       "order": 3,
       "name": "Gacha 10x",
       "description": "Gacha 10x",
-      "appealText": "1 Pasti SR atau Lebih Tinggi ",
+      "appealText": "1 Pasti SR+",
       "highAppealText": "",
       "bottomAppealText": ""
     },
@@ -200,7 +200,7 @@
       "order": 3,
       "name": "Gacha Tiket 10x",
       "description": "Gacha Tiket 10x",
-      "appealText": "1 Pasti SR atau Lebih Tinggi ",
+      "appealText": "1 Pasti SR+",
       "highAppealText": "",
       "bottomAppealText": ""
     },
@@ -218,7 +218,7 @@
       "order": 3,
       "name": "Gacha Tiket 10x",
       "description": "Gacha Tiket 10x",
-      "appealText": "1 Pasti SR atau Lebih Tinggi ",
+      "appealText": "1 Pasti SR+",
       "highAppealText": "",
       "bottomAppealText": ""
     },
@@ -236,7 +236,7 @@
       "order": 3,
       "name": "Gacha Tiket 10x",
       "description": "Gacha Tiket 10x",
-      "appealText": "1 Pasti SR atau Lebih Tinggi ",
+      "appealText": "1 Pasti SR+",
       "highAppealText": "",
       "bottomAppealText": ""
     },
@@ -308,7 +308,7 @@
       "order": 3,
       "name": "Gacha Tiket 10x",
       "description": "Gacha Tiket 10x",
-      "appealText": "1 Pasti SR atau Lebih Tinggi ",
+      "appealText": "1 Pasti SR+",
       "highAppealText": "",
       "bottomAppealText": ""
     },
@@ -407,7 +407,7 @@
       "order": 1,
       "name": "Gacha 10x",
       "description": "Gacha 10x",
-      "appealText": "1 Pasti SR atau Lebih Tinggi ",
+      "appealText": "1 Pasti SR+",
       "highAppealText": "",
       "bottomAppealText": ""
     },
@@ -461,7 +461,7 @@
       "order": 3,
       "name": "Gacha Item 10x",
       "description": "Gacha Item 10x",
-      "appealText": "1 Pasti SR atau Lebih Tinggi ",
+      "appealText": "1 Pasti SR+",
       "highAppealText": "",
       "bottomAppealText": ""
     },
@@ -470,7 +470,7 @@
       "order": 3,
       "name": "Gacha Tiket 10x",
       "description": "Gacha Tiket 10x",
-      "appealText": "1 Pasti SR atau Lebih Tinggi ",
+      "appealText": "1 Pasti SR+",
       "highAppealText": "",
       "bottomAppealText": ""
     },
@@ -650,7 +650,7 @@
       "order": 3,
       "name": "Gacha 10x",
       "description": "Gacha 10x",
-      "appealText": "1 Pasti SR atau Lebih Tinggi ",
+      "appealText": "1 Pasti SR+",
       "highAppealText": "",
       "bottomAppealText": ""
     },
@@ -695,7 +695,7 @@
       "order": 3,
       "name": "Gacha 10x",
       "description": "Gacha 10x",
-      "appealText": "1 Pasti SR atau Lebih Tinggi ",
+      "appealText": "1 Pasti SR+",
       "highAppealText": "",
       "bottomAppealText": ""
     },
@@ -704,7 +704,7 @@
       "order": 1,
       "name": "Gacha 10x",
       "description": "Gacha 10x",
-      "appealText": "1 Pasti SR atau Lebih Tinggi ",
+      "appealText": "1 Pasti SR+",
       "highAppealText": "",
       "bottomAppealText": ""
     },
@@ -713,7 +713,7 @@
       "order": 3,
       "name": "Gacha 10x",
       "description": "Gacha 10x",
-      "appealText": "1 Pasti SR atau Lebih Tinggi ",
+      "appealText": "1 Pasti SR+",
       "highAppealText": "",
       "bottomAppealText": ""
     },
@@ -812,8 +812,8 @@
       "order": 3,
       "name": "Tarik dengan Tiket Gacha 10x 1st Anniversary",
       "description": "Gacha 10x",
-      "appealText": "1 Pasti SR atau Lebih Tinggi ",
-      "highAppealText": "1 Pasti SR atau Lebih Tinggi ",
+      "appealText": "1 Pasti SR+",
+      "highAppealText": "1 Pasti SR+",
       "bottomAppealText": ""
     },
     {
@@ -821,8 +821,8 @@
       "order": 1,
       "name": "Tarik dengan Tiket Gacha 10x 2nd Anniversary",
       "description": "Gacha 10x",
-      "appealText": "1 Pasti SR atau Lebih Tinggi ",
-      "highAppealText": "1 Pasti SR atau Lebih Tinggi ",
+      "appealText": "1 Pasti SR+",
+      "highAppealText": "1 Pasti SR+",
       "bottomAppealText": ""
     },
     {
@@ -839,8 +839,8 @@
       "order": 3,
       "name": "Gunakan Tiket Gacha Bonus Login Natal",
       "description": "Gacha 10x",
-      "appealText": "1 Pasti SR atau Lebih Tinggi ",
-      "highAppealText": "1 Pasti SR atau Lebih Tinggi ",
+      "appealText": "1 Pasti SR+",
+      "highAppealText": "1 Pasti SR+",
       "bottomAppealText": ""
     },
     {
@@ -956,8 +956,8 @@
       "order": 3,
       "name": "Gunakan Tiket Gacha Bonus Login Valentine",
       "description": "Gacha 10x",
-      "appealText": "1 Pasti SR atau Lebih Tinggi ",
-      "highAppealText": "1 Pasti SR atau Lebih Tinggi ",
+      "appealText": "1 Pasti SR+",
+      "highAppealText": "1 Pasti SR+",
       "bottomAppealText": ""
     },
     {
