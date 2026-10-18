@@ -52,12 +52,45 @@ def clean_rich_text(text: str) -> str:
     """Menghapus tag Unity rich-text seperti <color=...> atau <size=...> untuk hitung panjang asli."""
     return RE_CLEAN_TAGS.sub('', text)
 
-def smart_wrap_text(text: str, max_len: int = MAX_SAFE_LINE_LENGTH) -> str:
+def wrap_unit_dialog(text: str) -> str:
+    """
+    Merapikan dialog khusus berkas adv_unit_*.txt agar MAKSIMAL 2 BARIS.
+    Jika kalimat panjang, dipecah menjadi 2 baris seimbang di titik tengah spasi.
+    """
+    normalized = text.replace(r'\n', ' ').replace('\r\n', ' ').replace('\n', ' ')
+    words = normalized.split()
+    if not words:
+        return text
+
+    total_len = sum(len(clean_rich_text(w)) for w in words) + len(words) - 1
+    if total_len <= 40:
+        return " ".join(words)
+
+    half = total_len / 2
+    best_split = 1
+    best_diff = float('inf')
+    cur = 0
+    for i in range(len(words) - 1):
+        cur += len(clean_rich_text(words[i])) + (1 if i > 0 else 0)
+        diff = abs(cur - half)
+        if diff < best_diff:
+            best_diff = diff
+            best_split = i + 1
+
+    l1 = " ".join(words[:best_split])
+    l2 = " ".join(words[best_split:])
+    return f"{l1}\n{l2}"
+
+def smart_wrap_text(text: str, max_len: int = MAX_SAFE_LINE_LENGTH, is_unit: bool = False) -> str:
     """
     Memecah baris teks dialog secara cerdas pada spasi terdekat.
     Melakukan reflow penuh pada aliran kata agar baris berikutnya diisi maksimal
     dan tidak terpotong nanggung menjadi baris baru yang kosong/pendek.
+    Jika is_unit=True, membatasi teks dialog maksimal 2 baris seimbang.
     """
+    if is_unit:
+        return wrap_unit_dialog(text)
+
     # Bersihkan escape \n dan satukan newline menjadi paragraf
     normalized = text.replace(r'\n', '\n').replace('\r\n', '\n').replace('\r', '\n')
     paragraphs = normalized.split('\n\n')
@@ -168,6 +201,7 @@ def save_json_entry(abs_path: str, key_tokens: list, new_value: str):
 def scan_file_issues(abs_path: str, max_len: int = MAX_SAFE_LINE_LENGTH):
     """Memindai seluruh baris dialog pada 1 berkas fisik dan mendeteksi apakah ada masalah layout."""
     issue_lines = []
+    is_unit = Path(abs_path).name.startswith("adv_unit_")
     try:
         with open(abs_path, "r", encoding="utf-8", errors="ignore") as f:
             for idx, line in enumerate(f, 1):
@@ -177,10 +211,11 @@ def scan_file_issues(abs_path: str, max_len: int = MAX_SAFE_LINE_LENGTH):
                 raw_text = match.group(2)
                 lines_in_dialog = [s for s in raw_text.split(r'\n') if s.strip()]
                 has_overflow = any(len(clean_rich_text(seg)) > max_len for seg in lines_in_dialog)
-                wrapped_sim = smart_wrap_text(raw_text, max_len)
+                wrapped_sim = smart_wrap_text(raw_text, max_len, is_unit=is_unit)
                 opt_lines = [l for l in wrapped_sim.split('\n') if l.strip()]
                 can_compact = (len(lines_in_dialog) > 1 and len(opt_lines) < len(lines_in_dialog))
-                if has_overflow or can_compact:
+                unit_over = (is_unit and len(lines_in_dialog) > 2)
+                if has_overflow or can_compact or unit_over:
                     issue_lines.append(idx)
     except Exception:
         pass
@@ -191,6 +226,7 @@ def wrap_entire_file(abs_path: str, max_len: int = MAX_SAFE_LINE_LENGTH):
     Memindai dan merapikan SELURUH baris dialog pada satu berkas ADV (.txt)
     dari baris 1 sampai baris terakhir secara otomatis.
     """
+    is_unit = Path(abs_path).name.startswith("adv_unit_")
     with open(abs_path, "r", encoding="utf-8") as f:
         lines = f.readlines()
 
@@ -206,11 +242,12 @@ def wrap_entire_file(abs_path: str, max_len: int = MAX_SAFE_LINE_LENGTH):
         raw_text = match.group(2)
         lines_in_dialog = [s for s in raw_text.split(r'\n') if s.strip()]
         has_overflow = any(len(clean_rich_text(seg)) > max_len for seg in lines_in_dialog)
-        wrapped_sim = smart_wrap_text(raw_text, max_len)
+        wrapped_sim = smart_wrap_text(raw_text, max_len, is_unit=is_unit)
         opt_lines = [l for l in wrapped_sim.split('\n') if l.strip()]
         can_compact = (len(lines_in_dialog) > 1 and len(opt_lines) < len(lines_in_dialog))
+        unit_over = (is_unit and len(lines_in_dialog) > 2)
 
-        if has_overflow or can_compact:
+        if has_overflow or can_compact or unit_over:
             escaped_text = r"\n".join(opt_lines)
             new_line = line[:match.start(2)] + escaped_text + line[match.end(2):]
             if new_line.count('[') == new_line.count(']') and new_line.count('{') == new_line.count('}'):
@@ -286,7 +323,15 @@ def search_adv_files(query: str = "", actor_filter: str = "", overflow_only: boo
                     can_compact = (cur_line_cnt > 1 and opt_line_cnt < cur_line_cnt)
                     compact_info = f"{cur_line_cnt}➔{opt_line_cnt} baris" if can_compact else ""
 
-                    if has_overflow and can_compact:
+                    # Deteksi khusus berkas adv_unit_ (tidak boleh > 2 baris karena bentrok dengan nama karakter)
+                    is_unit = entry.name.startswith("adv_unit_")
+                    unit_over_lines = (is_unit and cur_line_cnt > 2)
+
+                    if unit_over_lines and has_overflow:
+                        status_str = f"⚠️ UNIT > 2 BARIS & OVERFLOW ({cur_line_cnt} baris)"
+                    elif unit_over_lines:
+                        status_str = f"⚠️ UNIT > 2 BARIS ({cur_line_cnt} baris, bentrok nama)"
+                    elif has_overflow and can_compact:
                         status_str = f"⚠️ OVERFLOW & RAPATKAN ({compact_info})"
                     elif has_overflow:
                         status_str = "⚠️ OVERFLOW"
@@ -296,11 +341,12 @@ def search_adv_files(query: str = "", actor_filter: str = "", overflow_only: boo
                         status_str = "OK"
 
                     # Filter masalah layout
-                    if issue_filter == "overflow" and not has_overflow:
+                    has_any_issue = (has_overflow or can_compact or unit_over_lines)
+                    if issue_filter == "overflow" and not (has_overflow or unit_over_lines):
                         continue
                     elif issue_filter == "compact" and not can_compact:
                         continue
-                    elif issue_filter in ("issues", "all_issues") and not (has_overflow or can_compact):
+                    elif issue_filter in ("issues", "all_issues") and not has_any_issue:
                         continue
 
                     if query_lower:
@@ -615,12 +661,25 @@ def launch_gui():
         opt_cnt = len([l for l in wrapped.split('\n') if l.strip()])
         compact_note = f" | ℹ️ Bisa dirapatkan ({cur_cnt}➔{opt_cnt} baris)" if cur_cnt > 1 and opt_cnt < cur_cnt else ""
 
+        # Cek apakah file aktif adalah adv_unit_ (maksimal 2 baris agar tidak bentrok dengan nama)
+        selected_items = tree.selection()
+        is_unit_file = False
+        if selected_items:
+            s_idx = tree.index(selected_items[0])
+            if s_idx < len(current_data):
+                is_unit_file = current_data[s_idx].get('file', '').startswith('adv_unit_')
+
+        unit_warn = ""
+        if is_unit_file and cur_cnt > 2:
+            has_over = True
+            unit_warn = f" | ⚠️ UNIT MAKS 2 BARIS! ({cur_cnt} baris - bentrok nama)"
+
         if has_over:
-            lbl_counter.config(text=f"{summary} (Maks {limit}){compact_note}", foreground="#B00020")
+            lbl_counter.config(text=f"{summary} (Maks {limit}){compact_note}{unit_warn}", foreground="#B00020")
         elif compact_note:
-            lbl_counter.config(text=f"{summary}{compact_note}", foreground="#8A6D3B")
+            lbl_counter.config(text=f"{summary}{compact_note}{unit_warn}", foreground="#8A6D3B")
         else:
-            lbl_counter.config(text=f"{summary} (Aman <= {limit})", foreground="#007700")
+            lbl_counter.config(text=f"{summary} (Aman <= {limit}){unit_warn}", foreground="#007700")
 
     def populate_tree(results):
         nonlocal current_data
@@ -639,13 +698,16 @@ def launch_gui():
                 status,
                 display_text
             ))
-            if r.get("is_overflow") and r.get("can_compact"):
+            if "UNIT > 2 BARIS" in status:
+                tree.item(item_id, tags=("unit_overflow",))
+            elif r.get("is_overflow") and r.get("can_compact"):
                 tree.item(item_id, tags=("both",))
             elif r.get("is_overflow"):
                 tree.item(item_id, tags=("overflow",))
             elif r.get("can_compact"):
                 tree.item(item_id, tags=("compact",))
 
+        tree.tag_configure("unit_overflow", background="#FFE6E6", foreground="#CC0000")
         tree.tag_configure("overflow", background="#FFF2F2", foreground="#B00020")
         tree.tag_configure("compact", background="#FFFBE6", foreground="#8A6D3B")
         tree.tag_configure("both", background="#FFE6E6", foreground="#990000")
@@ -703,6 +765,7 @@ def launch_gui():
 
     def on_auto_wrap_single():
         selected_items = tree.selection()
+        is_unit_file = False
         if selected_items:
             idx = tree.index(selected_items[0])
             if idx < len(current_data):
@@ -710,11 +773,12 @@ def launch_gui():
                 if r.get('is_json') or r.get('line', 0) == 0 or r.get('file', '').endswith('.json'):
                     messagebox.showinfo("Info", "Fitur auto-wrap dikhususkan untuk dialog cerita ADV (.txt).\nBerkas JSON UI/Master tidak menggunakan auto-wrap.")
                     return
+                is_unit_file = r.get('file', '').startswith('adv_unit_')
 
         content = text_editor.get("1.0", "end-1c")
         if not content.strip():
             return
-        wrapped = smart_wrap_text(content, limit_var.get())
+        wrapped = smart_wrap_text(content, limit_var.get(), is_unit=is_unit_file)
         text_editor.delete("1.0", "end")
         text_editor.insert("1.0", wrapped)
         update_char_counter()

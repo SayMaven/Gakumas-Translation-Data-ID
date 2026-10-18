@@ -627,6 +627,10 @@ Gunakan komentar atau tag berikut jika menemui teks yang sulit:
 - Pemisahan baris dialog **wajib** menggunakan escape literal `\n` (dua karakter `\` dan `n`), dilarang menggunakan enter/newline fisik.
 - Idealnya tinggi dialog berkisar antara 1 hingga 3 baris per pesan `[message ...]`.
 
+> [!WARNING]
+> **ATURAN KHUSUS BERKAS `adv_unit_*.txt` (MAKSIMAL 2 BARIS)**:
+> Pada berkas cerita utama/unit (`adv_unit_*.txt`), dialog ditampilkan secara sinematik menyatu langsung dengan scene tanpa boks kotak (bergaya subtitle melayang). Dialog **TIDAK BOLEH LEBIH DARI 2 BARIS**. Jika mencapai 3 baris, baris paling bawah akan bertabrakan/bentrok secara visual menimpa teks nama karakter yang berada di bawahnya.
+
 #### 9.2.1 Tool Inspeksi, Editor & Auto-Wrap Dialog (`scripts/search_dialog.py`)
 Untuk mempermudah pemeliharaan, pencarian, dan perapian baris percakapan pada seluruh berkas di `local-files/resource/`, telah disediakan tool serbaguna `scripts/search_dialog.py`:
 
