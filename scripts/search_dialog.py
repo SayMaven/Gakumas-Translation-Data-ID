@@ -134,6 +134,37 @@ def save_adv_line(abs_path: str, line_idx: int, new_text: str):
 
     return escaped_text
 
+def save_json_entry(abs_path: str, key_tokens: list, new_value: str):
+    """
+    Menyimpan pembaruan nilai teks ke berkas JSON dengan aman:
+    - Menjaga encoding UTF-8
+    - Format indentasi 2 spasi
+    - Menjaga placeholder dan hierarki asli JSON
+    - Menggunakan berkas sementara (.tmp) dan validasi json.load sebelum atomic replace.
+    """
+    with open(abs_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    # Navigasi ke node target
+    curr = data
+    for token in key_tokens[:-1]:
+        curr = curr[token]
+
+    curr[key_tokens[-1]] = new_value
+
+    tmp_path = abs_path + ".tmp"
+    with open(tmp_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+        f.write("\n")
+
+    # Verifikasi integritas JSON hasil penyimpanan
+    with open(tmp_path, "r", encoding="utf-8") as f:
+        json.load(f)
+
+    # Timpa berkas asli secara aman
+    os.replace(tmp_path, abs_path)
+    return new_value
+
 def scan_file_issues(abs_path: str, max_len: int = MAX_SAFE_LINE_LENGTH):
     """Memindai seluruh baris dialog pada 1 berkas fisik dan mendeteksi apakah ada masalah layout."""
     issue_lines = []
@@ -324,36 +355,53 @@ def search_json_files(query: str, file_filter: str = ""):
                 data = json.load(f)
 
             rel_p = os.path.relpath(p, BASE_DIR)
+            seen_tokens = set()
 
-            def recurse(node, path_str=""):
+            def recurse(node, path_str="", tokens=None):
+                if tokens is None:
+                    tokens = []
                 if isinstance(node, dict):
                     for k, v in node.items():
-                        new_path = f"{path_str}.{k}" if path_str else k
+                        new_path = f"{path_str}.{k}" if path_str else str(k)
+                        new_tokens = tokens + [k]
+                        token_tuple = tuple(new_tokens)
                         if query_lower in str(k).lower():
-                            results.append({
-                                "file": p.name,
-                                "rel_path": rel_p,
-                                "abs_path": str(p),
-                                "line": 0,
-                                "speaker": "[KEY]",
-                                "text": f"{new_path} = {v}",
-                                "max_line_len": len(str(v)),
-                                "is_overflow": False
-                            })
-                        recurse(v, new_path)
+                            if isinstance(v, str) and token_tuple not in seen_tokens:
+                                seen_tokens.add(token_tuple)
+                                results.append({
+                                    "file": p.name,
+                                    "rel_path": rel_p,
+                                    "abs_path": str(p),
+                                    "line": 0,
+                                    "is_json": True,
+                                    "key_tokens": new_tokens,
+                                    "json_key_str": new_path,
+                                    "speaker": f"[KEY: {k}]",
+                                    "text": v,
+                                    "max_line_len": len(v),
+                                    "is_overflow": False
+                                })
+                        recurse(v, new_path, new_tokens)
                 elif isinstance(node, list):
                     for i, item in enumerate(node):
                         new_path = f"{path_str}[{i}]"
-                        recurse(item, new_path)
+                        new_tokens = tokens + [i]
+                        recurse(item, new_path, new_tokens)
                 elif isinstance(node, str):
-                    if query_lower in node.lower():
+                    token_tuple = tuple(tokens)
+                    if query_lower in node.lower() and token_tuple not in seen_tokens:
+                        seen_tokens.add(token_tuple)
+                        last_key = str(tokens[-1]) if tokens else "VAL"
                         results.append({
                             "file": p.name,
                             "rel_path": rel_p,
                             "abs_path": str(p),
                             "line": 0,
-                            "speaker": "[VALUE]",
-                            "text": f"{path_str}: {node}",
+                            "is_json": True,
+                            "key_tokens": tokens,
+                            "json_key_str": path_str,
+                            "speaker": f"[{last_key}]",
+                            "text": node,
                             "max_line_len": len(node),
                             "is_overflow": False
                         })
@@ -644,13 +692,25 @@ def launch_gui():
         idx = tree.index(selected_items[0])
         if idx < len(current_data):
             r = current_data[idx]
-            lbl_file_info.config(text=f"📁 {r['rel_path']} (Baris {r['line']}) — Pembicara: {r['speaker']}")
+            if r.get('is_json'):
+                lbl_file_info.config(text=f"📁 {r['rel_path']} — Key: {r.get('json_key_str', '-')} ({r['speaker']})")
+            else:
+                lbl_file_info.config(text=f"📁 {r['rel_path']} (Baris {r['line']}) — Pembicara: {r['speaker']}")
             text_editor.delete("1.0", "end")
             multiline_text = r['text'].replace(r'\n', '\n')
             text_editor.insert("1.0", multiline_text)
             update_char_counter()
 
     def on_auto_wrap_single():
+        selected_items = tree.selection()
+        if selected_items:
+            idx = tree.index(selected_items[0])
+            if idx < len(current_data):
+                r = current_data[idx]
+                if r.get('is_json') or r.get('line', 0) == 0 or r.get('file', '').endswith('.json'):
+                    messagebox.showinfo("Info", "Fitur auto-wrap dikhususkan untuk dialog cerita ADV (.txt).\nBerkas JSON UI/Master tidak menggunakan auto-wrap.")
+                    return
+
         content = text_editor.get("1.0", "end-1c")
         if not content.strip():
             return
@@ -671,6 +731,10 @@ def launch_gui():
         r = current_data[idx]
         target_file = r['file']
         abs_path = r['abs_path']
+
+        if r.get('is_json') or r.get('line', 0) == 0 or target_file.endswith('.json'):
+            messagebox.showinfo("Info", f"Fitur auto-wrap 1 berkas dikhususkan untuk berkas cerita ADV (.txt).\nBerkas JSON ({target_file}) aman dan tidak menggunakan auto-wrap.")
+            return
 
         # Pindai SELURUH baris di berkas fisik (bukan cuma yang muncul di pencarian)
         issue_lines = scan_file_issues(abs_path, limit_var.get())
@@ -740,17 +804,43 @@ def launch_gui():
     def on_save_click():
         selected_items = tree.selection()
         if not selected_items:
-            messagebox.showwarning("Peringatan", "Pilih dialog yang ingin disimpan terlebih dahulu.")
+            messagebox.showwarning("Peringatan", "Pilih entri yang ingin disimpan terlebih dahulu.")
             return
         idx = tree.index(selected_items[0])
         if idx >= len(current_data):
             return
         r = current_data[idx]
-        if r['line'] == 0:
-            messagebox.showinfo("Info", "Penyuntingan langsung saat ini dikhususkan untuk berkas cerita ADV (.txt).")
+        new_content = text_editor.get("1.0", "end-1c")
+
+        # Khusus Berkas JSON (UI / Master)
+        if r.get("is_json"):
+            if not r.get("key_tokens"):
+                messagebox.showerror("Error", "Key JSON tidak dapat ditentukan untuk penyimpanan otomatis.")
+                return
+            try:
+                save_json_entry(r['abs_path'], r['key_tokens'], new_content)
+                r['text'] = new_content
+                r['max_line_len'] = len(new_content)
+                disp = new_content.replace('\n', ' ↵ ')
+                tree.item(selected_items[0], values=(
+                    r['file'],
+                    "-",
+                    r['speaker'],
+                    f"{len(new_content)} ch",
+                    "OK",
+                    disp
+                ))
+                update_char_counter()
+                messagebox.showinfo("Sukses", f"Perubahan berhasil disimpan ke berkas JSON:\n{r['file']}\n\nKey: {r.get('json_key_str')}")
+                status_var.set(f"✅ Berkas JSON {r['file']} berhasil diperbarui!")
+            except Exception as err:
+                messagebox.showerror("Gagal Simpan JSON", f"Terjadi kesalahan saat menyimpan berkas JSON:\n{err}")
             return
 
-        new_content = text_editor.get("1.0", "end-1c")
+        if r['line'] == 0:
+            messagebox.showinfo("Info", "Penyuntingan langsung saat ini dikhususkan untuk berkas cerita ADV (.txt) dan JSON yang valid.")
+            return
+
         try:
             escaped_text = save_adv_line(r['abs_path'], r['line'], new_content)
             r['text'] = escaped_text

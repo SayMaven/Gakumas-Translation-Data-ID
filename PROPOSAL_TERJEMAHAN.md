@@ -491,6 +491,7 @@ Panggilan keluarga **berbeda** dari panggilan senior sekolah — ini adalah kont
 - [x] Setup struktur folder ID mengikuti hierarki game
 - [x] Siapkan script validasi Python `resource_validator.py`
 - [x] Siapkan script updater JSON Python `scripts/update_translation.py`
+- [x] Siapkan script inspeksi dialog, in-place editor, dan smart auto-wrapper `scripts/search_dialog.py`
 
 **Step 2 — Translate**
 - [ ] Buka file target (mulai dari Fase 1)
@@ -505,7 +506,9 @@ Panggilan keluarga **berbeda** dari panggilan senior sekolah — ini adalah kont
 - [ ] Cek tidak ada inkonsistensi nama/istilah
 
 **Step 4 — Validasi Teknis & Pembaruan File**
-- [ ] Untuk file resource `.txt`: jalankan `resource_validator.py`
+- [ ] Untuk file resource `.txt` (`local-files/resource/`):
+  - Gunakan `scripts/search_dialog.py` untuk mencari referensi dialog lintas berkas, mengecek batas visual karakter ($\le 42$ karakter per baris), menyunting dialog secara langsung, atau merapikan baris kepanjangan secara otomatis (`--auto-wrap`).
+  - Jalankan `resource_validator.py` untuk memastikan keutuhan tag ADV, kesesuaian parameter teknis, dan line endings LF murni.
 - [ ] Untuk file JSON (`localization.json`, `genericTrans/*.json`): gunakan `python scripts/update_translation.py <batch_terjemahan.json> -t <target.json>` untuk menerapkan pembaruan tanpa mengacak urutan key, menjaga integritas placeholder/tag, dan memvalidasi sintaks otomatis.
 - [ ] Test di game jika memungkinkan
 
@@ -617,6 +620,48 @@ Gunakan komentar atau tag berikut jika menemui teks yang sulit:
 // Sesudah (ID):
 [message text=Akhirnya saatnya tiba. name={user} se=sud_se_adv_message-01 clip=\{...\}]
 ```
+
+#### Aturan Pemotongan Baris Dialog ADV (Maksimal 42 Karakter):
+- Boks percakapan cerita ADV memiliki lebar visual terbatas. Panjang teks per baris yang aman dan telah diverifikasi di dalam game adalah **maksimal 42 karakter**.
+- Jika melebihi 42 karakter tanpa pemisah baris, teks akan menembus/overflow batas visual boks dialog.
+- Pemisahan baris dialog **wajib** menggunakan escape literal `\n` (dua karakter `\` dan `n`), dilarang menggunakan enter/newline fisik.
+- Idealnya tinggi dialog berkisar antara 1 hingga 3 baris per pesan `[message ...]`.
+
+#### 9.2.1 Tool Inspeksi, Editor & Auto-Wrap Dialog (`scripts/search_dialog.py`)
+Untuk mempermudah pemeliharaan, pencarian, dan perapian baris percakapan pada seluruh berkas di `local-files/resource/`, telah disediakan tool serbaguna `scripts/search_dialog.py`:
+
+- **Tujuan Utama**:
+  1. **Mencari Teks Dialog**: Menemukan kata, frasa, nama pembicara, atau dialog tertentu secara cepat di 3.530+ berkas ADV (`local-files/resource/*.txt`) maupun berkas JSON pendukung.
+  2. **Memperbaiki Dialog Secara Langsung (*In-Place Editor*)**: Membuka dialog di antarmuka visual GUI Desktop tanpa perlu repot mencari dan menyunting berkas secara manual di teks editor luar.
+  3. **Merapikan Baris Dialog (*Smart Auto-Wrap*)**: Menata ulang aliran kata (*paragraph reflow*) secara cerdas pada batas spasi kata terdekat agar memenuhi standar visual $\le 42$ karakter per baris.
+
+- **Fitur GUI Desktop (`python scripts/search_dialog.py --gui`)**:
+  - Kolom pencarian teks dan filter file secara instan.
+  - Tampilan perbandingan teks asli (EN/JP) vs teks terjemahan (ID).
+  - Indikator panjang baris real-time dengan status otomatis:
+    - `⚠️ OVERFLOW (L:XX > 42)`: Menandai baris yang melebihi 42 karakter.
+    - `ℹ️ BISA DIRAPATKAN`: Menandai baris sebelumnya yang masih memiliki sisa ruang karakter yang cukup untuk menampung kata dari baris berikutnya.
+  - Tombol **⚡ Auto-Wrap Baris Ini**: Merapikan satu baris dialog yang sedang disunting.
+  - Tombol **⚡ Auto-Wrap 1 Berkas Ini**: Memindai seluruh baris dari awal hingga akhir berkas fisik di disk dan secara otomatis merapikan seluruh dialog yang overflow pada berkas tersebut.
+  - Tombol **💾 Simpan**: Menuliskan perubahan langsung ke berkas target dengan encoding UTF-8, LF murni, dan tanpa merusak atribut teknis Unity lainnya.
+
+- **Penggunaan via CLI (Command Line)**:
+  ```bash
+  # Mencari kata atau frasa tertentu
+  python scripts/search_dialog.py -q "Misuzu telat"
+
+  # Memindai seluruh berkas untuk mendeteksi baris yang overflow (> 42 karakter)
+  python scripts/search_dialog.py --overflow
+
+  # Memindai dialog yang bisa dirapatkan
+  python scripts/search_dialog.py --compact
+
+  # Menjalankan auto-wrap otomatis pada berkas spesifik
+  python scripts/search_dialog.py --overflow --auto-wrap --file adv_csprt-3-0098
+
+  # Membuka antarmuka grafis (GUI)
+  python scripts/search_dialog.py --gui
+  ```
 
 ### 9.3 Struktur Commit Message
 ```
