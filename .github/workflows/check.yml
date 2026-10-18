@@ -117,7 +117,7 @@ jobs:
         tag_name: ${{ env.VERSION }}
         name: Rilis Data Terjemahan ID ${{ env.RELEASE_DATE }}
         body: |
-          Rilis otomatis data terjemahan Bahasa Indonesia terbaru untuk Gakuen Idolm@ster.
+          Rilis otomatis data terjemahan Bahasa Indonesia terbaru untuk Gakumas.
 
           Lihat PROGRESS.md untuk memantau status terjemahan terkini.
         files: |

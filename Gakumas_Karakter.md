@@ -1,4 +1,4 @@
-# Gakuen Idolmaster (学園アイドルマスター / 学マス) - Daftar Karakter Lengkap
+# Gakumas (学マス) - Daftar Karakter Lengkap
 
 Dokumen ini merangkum semua karakter utama, termasuk idol playable, rival, NPC, staff, dan karakter pendukung. Fokus pada **sifat kepribadian**, **hubungan antar karakter**, **kelas**, **unit/group**, dan detail latar belakang. (CV dihilangkan sesuai permintaan)
 

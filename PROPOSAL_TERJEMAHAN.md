@@ -668,7 +668,7 @@ Tipe yang valid:
 
 > Gunakan bagian ini sebagai **cheat sheet** saat menerjemahkan dialog. Pastikan gaya bicara dan sapaan antar karakter konsisten di seluruh file.
 >
-> 📄 Dokumen karakter lengkap (latar belakang, kelas, hubungan detail): [`Gakuen_Idolmaster_Karakter.md`](./Gakuen_Idolmaster_Karakter.md)
+> 📄 Dokumen karakter lengkap (latar belakang, kelas, hubungan detail): [`Gakumas_Karakter.md`](./Gakumas_Karakter.md)
 
 ---
 

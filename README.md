@@ -1,6 +1,6 @@
 # Gakumas-Translation-Data-ID
 
-Repositori data lokalisasi Bahasa Indonesia untuk game Gakuen Idolm@ster (学園アイドルマスター).
+Repositori data lokalisasi Bahasa Indonesia untuk game Gakuen Idolm@ster.
 
 Proyek ini merupakan adaptasi dari repositori terjemahan Bahasa Inggris [Gakumas-Translation-Data-EN](https://github.com/NatsumeLS/Gakumas-Translation-Data-EN) dan ditujukan untuk digunakan bersama plugin [gakuen-imas-localify](https://github.com/chinosk6/gakuen-imas-localify).
 
@@ -11,7 +11,7 @@ Proyek ini merupakan adaptasi dari repositori terjemahan Bahasa Inggris [Gakumas
 Proyek ini bertujuan menghadirkan teks permainan Gakuen Idolm@ster dalam Bahasa Indonesia yang mengalir, alami, dan mempertahankan kepribadian masing-masing karakter serta istilah mekanik game resmi.
 
 Seluruh panduan penulisan, filosofi terjemahan, dan glosarium istilah tercantum di [PROPOSAL_TERJEMAHAN.md](./PROPOSAL_TERJEMAHAN.md).  
-Profil detail kepribadian dan hubungan antar karakter tersedia di [Gakuen_Idolmaster_Karakter.md](./Gakuen_Idolmaster_Karakter.md).  
+Profil detail kepribadian dan hubungan antar karakter tersedia di [Gakumas_Karakter.md](./Gakumas_Karakter.md).  
 Status dan pelacakan progres pengerjaan dapat dilihat di [PROGRESS.md](./PROGRESS.md).
 
 ---
@@ -51,7 +51,7 @@ Gakumas-Translation-Data-ID/
 │   └── resource/              # Skrip dialog dan cerita ADV (.txt)
 ├── scripts/                   # Skrip validasi dan pembantu format
 ├── PROPOSAL_TERJEMAHAN.md     # Panduan gaya bahasa, aturan terjemahan, dan glosarium
-├── Gakuen_Idolmaster_Karakter.md # Referensi detail karakter dan relasi
+├── Gakumas_Karakter.md         # Referensi detail karakter dan relasi
 ├── PROGRESS.md                # Pelacak progres pengerjaan
 └── README.md                  # Dokumentasi utama proyek
 ```
