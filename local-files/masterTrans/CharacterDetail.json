@@ -167,7 +167,7 @@
       "characterId": "atbm",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "Keahlian kesekretariatan, matematika, kaligrafi"
+      "content": "Kesekretariatan, matematika, kaligrafi"
     },
     {
       "characterId": "fktn",
@@ -239,7 +239,7 @@
       "characterId": "fktn",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "Menari, mudah akrab dengan orang lain"
+      "content": "Menari, mudah akrab dengan orang"
     },
     {
       "characterId": "fktn",
@@ -323,7 +323,7 @@
       "characterId": "hmsz",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "Memasak, merangkai bunga, jam biologis sempurna"
+      "content": "Memasak, merangkai bunga, tepat waktu"
     },
     {
       "characterId": "hmsz",
@@ -911,13 +911,13 @@
       "characterId": "shro",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "Belajar, fisika, matematika, teka-teki"
+      "content": "Belajar·Fisika·Matematika·Teka-teki"
     },
     {
       "characterId": "shro",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "Menantang hal yang tidak dikuasai, merawat tanaman hias"
+      "content": "Menantang diri merawat tanaman hias"
     },
     {
       "characterId": "shro",
@@ -1085,7 +1085,7 @@
       "characterId": "ttmr",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "Makan makanan lezat (saat ini sedang menahan diri)"
+      "content": "Makan makanan lezat (saat ini menahan diri)"
     },
     {
       "characterId": "ttmr",
