@@ -12,8 +12,8 @@ Dokumen ini memantau status pengerjaan lokalisasi Bahasa Indonesia untuk seluruh
 | **Lirik Lagu Panggung & MV (`lyrics/`)** | 63 berkas JSON | **100% Selesai (1.877/1.877 baris)** | **Seluruh 4 Batch Tuntas**. Seluruh 19 lagu tema all songs, 29 lagu solo idol, dan 5 lagu unit tuntas diterjemahkan puitis & berirama alami. |
 | **Fase 2: Master Database Gameplay (`masterTrans`)** | 108 berkas JSON | **100% Selesai (99 Diterjemahkan, 9 Di-skip)** | **108 Berkas Tuntas**. Seluruh database gameplay master (Fase 2.1 s/d 2.6) 100% tuntas dalam Bahasa Indonesia. |
 | **Fase 3: Cerita Prolog, Tutorial & Unit (`resource/`)** | 116 berkas TXT | **Aktif Dikerjakan (66/116 File)** | **Bab 1 Cerita Unit Utama TUNTAS 100% (66/66 Berkas / 4.525 Dialog, 41 Narasi, 41 Pilihan)**. Seluruh Bab 1-1 (14 file), Bab 1-2 (15 file), Bab 1-3 (12 file), dan Bab 1-4 (25 file: 1.637 dialog, 18 narasi, 7 pilihan) tuntas paripurna dalam Bahasa Indonesia natural. Cerita pembuka (33 file) & tutorial visual novel (17 file) standby. |
-| **Fase 4: Cerita Karakter, Event & Stage (`resource/`)** | 3.414 berkas TXT | **Aktif Dikerjakan (636/3.414 File)** | Cerita Support Card tuntas 100% (529 file / 10.414 dialog). Cerita Skenario Produksi (P-Story) aktif (107/611 file tuntas: Common, Reversi, Saki Hanami, Temari Tsukimura). Sisa kategori: cerita kandidat idol (354 file), commu bond (494 file), p-story (504 file sisa), pevent & event (1.256 file), live mc (106 file), p-growth (39 file), p-result (13 file), produce commu (11 file), tower commu (1 file). |
-| **TOTAL DATA GAME** | **3.725 berkas** | **Aktif Dikerjakan** | **897 Berkas Tuntas (100% UI, Lirik & MasterDB + 66 Cerita Unit + 529 Cerita CSprt + 107 Cerita P-Story Selesai)**, 2.828 Naskah Cerita Resource Siap Dikerjakan. |
+| **Fase 4: Cerita Karakter, Event & Stage (`resource/`)** | 3.414 berkas TXT | **Aktif Dikerjakan (682/3.414 File)** | Cerita Support Card tuntas 100% (529 file / 10.414 dialog). Cerita Skenario Produksi (P-Story) aktif (153/611 file tuntas: Common, Reversi, Saki Hanami, Temari Tsukimura, Kotone Fujita). Sisa kategori: cerita kandidat idol (354 file), commu bond (494 file), p-story (458 file sisa), pevent & event (1.256 file), live mc (106 file), p-growth (39 file), p-result (13 file), produce commu (11 file), tower commu (1 file). |
+| **TOTAL DATA GAME** | **3.725 berkas** | **Aktif Dikerjakan** | **943 Berkas Tuntas (100% UI, Lirik & MasterDB + 66 Cerita Unit + 529 Cerita CSprt + 153 Cerita P-Story Selesai)**, 2.782 Naskah Cerita Resource Siap Dikerjakan. |
 
 ---
 
@@ -320,7 +320,7 @@ Target: Cerita mendalam tiap kandidat idol, interaksi keakraban (Commu Bond), ce
 | `[ ]` | **Cerita Kandidat Idol** | `resource/adv_cidol_*.txt` | 354 file | Belum Mulai. Alur cerita individu masing-masing karakter idol. |
 | `[ ]` | **Commu Bond (Keakraban)** | `resource/adv_dear_*.txt` | 494 file | Belum Mulai. Interaksi kedekatan emosional Producer bersama idol. |
 | `[x]` | **Cerita Support Card** | `resource/adv_csprt_*.txt` | 529 file | **100% Selesai (529/529 Berkas / 10.414 Baris Dialog Tuntas)**. Support Card R tuntas 100% (26 file, 471 dialog); Support Card SR tuntas 100% (164 file, 3.196 dialog); Support Card SSR tuntas 100% (339 file, 6.747 dialog). Seluruh cerita kartu pendukung tuntas paripurna. |
-| `[ ]` | **Cerita Skenario Produksi (P-Story)** | `resource/adv_pstory_*.txt` | 107 / 611 file | **Aktif Dikerjakan**. Common & Reversi (13 file), Saki Hanami (48 file), dan Temari Tsukimura (46 file) selesai (total 107 file). Lolos validasi sintaksis ADV, LF murni. Sisa: 504 file. |
+| `[ ]` | **Cerita Skenario Produksi (P-Story)** | `resource/adv_pstory_*.txt` | 153 / 611 file | **Aktif Dikerjakan**. Common & Reversi (13 file), Saki Hanami (48 file), Temari Tsukimura (46 file), dan Kotone Fujita (46 file) selesai (total 153 file). Seluruh trio Re;IRIS tuntas. Lolos validasi sintaksis ADV, LF murni. Sisa: 458 file. |
 | `[ ]` | **Event Pilihan Produksi & Story Event** | `resource/adv_pevent_*.txt` / `adv_event_*.txt` | 1.256 file | Belum Mulai. Event acak pilihan Produce dan narasi event festival. |
 | `[ ]` | **Dialog Interaksi Panggung Live (MC)** | `resource/adv_live_*.txt` | 106 file | Belum Mulai. Percakapan panggung, seruan konser, dan interaksi live show idol. |
 | `[ ]` | **Dialog Pertumbuhan Idol (Growth)** | `resource/adv_pgrowth_*.txt` | 39 file | Belum Mulai. Percakapan perkembangan kemampuan dan evaluasi latihan idol. |
@@ -424,6 +424,8 @@ Total: **529 berkas** (10.414 baris dialog).
 | 2026-10-18 | `resource/adv_pstory_*_cmmn_*.txt` & `reversi` (Batch 1) | Terjemahan | Menerjemahkan 13 berkas cerita Common & Reversi (154 dialog, 6 pilihan). Lolos validasi sintaksis ADV, LF murni. **Batch 1 SELESAI (13 Berkas / 160 Elemen)**. |
 | 2026-10-18 | `resource/adv_pstory_*_hski_*.txt` (Saki Hanami Tuntas) | Terjemahan | Menerjemahkan seluruh 48 berkas cerita Skenario Produce Saki Hanami (864 dialog, 1 narasi, 70 pilihan). Lolos validasi sintaksis ADV, LF murni. **Saki Hanami 100% SELESAI (48 Berkas / 935 Elemen)**. |
 | 2026-10-18 | `resource/adv_pstory_*_ttmr_*.txt` (Temari Tsukimura Tuntas) | Terjemahan | Menerjemahkan seluruh 46 berkas cerita Skenario Produce Temari Tsukimura (876 dialog, 1 narasi, 70 pilihan). Lolos validasi sintaksis ADV, LF murni. **Temari Tsukimura 100% SELESAI (46 Berkas / 947 Elemen)**. |
+| 2026-10-18 | `resource/adv_pstory_*_fktn_*.txt` (Kotone Fujita Tuntas) | Terjemahan | Menerjemahkan seluruh 46 berkas cerita Skenario Produce Kotone Fujita (884 dialog, 1 narasi, 103 pilihan). Lolos validasi sintaksis ADV, LF murni. **Kotone Fujita 100% SELESAI (46 Berkas / 988 Elemen)**. **Seluruh Trio Utama Re;IRIS (Saki, Temari, Kotone) TUNTAS 100%**. |
+
 
 
 
