@@ -4,12 +4,12 @@
 Gakumas Translation & Dialog Inspector & In-Place Editor
 =========================================================
 Alat bantu pencari teks dialog, editor langsung (in-place editor),
-smart auto-wrap (maksimal 42 karakter), dan inspeksi file lokalisasi Gakumas.
+smart auto-wrap (maksimal 40 karakter), dan inspeksi file lokalisasi Gakumas.
 
 Fitur Unggulan:
   1. Cari kata/kalimat cepat di seluruh file ADV (.txt) dan JSON.
   2. Buka GUI Desktop: Edit langsung dialog di text box & klik "Simpan" tanpa buka VS Code.
-  3. Tombol "Auto-Wrap (<= 42)": Memotong baris kepanjangan secara cerdas pada spasi terdekat.
+  3. Tombol "Auto-Wrap (<= 40)": Memotong baris kepanjangan secara cerdas pada spasi terdekat.
   4. Auto-wrap massal (batch) untuk merapikan file lama sekaligus.
 
 Penggunaan CLI:
@@ -39,7 +39,7 @@ GENERIC_DIR = BASE_DIR / "local-files" / "genericTrans"
 MASTER_DIR = BASE_DIR / "local-files" / "masterTrans"
 LOCALIZATION_FILE = BASE_DIR / "local-files" / "localization.json"
 
-MAX_SAFE_LINE_LENGTH = 42
+MAX_SAFE_LINE_LENGTH = 40
 
 RE_ADV_TAG = re.compile(
     r'\[(message|narration|choice)\s+text=(.*?)(?=(?:\s+(?:name|isInner|clip|lip|target|voice|speaker|se|fontSize|fade|speed)=|\]))',
@@ -499,7 +499,7 @@ def launch_gui():
     issue_var = tk.StringVar(value="Semua Dialog")
     issue_combo = ttk.Combobox(row3, textvariable=issue_var, values=[
         "Semua Dialog",
-        "⚠️ Hanya Overflow (> 42 ch)",
+        "⚠️ Hanya Overflow (> 40 ch)",
         "ℹ️ Hanya Bisa Dirapatkan",
         "⚠️ & ℹ️ Semua Masalah Layout"
     ], state="readonly", width=25)
@@ -999,7 +999,7 @@ def interactive_cli():
     print("      Gakumas Translation & Dialog Inspector Tool")
     print("=" * 60)
     print("[1] Cari kata / kalimat spesifik")
-    print("[2] Pindai dialog kepanjangan (> 42 karakter)")
+    print("[2] Pindai dialog kepanjangan (> 40 karakter)")
     print("[3] Buka Tampilan Desktop (GUI dengan In-Place Editor)")
     print("[0] Keluar")
     print("=" * 60)
