@@ -273,8 +273,8 @@ Semua nama karakter dipertahankan persis seperti di EN project (ejaan dan urutan
 ### 5.3 Tabel Istilah — Keputusan Final
 | Inggris | Indonesia | Aturan |
 |---|---|---|
-| **Bond** | **Bond** | Tetap, tidak diterjemahkan |
-| **Bond Effect** | **Efek Bond** | Pengaruh level keakraban idol |
+| **Bond** | **Bond** | Tetap, tidak diterjemahkan (resmi menggantikan "Keakraban") |
+| **Bond Effect** | **Efek Bond** | Pengaruh level Bond idol |
 | **Bond Commu** | **Commu Bond** | Cerita interaksi hubungan idol |
 | **Turn** | **Turn** | Tetap, tidak diterjemahkan |
 | **Fan** | **Fan** / **Penggemar** | Kontekstual — lihat aturan di bawah |
@@ -294,6 +294,19 @@ Semua nama karakter dipertahankan persis seperti di EN project (ejaan dan urutan
 | Jewel | Jewel | Tetap — mata uang game |
 | Paid Jewel / 有償ジュエル | Jewel Paid / Paid | Mata uang premium berbayar (Gacha, Toko, Saldo) |
 | Free Jewel / 無償ジュエル | Jewel Gratis / Gratis | Mata uang reward gratis |
+
+#### Aturan Khusus & Penegasan: "Bond" (Bukan "Keakraban")
+
+> [!IMPORTANT]
+> **PENEGASAN BAKU: Gunakan "Bond", Dilarang Menggunakan "Keakraban" di Seluruh Antarmuka Sistem & JSON**
+>
+> 1. **Mencegah Text Overflow pada UI Game**:
+>    Kata *"Keakraban"* (atau *"Poin Keakraban"*) memakan ruang horizontal yang sangat panjang (9–15 huruf). Hal ini terbukti secara visual menyebabkan bentrok dan teks meluap di berbagai antarmuka kritis:
+>    - **Header Balon Hati Idol**: Teks `"Poin Keakraban"` tertimpa oleh ikon hati level (`27/27`). Dengan menggantinya menjadi `"Poin Bond"`, teks menjadi jauh lebih ringkas dan pas.
+>    - **Indikator Gauge Maksimal**: Kalimat panjang bawaan `"※Karena sudah maksimal, kamu tidak dapat memperoleh Poin Keakraban"` (67 karakter) meluap dan terpotong di tepi layar kiri dan kanan. Setelah dipadatkan menjadi `"※Sudah maksimal, tidak dapat memperoleh Poin Bond"` (48 karakter), teks tampil utuh dan simetris di tengah layar.
+>    - **Tab, Filter, Misi, dan Tombol Menu**: Kolom sempit pada daftar misi (`Lv Bond {0}`), tab cerita (`Commu Bond`), dan menu pembuka (`Menu Bond`) tidak lagi terdesak atau berhimpitan.
+> 2. **Terminologi Standar & Natural**:
+>    Istilah *"Bond"* sudah menjadi konvensi baku internasional di kalangan pemain game gacha/idol modern (seperti *Blue Archive*, *Fate/Grand Order*, *Uma Musume*, dll.), sehingga langsung dipahami oleh komunitas tanpa terasa canggung atau bertele-tele.
 
 #### Aturan Khusus: "Fan" vs "Penggemar"
 
