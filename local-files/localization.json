@@ -5133,7 +5133,7 @@
   "produce_prepare.select_info.resource_list.memory_name": "Memory {0}",
   "produce_prepare.select_info.resource_list.playing": "Diperoleh selama Produce",
   "produce_prepare.select_info.resource_list.produce_card_title": "Skill Card Awal",
-  "produce_prepare.select_info.skill_list.button.conversion": "Pengaturan Ganti Skill Card",
+  "produce_prepare.select_info.skill_list.button.conversion": "Ganti Kartu",
   "produce_prepare.select_info.skill_list.check_box.order_ability": "Urutkan berdasarkan Abilities",
   "produce_prepare.select_info.skill_list.empty": "Tidak ada Support Lesson / Abilities",
   "produce_prepare.select_info.skill_list.empty_memory_only": "Tidak ada Abilities",
