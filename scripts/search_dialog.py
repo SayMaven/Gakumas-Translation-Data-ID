@@ -186,7 +186,7 @@ def save_json_entry(abs_path: str, key_tokens: list, new_value: str):
     curr[key_tokens[-1]] = new_value
 
     tmp_path = abs_path + ".tmp"
-    with open(tmp_path, "w", encoding="utf-8") as f:
+    with open(tmp_path, "w", encoding="utf-8", newline="\n") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
         f.write("\n")
 
@@ -383,8 +383,11 @@ def search_json_files(query: str, file_filter: str = ""):
     file_lower = file_filter.lower() if file_filter else ""
 
     target_files = []
-    if LOCALIZATION_FILE.is_file():
-        target_files.append(LOCALIZATION_FILE)
+    local_files_dir = BASE_DIR / "local-files"
+    if local_files_dir.is_dir():
+        for entry in os.scandir(local_files_dir):
+            if entry.is_file() and entry.name.endswith(".json"):
+                target_files.append(Path(entry.path))
 
     for folder in [GENERIC_DIR, MASTER_DIR]:
         if folder.is_dir():
