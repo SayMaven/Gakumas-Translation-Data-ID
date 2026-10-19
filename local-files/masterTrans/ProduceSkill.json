@@ -3177,7 +3177,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3187,7 +3187,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3207,7 +3207,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -3227,7 +3227,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3237,7 +3237,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -3257,7 +3257,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -3277,7 +3277,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3323,7 +3323,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3333,7 +3333,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3353,7 +3353,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -3373,7 +3373,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3383,7 +3383,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -3403,7 +3403,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -3423,7 +3423,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3469,7 +3469,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3479,7 +3479,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3499,7 +3499,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -3519,7 +3519,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3529,7 +3529,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -3549,7 +3549,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -3569,7 +3569,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3615,7 +3615,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3625,7 +3625,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3645,7 +3645,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -3665,7 +3665,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3675,7 +3675,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -3695,7 +3695,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -3715,7 +3715,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3761,7 +3761,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3771,7 +3771,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3791,7 +3791,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -3811,7 +3811,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3821,7 +3821,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -3841,7 +3841,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -3861,7 +3861,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3907,7 +3907,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3917,7 +3917,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3937,7 +3937,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -3957,7 +3957,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3967,7 +3967,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -3987,7 +3987,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -4007,7 +4007,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4053,7 +4053,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4063,7 +4063,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -4083,7 +4083,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -4103,7 +4103,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4113,7 +4113,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -4133,7 +4133,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -4153,7 +4153,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4199,7 +4199,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4209,7 +4209,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -4229,7 +4229,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -4249,7 +4249,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4259,7 +4259,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -4279,7 +4279,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -4299,7 +4299,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4345,7 +4345,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4355,7 +4355,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -4375,7 +4375,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -4395,7 +4395,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4405,7 +4405,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -4425,7 +4425,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -4445,7 +4445,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4491,7 +4491,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4501,7 +4501,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -4521,7 +4521,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -4541,7 +4541,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4551,7 +4551,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -4571,7 +4571,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -4591,7 +4591,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4637,7 +4637,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4647,7 +4647,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -4667,7 +4667,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -4687,7 +4687,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4697,7 +4697,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -4717,7 +4717,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -4737,7 +4737,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4783,7 +4783,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4793,7 +4793,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -4813,7 +4813,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -4833,7 +4833,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4843,7 +4843,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -4863,7 +4863,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -4883,7 +4883,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4929,7 +4929,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4939,7 +4939,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -4959,7 +4959,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -4979,7 +4979,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4989,7 +4989,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -5009,7 +5009,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -5029,7 +5029,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5075,7 +5075,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5085,7 +5085,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -5105,7 +5105,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -5125,7 +5125,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5135,7 +5135,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -5155,7 +5155,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -5175,7 +5175,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5221,7 +5221,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5231,7 +5231,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -5251,7 +5251,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -5271,7 +5271,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5281,7 +5281,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -5301,7 +5301,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -5321,7 +5321,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5367,7 +5367,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5377,7 +5377,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -5397,7 +5397,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -5417,7 +5417,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5427,7 +5427,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -5447,7 +5447,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -5467,7 +5467,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5513,7 +5513,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5523,7 +5523,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -5543,7 +5543,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -5563,7 +5563,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5573,7 +5573,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -5593,7 +5593,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -5613,7 +5613,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5659,7 +5659,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5669,7 +5669,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -5689,7 +5689,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -5709,7 +5709,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5719,7 +5719,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -5739,7 +5739,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -5759,7 +5759,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5805,7 +5805,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5815,7 +5815,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -5835,7 +5835,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -5855,7 +5855,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5865,7 +5865,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -5885,7 +5885,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -5905,7 +5905,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5951,7 +5951,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5961,7 +5961,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -5981,7 +5981,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -6001,7 +6001,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6011,7 +6011,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -6031,7 +6031,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -6051,7 +6051,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6097,7 +6097,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6107,7 +6107,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -6127,7 +6127,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -6147,7 +6147,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6157,7 +6157,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -6177,7 +6177,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -6197,7 +6197,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6243,7 +6243,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6253,7 +6253,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -6273,7 +6273,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -6293,7 +6293,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6303,7 +6303,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -6323,7 +6323,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -6343,7 +6343,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6389,7 +6389,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6399,7 +6399,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -6419,7 +6419,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -6439,7 +6439,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6449,7 +6449,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -6469,7 +6469,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -6489,7 +6489,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6535,7 +6535,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6545,7 +6545,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -6565,7 +6565,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -6585,7 +6585,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6595,7 +6595,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -6615,7 +6615,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -6635,7 +6635,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6681,7 +6681,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6691,7 +6691,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -6711,7 +6711,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -6731,7 +6731,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6741,7 +6741,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -6761,7 +6761,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -6781,7 +6781,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6827,7 +6827,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6837,7 +6837,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -6857,7 +6857,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -6877,7 +6877,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6887,7 +6887,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -6907,7 +6907,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -6927,7 +6927,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6973,7 +6973,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6983,7 +6983,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -7003,7 +7003,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -7023,7 +7023,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7033,7 +7033,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -7053,7 +7053,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -7073,7 +7073,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7119,7 +7119,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7129,7 +7129,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -7149,7 +7149,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -7169,7 +7169,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7179,7 +7179,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -7199,7 +7199,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -7219,7 +7219,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7265,7 +7265,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7275,7 +7275,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -7295,7 +7295,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -7315,7 +7315,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7325,7 +7325,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -7345,7 +7345,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -7365,7 +7365,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7411,7 +7411,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7421,7 +7421,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -7441,7 +7441,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -7461,7 +7461,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7471,7 +7471,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -7491,7 +7491,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -7511,7 +7511,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7557,7 +7557,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7567,7 +7567,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -7587,7 +7587,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -7607,7 +7607,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7617,7 +7617,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -7637,7 +7637,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -7657,7 +7657,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7703,7 +7703,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7713,7 +7713,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -7733,7 +7733,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -7753,7 +7753,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7763,7 +7763,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -7783,7 +7783,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -7803,7 +7803,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7849,7 +7849,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7859,7 +7859,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -7879,7 +7879,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -7899,7 +7899,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7909,7 +7909,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -7929,7 +7929,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -7949,7 +7949,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7995,7 +7995,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8005,7 +8005,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -8025,7 +8025,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -8045,7 +8045,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8055,7 +8055,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "kartu acak dari Deck atau Discard Pile "
+          "text": "1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -8075,7 +8075,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "acak di Deck/Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -8095,7 +8095,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pindahkan ke "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8141,7 +8141,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8151,7 +8151,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -8171,7 +8171,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -8191,7 +8191,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -8277,7 +8277,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8287,7 +8287,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -8307,7 +8307,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -8327,7 +8327,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -8413,7 +8413,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8423,7 +8423,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -8443,7 +8443,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -8463,7 +8463,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -8549,7 +8549,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8559,7 +8559,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -8579,7 +8579,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -8599,7 +8599,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -8685,7 +8685,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8695,7 +8695,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -8715,7 +8715,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -8735,7 +8735,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -8821,7 +8821,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8831,7 +8831,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -8851,7 +8851,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -8871,7 +8871,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -8957,7 +8957,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8967,7 +8967,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -8987,7 +8987,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -9007,7 +9007,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -9093,7 +9093,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9103,7 +9103,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -9123,7 +9123,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -9143,7 +9143,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -9229,7 +9229,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9239,7 +9239,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -9259,7 +9259,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -9279,7 +9279,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -9365,7 +9365,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9375,7 +9375,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -9395,7 +9395,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -9415,7 +9415,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -9501,7 +9501,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9511,7 +9511,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -9531,7 +9531,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -9551,7 +9551,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -9637,7 +9637,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9647,7 +9647,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -9667,7 +9667,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -9687,7 +9687,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -9773,7 +9773,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9783,7 +9783,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -9803,7 +9803,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -9823,7 +9823,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -9909,7 +9909,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9919,7 +9919,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -9939,7 +9939,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -9959,7 +9959,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -10045,7 +10045,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10055,7 +10055,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -10075,7 +10075,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -10095,7 +10095,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -10181,7 +10181,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10191,7 +10191,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -10211,7 +10211,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -10231,7 +10231,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -10317,7 +10317,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10327,7 +10327,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -10347,7 +10347,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -10367,7 +10367,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -10453,7 +10453,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10463,7 +10463,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -10483,7 +10483,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -10503,7 +10503,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -10589,7 +10589,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10599,7 +10599,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -10619,7 +10619,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -10639,7 +10639,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -10725,7 +10725,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10735,7 +10735,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -10755,7 +10755,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -10775,7 +10775,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -10861,7 +10861,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10871,7 +10871,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -10891,7 +10891,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -10911,7 +10911,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -10997,7 +10997,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11007,7 +11007,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -11027,7 +11027,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -11047,7 +11047,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -11133,7 +11133,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11143,7 +11143,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -11163,7 +11163,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -11183,7 +11183,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -11269,7 +11269,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11279,7 +11279,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -11299,7 +11299,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -11319,7 +11319,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -11405,7 +11405,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11415,7 +11415,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -11435,7 +11435,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -11455,7 +11455,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -11541,7 +11541,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11551,7 +11551,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -11571,7 +11571,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -11591,7 +11591,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -11677,7 +11677,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11687,7 +11687,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -11707,7 +11707,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -11727,7 +11727,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -11833,7 +11833,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11843,7 +11843,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -11863,7 +11863,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -11883,7 +11883,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -11989,7 +11989,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11999,7 +11999,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -12019,7 +12019,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -12039,7 +12039,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -12145,7 +12145,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12155,7 +12155,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -12175,7 +12175,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -12195,7 +12195,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -12301,7 +12301,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12311,7 +12311,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -12331,7 +12331,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -12351,7 +12351,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -12457,7 +12457,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12467,7 +12467,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -12487,7 +12487,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -12507,7 +12507,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -12613,7 +12613,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12623,7 +12623,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -12643,7 +12643,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -12663,7 +12663,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -12769,7 +12769,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12779,7 +12779,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -12799,7 +12799,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -12819,7 +12819,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -12925,7 +12925,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12935,7 +12935,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -12955,7 +12955,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -12975,7 +12975,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -13081,7 +13081,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13091,7 +13091,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -13111,7 +13111,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -13131,7 +13131,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -13237,7 +13237,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13247,7 +13247,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -13267,7 +13267,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -13287,7 +13287,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -13393,7 +13393,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13403,7 +13403,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -13423,7 +13423,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -13443,7 +13443,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -13549,7 +13549,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13559,7 +13559,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -13579,7 +13579,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -13599,7 +13599,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -13705,7 +13705,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13715,7 +13715,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -13735,7 +13735,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -13755,7 +13755,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -13861,7 +13861,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13871,7 +13871,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -13891,7 +13891,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -13911,7 +13911,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -14017,7 +14017,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14027,7 +14027,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -14047,7 +14047,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -14067,7 +14067,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -14173,7 +14173,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14183,7 +14183,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -14203,7 +14203,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -14223,7 +14223,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -14329,7 +14329,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14339,7 +14339,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -14359,7 +14359,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -14379,7 +14379,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -14485,7 +14485,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14495,7 +14495,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -14515,7 +14515,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -14535,7 +14535,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -14641,7 +14641,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14651,7 +14651,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -14671,7 +14671,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -14691,7 +14691,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -14797,7 +14797,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14807,7 +14807,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -14827,7 +14827,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -14847,7 +14847,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -14953,7 +14953,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14963,7 +14963,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -14983,7 +14983,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -15003,7 +15003,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -15109,7 +15109,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15119,7 +15119,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -15139,7 +15139,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -15159,7 +15159,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -15265,7 +15265,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15275,7 +15275,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -15295,7 +15295,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -15315,7 +15315,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -15421,7 +15421,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15431,7 +15431,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -15451,7 +15451,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -15471,7 +15471,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -15577,7 +15577,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15587,7 +15587,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -15607,7 +15607,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -15627,7 +15627,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -15733,7 +15733,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15743,7 +15743,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -15763,7 +15763,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -15783,7 +15783,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -15889,7 +15889,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15899,7 +15899,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -15919,7 +15919,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -15939,7 +15939,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -16045,7 +16045,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16055,7 +16055,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -16075,7 +16075,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -16095,7 +16095,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -16201,7 +16201,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16211,7 +16211,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -16231,7 +16231,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -16251,7 +16251,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -16357,7 +16357,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16367,7 +16367,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -16387,7 +16387,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -16407,7 +16407,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -16513,7 +16513,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16523,7 +16523,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -16543,7 +16543,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -16563,7 +16563,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -16669,7 +16669,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16679,7 +16679,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -16699,7 +16699,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -16719,7 +16719,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -16825,7 +16825,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16835,7 +16835,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -16855,7 +16855,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -16875,7 +16875,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -16981,7 +16981,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16991,7 +16991,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -17011,7 +17011,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -17031,7 +17031,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -17137,7 +17137,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -17147,7 +17147,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -17167,7 +17167,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -17187,7 +17187,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -17293,7 +17293,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -17303,7 +17303,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -17323,7 +17323,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -17343,7 +17343,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -17449,7 +17449,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -17459,7 +17459,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -17479,7 +17479,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -17499,7 +17499,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -17605,7 +17605,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -17615,7 +17615,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -17635,7 +17635,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -17655,7 +17655,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -17761,7 +17761,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -17771,7 +17771,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -17791,7 +17791,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -17811,7 +17811,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -17917,7 +17917,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -17927,7 +17927,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -17947,7 +17947,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -17967,7 +17967,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -18073,7 +18073,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18083,7 +18083,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -18103,7 +18103,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -18123,7 +18123,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -18229,7 +18229,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18239,7 +18239,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -18259,7 +18259,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -18279,7 +18279,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -18385,7 +18385,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18395,7 +18395,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -18415,7 +18415,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -18435,7 +18435,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -18541,7 +18541,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Tiap ujian,  "
+          "text": "Tiap ujian, maks. "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18551,7 +18551,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelahnya "
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -18571,7 +18571,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Hingga,  "
+          "text": "x: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -18591,7 +18591,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Setelah digunakan,  "
+          "text": "digunakan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
