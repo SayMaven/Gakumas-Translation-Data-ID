@@ -26,14 +26,14 @@
       "type": "PushType_MoneyFull",
       "number": 1,
       "title": "Mao Arimura",
-      "message": "Producer, ayo kita ambil Maney kita."
+      "message": "Producer, ayo kita ambil Uang kita."
     },
     {
       "characterId": "amao",
       "type": "PushType_MoneyFull",
       "number": 2,
       "title": "Mao Arimura",
-      "message": "Mau pergi ambil Maney bareng? Aku temani ya."
+      "message": "Mau pergi ambil Uang bareng? Aku temani ya."
     },
     {
       "characterId": "amao",
@@ -117,14 +117,14 @@
       "type": "PushType_MoneyFull",
       "number": 1,
       "title": "Tsubame Amaya",
-      "message": "Kamu lupa mengambil Maney. Aku akan menemanimu mengambilnya, jadi cepatlah ke sini."
+      "message": "Kamu lupa mengambil Uang. Aku akan menemanimu mengambilnya, jadi cepatlah ke sini."
     },
     {
       "characterId": "atbm",
       "type": "PushType_MoneyFull",
       "number": 2,
       "title": "Tsubame Amaya",
-      "message": "Maney sudah menumpuk. Cepat ambil sana."
+      "message": "Uang sudah menumpuk. Cepat ambil sana."
     },
     {
       "characterId": "atbm",
@@ -208,7 +208,7 @@
       "type": "PushType_MoneyFull",
       "number": 1,
       "title": "Kotone Fujita",
-      "message": "Kalo kamu nggak ngambil Maney itu, Producer... bisa-bisa aku ambil sendiri lho~♪"
+      "message": "Kalo kamu nggak ngambil Uang itu, Producer... bisa-bisa aku ambil sendiri lho~♪"
     },
     {
       "characterId": "fktn",
@@ -299,14 +299,14 @@
       "type": "PushType_MoneyFull",
       "number": 1,
       "title": "Misuzu Hataya",
-      "message": "Sepertinya Maney sudah terkumpul. Mau pergi mengambilnya bersama?"
+      "message": "Sepertinya Uang sudah terkumpul. Mau pergi mengambilnya bersama?"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_MoneyFull",
       "number": 2,
       "title": "Misuzu Hataya",
-      "message": "Apa kamu sedang tidur siang? Ada Maney yang sudah terkumpul lho."
+      "message": "Apa kamu sedang tidur siang? Ada Uang yang sudah terkumpul lho."
     },
     {
       "characterId": "hmsz",
@@ -390,14 +390,14 @@
       "type": "PushType_MoneyFull",
       "number": 1,
       "title": "Rinami Himesaki",
-      "message": "Maukah kamu pergi mengambil Maney bersamaku?"
+      "message": "Maukah kamu pergi mengambil Uang bersamaku?"
     },
     {
       "characterId": "hrnm",
       "type": "PushType_MoneyFull",
       "number": 2,
       "title": "Rinami Himesaki",
-      "message": "Jangan lupa mengambil Maney ya? Pastikan kamu mengambilnya!"
+      "message": "Jangan lupa mengambil Uang ya? Pastikan kamu mengambilnya!"
     },
     {
       "characterId": "hrnm",
@@ -481,14 +481,14 @@
       "type": "PushType_MoneyFull",
       "number": 1,
       "title": "Saki Hanami",
-      "message": "Jangan lupakan Maney! Pastikan kamu mengumpulkannya dengan benar."
+      "message": "Jangan lupakan Uang! Pastikan kamu mengumpulkannya dengan benar."
     },
     {
       "characterId": "hski",
       "type": "PushType_MoneyFull",
       "number": 2,
       "title": "Saki Hanami",
-      "message": "Hei, Producer? Cepat ambil Maney sana!"
+      "message": "Hei, Producer? Cepat ambil Uang sana!"
     },
     {
       "characterId": "hski",
@@ -572,14 +572,14 @@
       "type": "PushType_MoneyFull",
       "number": 1,
       "title": "Ume Hanami",
-      "message": "Sepertinya Maney sudah menumpuk. Kita harus segera mengambilnya!"
+      "message": "Sepertinya Uang sudah menumpuk. Kita harus segera mengambilnya!"
     },
     {
       "characterId": "hume",
       "type": "PushType_MoneyFull",
       "number": 2,
       "title": "Ume Hanami",
-      "message": "Sudah waktunya mengambil Maney, iya kan?"
+      "message": "Sudah waktunya mengambil Uang, iya kan?"
     },
     {
       "characterId": "hume",
@@ -663,14 +663,14 @@
       "type": "PushType_MoneyFull",
       "number": 1,
       "title": "Sena Juo",
-      "message": "Sudah waktunya mengambil Maney. Mari kita pergi bersama."
+      "message": "Sudah waktunya mengambil Uang. Mari kita pergi bersama."
     },
     {
       "characterId": "jsna",
       "type": "PushType_MoneyFull",
       "number": 2,
       "title": "Sena Juo",
-      "message": "Apa kamu lupa mengambil Maney? Pastikan untuk mengambilnya."
+      "message": "Apa kamu lupa mengambil Uang? Pastikan untuk mengambilnya."
     },
     {
       "characterId": "jsna",
@@ -754,14 +754,14 @@
       "type": "PushType_MoneyFull",
       "number": 1,
       "title": "China Kuramoto",
-      "message": "Sensei, ayo kita pergi mengambil Maney!"
+      "message": "Sensei, ayo kita pergi mengambil Uang!"
     },
     {
       "characterId": "kcna",
       "type": "PushType_MoneyFull",
       "number": 2,
       "title": "China Kuramoto",
-      "message": "Hal luar biasa apa yang bisa kita lakukan dengan Maney? Ayo segera kita ambil!"
+      "message": "Hal luar biasa apa yang bisa kita lakukan dengan Uang? Ayo segera kita ambil!"
     },
     {
       "characterId": "kcna",
@@ -845,14 +845,14 @@
       "type": "PushType_MoneyFull",
       "number": 1,
       "title": "Lilja Katsuragi",
-      "message": "...Maukah kita pergi mengambil Maney?"
+      "message": "...Maukah kita pergi mengambil Uang?"
     },
     {
       "characterId": "kllj",
       "type": "PushType_MoneyFull",
       "number": 2,
       "title": "Lilja Katsuragi",
-      "message": "Aku ingin melakukan lesson, tapi... mungkin sebaiknya ambil Maney dulu..."
+      "message": "Aku ingin melakukan lesson, tapi... mungkin sebaiknya ambil Uang dulu..."
     },
     {
       "characterId": "kllj",
@@ -936,14 +936,14 @@
       "type": "PushType_MoneyFull",
       "number": 1,
       "title": "Hiro Shinosawa",
-      "message": "Ayo kita pergi mengambil Maney."
+      "message": "Ayo kita pergi mengambil Uang."
     },
     {
       "characterId": "shro",
       "type": "PushType_MoneyFull",
       "number": 2,
       "title": "Hiro Shinosawa",
-      "message": "Mengambil Maney juga dihitung sebagai latihan, kan?"
+      "message": "Mengambil Uang juga dihitung sebagai latihan, kan?"
     },
     {
       "characterId": "shro",
@@ -1027,14 +1027,14 @@
       "type": "PushType_MoneyFull",
       "number": 1,
       "title": "Sumika Shiun",
-      "message": "Kamu nggak lupa soal Maney, kan? Begitu kamu ambil, yuk kita kencan~♪"
+      "message": "Kamu nggak lupa soal Uang, kan? Begitu kamu ambil, yuk kita kencan~♪"
     },
     {
       "characterId": "ssmk",
       "type": "PushType_MoneyFull",
       "number": 2,
       "title": "Sumika Shiun",
-      "message": "Udah waktunya banget nih buat ngambil Maney-mu! Ayolah, buruan cepetan!"
+      "message": "Udah waktunya banget nih buat ngambil Uang-mu! Ayolah, buruan cepetan!"
     },
     {
       "characterId": "ssmk",
@@ -1118,14 +1118,14 @@
       "type": "PushType_MoneyFull",
       "number": 1,
       "title": "Temari Tsukimura",
-      "message": "Cepat ambil Maney sana."
+      "message": "Cepat ambil Uang sana."
     },
     {
       "characterId": "ttmr",
       "type": "PushType_MoneyFull",
       "number": 2,
       "title": "Temari Tsukimura",
-      "message": "Producer, kamu lupa mengambil Maney. Cepat lakukan."
+      "message": "Producer, kamu lupa mengambil Uang. Cepat lakukan."
     },
     {
       "characterId": "ttmr",

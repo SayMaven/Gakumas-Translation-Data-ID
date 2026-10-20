@@ -296,6 +296,7 @@ Semua nama karakter dipertahankan persis seperti di EN project (ejaan dan urutan
 | Free Jewel / 無償ジュエル | Jewel Gratis / Gratis | Mata uang reward gratis |
 | **Principal** | **Kepala Sekolah** | Panggilan Juo Kunio, termasuk label speaker `name=Kepala Sekolah` pada dialog ADV |
 | **Everyone** | **Semua Orang** | Reaksi murid/kolektif, termasuk label speaker `name=Semua Orang` pada dialog ADV |
+| **Maney / マニー** | **Uang** | Mata uang standar in-game (misal: Toko Penukaran Uang) |
 
 #### Aturan Khusus & Penegasan: "Bond" (Bukan "Keakraban")
 

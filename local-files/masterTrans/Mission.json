@@ -5991,7 +5991,7 @@
     },
     {
       "id": "mission-normal-incrementreceivemoney-1",
-      "name": "Terima total {threshold} maney dari dana aktivitas"
+      "name": "Terima total {threshold} uang dari dana aktivitas"
     },
     {
       "id": "mission-normal-incrementsupportcardenhancecount-1",
@@ -10779,7 +10779,7 @@
     },
     {
       "id": "achieve-o_009",
-      "name": "Terima total {threshold} maney dari dana aktivitas"
+      "name": "Terima total {threshold} uang dari dana aktivitas"
     },
     {
       "id": "achieve-o_010",
