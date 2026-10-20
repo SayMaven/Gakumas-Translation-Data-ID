@@ -31,7 +31,7 @@ Target: Seluruh antarmuka game, menu, tombol, item, misi, tutorial, dan string U
 
 | Status | File Target | Deskripsi | Volume | Penerjemah / Reviewer | Catatan |
 |---|---|---|---|---|---|
-| `[x]` | `local-files/localization.json` | String UI utama, menu, label status | 6.958 key | User & Assistant | **100% Selesai**. Seluruh sistem UI, menu, kartu nama, pemotretan, hadiah, P-Book, live, pengaturan, dan dialog game tuntas. |
+| `[x]` | `local-files/localization.json` | String UI utama, menu, label status | 7.019 key | User & Assistant | **100% Selesai**. Seluruh sistem UI, menu, kartu nama, pemotretan, hadiah, P-Book, live, pengaturan, Remake Memory, dan dialog game tuntas. |
 | `[x]` | `local-files/generic.json` | Kamus generik root sistem UI & fallback | 525 key | User & Assistant | **100% Selesai**. Alur produce, gacha, stamina, efek kartu, pencapaian, dan istilah umum game. |
 | `[x]` | `local-files/genericTrans/index/tutorial.json` | Panduan tutorial gameplay | 299 key | User & Assistant | **100% Selesai**. Mekanik turn, kartu, Genki, buff status (Kondisi Prima, Fokus, Kesan Baik, Semangat), dan Anomaly. |
 | `[x]` | `local-files/genericTrans/index/News.json` | Pengumuman dan berita in-game | 283 key | User & Assistant | **100% Selesai**. Judul pengumuman update game, banner gacha, event musim, dan laporan kendala bug. |
@@ -443,6 +443,10 @@ Total: **529 berkas** (10.414 baris dialog).
 | 2026-10-18 | **Seluruh Cerita Skenario Produksi (P-Story — `adv_pstory_*.txt`)** | Milestone | **611 Berkas Cerita P-Story TUNTAS 100% (11.400+ Elemen Dialog & Pilihan Respon)**. Seluruh skenario Produce idol (Common, Reversi, Saki, Temari, Kotone, Lilja, China, Sumika, Hiro, Rinami, Mao, Ume, Sena, Misuzu, Tsubame) tuntas diterjemahkan. Lolos validasi sintaksis ADV, LF murni. |
 | 2026-10-18 | `resource/adv_presult_*.txt`, `adv_produce*.txt`, `adv_tower*.txt` | Terjemahan | Menerjemahkan seluruh 13 berkas evaluasi akhir Produce (P-Result), 11 berkas interaksi mingguan Produce, dan 1 berkas mode Tower (total 25 berkas / 55 dialog). Lolos validasi sintaksis ADV, LF murni. **Total Berkas Game Tuntas Mencapai 1.426 Berkas**. |
 | 2026-10-19 | UI Text Overflow Fixes (Memori, Audition, Pop-up, Tombol) | Perbaikan | Memperbaiki teks UI overflow pada badge idol/kostum ("Aktif"), tombol revert produce ("Reset"), header upgrade ("Rincian Kartu Upgrade"), sub-deskripsi pop-up ("Bisa diubah di..."), batas skor H.I.F ("Batas"), syarat kemenangan ("Syarat"), tombol buat memory ("<size=70%>Buat</size>"), tombol panduan misi ("Panduan"), dan tahap pelatihan ("Tahap"). Lolos validasi JSON. |
+| 2026-10-20 | `localization.json` & `masterTrans/` (Sync Upstream EN) | Terjemahan | Menerjemahkan 61 key baru di `localization.json` (7.019 key tuntas), tombol gacha gratis di `GashaButton.json`, dan 3 komik baru di `Media.json`. Lolos validasi JSON. |
+| 2026-10-20 | `resource/adv_cidol-jsna-3-021_*.txt` (Idol Commu Sena Juo) | Terjemahan | Menerjemahkan seluruh 3 episode Idol Commu Sena Juo (104 dialog). Bebas overflow (<= 40 karakter), LF murni. **Sena Juo Idol Commu Tuntas (3 Berkas / 104 Dialog)**. |
+| 2026-10-20 | `resource/adv_csprt-3-0113_*.txt` (Support Card SSR Kotone & Sena) | Terjemahan | Menerjemahkan seluruh 3 episode cerita Support Card SSR (60 dialog). Bebas overflow (<= 40 karakter), LF murni. **Support Card SSR 0113 Tuntas (3 Berkas / 60 Dialog)**. |
+| 2026-10-20 | `resource/adv_csprt-2-0057_*.txt` (Support Card SR Sena & Misuzu) | Terjemahan | Menerjemahkan seluruh 2 episode cerita Support Card SR (39 dialog). Bebas overflow (<= 40 karakter), LF murni. **Support Card SR 0057 Tuntas (2 Berkas / 39 Dialog)**. |
 
 
 
