@@ -529,6 +529,15 @@
       "bottomAppealText": ""
     },
     {
+      "id": "gasha_button-free-1-01",
+      "order": 1,
+      "name": "Gacha Gratis 1x",
+      "description": "Tarik Gratis 1x",
+      "appealText": "Pasti SSR ",
+      "highAppealText": "",
+      "bottomAppealText": ""
+    },
+    {
       "id": "gasha_button-free-10-01",
       "order": 1,
       "name": "Gacha 10x",
