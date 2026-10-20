@@ -42,7 +42,7 @@ LOCALIZATION_FILE = BASE_DIR / "local-files" / "localization.json"
 MAX_SAFE_LINE_LENGTH = 40
 
 RE_ADV_TAG = re.compile(
-    r'\[(message|narration|choice)\s+text=(.*?)(?=(?:\s+(?:name|isInner|clip|lip|target|voice|speaker|se|fontSize|fade|speed)=|\]))',
+    r'\[(message|narration|choice)\s+text=(.*?)(?=(?:\s+(?:name|isInner|clip|lip|target|voice|speaker|se|fontSize|fade|speed|setting|selectAction)=|\]))',
     re.DOTALL
 )
 RE_NAME = re.compile(r'\s+name=([^\s\]]+)')
