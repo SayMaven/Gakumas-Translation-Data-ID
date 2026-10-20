@@ -294,6 +294,8 @@ Semua nama karakter dipertahankan persis seperti di EN project (ejaan dan urutan
 | Jewel | Jewel | Tetap — mata uang game |
 | Paid Jewel / 有償ジュエル | Jewel Paid / Paid | Mata uang premium berbayar (Gacha, Toko, Saldo) |
 | Free Jewel / 無償ジュエル | Jewel Gratis / Gratis | Mata uang reward gratis |
+| **Principal** | **Kepala Sekolah** | Panggilan Juo Kunio, termasuk label speaker `name=Kepala Sekolah` pada dialog ADV |
+| **Everyone** | **Semua Orang** | Reaksi murid/kolektif, termasuk label speaker `name=Semua Orang` pada dialog ADV |
 
 #### Aturan Khusus & Penegasan: "Bond" (Bukan "Keakraban")
 
@@ -948,7 +950,11 @@ Tipe yang valid:
 - **Peran**: Kepala Sekolah Hatsuboshi Gakuen (kakek Sena Juo)
 - **Kepribadian**: Berwibawa, berpengaruh, namun ramah dan eksentrik
 - **Gaya bicara**: Berkarisma, santai tapi berbobot, penuh visi untuk murid-muridnya
-- **Sapaan**: **Kepala Sekolah**
+- **Sapaan**: **Kepala Sekolah** (label speaker naskah ADV: `name=Kepala Sekolah`)
+
+#### Pembicara Kolektif (Everyone)
+- **Peran**: Murid-murid sekolah, penonton, atau reaksi serentak orang banyak
+- **Label Speaker ADV**: **`name=Semua Orang`** (menggantikan `name=Everyone`)
 
 #### Trainer (Vocal, Dance, Visual)
 - **Peran**: Instruktur pelatihan teknis di Hatsuboshi Gakuen
