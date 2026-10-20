@@ -2608,7 +2608,7 @@
   "live_select.additional_asset.condition.costume.condition_valid": "Atur",
   "live_select.additional_asset.condition.costume.title": "Kompatibel dengan efek khusus",
   "live_select.additional_asset.condition.costume.warning": "※Belum ada kostum yang diatur",
-  "live_select.additional_asset.user_select.description": "※Menonaktifkan efek khusus akan mengembalikannya ke semula",
+  "live_select.additional_asset.user_select.description": "※Matikan efek khusus untuk Default",
   "live_select.additional_asset.user_select.title": "Efek Khusus",
   "loading.api.label": "MENGHUBUNGKAN",
   "loading.device_rotation.label.horizontal": "Video akan diputar dalam mode lanskap",
