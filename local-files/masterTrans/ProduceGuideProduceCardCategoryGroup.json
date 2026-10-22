@@ -7,19 +7,19 @@
   "data": [
     {
       "id": "CardPlayAggressive_group_20",
-      "description": "Direkomendasikan menggunakan Skill Card \"Semangat\""
+      "description": "Direkomendasikan menggunakan Skill Card \"Motivasi\""
     },
     {
       "id": "CardPlayAggressive_group_35",
-      "description": "Direkomendasikan menggunakan Skill Card \"Semangat\""
+      "description": "Direkomendasikan menggunakan Skill Card \"Motivasi\""
     },
     {
       "id": "CardPlayAggressive_Review_group_20",
-      "description": "Disarankan menyeimbangkan Skill Card \"Semangat\" dan \"Kesan Baik\""
+      "description": "Disarankan menyeimbangkan Skill Card \"Motivasi\" dan \"Kesan Baik\""
     },
     {
       "id": "CardPlayAggressive_Review_group_35",
-      "description": "Disarankan menyeimbangkan Skill Card \"Semangat\" dan \"Kesan Baik\""
+      "description": "Disarankan menyeimbangkan Skill Card \"Motivasi\" dan \"Kesan Baik\""
     },
     {
       "id": "Concentration_group_20",
@@ -55,11 +55,11 @@
     },
     {
       "id": "Review_CardPlayAggressive_group_20",
-      "description": "Disarankan menyeimbangkan Skill Card \"Kesan Baik\" dan \"Semangat\""
+      "description": "Disarankan menyeimbangkan Skill Card \"Kesan Baik\" dan \"Motivasi\""
     },
     {
       "id": "Review_CardPlayAggressive_group_35",
-      "description": "Disarankan menyeimbangkan Skill Card \"Kesan Baik\" dan \"Semangat\""
+      "description": "Disarankan menyeimbangkan Skill Card \"Kesan Baik\" dan \"Motivasi\""
     },
     {
       "id": "Review_group_20",

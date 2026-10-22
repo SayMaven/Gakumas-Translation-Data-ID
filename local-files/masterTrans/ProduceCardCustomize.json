@@ -725,7 +725,7 @@
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_card_play_aggressive-0002",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_AggressiveAdd",
-      "description": "Semangat +"
+      "description": "Motivasi +"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_card_upgrade-p_card_search-hand-all-0_0",
@@ -767,7 +767,7 @@
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_lesson_depend_exam_card_play_aggressive-1100-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_LessonDependExamCardPlayAggressiveAdd",
-      "description": "Param Berbasis Semangat +"
+      "description": "Param Berbasis Motivasi +"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_lesson_depend_exam_review-0600-01",
@@ -1523,7 +1523,7 @@
       "id": "p_card_custom-wrapper-p_card-02-act-1_070-a-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_AggressiveAdd",
-      "description": "Semangat +"
+      "description": "Motivasi +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-02-act-1_070-b-01",
@@ -1601,7 +1601,7 @@
       "id": "p_card_custom-wrapper-p_card-02-act-3_186-b-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_AggressiveAdd",
-      "description": "Semangat +"
+      "description": "Motivasi +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-02-act-3_187-a-01",

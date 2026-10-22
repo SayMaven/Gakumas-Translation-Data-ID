@@ -7,7 +7,7 @@
   "data": [
     {
       "id": "CardPlayAggressive_group_20_CardPlayAggressive",
-      "label": "Skill Card Peningkat Semangat"
+      "label": "Skill Card Peningkat Motivasi"
     },
     {
       "id": "CardPlayAggressive_group_20_CardPlayAggressive_score",
@@ -23,7 +23,7 @@
     },
     {
       "id": "CardPlayAggressive_group_35_CardPlayAggressive",
-      "label": "Skill Card Peningkat Semangat"
+      "label": "Skill Card Peningkat Motivasi"
     },
     {
       "id": "CardPlayAggressive_group_35_CardPlayAggressive_score",
@@ -39,7 +39,7 @@
     },
     {
       "id": "CardPlayAggressive_Review_group_20_CardPlayAggressive",
-      "label": "Skill Card Peningkat Semangat"
+      "label": "Skill Card Peningkat Motivasi"
     },
     {
       "id": "CardPlayAggressive_Review_group_20_CardPlayAggressive_score",
@@ -59,7 +59,7 @@
     },
     {
       "id": "CardPlayAggressive_Review_group_35_CardPlayAggressive",
-      "label": "Skill Card Peningkat Semangat"
+      "label": "Skill Card Peningkat Motivasi"
     },
     {
       "id": "CardPlayAggressive_Review_group_35_CardPlayAggressive_score",
@@ -219,7 +219,7 @@
     },
     {
       "id": "Review_CardPlayAggressive_group_20_CardPlayAggressive",
-      "label": "Skill Card Peningkat Semangat"
+      "label": "Skill Card Peningkat Motivasi"
     },
     {
       "id": "Review_CardPlayAggressive_group_20_logic_other",
@@ -235,7 +235,7 @@
     },
     {
       "id": "Review_CardPlayAggressive_group_35_CardPlayAggressive",
-      "label": "Skill Card Peningkat Semangat"
+      "label": "Skill Card Peningkat Motivasi"
     },
     {
       "id": "Review_CardPlayAggressive_group_35_logic_other",

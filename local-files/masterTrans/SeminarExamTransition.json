@@ -59,17 +59,17 @@
       "examEffectType": "ProduceExamEffectType_ExamCardPlayAggressive",
       "isLessonInt": 0,
       "seminarExamId": "seminar_gruop-03_04",
-      "description": "Nilai target masih sedikit kurang. Semangat memiliki efek meningkatkan perolehan Genki sebesar nilainya. Ayo pelajari tips menggunakannya secara efektif dalam latihan ujian!",
+      "description": "Nilai target masih sedikit kurang. Motivasi memiliki efek meningkatkan perolehan Genki sebesar nilainya. Ayo pelajari tips menggunakannya secara efektif dalam latihan ujian!",
       "seminarExamGroupName": "Latihan Ujian",
-      "seminarExamName": "【Ujian 4】Semangat"
+      "seminarExamName": "【Ujian 4】Motivasi"
     },
     {
       "examEffectType": "ProduceExamEffectType_ExamCardPlayAggressive",
       "isLessonInt": 1,
       "seminarExamId": "seminar_gruop-01_04",
-      "description": "Nilai target masih sedikit kurang. Semangat memiliki efek meningkatkan perolehan Genki sebesar nilainya. Ayo pelajari tips menggunakannya secara efektif dalam latihan!",
+      "description": "Nilai target masih sedikit kurang. Motivasi memiliki efek meningkatkan perolehan Genki sebesar nilainya. Ayo pelajari tips menggunakannya secara efektif dalam latihan!",
       "seminarExamGroupName": "Latihan Dasar",
-      "seminarExamName": "【Dasar 4】Semangat"
+      "seminarExamName": "【Dasar 4】Motivasi"
     },
     {
       "examEffectType": "ProduceExamEffectType_ExamConcentration",

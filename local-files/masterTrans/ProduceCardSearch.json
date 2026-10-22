@@ -793,7 +793,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2163,7 +2163,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_031",
-          "text": "Semangat! "
+          "text": "Motivasi! "
         }
       ]
     },
@@ -2263,7 +2263,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3248,7 +3248,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Semangat "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3593,7 +3593,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_036",
-          "text": "Semangat Membara"
+          "text": "Motivasi Membara"
         }
       ]
     },
@@ -3623,7 +3623,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_069",
-          "text": "Pompa Semangat"
+          "text": "Pompa Motivasi"
         }
       ]
     },
@@ -3713,7 +3713,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-2_031",
-          "text": "Turn Semangat"
+          "text": "Turn Motivasi"
         }
       ]
     },
@@ -4058,7 +4058,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-act-1_004",
-          "text": "Sapaan Bersemangat"
+          "text": "Sapaan Bermotivasi"
         }
       ]
     },
@@ -4298,7 +4298,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_009",
-          "text": "Dorongan Semangat"
+          "text": "Dorongan Motivasi"
         }
       ]
     },
@@ -4328,7 +4328,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_031",
-          "text": "Semangat! "
+          "text": "Motivasi! "
         }
       ]
     },
@@ -4403,7 +4403,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-2_004",
-          "text": "Semangat Tanpa Henti "
+          "text": "Motivasi Tanpa Henti "
         }
       ]
     },
@@ -4448,7 +4448,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-2_051",
-          "text": "Penuh Semangat"
+          "text": "Penuh Motivasi"
         }
       ]
     },
@@ -4643,7 +4643,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-act-1_043",
-          "text": "Bersemangat"
+          "text": "Bermotivasi"
         }
       ]
     },
@@ -5048,7 +5048,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-men-2_075",
-          "text": "Semangat"
+          "text": "Motivasi"
         }
       ]
     },
@@ -5063,7 +5063,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-men-2_076",
-          "text": "Pemicu Semangat"
+          "text": "Pemicu Motivasi"
         }
       ]
     },

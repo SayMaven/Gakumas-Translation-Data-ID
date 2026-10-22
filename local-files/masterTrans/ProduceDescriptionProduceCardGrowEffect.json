@@ -129,14 +129,14 @@
     {
       "type": "ProduceCardGrowEffectType_AggressiveAdd",
       "produceDescriptionLabelId": "Label_AggressiveAdd",
-      "name": "Semangat +",
-      "produceCardCustomizeDescription": "Semangat +"
+      "name": "Motivasi +",
+      "produceCardCustomizeDescription": "Motivasi +"
     },
     {
       "type": "ProduceCardGrowEffectType_AggressiveReduce",
       "produceDescriptionLabelId": "Label_AggressiveReduce",
-      "name": "Semangat -",
-      "produceCardCustomizeDescription": "Semangat -"
+      "name": "Motivasi -",
+      "produceCardCustomizeDescription": "Motivasi -"
     },
     {
       "type": "ProduceCardGrowEffectType_CardDrawAdd",
@@ -261,14 +261,14 @@
     {
       "type": "ProduceCardGrowEffectType_CostAggressiveReduce",
       "produceDescriptionLabelId": "Label_CostAggressiveReduce",
-      "name": "Biaya Semangat -",
-      "produceCardCustomizeDescription": "Biaya Semangat -"
+      "name": "Biaya Motivasi -",
+      "produceCardCustomizeDescription": "Biaya Motivasi -"
     },
     {
       "type": "ProduceCardGrowEffectType_CostAggressiveAdd",
       "produceDescriptionLabelId": "Label_CostAggressiveAdd",
-      "name": "Biaya Semangat +",
-      "produceCardCustomizeDescription": "Biaya Semangat +"
+      "name": "Biaya Motivasi +",
+      "produceCardCustomizeDescription": "Biaya Motivasi +"
     },
     {
       "type": "ProduceCardGrowEffectType_CostParameterBuffReduce",
@@ -303,8 +303,8 @@
     {
       "type": "ProduceCardGrowEffectType_LessonDependExamCardPlayAggressiveAdd",
       "produceDescriptionLabelId": "Label_LessonDependExamCardPlayAggressiveAdd",
-      "name": "Pengali Param Berbasis Semangat +",
-      "produceCardCustomizeDescription": "Param Berbasis Semangat +"
+      "name": "Pengali Param Berbasis Motivasi +",
+      "produceCardCustomizeDescription": "Param Berbasis Motivasi +"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonDependExamReviewAdd",

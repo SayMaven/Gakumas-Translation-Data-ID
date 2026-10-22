@@ -27343,7 +27343,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pemulihan Stamina\nDapatkan P-Drink acak (SR ke atas)\nPilih Skill Card dan ubah menjadi Skill Card terkait Semangat lain "
+          "text": "Pemulihan Stamina\nDapatkan P-Drink acak (SR ke atas)\nPilih Skill Card dan ubah menjadi Skill Card terkait Motivasi lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -27733,7 +27733,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pemulihan Stamina\nDapatkan P-Drink acak (SR ke atas)\nPilih Skill Card dan ubah menjadi Skill Card terkait Semangat lain "
+          "text": "Pemulihan Stamina\nDapatkan P-Drink acak (SR ke atas)\nPilih Skill Card dan ubah menjadi Skill Card terkait Motivasi lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -28003,7 +28003,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pemulihan Stamina\nDapatkan 2 P-Drink acak\nPilih Skill Card dan ubah menjadi Skill Card terkait Semangat lain "
+          "text": "Pemulihan Stamina\nDapatkan 2 P-Drink acak\nPilih Skill Card dan ubah menjadi Skill Card terkait Motivasi lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -28393,7 +28393,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pemulihan Stamina\nDapatkan 2 P-Drink acak\nPilih Skill Card dan ubah menjadi Skill Card terkait Semangat lain "
+          "text": "Pemulihan Stamina\nDapatkan 2 P-Drink acak\nPilih Skill Card dan ubah menjadi Skill Card terkait Motivasi lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -29208,7 +29208,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi yang telah ditingkatkan "
         }
       ]
     },
@@ -29348,7 +29348,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi yang telah ditingkatkan "
         }
       ]
     },
@@ -29488,7 +29488,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi yang telah ditingkatkan "
         }
       ]
     },
@@ -30468,7 +30468,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -30608,7 +30608,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -30748,7 +30748,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -32008,7 +32008,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -32228,7 +32228,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -32448,7 +32448,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -33988,7 +33988,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -34208,7 +34208,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -34428,7 +34428,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -35688,7 +35688,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi yang telah ditingkatkan "
         }
       ]
     },
@@ -35828,7 +35828,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi yang telah ditingkatkan "
         }
       ]
     },
@@ -35968,7 +35968,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi yang telah ditingkatkan "
         }
       ]
     },
@@ -36948,7 +36948,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -37088,7 +37088,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -37228,7 +37228,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -38488,7 +38488,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -38708,7 +38708,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -38928,7 +38928,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -40468,7 +40468,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -40688,7 +40688,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -40908,7 +40908,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -42168,7 +42168,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi yang telah ditingkatkan "
         }
       ]
     },
@@ -42308,7 +42308,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi yang telah ditingkatkan "
         }
       ]
     },
@@ -42448,7 +42448,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi yang telah ditingkatkan "
         }
       ]
     },
@@ -43428,7 +43428,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -43568,7 +43568,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -43708,7 +43708,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -44968,7 +44968,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -45188,7 +45188,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -45408,7 +45408,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -46948,7 +46948,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -47168,7 +47168,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -47388,7 +47388,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -48648,7 +48648,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi yang telah ditingkatkan "
         }
       ]
     },
@@ -48788,7 +48788,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi yang telah ditingkatkan "
         }
       ]
     },
@@ -48928,7 +48928,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi yang telah ditingkatkan "
         }
       ]
     },
@@ -49908,7 +49908,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -50048,7 +50048,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -50188,7 +50188,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -51448,7 +51448,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -51668,7 +51668,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -51888,7 +51888,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -53428,7 +53428,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -53648,7 +53648,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -53868,7 +53868,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -55128,7 +55128,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi yang telah ditingkatkan "
         }
       ]
     },
@@ -55268,7 +55268,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Motivasi yang telah ditingkatkan "
         }
       ]
     },
@@ -55408,7 +55408,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat yang telah ditingkatkan "
+          "text": "Pilih dan peroleh Skill Card terkait Motivasi yang telah ditingkatkan "
         }
       ]
     },
@@ -56388,7 +56388,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "Pilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -56528,7 +56528,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "Pilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -56668,7 +56668,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "Pilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -57928,7 +57928,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "Pilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -58148,7 +58148,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "Pilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -58368,7 +58368,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "Pilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -59908,7 +59908,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "Pilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -60128,7 +60128,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "Pilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -60348,7 +60348,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "Pilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -61608,7 +61608,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat yang telah ditingkatkan "
+          "text": "Pilih dan peroleh Skill Card terkait Motivasi yang telah ditingkatkan "
         }
       ]
     },
@@ -61748,7 +61748,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat yang telah ditingkatkan "
+          "text": "Pilih dan peroleh Skill Card terkait Motivasi yang telah ditingkatkan "
         }
       ]
     },
@@ -61888,7 +61888,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat yang telah ditingkatkan "
+          "text": "Pilih dan peroleh Skill Card terkait Motivasi yang telah ditingkatkan "
         }
       ]
     },
@@ -62868,7 +62868,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "Pilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -63008,7 +63008,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "Pilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -63148,7 +63148,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "Pilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -64408,7 +64408,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "Pilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -64628,7 +64628,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "Pilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -64848,7 +64848,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "Pilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -66388,7 +66388,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "Pilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -66608,7 +66608,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "Pilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -66828,7 +66828,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "Pilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -67853,7 +67853,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Semangat lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Motivasi lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -68453,7 +68453,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Semangat lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Motivasi lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -69453,7 +69453,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Semangat lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Motivasi lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -69563,7 +69563,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "Pilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -69653,7 +69653,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Semangat lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Motivasi lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -69763,7 +69763,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "Pilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -69853,7 +69853,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Semangat lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Motivasi lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -69963,7 +69963,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "Pilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -71253,7 +71253,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Semangat lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Motivasi lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -71363,7 +71363,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "Pilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -71453,7 +71453,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Semangat lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Motivasi lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -71563,7 +71563,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "Pilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -71653,7 +71653,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Semangat lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Motivasi lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -71763,7 +71763,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "Pilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -73053,7 +73053,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Semangat lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Motivasi lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -73163,7 +73163,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "Pilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -73253,7 +73253,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Semangat lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Motivasi lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -73363,7 +73363,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "Pilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -73453,7 +73453,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Semangat lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Motivasi lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -73563,7 +73563,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "Pilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -74578,7 +74578,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "Pilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -74933,7 +74933,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Semangat lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Motivasi lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -75308,7 +75308,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "Pilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -75663,7 +75663,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Semangat lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Motivasi lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -76038,7 +76038,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Semangat "
+          "text": "Pilih dan peroleh Skill Card terkait Motivasi "
         }
       ]
     },
@@ -76393,7 +76393,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Semangat lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Motivasi lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -76953,7 +76953,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Semangat lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Motivasi lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -77408,7 +77408,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Semangat lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Motivasi lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -77863,7 +77863,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Semangat lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Motivasi lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
