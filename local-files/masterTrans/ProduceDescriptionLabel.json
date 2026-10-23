@@ -2380,7 +2380,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "jumlah sisa giliran bertambah"
+          "text": "jumlah giliran bertambah"
         }
       ],
       "name": "Giliran Tambahan "
