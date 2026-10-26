@@ -1,9 +1,23 @@
 {
+  "url": "https://gitlab.com/SayMaven/gakumas-translation-data-id",
+  "html_url": "https://gitlab.com/SayMaven/gakumas-translation-data-id",
   "tag_name": "20261025.091942.main.976b46f",
+  "target_commitish": "main",
   "name": "Rilis Data Terjemahan ID 2026-10-25",
+  "draft": false,
+  "prerelease": false,
+  "created_at": "2026-10-25T09:19:42Z",
+  "published_at": "2026-10-25T09:19:42Z",
+  "body": "Rilis data terjemahan Bahasa Indonesia untuk Gakumas.",
   "assets": [
     {
+      "url": "https://gitlab.com/SayMaven/gakumas-translation-data-id",
+      "id": 1,
       "name": "Gakumas-Translation-Data-ID-20261025.091942.main.976b46f.zip",
+      "label": "",
+      "content_type": "application/zip",
+      "state": "uploaded",
+      "size": 25073564,
       "browser_download_url": "https://gitlab.com/-/project/88095150/uploads/d0dd7d1b5458c594def687380fe6e7e8/Gakumas-Translation-Data-ID-20261025.091942.main.976b46f.zip"
     }
   ]
