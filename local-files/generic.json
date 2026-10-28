@@ -391,7 +391,7 @@
   "後、体力回復": "Kemudian pulihkan stamina",
   "必要ファン投票数": "Jumlah Vote Penggemar yang Dibutuhkan",
   "応援/\nトラブル": "Dukungan /\nTrouble",
-  "応用研修": "Pelatihan Lanjutan",
+  "応用研修": "Seminar Lanjutan",
   "成功で": "Jika Berhasil",
   "所持一覧": "Daftar Dimiliki",
   "招待する": "Undang",
@@ -523,5 +523,6 @@
   "開始時刻 :": "Waktu Mulai:",
   "除名": "Keluarkan",
   "集中が1増加するごとに、パラメータ上昇量を1増加": "Tiap kali Fokus bertambah 1, tingkatkan perolehan parameter sebesar 1",
-  "集中を増加するスキルカード": "Skill Card yang meningkatkan Fokus"
+  "集中を増加するスキルカード": "Skill Card yang meningkatkan Fokus",
+  "研修": "Seminar"
 }
