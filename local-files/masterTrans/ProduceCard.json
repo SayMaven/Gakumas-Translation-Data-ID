@@ -438341,7 +438341,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good Shape "
+          "text": "Kondisi Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -438371,7 +438371,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turn(s)</nobr> "
+          "text": "turn</nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -438401,7 +438401,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If in any location except Exile, there are "
+          "text": "Jika di lokasi mana pun selain Exile, terdapat "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -438411,7 +438411,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "Trouble Card "
+          "text": "Kartu Trouble "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -438421,7 +438421,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>2 cards or more</nobr>: "
+          "text": "<nobr>2 kartu atau lebih</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -438431,7 +438431,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good Shape "
+          "text": "Kondisi Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -438461,7 +438461,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turn(s)</nobr> "
+          "text": "turn</nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -438491,7 +438491,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -438598,7 +438598,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good Shape "
+          "text": "Kondisi Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -438628,7 +438628,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turn(s)</nobr> "
+          "text": "turn</nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -438658,7 +438658,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If in any location except Exile, there are "
+          "text": "Jika di lokasi mana pun selain Exile, terdapat "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -438668,7 +438668,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "Trouble Card "
+          "text": "Kartu Trouble "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -438678,7 +438678,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>2 cards or more</nobr>: "
+          "text": "<nobr>2 kartu atau lebih</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -438688,7 +438688,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good Shape "
+          "text": "Kondisi Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -438718,7 +438718,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turn(s)</nobr> "
+          "text": "turn</nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -438748,7 +438748,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -438855,7 +438855,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good Shape "
+          "text": "Kondisi Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -438885,7 +438885,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turn(s)</nobr> "
+          "text": "turn</nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -438915,7 +438915,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If in any location except Exile, there are "
+          "text": "Jika di lokasi mana pun selain Exile, terdapat "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -438925,7 +438925,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "Trouble Card "
+          "text": "Kartu Trouble "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -438935,7 +438935,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>2 cards or more</nobr>: "
+          "text": "<nobr>2 kartu atau lebih</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -438945,7 +438945,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good Shape "
+          "text": "Kondisi Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -438975,7 +438975,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turn(s)</nobr> "
+          "text": "turn</nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -439005,7 +439005,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -439112,7 +439112,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good Shape "
+          "text": "Kondisi Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -439142,7 +439142,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turn(s)</nobr> "
+          "text": "turn</nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -439172,7 +439172,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If in any location except Exile, there are "
+          "text": "Jika di lokasi mana pun selain Exile, terdapat "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -439182,7 +439182,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "Trouble Card "
+          "text": "Kartu Trouble "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -439192,7 +439192,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>2 cards or more</nobr>: "
+          "text": "<nobr>2 kartu atau lebih</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -439202,7 +439202,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good Shape "
+          "text": "Kondisi Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -439232,7 +439232,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turn(s)</nobr> "
+          "text": "turn</nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -439262,7 +439262,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -439369,7 +439369,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -439429,7 +439429,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If in any location except Exile, there are "
+          "text": "Jika di lokasi mana pun selain Exile, terdapat "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -439439,7 +439439,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "Trouble Card "
+          "text": "Kartu Trouble "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -439449,7 +439449,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>2 cards or more</nobr>: "
+          "text": "<nobr>2 kartu atau lebih</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -439459,7 +439459,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -439519,7 +439519,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -439626,7 +439626,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -439686,7 +439686,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If in any location except Exile, there are "
+          "text": "Jika di lokasi mana pun selain Exile, terdapat "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -439696,7 +439696,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "Trouble Card "
+          "text": "Kartu Trouble "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -439706,7 +439706,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>2 cards or more</nobr>: "
+          "text": "<nobr>2 kartu atau lebih</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -439716,7 +439716,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -439776,7 +439776,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -439883,7 +439883,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -439943,7 +439943,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If in any location except Exile, there are "
+          "text": "Jika di lokasi mana pun selain Exile, terdapat "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -439953,7 +439953,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "Trouble Card "
+          "text": "Kartu Trouble "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -439963,7 +439963,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>2 cards or more</nobr>: "
+          "text": "<nobr>2 kartu atau lebih</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -439973,7 +439973,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -440033,7 +440033,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -440140,7 +440140,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -440200,7 +440200,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If in any location except Exile, there are "
+          "text": "Jika di lokasi mana pun selain Exile, terdapat "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -440210,7 +440210,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "Trouble Card "
+          "text": "Kartu Trouble "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -440220,7 +440220,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>2 cards or more</nobr>: "
+          "text": "<nobr>2 kartu atau lebih</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -440230,7 +440230,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -440290,7 +440290,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -440327,7 +440327,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -440337,7 +440337,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>6 or more</nobr>: Can use "
+          "text": "<nobr>6 atau lebih</nobr>: Dapat digunakan "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -440377,7 +440377,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -440437,7 +440437,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "Skill Card uses "
+          "text": "Batas Penggunaan Skill Card "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -440497,7 +440497,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If 5 turns left, "
+          "text": "Jika tersisa 5 turn: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -440577,7 +440577,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If final turn, "
+          "text": "Jika turn terakhir: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -440667,7 +440667,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_NoDeckDuplication",
-          "text": "No dupe "
+          "text": "Maks. 1 Kartu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -440687,7 +440687,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -440724,7 +440724,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -440734,7 +440734,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>6 or more</nobr>: Can use "
+          "text": "<nobr>6 atau lebih</nobr>: Dapat digunakan "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -440774,7 +440774,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -440834,7 +440834,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "Skill Card uses "
+          "text": "Batas Penggunaan Skill Card "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -440894,7 +440894,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If 5 turns left, "
+          "text": "Jika tersisa 5 turn: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -440974,7 +440974,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If final turn, "
+          "text": "Jika turn terakhir: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -441064,7 +441064,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_NoDeckDuplication",
-          "text": "No dupe "
+          "text": "Maks. 1 Kartu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -441084,7 +441084,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -441121,7 +441121,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -441131,7 +441131,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>6 or more</nobr>: Can use "
+          "text": "<nobr>6 atau lebih</nobr>: Dapat digunakan "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -441171,7 +441171,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -441231,7 +441231,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "Skill Card uses "
+          "text": "Batas Penggunaan Skill Card "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -441291,7 +441291,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If 5 turns left, "
+          "text": "Jika tersisa 5 turn: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -441371,7 +441371,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If final turn, "
+          "text": "Jika turn terakhir: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -441461,7 +441461,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_NoDeckDuplication",
-          "text": "No dupe "
+          "text": "Maks. 1 Kartu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -441481,7 +441481,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -441518,7 +441518,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -441528,7 +441528,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>6 or more</nobr>: Can use "
+          "text": "<nobr>6 atau lebih</nobr>: Dapat digunakan "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -441568,7 +441568,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -441628,7 +441628,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "Skill Card uses "
+          "text": "Batas Penggunaan Skill Card "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -441688,7 +441688,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If 5 turns left, "
+          "text": "Jika tersisa 5 turn: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -441768,7 +441768,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If final turn, "
+          "text": "Jika turn terakhir: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -441858,7 +441858,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_NoDeckDuplication",
-          "text": "No dupe "
+          "text": "Maks. 1 Kartu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -441878,7 +441878,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -441925,7 +441925,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good Shape "
+          "text": "Kondisi Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -441955,7 +441955,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turn(s)</nobr> "
+          "text": "turn</nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -441985,7 +441985,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good Shape "
+          "text": "Kondisi Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -441995,7 +441995,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>4 turns or more</nobr>: "
+          "text": "<nobr>4 turn atau lebih</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -442005,7 +442005,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -442065,7 +442065,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -442075,7 +442075,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>9 or less</nobr>: "
+          "text": "<nobr>9 atau kurang</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -442085,7 +442085,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good Shape "
+          "text": "Kondisi Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -442115,7 +442115,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turn(s)</nobr> "
+          "text": "turn</nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -442145,7 +442145,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -442192,7 +442192,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good Shape "
+          "text": "Kondisi Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -442222,7 +442222,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turn(s)</nobr> "
+          "text": "turn</nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -442252,7 +442252,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good Shape "
+          "text": "Kondisi Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -442262,7 +442262,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>4 turns or more</nobr>: "
+          "text": "<nobr>4 turn atau lebih</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -442272,7 +442272,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -442332,7 +442332,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -442342,7 +442342,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>9 or less</nobr>: "
+          "text": "<nobr>9 atau kurang</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -442352,7 +442352,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good Shape "
+          "text": "Kondisi Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -442382,7 +442382,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turn(s)</nobr> "
+          "text": "turn</nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -442412,7 +442412,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -442459,7 +442459,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good Shape "
+          "text": "Kondisi Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -442489,7 +442489,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turn(s)</nobr> "
+          "text": "turn</nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -442519,7 +442519,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good Shape "
+          "text": "Kondisi Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -442529,7 +442529,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>4 turns or more</nobr>: "
+          "text": "<nobr>4 turn atau lebih</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -442539,7 +442539,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -442599,7 +442599,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -442609,7 +442609,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>9 or less</nobr>: "
+          "text": "<nobr>9 atau kurang</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -442619,7 +442619,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good Shape "
+          "text": "Kondisi Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -442649,7 +442649,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turn(s)</nobr> "
+          "text": "turn</nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -442679,7 +442679,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -442726,7 +442726,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good Shape "
+          "text": "Kondisi Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -442756,7 +442756,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turn(s)</nobr> "
+          "text": "turn</nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -442786,7 +442786,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good Shape "
+          "text": "Kondisi Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -442796,7 +442796,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>4 turns or more</nobr>: "
+          "text": "<nobr>4 turn atau lebih</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -442806,7 +442806,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -442866,7 +442866,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -442876,7 +442876,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>9 or less</nobr>: "
+          "text": "<nobr>9 atau kurang</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -442886,7 +442886,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good Shape "
+          "text": "Kondisi Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -442916,7 +442916,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turn(s)</nobr> "
+          "text": "turn</nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -442946,7 +442946,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -442993,7 +442993,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -443053,7 +443053,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -443063,7 +443063,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If it is 5 or greater, "
+          "text": "Jika berjumlah 5 atau lebih: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -443073,7 +443073,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good Shape "
+          "text": "Kondisi Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -443103,7 +443103,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turn(s)</nobr> "
+          "text": "turn</nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -443133,7 +443133,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good Shape "
+          "text": "Kondisi Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -443143,7 +443143,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If it is 9 turns or fewer, "
+          "text": "Jika tersisa 9 turn atau kurang: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -443153,7 +443153,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -443213,7 +443213,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -443260,7 +443260,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -443320,7 +443320,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -443330,7 +443330,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If it is 5 or greater, "
+          "text": "Jika berjumlah 5 atau lebih: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -443340,7 +443340,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good Shape "
+          "text": "Kondisi Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -443370,7 +443370,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turn(s)</nobr> "
+          "text": "turn</nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -443400,7 +443400,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good Shape "
+          "text": "Kondisi Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -443410,7 +443410,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If it is 9 turns or fewer, "
+          "text": "Jika tersisa 9 turn atau kurang: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -443420,7 +443420,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -443480,7 +443480,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -443527,7 +443527,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -443587,7 +443587,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -443597,7 +443597,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If it is 5 or greater, "
+          "text": "Jika berjumlah 5 atau lebih: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -443607,7 +443607,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good Shape "
+          "text": "Kondisi Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -443637,7 +443637,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turn(s)</nobr> "
+          "text": "turn</nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -443667,7 +443667,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good Shape "
+          "text": "Kondisi Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -443677,7 +443677,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If it is 9 turns or fewer, "
+          "text": "Jika tersisa 9 turn atau kurang: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -443687,7 +443687,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -443747,7 +443747,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -443794,7 +443794,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -443854,7 +443854,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -443864,7 +443864,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If it is 5 or greater, "
+          "text": "Jika berjumlah 5 atau lebih: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -443874,7 +443874,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good Shape "
+          "text": "Kondisi Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -443904,7 +443904,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turn(s)</nobr> "
+          "text": "turn</nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -443934,7 +443934,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good Shape "
+          "text": "Kondisi Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -443944,7 +443944,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If it is 9 turns or fewer, "
+          "text": "Jika tersisa 9 turn atau kurang: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -443954,7 +443954,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Fokus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -444014,7 +444014,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -444061,7 +444061,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -444111,7 +444111,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -444171,7 +444171,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If in any location except Exile, there are "
+          "text": "Jika di lokasi mana pun selain Exile, terdapat "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -444181,7 +444181,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "Trouble Card "
+          "text": "Kartu Trouble "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -444191,7 +444191,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>2 cards or more</nobr>: "
+          "text": "<nobr>2 kartu atau lebih</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -444201,7 +444201,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -444251,7 +444251,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "gain "
+          "text": "peroleh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -444291,7 +444291,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -444338,7 +444338,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -444388,7 +444388,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -444448,7 +444448,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If in any location except Exile, there are "
+          "text": "Jika di lokasi mana pun selain Exile, terdapat "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -444458,7 +444458,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "Trouble Card "
+          "text": "Kartu Trouble "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -444468,7 +444468,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>2 cards or more</nobr>: "
+          "text": "<nobr>2 kartu atau lebih</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -444478,7 +444478,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -444528,7 +444528,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "gain "
+          "text": "peroleh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -444568,7 +444568,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -444615,7 +444615,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -444665,7 +444665,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -444725,7 +444725,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If in any location except Exile, there are "
+          "text": "Jika di lokasi mana pun selain Exile, terdapat "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -444735,7 +444735,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "Trouble Card "
+          "text": "Kartu Trouble "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -444745,7 +444745,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>2 cards or more</nobr>: "
+          "text": "<nobr>2 kartu atau lebih</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -444755,7 +444755,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -444805,7 +444805,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "gain "
+          "text": "peroleh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -444845,7 +444845,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -444892,7 +444892,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -444942,7 +444942,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -445002,7 +445002,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If in any location except Exile, there are "
+          "text": "Jika di lokasi mana pun selain Exile, terdapat "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -445012,7 +445012,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "Trouble Card "
+          "text": "Kartu Trouble "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -445022,7 +445022,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>2 cards or more</nobr>: "
+          "text": "<nobr>2 kartu atau lebih</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -445032,7 +445032,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -445082,7 +445082,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "gain "
+          "text": "peroleh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -445122,7 +445122,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -445149,7 +445149,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "Stamina usage "
+          "text": "Konsumsi stamina "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -445199,7 +445199,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -445249,7 +445249,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -445299,7 +445299,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "gain "
+          "text": "peroleh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -445339,7 +445339,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If in any location except Exile, there are "
+          "text": "Jika di lokasi mana pun selain Exile, terdapat "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -445349,7 +445349,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "Trouble Card "
+          "text": "Kartu Trouble "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -445359,7 +445359,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>2 cards or more</nobr>: "
+          "text": "<nobr>2 kartu atau lebih</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -445369,7 +445369,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaRecoverFix",
-          "text": "Stamina Recovery "
+          "text": "Pemulihan Stamina "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -445429,7 +445429,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -445456,7 +445456,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "Stamina usage "
+          "text": "Konsumsi stamina "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -445506,7 +445506,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -445556,7 +445556,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -445606,7 +445606,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "gain "
+          "text": "peroleh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -445646,7 +445646,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If in any location except Exile, there are "
+          "text": "Jika di lokasi mana pun selain Exile, terdapat "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -445656,7 +445656,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "Trouble Card "
+          "text": "Kartu Trouble "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -445666,7 +445666,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>2 cards or more</nobr>: "
+          "text": "<nobr>2 kartu atau lebih</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -445676,7 +445676,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaRecoverFix",
-          "text": "Stamina Recovery "
+          "text": "Pemulihan Stamina "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -445736,7 +445736,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -445763,7 +445763,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "Stamina usage "
+          "text": "Konsumsi stamina "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -445813,7 +445813,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -445863,7 +445863,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -445913,7 +445913,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "gain "
+          "text": "peroleh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -445953,7 +445953,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If in any location except Exile, there are "
+          "text": "Jika di lokasi mana pun selain Exile, terdapat "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -445963,7 +445963,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "Trouble Card "
+          "text": "Kartu Trouble "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -445973,7 +445973,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>2 cards or more</nobr>: "
+          "text": "<nobr>2 kartu atau lebih</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -445983,7 +445983,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaRecoverFix",
-          "text": "Stamina Recovery "
+          "text": "Pemulihan Stamina "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -446043,7 +446043,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -446070,7 +446070,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "Stamina usage "
+          "text": "Konsumsi stamina "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -446120,7 +446120,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -446170,7 +446170,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -446220,7 +446220,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "gain "
+          "text": "peroleh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -446260,7 +446260,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If in any location except Exile, there are "
+          "text": "Jika di lokasi mana pun selain Exile, terdapat "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -446270,7 +446270,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "Trouble Card "
+          "text": "Kartu Trouble "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -446280,7 +446280,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>2 cards or more</nobr>: "
+          "text": "<nobr>2 kartu atau lebih</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -446290,7 +446290,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaRecoverFix",
-          "text": "Stamina Recovery "
+          "text": "Pemulihan Stamina "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -446350,7 +446350,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -446397,7 +446397,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -446447,7 +446447,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -446507,7 +446507,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If in any location except Exile, there are "
+          "text": "Jika di lokasi mana pun selain Exile, terdapat "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -446517,7 +446517,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "Trouble Card "
+          "text": "Kartu Trouble "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -446527,7 +446527,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>2 cards or more</nobr>: "
+          "text": "<nobr>2 kartu atau lebih</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -446537,7 +446537,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -446597,7 +446597,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -446644,7 +446644,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -446694,7 +446694,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -446754,7 +446754,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If in any location except Exile, there are "
+          "text": "Jika di lokasi mana pun selain Exile, terdapat "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -446764,7 +446764,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "Trouble Card "
+          "text": "Kartu Trouble "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -446774,7 +446774,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>2 cards or more</nobr>: "
+          "text": "<nobr>2 kartu atau lebih</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -446784,7 +446784,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -446844,7 +446844,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -446891,7 +446891,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -446941,7 +446941,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -447001,7 +447001,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If in any location except Exile, there are "
+          "text": "Jika di lokasi mana pun selain Exile, terdapat "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -447011,7 +447011,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "Trouble Card "
+          "text": "Kartu Trouble "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -447021,7 +447021,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>2 cards or more</nobr>: "
+          "text": "<nobr>2 kartu atau lebih</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -447031,7 +447031,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -447091,7 +447091,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -447138,7 +447138,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -447188,7 +447188,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -447248,7 +447248,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If in any location except Exile, there are "
+          "text": "Jika di lokasi mana pun selain Exile, terdapat "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -447258,7 +447258,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "Trouble Card "
+          "text": "Kartu Trouble "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -447268,7 +447268,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>2 cards or more</nobr>: "
+          "text": "<nobr>2 kartu atau lebih</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -447278,7 +447278,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -447338,7 +447338,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -447385,7 +447385,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -447435,7 +447435,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Motivation "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -447495,7 +447495,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -447505,7 +447505,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>8 or less</nobr>: "
+          "text": "<nobr>8 atau kurang</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -447515,7 +447515,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -447575,7 +447575,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -447622,7 +447622,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -447672,7 +447672,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Motivation "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -447732,7 +447732,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -447742,7 +447742,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>8 or less</nobr>: "
+          "text": "<nobr>8 atau kurang</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -447752,7 +447752,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -447812,7 +447812,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -447859,7 +447859,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -447909,7 +447909,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Motivation "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -447969,7 +447969,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -447979,7 +447979,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>8 or less</nobr>: "
+          "text": "<nobr>8 atau kurang</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -447989,7 +447989,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -448049,7 +448049,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -448096,7 +448096,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -448146,7 +448146,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Motivation "
+          "text": "Motivasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -448206,7 +448206,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -448216,7 +448216,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>8 or less</nobr>: "
+          "text": "<nobr>8 atau kurang</nobr>: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -448226,7 +448226,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -448286,7 +448286,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -448333,7 +448333,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Full Power points "
+          "text": "Poin Kekuatan Penuh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -448393,7 +448393,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cumulative "
+          "text": "kumulatif "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -448403,7 +448403,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Full Power points "
+          "text": "Poin Kekuatan Penuh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -448453,7 +448453,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "gain "
+          "text": "peroleh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -448503,7 +448503,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Growth "
+          "text": "Pertumbuhan "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -448523,7 +448523,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Skill Card directly does a "
+          "text": "Skill Card langsung memicu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -448543,7 +448543,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Full Power points "
+          "text": "Poin Kekuatan Penuh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -448553,7 +448553,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "increase: "
+          "text": "peningkatan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -448563,7 +448563,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Own "
+          "text": "Milik sendiri: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -448573,7 +448573,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Param value up "
+          "text": "Nilai Param naik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -448613,7 +448613,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -448660,7 +448660,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Full Power points "
+          "text": "Poin Kekuatan Penuh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -448720,7 +448720,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cumulative "
+          "text": "kumulatif "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -448730,7 +448730,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Full Power points "
+          "text": "Poin Kekuatan Penuh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -448780,7 +448780,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "gain "
+          "text": "peroleh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -448830,7 +448830,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Growth "
+          "text": "Pertumbuhan "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -448850,7 +448850,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Skill Card directly does a "
+          "text": "Skill Card langsung memicu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -448870,7 +448870,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Full Power points "
+          "text": "Poin Kekuatan Penuh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -448880,7 +448880,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "increase: "
+          "text": "peningkatan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -448890,7 +448890,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Own "
+          "text": "Milik sendiri: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -448900,7 +448900,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Param value up "
+          "text": "Nilai Param naik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -448940,7 +448940,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -448987,7 +448987,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Full Power points "
+          "text": "Poin Kekuatan Penuh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -449047,7 +449047,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cumulative "
+          "text": "kumulatif "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -449057,7 +449057,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Full Power points "
+          "text": "Poin Kekuatan Penuh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -449107,7 +449107,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "gain "
+          "text": "peroleh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -449157,7 +449157,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Growth "
+          "text": "Pertumbuhan "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -449177,7 +449177,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Skill Card directly does a "
+          "text": "Skill Card langsung memicu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -449197,7 +449197,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Full Power points "
+          "text": "Poin Kekuatan Penuh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -449207,7 +449207,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "increase: "
+          "text": "peningkatan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -449217,7 +449217,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Own "
+          "text": "Milik sendiri: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -449227,7 +449227,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Param value up "
+          "text": "Nilai Param naik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -449267,7 +449267,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -449314,7 +449314,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Full Power points "
+          "text": "Poin Kekuatan Penuh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -449374,7 +449374,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cumulative "
+          "text": "kumulatif "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -449384,7 +449384,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Full Power points "
+          "text": "Poin Kekuatan Penuh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -449434,7 +449434,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "gain "
+          "text": "peroleh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -449484,7 +449484,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Growth "
+          "text": "Pertumbuhan "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -449504,7 +449504,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Skill Card directly does a "
+          "text": "Skill Card langsung memicu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -449524,7 +449524,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Full Power points "
+          "text": "Poin Kekuatan Penuh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -449534,7 +449534,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "increase: "
+          "text": "peningkatan: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -449544,7 +449544,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Own "
+          "text": "Milik sendiri: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -449554,7 +449554,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Param value up "
+          "text": "Nilai Param naik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -449594,7 +449594,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -449651,7 +449651,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "stance change "
+          "text": "perubahan stance "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -449681,7 +449681,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Full Power points "
+          "text": "Poin Kekuatan Penuh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -449741,7 +449741,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cumulative "
+          "text": "kumulatif "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -449751,7 +449751,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Full Power points "
+          "text": "Poin Kekuatan Penuh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -449801,7 +449801,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "gain "
+          "text": "peroleh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -449841,7 +449841,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -449908,7 +449908,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "nd Stage stance change "
+          "text": "nd Stage perubahan stance "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -449938,7 +449938,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Full Power points "
+          "text": "Poin Kekuatan Penuh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -449998,7 +449998,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cumulative "
+          "text": "kumulatif "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -450008,7 +450008,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Full Power points "
+          "text": "Poin Kekuatan Penuh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -450058,7 +450058,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "gain "
+          "text": "peroleh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -450098,7 +450098,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -450165,7 +450165,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "nd Stage stance change "
+          "text": "nd Stage perubahan stance "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -450195,7 +450195,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Full Power points "
+          "text": "Poin Kekuatan Penuh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -450255,7 +450255,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cumulative "
+          "text": "kumulatif "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -450265,7 +450265,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Full Power points "
+          "text": "Poin Kekuatan Penuh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -450315,7 +450315,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "gain "
+          "text": "peroleh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -450355,7 +450355,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -450422,7 +450422,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "nd Stage stance change "
+          "text": "nd Stage perubahan stance "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -450452,7 +450452,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Full Power points "
+          "text": "Poin Kekuatan Penuh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -450512,7 +450512,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cumulative "
+          "text": "kumulatif "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -450522,7 +450522,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Full Power points "
+          "text": "Poin Kekuatan Penuh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -450572,7 +450572,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "gain "
+          "text": "peroleh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -450612,7 +450612,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
