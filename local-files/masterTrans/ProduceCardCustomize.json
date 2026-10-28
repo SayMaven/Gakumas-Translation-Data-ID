@@ -2088,6 +2088,276 @@
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
       "description": "Hold +"
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-01-act-2_108-a-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_LessonBuffAdd",
+      "description": "Fokus +"
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-01-act-2_108-b-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-01-act-2_108-b-01",
+      "customizeCount": 2,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-01-act-2_108-c-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-01-act-2_113-a-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_ParameterBuffTurnAdd",
+      "description": "Kondisi Baik +"
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-01-act-2_113-b-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-01-act-2_113-b-01",
+      "customizeCount": 2,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-01-act-2_113-c-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-01-men-1_026-a-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_LessonAdd",
+      "description": "Param +"
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-01-men-1_026-b-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-01-men-1_026-b-01",
+      "customizeCount": 2,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-01-men-1_026-b-01",
+      "customizeCount": 3,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-01-men-1_026-c-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_ParameterBuffTurnAdd",
+      "description": "Kondisi Baik +"
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-01-men-1_091-a-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_LessonAdd",
+      "description": "Param +"
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-01-men-1_091-b-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-01-men-1_091-b-01",
+      "customizeCount": 2,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-01-men-1_091-b-01",
+      "customizeCount": 3,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-01-men-1_091-c-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_LessonBuffAdd",
+      "description": "Fokus +"
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-02-act-2_044-a-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_AggressiveAdd",
+      "description": "Motivasi +"
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-02-act-2_044-b-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-02-act-2_044-b-01",
+      "customizeCount": 2,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-02-act-2_044-c-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_LessonDependExamReviewAdd",
+      "description": "Param Berbasis Kesan Baik +"
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-02-act-2_116-a-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_AggressiveAdd",
+      "description": "Motivasi +"
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-02-act-2_116-b-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-02-act-2_116-b-01",
+      "customizeCount": 2,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-02-act-2_116-c-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-02-men-1_093-a-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_AggressiveAdd",
+      "description": "Motivasi +"
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-02-men-1_093-b-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-02-men-1_093-b-01",
+      "customizeCount": 2,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-02-men-1_093-b-01",
+      "customizeCount": 3,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-02-men-1_093-c-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_LessonDependExamReviewAdd",
+      "description": "Param Berbasis Kesan Baik +"
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-02-men-1_094-a-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-02-men-1_094-b-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-02-men-1_094-b-01",
+      "customizeCount": 2,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-02-men-1_094-b-01",
+      "customizeCount": 3,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-02-men-1_094-c-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_LessonDependBlockAdd",
+      "description": "Param Berbasis Genki +"
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-03-act-2_118-a-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-03-act-2_118-a-01",
+      "customizeCount": 2,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-03-act-2_118-b-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_CardStatusEnchantChange",
+      "description": "Tambah Pertumbuhan"
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-03-act-2_118-c-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": "Hold +"
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-03-act-2_120-a-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-03-act-2_120-a-01",
+      "customizeCount": 2,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-03-act-2_120-b-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_CardStatusEnchantChange",
+      "description": "Tambah Pertumbuhan"
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-03-act-2_120-b-01",
+      "customizeCount": 2,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": "Pertumbuhan +"
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-03-act-2_120-c-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": "Remove 1x limit\\nper lesson"
     }
   ]
 }

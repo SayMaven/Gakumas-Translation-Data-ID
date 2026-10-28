@@ -26665,6 +26665,201 @@
       "id": "main_task_group-04-01#50",
       "number": 99,
       "description": "Complete P-Task 04-49"
+    },
+    {
+      "id": "cd_draw_gasha-01035-ssr-anotheridol-amao-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_draw_gasha-01035-ssr-anotheridol-kcna-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_draw_gasha-01035-ssr-anotheridol-kllj-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_draw_gasha-01040-ssr-anotheridol-hrnm-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_draw_gasha-01040-ssr-anotheridol-hume-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_draw_gasha-01040-ssr-anotheridol-shro-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_draw_gasha-01040-ssr-anotheridol-ssmk-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_gasha_have_ticket_item-gashaticket-new-wednesday-26-1021-1",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_highscorerush-event-016-release",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-1021",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-1028",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_producer_level-081",
+      "number": 1,
+      "description": "Unlocked at Producer Lv 81 or higher"
+    },
+    {
+      "id": "cd_producer_level-082",
+      "number": 1,
+      "description": "Unlocked at Producer Lv 82 or higher"
+    },
+    {
+      "id": "cd_producer_level-083",
+      "number": 1,
+      "description": "Unlocked at Producer Lv 83 or higher"
+    },
+    {
+      "id": "cd_producer_level-084",
+      "number": 1,
+      "description": "Unlocked at Producer Lv 84 or higher"
+    },
+    {
+      "id": "cd_producer_level-085",
+      "number": 1,
+      "description": "Unlocked at Producer Lv 85 or higher"
+    },
+    {
+      "id": "cd_producer_level-086",
+      "number": 1,
+      "description": "Unlocked at Producer Lv 86 or higher"
+    },
+    {
+      "id": "cd_producer_level-087",
+      "number": 1,
+      "description": "Unlocked at Producer Lv 87 or higher"
+    },
+    {
+      "id": "cd_producer_level-088",
+      "number": 1,
+      "description": "Unlocked at Producer Lv 88 or higher"
+    },
+    {
+      "id": "cd_producer_level-089",
+      "number": 1,
+      "description": "Unlocked at Producer Lv 89 or higher"
+    },
+    {
+      "id": "cd_producer_level-090",
+      "number": 1,
+      "description": "Unlocked at Producer Lv 90 or higher"
+    },
+    {
+      "id": "cd_time_26_1015-1100",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_26_1020-1100",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time-view_open-i_card-jsna-3-021",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_view_shop_costume_item-0122",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-have_costume_amao-cstm-0122",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-have_costume_amao-cstm-0122-shro-cstm-0122",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-have_costume_shro-cstm-0122",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-home_background-halloween-2026",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-release-music-inst-jsna-06",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-shop_costume_amao-cstm-0122",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-shop_costume_shro-cstm-0122",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-view_home-banner-gasha-01035-ssr-anotheridol-amao-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-view_home-banner-gasha-01035-ssr-anotheridol-kcna-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-view_home-banner-gasha-01035-ssr-anotheridol-kllj-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-view_home-banner-gasha-01040-ssr-anotheridol-hrnm-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-view_home-banner-gasha-01040-ssr-anotheridol-hume-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-view_home-banner-gasha-01040-ssr-anotheridol-shro-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-view_home-banner-gasha-01040-ssr-anotheridol-ssmk-001",
+      "number": 1,
+      "description": ""
     }
   ]
 }
