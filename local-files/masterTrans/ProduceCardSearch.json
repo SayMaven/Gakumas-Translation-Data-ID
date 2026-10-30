@@ -818,7 +818,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Percaya Diri "
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -843,7 +843,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Percaya Diri "
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -863,7 +863,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": "Penghematan "
+          "text": "Konservasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -933,7 +933,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": "Penghematan "
+          "text": "Konservasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1008,7 +1008,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": "Penghematan "
+          "text": "Konservasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1298,7 +1298,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Percaya Diri "
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1368,7 +1368,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": "Penghematan "
+          "text": "Konservasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2288,7 +2288,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Percaya Diri "
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2413,7 +2413,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": "Penghematan "
+          "text": "Konservasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3273,7 +3273,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Percaya Diri "
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3398,7 +3398,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": "Penghematan "
+          "text": "Konservasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5268,7 +5268,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "In Exclusion "
+          "text": "Di Exile "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -5288,7 +5288,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1 Card "
+          "text": "1 Kartu "
         }
       ]
     },
@@ -5453,7 +5453,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "In the Deck or Discard Pile "
+          "text": "Di dalam Deck atau Discard "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -5463,7 +5463,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_209",
-          "text": "The Now as a Result "
+          "text": "Saat Ini Sebagai Hasilnya "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5473,7 +5473,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1 Card "
+          "text": "1 Kartu "
         }
       ]
     },
@@ -5488,7 +5488,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardPositionType_Hold",
-          "text": "On Hold "
+          "text": "Di dalam Hold "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5498,7 +5498,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "2 Skill Cards in "
+          "text": "2 Skill Card di "
         }
       ]
     },
@@ -5513,7 +5513,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardPositionType_Hold",
-          "text": "On Hold "
+          "text": "Di dalam Hold "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5523,7 +5523,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "In "
+          "text": "Pada "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5543,7 +5543,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "kartu "
         }
       ]
     }

@@ -1,4 +1,17 @@
 {
+  "rules": {
+    "primaryKeys": [
+      "id",
+      "upgradeCount",
+      "produceDescriptions.produceDescriptionType",
+      "produceDescriptions.examDescriptionType",
+      "produceDescriptions.examEffectType",
+      "produceDescriptions.produceCardCategory",
+      "produceDescriptions.produceCardMovePositionType",
+      "produceDescriptions.produceStepType",
+      "produceDescriptions.targetId"
+    ]
+  },
   "data": [
     {
       "id": "p_card-00-acc-0_002",

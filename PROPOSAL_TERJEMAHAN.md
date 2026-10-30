@@ -376,6 +376,10 @@ Panggilan keluarga **berbeda** dari panggilan senior sekolah — ini adalah kont
 | **Sense (センス)** | **Sense** | Tetap — nama archetype kartu resmi. |
 | **Logic (ロジック)** | **Logic** | Tetap — nama archetype kartu resmi. |
 | **Anomaly (アノマリー)** | **Anomaly** | Tetap — archetype kartu baru. |
+| **温存 (Onzon / Preservation)** | **Konservasi** | Stance bertahan/menghemat stamina pada plan Anomaly. |
+| **強気 (Kyouki / Aggressive)** | **Confidence** | Stance percaya diri/aktif pada plan Anomaly. |
+| **全力 (Zenryoku / Full Power)** | **Full Power** | ⭐ **TETAP "Full Power"**. Mode puncak all-out idol Anomaly. |
+| **全力ポイント (Full Power Point)** | **Poin Full Power** | Poin akumulasi pemicu mode Full Power. |
 | **Active Card (アクティブ)** | **Kartu Aktif** (Active) | Kartu yang langsung menghasilkan skor/parameter. |
 | **Mental Card (メンタル)** | **Kartu Mental** (Mental) | Kartu pendukung buff status atau penataan stamina. |
 | **Trouble Card (トラブル)** | **Kartu Trouble** | Kartu beban/debuff penahan aksi. |

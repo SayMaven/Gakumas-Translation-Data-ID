@@ -714,7 +714,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Poin Daya Penuh "
+          "text": "Poin Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -727,7 +727,7 @@
           "text": "bertambah\nTidak memengaruhi biaya dari status diperkuat yang berbeda "
         }
       ],
-      "name": "Peningkatan Biaya Poin Daya Penuh "
+      "name": "Peningkatan Biaya Poin Full Power "
     },
     {
       "id": "Label_CostFullPowerPointReduce",
@@ -750,7 +750,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Poin Daya Penuh "
+          "text": "Poin Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -763,7 +763,7 @@
           "text": "berkurang\nTidak memengaruhi biaya dari status diperkuat yang berbeda "
         }
       ],
-      "name": "Pengurangan Biaya Poin Daya Penuh "
+      "name": "Pengurangan Biaya Poin Full Power "
     },
     {
       "id": "Label_CostLessonBuffAdd",
@@ -1948,7 +1948,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Percaya Diri "
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2001,7 +2001,7 @@
           "text": "bertambah "
         }
       ],
-      "name": "Penguatan Percaya Diri "
+      "name": "Penguatan Confidence "
     },
     {
       "id": "Label_ExamConcentration_Exam",
@@ -2034,7 +2034,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "gain and Stamina cost are increased by 100%\n\n▼Stage 2\n"
+          "text": "perolehan dan biaya Stamina bertambah 100%\n\n▼Stage 2\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2077,7 +2077,7 @@
           "text": "1 "
         }
       ],
-      "name": "Percaya Diri "
+      "name": "Confidence "
     },
     {
       "id": "Label_ExamConcentration_Produce",
@@ -2100,7 +2100,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Percaya Diri "
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2120,7 +2120,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Percaya Diri "
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2130,7 +2130,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ": changes to Stage 2\n\n▼Stage 1\n"
+          "text": ": berganti ke Stage 2\n\n▼Stage 1\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2150,7 +2150,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "gain and Stamina cost are increased by 100%\n\n▼Stage 2\n"
+          "text": "perolehan dan biaya Stamina bertambah 100%\n\n▼Stage 2\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2193,7 +2193,7 @@
           "text": "1 "
         }
       ],
-      "name": "Percaya Diri "
+      "name": "Confidence "
     },
     {
       "id": "Label_ExamDebuffRecover",
@@ -2396,7 +2396,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Daya Penuh "
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2436,7 +2436,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardPositionType_Hold",
-          "text": "Slot Tahan "
+          "text": "Hold "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2456,7 +2456,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Daya Penuh "
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2496,7 +2496,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Daya Penuh "
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2516,7 +2516,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Daya Penuh "
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2549,7 +2549,7 @@
           "text": "tidak dapat diubah "
         }
       ],
-      "name": "Daya Penuh "
+      "name": "Full Power "
     },
     {
       "id": "Label_ExamFullPowerLessonMultipleAdditive",
@@ -2562,7 +2562,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Daya Penuh "
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2615,7 +2615,7 @@
           "text": "bertambah "
         }
       ],
-      "name": "Penguatan Daya Penuh "
+      "name": "Penguatan Full Power "
     },
     {
       "id": "Label_ExamFullPowerPoint",
@@ -2638,7 +2638,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Poin Daya Penuh "
+          "text": "Poin Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2658,7 +2658,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Poin Daya Penuh "
+          "text": "Poin Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2678,7 +2678,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Daya Penuh "
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2691,7 +2691,7 @@
           "text": "Ubah "
         }
       ],
-      "name": "Poin Daya Penuh "
+      "name": "Poin Full Power "
     },
     {
       "id": "Label_ExamFullPowerPointAdditive",
@@ -2704,7 +2704,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Poin Daya Penuh "
+          "text": "Poin Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2747,7 +2747,7 @@
           "text": ""
         }
       ],
-      "name": "Peningkatan Perolehan Poin Daya Penuh "
+      "name": "Peningkatan Perolehan Poin Full Power "
     },
     {
       "id": "Label_ExamFullPowerPointAdditiveFix",
@@ -2760,7 +2760,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Poin Daya Penuh "
+          "text": "Poin Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2803,7 +2803,7 @@
           "text": ""
         }
       ],
-      "name": "Tambahan Kenaikan Poin Daya Penuh "
+      "name": "Tambahan Kenaikan Poin Full Power "
     },
     {
       "id": "Label_ExamFullPowerPointReduce",
@@ -2816,7 +2816,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Poin Daya Penuh "
+          "text": "Poin Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2829,7 +2829,7 @@
           "text": "berkurang sebesar ini "
         }
       ],
-      "name": "Pengurangan Poin Daya Penuh "
+      "name": "Pengurangan Poin Full Power "
     },
     {
       "id": "Label_ExamGetCardUpgrade",
@@ -4403,7 +4403,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Percaya Diri "
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4443,7 +4443,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Daya Penuh "
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4503,7 +4503,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Penghematan "
+          "text": "Konservasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4543,7 +4543,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Penghematan "
+          "text": "Konservasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4563,7 +4563,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Penghematan "
+          "text": "Konservasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4603,7 +4603,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Penghematan "
+          "text": "Konservasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4719,7 +4719,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Percaya Diri "
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4759,7 +4759,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Daya Penuh "
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4819,7 +4819,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Penghematan "
+          "text": "Konservasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4859,7 +4859,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Penghematan "
+          "text": "Konservasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4879,7 +4879,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Penghematan "
+          "text": "Konservasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4919,7 +4919,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Penghematan "
+          "text": "Konservasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5458,7 +5458,7 @@
           "text": "+1 "
         }
       ],
-      "name": "Penghematan "
+      "name": "Konservasi "
     },
     {
       "id": "Label_ExamPreservation_Produce",
@@ -5481,7 +5481,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Penghematan "
+          "text": "Konservasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5501,7 +5501,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Penghematan "
+          "text": "Konservasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5511,7 +5511,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ": changes to Stage 2\n\n▼Stage 1\n"
+          "text": ": berganti ke Stage 2\n\n▼Stage 1\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5654,7 +5654,7 @@
           "text": "+1 "
         }
       ],
-      "name": "Penghematan "
+      "name": "Konservasi "
     },
     {
       "id": "Label_ExamReviewAdditive",
@@ -6503,7 +6503,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Penghematan "
+          "text": "Konservasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6513,7 +6513,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "] and ["
+          "text": "] dan ["
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6523,7 +6523,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Percaya Diri "
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6723,7 +6723,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Poin Daya Penuh "
+          "text": "Poin Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6743,7 +6743,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Poin Daya Penuh "
+          "text": "Poin Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6796,7 +6796,7 @@
           "text": "tidak terpengaruh "
         }
       ],
-      "name": "Peningkatan Poin Daya Penuh "
+      "name": "Peningkatan Poin Full Power "
     },
     {
       "id": "Label_FullPowerPointReduce",
@@ -6809,7 +6809,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Poin Daya Penuh "
+          "text": "Poin Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6829,7 +6829,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Poin Daya Penuh "
+          "text": "Poin Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6882,7 +6882,7 @@
           "text": "tidak terpengaruh "
         }
       ],
-      "name": "Pengurangan Poin Daya Penuh "
+      "name": "Pengurangan Poin Full Power "
     },
     {
       "id": "Label_HighScoreRushGold",
@@ -7771,7 +7771,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Daya Penuh "
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7791,10 +7791,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Dapat menyimpan hingga 2 Skill Card. Jika lebih dari 2, kartu paling lama dikirim ke Discard Pile "
+          "text": "Dapat menyimpan hingga 2 Skill Card. Jika lebih dari 2, kartu paling lama dikirim ke Discard "
         }
       ],
-      "name": "Slot Tahan "
+      "name": "Hold "
     },
     {
       "id": "Label_ProduceCardPositionType_Lost",
@@ -7864,7 +7864,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "] and ["
+          "text": "] dan ["
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7920,7 +7920,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "] and ["
+          "text": "] dan ["
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7976,7 +7976,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Daya Penuh "
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7996,7 +7996,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Percaya Diri "
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8016,7 +8016,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Penghematan "
+          "text": "Konservasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8489,7 +8489,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Penghematan "
+          "text": "Konservasi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8509,7 +8509,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Percaya Diri "
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8529,7 +8529,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Daya Penuh "
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8575,7 +8575,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Poin Daya Penuh "
+          "text": "Poin Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8595,7 +8595,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Daya Penuh "
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8615,7 +8615,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Daya Penuh "
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8635,7 +8635,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Daya Penuh "
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",

@@ -27408,7 +27408,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pemulihan Stamina\nDapatkan P-Drink acak (SR ke atas)\nPilih Skill Card dan ubah menjadi Skill Card terkait Percaya Diri atau Penghematan lain "
+          "text": "Pemulihan Stamina\nDapatkan P-Drink acak (SR ke atas)\nPilih Skill Card dan ubah menjadi Skill Card terkait Confidence atau Konservasi lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -27473,7 +27473,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pemulihan Stamina\nDapatkan P-Drink acak (SR ke atas)\nPilih Skill Card dan ubah menjadi Skill Card terkait Full Power atau Penghematan lain "
+          "text": "Pemulihan Stamina\nDapatkan P-Drink acak (SR ke atas)\nPilih Skill Card dan ubah menjadi Skill Card terkait Full Power atau Konservasi lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -27778,7 +27778,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pemulihan Stamina\nDapatkan P-Drink acak (SR ke atas)\nPilih Skill Card dan ubah menjadi Skill Card terkait Percaya Diri atau Penghematan lain "
+          "text": "Pemulihan Stamina\nDapatkan P-Drink acak (SR ke atas)\nPilih Skill Card dan ubah menjadi Skill Card terkait Confidence atau Konservasi lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -27823,7 +27823,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pemulihan Stamina\nDapatkan P-Drink acak (SR ke atas)\nPilih Skill Card dan ubah menjadi Skill Card terkait Full Power atau Penghematan lain "
+          "text": "Pemulihan Stamina\nDapatkan P-Drink acak (SR ke atas)\nPilih Skill Card dan ubah menjadi Skill Card terkait Full Power atau Konservasi lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -28068,7 +28068,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pemulihan Stamina\nDapatkan 2 P-Drink acak\nPilih Skill Card dan ubah menjadi Skill Card terkait Percaya Diri atau Penghematan lain "
+          "text": "Pemulihan Stamina\nDapatkan 2 P-Drink acak\nPilih Skill Card dan ubah menjadi Skill Card terkait Confidence atau Konservasi lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -28133,7 +28133,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pemulihan Stamina\nDapatkan 2 P-Drink acak\nPilih Skill Card dan ubah menjadi Skill Card terkait Full Power atau Penghematan lain "
+          "text": "Pemulihan Stamina\nDapatkan 2 P-Drink acak\nPilih Skill Card dan ubah menjadi Skill Card terkait Full Power atau Konservasi lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -28438,7 +28438,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pemulihan Stamina\nDapatkan 2 P-Drink acak\nPilih Skill Card dan ubah menjadi Skill Card terkait Percaya Diri atau Penghematan lain "
+          "text": "Pemulihan Stamina\nDapatkan 2 P-Drink acak\nPilih Skill Card dan ubah menjadi Skill Card terkait Confidence atau Konservasi lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -28483,7 +28483,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pemulihan Stamina\nDapatkan 2 P-Drink acak\nPilih Skill Card dan ubah menjadi Skill Card terkait Full Power atau Penghematan lain "
+          "text": "Pemulihan Stamina\nDapatkan 2 P-Drink acak\nPilih Skill Card dan ubah menjadi Skill Card terkait Full Power atau Konservasi lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -29628,7 +29628,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -29663,7 +29663,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -29768,7 +29768,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -29803,7 +29803,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -29908,7 +29908,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -29943,7 +29943,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -30888,7 +30888,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -30923,7 +30923,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -31028,7 +31028,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -31063,7 +31063,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -31168,7 +31168,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -31203,7 +31203,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -32668,7 +32668,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -32723,7 +32723,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -32888,7 +32888,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -32943,7 +32943,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -33108,7 +33108,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -33163,7 +33163,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -34648,7 +34648,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -34703,7 +34703,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -34868,7 +34868,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -34923,7 +34923,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -35088,7 +35088,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -35143,7 +35143,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -36108,7 +36108,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -36143,7 +36143,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -36248,7 +36248,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -36283,7 +36283,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -36388,7 +36388,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -36423,7 +36423,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -37368,7 +37368,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -37403,7 +37403,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -37508,7 +37508,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -37543,7 +37543,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -37648,7 +37648,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -37683,7 +37683,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -39148,7 +39148,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -39203,7 +39203,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -39368,7 +39368,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -39423,7 +39423,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -39588,7 +39588,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -39643,7 +39643,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -41128,7 +41128,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -41183,7 +41183,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -41348,7 +41348,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -41403,7 +41403,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -41568,7 +41568,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -41623,7 +41623,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -42588,7 +42588,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -42623,7 +42623,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -42728,7 +42728,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -42763,7 +42763,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -42868,7 +42868,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -42903,7 +42903,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -43848,7 +43848,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -43883,7 +43883,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -43988,7 +43988,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -44023,7 +44023,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -44128,7 +44128,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -44163,7 +44163,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -45628,7 +45628,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -45683,7 +45683,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -45848,7 +45848,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -45903,7 +45903,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -46068,7 +46068,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -46123,7 +46123,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -47608,7 +47608,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -47663,7 +47663,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -47828,7 +47828,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -47883,7 +47883,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -48048,7 +48048,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -48103,7 +48103,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -49068,7 +49068,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -49103,7 +49103,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -49208,7 +49208,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -49243,7 +49243,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -49348,7 +49348,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -49383,7 +49383,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -50328,7 +50328,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -50363,7 +50363,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -50468,7 +50468,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -50503,7 +50503,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -50608,7 +50608,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -50643,7 +50643,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -52108,7 +52108,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -52163,7 +52163,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -52328,7 +52328,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -52383,7 +52383,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -52548,7 +52548,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -52603,7 +52603,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -54088,7 +54088,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -54143,7 +54143,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -54308,7 +54308,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -54363,7 +54363,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -54528,7 +54528,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -54583,7 +54583,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -55548,7 +55548,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -55583,7 +55583,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -55688,7 +55688,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -55723,7 +55723,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -55828,7 +55828,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -55863,7 +55863,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -56808,7 +56808,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -56843,7 +56843,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -56948,7 +56948,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -56983,7 +56983,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -57088,7 +57088,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -57123,7 +57123,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -58588,7 +58588,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -58643,7 +58643,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -58808,7 +58808,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -58863,7 +58863,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -59028,7 +59028,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -59083,7 +59083,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -60568,7 +60568,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -60623,7 +60623,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -60788,7 +60788,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -60843,7 +60843,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -61008,7 +61008,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -61063,7 +61063,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -62028,7 +62028,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -62063,7 +62063,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -62168,7 +62168,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -62203,7 +62203,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -62308,7 +62308,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -62343,7 +62343,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan yang telah ditingkatkan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi yang telah ditingkatkan "
         }
       ]
     },
@@ -63288,7 +63288,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -63323,7 +63323,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -63428,7 +63428,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -63463,7 +63463,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -63568,7 +63568,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -63603,7 +63603,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh P-Drink\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -65068,7 +65068,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -65123,7 +65123,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -65288,7 +65288,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -65343,7 +65343,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -65508,7 +65508,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -65563,7 +65563,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -67048,7 +67048,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -67103,7 +67103,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -67268,7 +67268,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -67323,7 +67323,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -67488,7 +67488,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence atau Konservasi "
         }
       ]
     },
@@ -67543,7 +67543,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Penghematan "
+          "text": "\nPilih dan peroleh Skill Card terkait Full Power atau Konservasi "
         }
       ]
     },
@@ -68053,7 +68053,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Percaya Diri lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Confidence lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -68163,7 +68163,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pemulihan Stamina\nSelect and obtain a P Drink (SR or higher)\nPilih dan peroleh Skill Card terkait Percaya Diri "
+          "text": "Pemulihan Stamina\nSelect and obtain a P Drink (SR or higher)\nPilih dan peroleh Skill Card terkait Confidence "
         }
       ]
     },
@@ -68653,7 +68653,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Percaya Diri lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Confidence lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -68763,7 +68763,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pemulihan Stamina\nSelect and obtain a P Drink (SR or higher)\nPilih dan peroleh Skill Card terkait Percaya Diri "
+          "text": "Pemulihan Stamina\nSelect and obtain a P Drink (SR or higher)\nPilih dan peroleh Skill Card terkait Confidence "
         }
       ]
     },
@@ -70053,7 +70053,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Percaya Diri lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Confidence lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -70163,7 +70163,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence "
         }
       ]
     },
@@ -70253,7 +70253,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Percaya Diri lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Confidence lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -70363,7 +70363,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence "
         }
       ]
     },
@@ -70453,7 +70453,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Percaya Diri lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Confidence lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -70563,7 +70563,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence "
         }
       ]
     },
@@ -71853,7 +71853,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Percaya Diri lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Confidence lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -71963,7 +71963,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence "
         }
       ]
     },
@@ -72053,7 +72053,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Percaya Diri lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Confidence lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -72163,7 +72163,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence "
         }
       ]
     },
@@ -72253,7 +72253,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Percaya Diri lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Confidence lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -72363,7 +72363,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence "
         }
       ]
     },
@@ -73653,7 +73653,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Percaya Diri lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Confidence lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -73763,7 +73763,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence "
         }
       ]
     },
@@ -73853,7 +73853,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Percaya Diri lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Confidence lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -73963,7 +73963,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence "
         }
       ]
     },
@@ -74053,7 +74053,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Percaya Diri lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Confidence lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -74163,7 +74163,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence "
         }
       ]
     },
@@ -74648,7 +74648,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence "
         }
       ]
     },
@@ -75063,7 +75063,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Percaya Diri lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Confidence lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -75378,7 +75378,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence "
         }
       ]
     },
@@ -75793,7 +75793,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Percaya Diri lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Confidence lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -76108,7 +76108,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nPilih dan peroleh Skill Card terkait Percaya Diri "
+          "text": "\nPilih dan peroleh Skill Card terkait Confidence "
         }
       ]
     },
@@ -76523,7 +76523,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Percaya Diri lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Confidence lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -77083,7 +77083,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Percaya Diri lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Confidence lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -77538,7 +77538,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Percaya Diri lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Confidence lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -77993,7 +77993,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Percaya Diri lain "
+          "text": "Pilih Skill Card selain ini dan ubah menjadi Skill Card terkait Confidence lain "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",

@@ -99,15 +99,15 @@
     },
     {
       "type": "ProduceExamEffectType_ExamConcentration",
-      "name": "Percaya Diri "
+      "name": "Confidence "
     },
     {
       "type": "ProduceExamEffectType_ExamPreservation",
-      "name": "Penghematan "
+      "name": "Konservasi "
     },
     {
       "type": "ProduceExamEffectType_ExamFullPower",
-      "name": "Daya Penuh "
+      "name": "Full Power "
     },
     {
       "type": "ProduceExamEffectType_ExamStanceReset",
@@ -115,11 +115,11 @@
     },
     {
       "type": "ProduceExamEffectType_ExamFullPowerPoint",
-      "name": "Poin Daya Penuh "
+      "name": "Poin Full Power "
     },
     {
       "type": "ProduceExamEffectType_ExamFullPowerPointReduce",
-      "name": "Pengurangan Poin Daya Penuh "
+      "name": "Pengurangan Poin Full Power "
     },
     {
       "type": "ProduceExamEffectType_ExamSearchPlayCardStaminaConsumptionChange",
@@ -287,11 +287,11 @@
     },
     {
       "type": "ProduceExamEffectType_ExamFullPowerLessonMultipleAdditive",
-      "name": "Penguatan Daya Penuh "
+      "name": "Penguatan Full Power "
     },
     {
       "type": "ProduceExamEffectType_ExamConcentrationLessonMultipleAdditive",
-      "name": "Penguatan Percaya Diri "
+      "name": "Penguatan Confidence "
     },
     {
       "type": "ProduceExamEffectType_ExamLessonBuffAdditive",
@@ -311,7 +311,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamFullPowerPointAdditive",
-      "name": "Peningkatan Perolehan Poin Daya Penuh "
+      "name": "Peningkatan Perolehan Poin Full Power "
     },
     {
       "type": "ProduceExamEffectType_ExamGrowEffectLessonAddAdditive",
@@ -355,7 +355,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamFullPowerPointAdditiveFix",
-      "name": "Tambahan Kenaikan Poin Daya Penuh"
+      "name": "Tambahan Kenaikan Poin Full Power"
     },
     {
       "type": "ProduceExamEffectType_ExamStatusEnchantEncore",
