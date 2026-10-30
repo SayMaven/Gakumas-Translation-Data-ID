@@ -1,16 +1,4 @@
 {
-  "rules": {
-    "primaryKeys": [
-      "id",
-      "produceDescriptions.produceDescriptionType",
-      "produceDescriptions.examDescriptionType",
-      "produceDescriptions.examEffectType",
-      "produceDescriptions.produceCardCategory",
-      "produceDescriptions.produceCardMovePositionType",
-      "produceDescriptions.produceStepType",
-      "produceDescriptions.targetId"
-    ]
-  },
   "data": [
     {
       "id": "pitem_00-0-004-0-000",
@@ -195247,7 +195235,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Upon selecting Allowance or Gift, if Visual is 700 or higher,\n"
+          "text": "Saat memilih Uang Saku atau Bingkisan, jika Visual 700 atau lebih,\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -195267,7 +195255,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "P Point +"
+          "text": "P-Point +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -195307,7 +195295,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Visual Increase +"
+          "text": "Peningkatan Visual +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -195347,7 +195335,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "(During production 2x)"
+          "text": "(2x selama Produce)"
         }
       ],
       "name": "Kopi Rasa Syukur"
@@ -195363,7 +195351,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "At the start of a turn with <nobr>4 or fewer turns remaining</nobr>, "
+          "text": "Di awal giliran saat sisa giliran <nobr>4 atau kurang</nobr>, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -195393,7 +195381,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -195453,7 +195441,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "In Exclusion "
+          "text": "Di Exile, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -195463,7 +195451,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-ido-3_249",
-          "text": "You're My Prey "
+          "text": "Kaulah Mangsaku "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -195473,7 +195461,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1 card "
+          "text": "1 kartu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -195483,7 +195471,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardPositionType_Hand",
-          "text": "Hand "
+          "text": "Tangan "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -195493,7 +195481,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Move to "
+          "text": "Pindahkan ke "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -195523,7 +195511,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "Stamina Usage "
+          "text": "Konsumsi stamina "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -195583,7 +195571,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBuffConsumptionAdd_Produce",
-          "text": "Increased Enhanced State Cost "
+          "text": "Peningkatan Biaya Status Diperkuat "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -195613,7 +195601,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Turn(s)</nobr> "
+          "text": "turn</nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -195663,7 +195651,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "4x Out of the Total) "
+          "text": "4x dari Total) "
         }
       ],
       "name": "Memikat Dunia"
@@ -195679,7 +195667,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "At the start of a turn with <nobr>5 or fewer turns remaining</nobr>, "
+          "text": "Di awal giliran saat sisa giliran <nobr>5 atau kurang</nobr>, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -195709,7 +195697,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -195769,7 +195757,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "In Exclusion "
+          "text": "Di Exile, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -195779,7 +195767,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-ido-3_249",
-          "text": "You're My Prey "
+          "text": "Kaulah Mangsaku "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -195789,7 +195777,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1 card "
+          "text": "1 kartu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -195799,7 +195787,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardPositionType_Hand",
-          "text": "Hand "
+          "text": "Tangan "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -195809,7 +195797,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Move to "
+          "text": "Pindahkan ke "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -195839,7 +195827,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "Stamina Usage "
+          "text": "Konsumsi stamina "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -195899,7 +195887,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBuffConsumptionAdd_Produce",
-          "text": "Increased Enhanced State Cost "
+          "text": "Peningkatan Biaya Status Diperkuat "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -195929,7 +195917,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Turn(s)</nobr> "
+          "text": "turn</nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -195979,7 +195967,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "5x Out of the Total) "
+          "text": "5x dari Total) "
         }
       ],
       "name": "Memikat Dunia+"
@@ -195995,7 +195983,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Upon selecting Allowance or Gift, if Vocal is 700 or higher,\n"
+          "text": "Saat memilih Uang Saku atau Bingkisan, jika Vocal 700 atau lebih,\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -196015,7 +196003,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Stamina Recovery "
+          "text": "Pemulihan Stamina "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -196055,7 +196043,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Vocal Increase+"
+          "text": "Peningkatan Vocal +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -196095,7 +196083,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "(4x during Produce)"
+          "text": "(4x selama Produce)"
         }
       ],
       "name": "Tiket Undangan"
@@ -196367,7 +196355,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Cumulative inside "
+          "text": "Kumulatif di dalam "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -196377,7 +196365,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Full Power Points "
+          "text": "Poin Daya Penuh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196387,7 +196375,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If is <nobr>10 or higher</nobr>, every 5 Skill Cards used during the turn, "
+          "text": "Jika <nobr>10 atau lebih</nobr>, setiap 5 Skill Card yang digunakan saat giliran, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196417,7 +196405,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPower",
-          "text": "Full Power "
+          "text": "Kekuatan Penuh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196427,7 +196415,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Of the skill card with this effect "
+          "text": "Pada Skill Card dengan efek ini, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -196437,7 +196425,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Param Value Up "
+          "text": "Nilai Param naik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196457,7 +196445,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonCountAdd",
-          "text": "Param Boost Count Up "
+          "text": "Jumlah perolehan Param naik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196517,7 +196505,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "3x Out of the Total) "
+          "text": "3x dari Total) "
         }
       ],
       "name": "Bendera Hatsuboshi (Ungu)"
@@ -196533,7 +196521,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "After the turn starts, this "
+          "text": "Setelah giliran dimulai, kartu ini "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -196553,7 +196541,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Cumulative inside "
+          "text": "Kumulatif di dalam "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -196563,7 +196551,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Full Power Points "
+          "text": "Poin Daya Penuh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196573,7 +196561,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If <nobr>10 or higher</nobr>, "
+          "text": "Jika <nobr>10 atau lebih</nobr>, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196603,7 +196591,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196663,7 +196651,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "Param Boost Amount Up "
+          "text": "Peningkatan Perolehan Param "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196723,7 +196711,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "From the Draw Pile or Discard Pile "
+          "text": "Dari Deck atau Discard Pile, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -196733,7 +196721,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_209",
-          "text": "The Now as a Result "
+          "text": "Saat Ini Sebagai Hasilnya "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196743,7 +196731,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1 card "
+          "text": "1 kartu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -196753,7 +196741,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardPositionType_Hand",
-          "text": "Hand "
+          "text": "Tangan "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196763,7 +196751,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Move to "
+          "text": "Pindahkan ke "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196813,7 +196801,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1 Time Out of the Total) "
+          "text": "1x dari Total) "
         }
       ],
       "name": "Kilau Pahlawan"
@@ -196829,7 +196817,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "After the turn starts, this "
+          "text": "Setelah giliran dimulai, kartu ini "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -196849,7 +196837,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Cumulative inside "
+          "text": "Kumulatif di dalam "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -196859,7 +196847,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Full Power Points "
+          "text": "Poin Daya Penuh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196869,7 +196857,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If <nobr>10 or higher</nobr>, "
+          "text": "Jika <nobr>10 atau lebih</nobr>, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196899,7 +196887,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196959,7 +196947,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "Param Boost Amount Up "
+          "text": "Peningkatan Perolehan Param "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197019,7 +197007,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "From the Draw Pile or Discard Pile "
+          "text": "Dari Deck atau Discard Pile, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -197029,7 +197017,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_209",
-          "text": "The Now as a Result "
+          "text": "Saat Ini Sebagai Hasilnya "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197039,7 +197027,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1 card "
+          "text": "1 kartu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -197049,7 +197037,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardPositionType_Hand",
-          "text": "Hand "
+          "text": "Tangan "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197059,7 +197047,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Move to "
+          "text": "Pindahkan ke "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197109,7 +197097,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1 Time Out of the Total) "
+          "text": "1x dari Total) "
         }
       ],
       "name": "Kilau Pahlawan+"
@@ -197135,7 +197123,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "After using a skill card, "
+          "text": "Setelah menggunakan Skill Card, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197165,7 +197153,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "Param Boost Amount Up "
+          "text": "Peningkatan Perolehan Param "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197245,7 +197233,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "5x Out of the Total) "
+          "text": "5x dari Total) "
         }
       ],
       "name": "Hoodie Seminar"
