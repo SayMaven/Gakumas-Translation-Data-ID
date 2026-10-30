@@ -2360,6 +2360,56 @@
       "characterId": "ttmr",
       "dearnessLevel": 37,
       "produceConditionDescription": "Menjadi Prima Stella"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 28,
+      "produceConditionDescription": "Mulai Produce di Babak Kualifikasi H.I.F"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 29,
+      "produceConditionDescription": "Lanjutkan Produce di Babak Kualifikasi H.I.F"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 30,
+      "produceConditionDescription": "Selesaikan Babak Kualifikasi H.I.F ke-1"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 31,
+      "produceConditionDescription": "Selesaikan Babak Kualifikasi H.I.F ke-2"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 32,
+      "produceConditionDescription": "Selesaikan Babak Kualifikasi H.I.F ke-3"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 33,
+      "produceConditionDescription": "Selesaikan Babak Kualifikasi H.I.F"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 34,
+      "produceConditionDescription": "Lanjutkan Produce di Babak Final H.I.F"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 35,
+      "produceConditionDescription": "Lanjutkan Produce di Babak Final H.I.F"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 36,
+      "produceConditionDescription": "Menangkan Babak Final H.I.F"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 37,
+      "produceConditionDescription": "Menjadi Prima Stella"
     }
   ]
 }

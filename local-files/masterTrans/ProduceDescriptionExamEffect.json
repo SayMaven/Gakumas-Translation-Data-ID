@@ -360,6 +360,14 @@
     {
       "type": "ProduceExamEffectType_ExamStatusEnchantEncore",
       "name": "Replay"
+    },
+    {
+      "type": "ProduceExamEffectType_ExamEnthusiasticTurnAdd",
+      "name": "Perpanjang Antusiasme "
+    },
+    {
+      "type": "ProduceExamEffectType_ExamEffectTimerEndTurn",
+      "name": "Reservasi Aktivasi "
     }
   ]
 }

@@ -6214,6 +6214,81 @@
       "id": "achievement_char_ssmk-024",
       "name": "Ending the Endless Night",
       "description": "Tingkatkan Tahap Latihan Sumika Shiun ke {threshold}"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-015-01",
+      "name": "Saat Ini Sebagai Hasilnya",
+      "description": "【Garakuta Road】 Lulus Ujian Final saat mem-produce Tsubame Amaya"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-015-02",
+      "name": "Garakuta Road",
+      "description": "【Garakuta Road】 Tingkatkan Tahap Latihan Tsubame Amaya ke {threshold}"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-015-03",
+      "name": "Ayo Bersenang-senang, Producer!",
+      "description": "【Garakuta Road】 Raih penilaian A+ atau lebih tinggi sebanyak {threshold} kali saat mem-produce Tsubame Amaya"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-015-04",
+      "name": "Garakuta Road +",
+      "description": "【Garakuta Road】 Tingkatkan Tahap Latihan Tsubame Amaya ke {threshold}"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-015-05",
+      "name": "Garakuta Road ++",
+      "description": "【Garakuta Road】 Tingkatkan Tahap Latihan Tsubame Amaya ke {threshold}"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-015-06",
+      "name": "Garakuta Road +++",
+      "description": "【Garakuta Road】 Tingkatkan Tahap Latihan Tsubame Amaya ke {threshold}"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-021-01",
+      "name": "Kaulah Mangsaku",
+      "description": "【Roar】 Lulus Ujian Final saat mem-produce Sena Juo"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-021-02",
+      "name": "Roar",
+      "description": "【Roar】 Tingkatkan Tahap Latihan Sena Juo ke {threshold}"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-021-03",
+      "name": "Regalia Sena Juo",
+      "description": "【Roar】 Raih penilaian A+ atau lebih tinggi sebanyak {threshold} kali saat mem-produce Sena Juo"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-021-04",
+      "name": "Roar +",
+      "description": "【Roar】 Tingkatkan Tahap Latihan Sena Juo ke {threshold}"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-021-05",
+      "name": "Roar ++",
+      "description": "【Roar】 Tingkatkan Tahap Latihan Sena Juo ke {threshold}"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-021-06",
+      "name": "Roar +++",
+      "description": "【Roar】 Tingkatkan Tahap Latihan Sena Juo ke {threshold}"
+    },
+    {
+      "id": "achieve-p_idol-atbm-000-2",
+      "name": "Milikku untuk Selamanya",
+      "description": "Lihat True End: H.I.F bersama Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-025",
+      "name": "Gelar yang Selalu Kudambakan",
+      "description": "Lulus Ujian Final H.I.F bersama Tsubame Amaya dan raih evaluasi S4+ atau lebih tinggi"
+    },
+    {
+      "id": "achieve-p_idol-atbm-026",
+      "name": "Jarak Menuju Bintang-Bintang",
+      "description": "Lulus Ujian Final H.I.F bersama Tsubame Amaya sebanyak {threshold} kali"
     }
   ]
 }

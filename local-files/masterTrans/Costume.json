@@ -2834,6 +2834,56 @@
       "id": "ttmr-trng-0002",
       "name": "Seragam Olahraga Akademi Hatsuboshi",
       "description": "Beli Seragam Olahraga Akademi Hatsuboshi (Temari Tsukimura)"
+    },
+    {
+      "id": "amao-cstm-0122",
+      "name": "Rok Ultimate Smile",
+      "description": "Beli Paket Pakaian Rok Ultimate Smile (Mao Arimura)"
+    },
+    {
+      "id": "atbm-cstm-0122",
+      "name": "Mirakuru na Nau(߁)!",
+      "description": "【Rironbusou Shite】 Dapatkan '26 Mirakuru na Nau(߁)! Tsubame Amaya"
+    },
+    {
+      "id": "atbm-cstm-0125",
+      "name": "Gamushara ni Ikou!",
+      "description": "【Rironbusou Shite】 Dapatkan '26 Gamushara ni Ikou! Tsubame Amaya"
+    },
+    {
+      "id": "atbm-cstm-0136",
+      "name": "Garakuta Road",
+      "description": "【Garakuta Road】 Dapatkan Tsubame Amaya"
+    },
+    {
+      "id": "atbm-cstm-0137",
+      "name": "Garakuta Road",
+      "description": "【Garakuta Road】 Diperoleh pada tahap potensial 4 Tsubame Amaya"
+    },
+    {
+      "id": "fktn-cstm-0125",
+      "name": "Cheering All Out",
+      "description": "Cheering All Out (Kotone)"
+    },
+    {
+      "id": "jsna-cstm-0169",
+      "name": "Roar",
+      "description": "【Roar】 Dapatkan Sena Juo"
+    },
+    {
+      "id": "jsna-cstm-0170",
+      "name": "Roar",
+      "description": "【Roar】 Diperoleh pada tahap potensial 4 Sena Juo"
+    },
+    {
+      "id": "shro-cstm-0122",
+      "name": "Rok Ultimate Smile",
+      "description": "Beli Paket Pakaian Rok Ultimate Smile (Hiro Shinosawa)"
+    },
+    {
+      "id": "ttmr-cstm-0125",
+      "name": "Cheering All Out",
+      "description": "Cheering All Out (Temari)"
     }
   ]
 }

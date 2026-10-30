@@ -986,6 +986,42 @@
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
+    },
+    {
+      "id": "gasha_button_merge-ssr-01040",
+      "order": 1,
+      "name": "Gacha 10x Jewel Paid",
+      "description": "Gacha 10x Jewel Paid",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": "{0}x Lebih Banyak"
+    },
+    {
+      "id": "gasha_button_merge-ssr-01050",
+      "order": 1,
+      "name": "Gacha 10x Jewel Paid",
+      "description": "Gacha 10x Jewel Paid",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": "{0}x Lebih Banyak"
+    },
+    {
+      "id": "gasha_button-01040-wednesday-001-ticket-01",
+      "order": 1,
+      "name": "Tarik dengan Tiket",
+      "description": "Tarik dengan Tiket",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": ""
+    },
+    {
+      "id": "gasha_button-01050-wednesday-001-ticket-01",
+      "order": 1,
+      "name": "Tarik dengan Tiket",
+      "description": "Tarik dengan Tiket",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": ""
     }
   ]
 }

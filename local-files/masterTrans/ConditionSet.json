@@ -10793,7 +10793,7 @@
     },
     {
       "id": "cd-dearness_level-37",
-      "number": 12,
+      "number": 13,
       "description": ""
     },
     {
@@ -20548,7 +20548,7 @@
     },
     {
       "id": "cd-release-music-inst-all-012",
-      "number": 12,
+      "number": 13,
       "description": ""
     },
     {
@@ -20608,7 +20608,7 @@
     },
     {
       "id": "cd-release-music-inst-all-013",
-      "number": 12,
+      "number": 13,
       "description": ""
     },
     {
@@ -20718,7 +20718,7 @@
     },
     {
       "id": "cd-release-music-inst-all-016",
-      "number": 6,
+      "number": 7,
       "description": ""
     },
     {
@@ -26788,7 +26788,7 @@
     },
     {
       "id": "cd_view_shop_costume_item-0122",
-      "number": 1,
+      "number": 2,
       "description": ""
     },
     {
@@ -26798,7 +26798,7 @@
     },
     {
       "id": "cd-have_costume_amao-cstm-0122-shro-cstm-0122",
-      "number": 1,
+      "number": 2,
       "description": ""
     },
     {
@@ -26818,46 +26818,381 @@
     },
     {
       "id": "cd-shop_costume_amao-cstm-0122",
-      "number": 1,
+      "number": 2,
       "description": ""
     },
     {
       "id": "cd-shop_costume_shro-cstm-0122",
-      "number": 1,
+      "number": 2,
       "description": ""
     },
     {
       "id": "cd-view_home-banner-gasha-01035-ssr-anotheridol-amao-001",
-      "number": 1,
+      "number": 2,
       "description": ""
     },
     {
       "id": "cd-view_home-banner-gasha-01035-ssr-anotheridol-kcna-001",
-      "number": 1,
+      "number": 2,
       "description": ""
     },
     {
       "id": "cd-view_home-banner-gasha-01035-ssr-anotheridol-kllj-001",
-      "number": 1,
+      "number": 2,
       "description": ""
     },
     {
       "id": "cd-view_home-banner-gasha-01040-ssr-anotheridol-hrnm-001",
-      "number": 1,
+      "number": 2,
       "description": ""
     },
     {
       "id": "cd-view_home-banner-gasha-01040-ssr-anotheridol-hume-001",
-      "number": 1,
+      "number": 2,
       "description": ""
     },
     {
       "id": "cd-view_home-banner-gasha-01040-ssr-anotheridol-shro-001",
-      "number": 1,
+      "number": 2,
       "description": ""
     },
     {
       "id": "cd-view_home-banner-gasha-01040-ssr-anotheridol-ssmk-001",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd_draw_gasha-01050-ssr-anotheridol-atbm-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_draw_gasha-01050-ssr-anotheridol-hmsz-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_draw_gasha-01050-ssr-anotheridol-jsna-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_gasha_have_ticket_item-gashaticket-new-wednesday-26-1104-1",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-1104",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-010-exchange_item-limitovermaterial-2",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-010-exchange_item-limitovermaterial-2-a-1",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-010-exchange_item-limitovermaterial-2-a-2",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-010-exchange_item-limitovermaterial-2-a-3",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-010-exchange_item-limitovermaterial-2-b-1",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-010-exchange_item-limitovermaterial-2-b-2",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-010-exchange_item-limitovermaterial-2-b-3",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-010-exchange_item-limitovermaterial-2-c-1",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-010-exchange_item-limitovermaterial-2-c-2",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-010-exchange_item-limitovermaterial-2-c-3",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-010-exchange_item-limitovermaterial-3",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-010-exchange_item-medal-event-all-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-010-exchange_item-memory_exchange-class1",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-010-exchange_item-memory_exchange-class2",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-010-exchange_item-memory_exchange-class3",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-010-exchange_item-money",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-010-exchange_item-produce_continue-1",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-010-exchange_item-research-event-010",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-010-exchange_item-support_card_enhance_point",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_26_1028-1100",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_26_1028-1100_1201-1059",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time-view_open-i_card-atbm-3-015",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_view_shop_costume_item-0125",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_view_shop_costume_item-0125",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level-atbm-33",
+      "number": 1,
+      "description": "Raise Tsubame Amaya's Bond to Lv.33"
+    },
+    {
+      "id": "cd-dearness_level-atbm-37",
+      "number": 1,
+      "description": "Raise Tsubame Amaya's Bond to Lv.37"
+    },
+    {
+      "id": "cd-have_costume_fktn-cstm-0125",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-have_costume_head_fktn-hair-0009",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-have_costume_head_hski-hair-0009",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-have_costume_head_ttmr-hair-0009",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-have_costume_ttmr-cstm-0125",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-have_costume_ttmr-cstm-0125-fktn-cstm-0125",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-have_costume_ttmr-cstm-0125-fktn-cstm-0125",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd-home_motion-cd-dearness_level-27-36-atbm",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-home_motion-cd-dearness_level-37-atbm",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-produce_group-003-final-a-atbm",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-produce_group-003-final-atbm",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-produce_group-003-final-trueend-atbm",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-produce_group-003-first-atbm",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-produce_group-003-selection-trueend-atbm",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-purchase_costume_head_fktn-hair-0009",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-purchase_costume_head_hski-hair-0009",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-purchase_costume_head_ttmr-hair-0009",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-purchase_shop_jewel_item-0045",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-shop_costume_fktn-cstm-0125",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-shop_costume_fktn-cstm-0125",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd-shop_costume_ttmr-cstm-0125",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-shop_costume_ttmr-cstm-0125",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd-startup_notification_dearness-story-atbm-37",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-startup_notification_dearness-story-atbm-37",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd-startup_notification_dearness-story-atbm-37-0",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-startup_notification_dearness-story-atbm-37-0",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd-view_home-banner-gasha-01050-ssr-anotheridol-atbm-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-view_home-banner-gasha-01050-ssr-anotheridol-atbm-001",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd-view_home-banner-gasha-01050-ssr-anotheridol-hmsz-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-view_home-banner-gasha-01050-ssr-anotheridol-hmsz-001",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd-view_home-banner-gasha-01050-ssr-anotheridol-jsna-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-view_home-banner-gasha-01050-ssr-anotheridol-jsna-001",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd-view_home-banner-shop_jewel_item-0045",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-view-dearness-story-atbm-37",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-view-dearness-story-atbm-37",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "view-commu-list-dearness-story-atbm-37-1",
       "number": 1,
       "description": ""
     }

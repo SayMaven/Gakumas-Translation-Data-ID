@@ -2212,6 +2212,54 @@
       "name": "Lencana Support",
       "description": "Item yang digunakan di Toko Penukaran",
       "acquisitionRouteDescription": "Konversi Support, dll."
+    },
+    {
+      "id": "item-coin-highscorerush-event-016",
+      "name": "Cahaya Bintang",
+      "description": "Item yang digunakan dalam Bulan Peningkatan Idol ~Kilau Bintang-Bintang~ (Sena Juo/Temari Tsukimura)",
+      "acquisitionRouteDescription": "Produce mode event, dll."
+    },
+    {
+      "id": "item-gashaticket-wednesday-261021",
+      "name": "Tiket Gacha Rabu Gakumas",
+      "description": "Tiket yang digunakan untuk Gacha Rabu Gakumas",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-wednesday-261104",
+      "name": "Tiket Gacha Rabu Gakumas",
+      "description": "Tiket yang digunakan untuk Gacha Rabu Gakumas",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-medal-research-event-010",
+      "name": "Tanuki Seminar",
+      "description": "Item yang dapat ditukarkan dengan berbagai hadiah di toko event",
+      "acquisitionRouteDescription": "Produce, dll."
+    },
+    {
+      "id": "item-piece-idol_atbm-3-015",
+      "name": "[Garakuta Road] Piece Tsubame Amaya",
+      "description": "Item yang digunakan untuk membuka batas dan potensi Produce Idol",
+      "acquisitionRouteDescription": "Gacha, dll."
+    },
+    {
+      "id": "item-piece-idol_jsna-3-021",
+      "name": "[Roar] Piece Sena Juo",
+      "description": "Item yang digunakan untuk membuka batas dan potensi Produce Idol",
+      "acquisitionRouteDescription": "Gacha, dll."
+    },
+    {
+      "id": "item-primastellamaterial-idol_atbm-001",
+      "name": "Lampu Prima Stella Tsubame",
+      "description": "Item yang digunakan untuk membuka \"Prima Stella\" Tsubame Amaya",
+      "acquisitionRouteDescription": "Pencapaian, dll."
+    },
+    {
+      "id": "item-research-event-010",
+      "name": "Stiker Asari-sensei",
+      "description": "Item yang digunakan untuk mengacak ulang kemampuan memory di event Seminar Produce Asari-sensei",
+      "acquisitionRouteDescription": "Produce, dll."
     }
   ]
 }

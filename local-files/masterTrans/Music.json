@@ -3476,6 +3476,46 @@
       "lyrics": "Saori Codama",
       "composer": "Satoru Kousaki (MONACA)",
       "arranger": "Satoru Kousaki (MONACA)"
+    },
+    {
+      "id": "music-all-atbm-012",
+      "title": "Mirakuru na Nau(ﾟ∀ﾟ)!",
+      "displayTitle": "Mirakuru na Nau(ﾟ∀ﾟ)!",
+      "lyrics": "YUC'e",
+      "composer": "YUC'e",
+      "arranger": "YUC'e"
+    },
+    {
+      "id": "music-all-atbm-013",
+      "title": "Gamushara ni Ikou!",
+      "displayTitle": "Gamushara ni Ikou!",
+      "lyrics": "SHOW (Digz, Inc. Group)",
+      "composer": "SHOW (Digz, Inc. Group)、Mitsu.J (Digz, Inc. Group)",
+      "arranger": "Mitsu.J (Digz, Inc. Group)"
+    },
+    {
+      "id": "music-all-atbm-016",
+      "title": "Garakuta Road",
+      "displayTitle": "Garakuta Road",
+      "lyrics": "Rou-hou",
+      "composer": "Takafumi Satou",
+      "arranger": "Shunsuke Suzuki, Mei Osawa (Bandai Namco Studios Inc.)"
+    },
+    {
+      "id": "music-char-jsna-006",
+      "title": "Roar",
+      "displayTitle": "Roar",
+      "lyrics": "BOYHOOD (Digz, Inc. Group)",
+      "composer": "BOYHOOD (Digz, Inc. Group)",
+      "arranger": "BOYHOOD (Digz, Inc. Group)"
+    },
+    {
+      "id": "music-char-jsna-006-inst",
+      "title": "Roar [Instrumental]",
+      "displayTitle": "Roar [Instrumental]",
+      "lyrics": "BOYHOOD (Digz, Inc. Group)",
+      "composer": "BOYHOOD (Digz, Inc. Group)",
+      "arranger": "BOYHOOD (Digz, Inc. Group)"
     }
   ]
 }

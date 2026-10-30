@@ -18171,6 +18171,261 @@
       "id": "story-dearness-ttmr-010-1",
       "title": "Bab.10.Ep.5",
       "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-after_step_before_audition_mid1-1",
+      "title": "Hari Itu Akhirnya Tiba",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-before-selection-01-01",
+      "title": "Menuju Kualifikasi ke-1",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-before-selection-02-01",
+      "title": "Menuju Kualifikasi ke-2",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-before-selection-03-01",
+      "title": "Menuju Kualifikasi ke-3",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-final-failure-01",
+      "title": "Aku Belum Ingin Ini Berakhir",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-main_match-opening-01",
+      "title": "Sekarang, Menuju Final H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-produce-007-after-selection-01-01",
+      "title": "Lolos Babak Kualifikasi ke-1 H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-produce-007-after-selection-02-01",
+      "title": "Lolos Babak Kualifikasi ke-2 H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-produce-007-after-selection-03-01",
+      "title": "Lolos Babak Kualifikasi ke-3 H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-produce-007-selection-ending-a-01",
+      "title": "Lolos Babak Kualifikasi H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-produce-008-after-final-01-01",
+      "title": "Babak 1 Final H.I.F Selesai!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-produce-008-final-ending-a-01",
+      "title": "Kemenangan di Babak Final H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-selection-failure-01",
+      "title": "Tak Boleh Berakhir di Sini Dulu",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-selection-opening-02",
+      "title": "Membidik Lolos dari Babak Kualifikasi!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_activity_021",
+      "title": "Ada Apa di Menu Terbatas?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_activity_022",
+      "title": "Akuarium yang Tenang",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_012",
+      "title": "Lagu yang Mendapat Evaluasi Tinggi",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_013",
+      "title": "Lagu yang Perlu Diperhatikan",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_014",
+      "title": "Lesson Vocal Hari Ini",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_015",
+      "title": "Kekuatan yang Dibutuhkan untuk H.I.F",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_016",
+      "title": "Tentang Producer",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_017",
+      "title": "Prima Stella Sena Juo",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_018",
+      "title": "Tarian yang Mendapat Evaluasi Tinggi",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_019",
+      "title": "Tarian yang Perlu Diperhatikan",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_020",
+      "title": "Lesson Dance Hari Ini",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_021",
+      "title": "Seseorang yang Pantas Mendapat Prima Stella",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_022",
+      "title": "Tentang Penampilan Solo dan Unit",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_023",
+      "title": "Tentang H.I.F",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_024",
+      "title": "Visual yang Mendapat Evaluasi Tinggi",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_025",
+      "title": "Visual yang Perlu Diperhatikan",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_026",
+      "title": "Lesson Visual Hari Ini",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_027",
+      "title": "Tentang Produce",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_028",
+      "title": "Jika Aku Menjadi Prima Stella",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_029",
+      "title": "Tentang 100PRO",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_030",
+      "title": "Pemeriksaan Kondisi?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_031",
+      "title": "Bagaimana Perasaanmu Saat Ini??",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_032",
+      "title": "Pemeriksaan Kondisi!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_033",
+      "title": "Bagaimana Perasaanmu Saat Ini?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_034",
+      "title": "Pemeriksaan Kondisi?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_035",
+      "title": "Bagaimana Perasaanmu Saat Ini?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-atbm-3-015-01",
+      "title": "【Garakuta Road】 Ep.1",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-atbm-3-015-02",
+      "title": "【Garakuta Road】 Ep.2",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-atbm-3-015-03",
+      "title": "【Garakuta Road】 Ep.3",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-jsna-3-021-01",
+      "title": "Roar Ep.1",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-jsna-3-021-02",
+      "title": "Roar Ep.2",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-jsna-3-021-03",
+      "title": "Roar Ep.3",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0057-01",
+      "title": "Adik Kelasku Gemar Tidur Siang",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0057-02",
+      "title": "Adik Kelasku Punya Aura Orang Hebat",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0113-01",
+      "title": "Hari Ini Peringatan Spesial!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0113-02",
+      "title": "Dorongan Semangat yang Lembut",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0113-03",
+      "title": "Caraku Sendiri Mengungkapkan Terima Kasih",
+      "produceEventHintProduceConditionDescriptions": []
     }
   ]
 }

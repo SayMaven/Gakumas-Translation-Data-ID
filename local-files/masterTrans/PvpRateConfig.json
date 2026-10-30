@@ -220,6 +220,10 @@
     {
       "id": "pvp_rate_config-9",
       "description": "S9"
+    },
+    {
+      "id": "pvp_rate_config-55",
+      "description": "S55"
     }
   ]
 }

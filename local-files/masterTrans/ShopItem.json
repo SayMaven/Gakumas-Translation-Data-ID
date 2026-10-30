@@ -1144,6 +1144,42 @@
     {
       "id": "shop_pass_item-0030",
       "name": "Premium Mission Pass Oktober 2026"
+    },
+    {
+      "id": "shop_costume_amao-cstm-0122",
+      "name": "Rok Ultimate Smile (Mao Arimura)"
+    },
+    {
+      "id": "shop_costume_costume_head_fktn-hair-0009",
+      "name": "Pita Besar (Kotone Fujita)"
+    },
+    {
+      "id": "shop_costume_costume_head_hski-hair-0009",
+      "name": "Pita Besar (Saki Hanami)"
+    },
+    {
+      "id": "shop_costume_costume_head_ttmr-hair-0009",
+      "name": "Pita Besar (Temari Tsukimura)"
+    },
+    {
+      "id": "shop_costume_fktn-cstm-0125",
+      "name": "Cheering All Out (Kotone)"
+    },
+    {
+      "id": "shop_costume_shro-cstm-0122",
+      "name": "Rok Ultimate Smile (Hiro Shinosawa)"
+    },
+    {
+      "id": "shop_costume_ttmr-cstm-0125",
+      "name": "Cheering All Out (Temari)"
+    },
+    {
+      "id": "shop_jewel_item-0045",
+      "name": "[Penawaran Terbatas 1x!] 12.300 Jewel"
+    },
+    {
+      "id": "shop_pass_item-0031",
+      "name": "Premium Mission Pass November 2026"
     }
   ]
 }
