@@ -75,33 +75,33 @@
       "examEffectType": "ProduceExamEffectType_ExamConcentration",
       "isLessonInt": 0,
       "seminarExamId": "seminar_gruop-03_05",
-      "description": "Belum mencapai nilai target. Percaya Diri meningkatkan pertumbuhan parameter dan konsumsi stamina. Ayo pelajari cara menggunakannya secara efektif dalam latihan ujian!",
+      "description": "Belum mencapai nilai target. Confidence meningkatkan pertumbuhan parameter dan konsumsi stamina. Ayo pelajari cara menggunakannya secara efektif dalam latihan ujian!",
       "seminarExamGroupName": "Latihan Ujian",
-      "seminarExamName": "【Ujian 6】Percaya Diri"
+      "seminarExamName": "【Ujian 6】Confidence"
     },
     {
       "examEffectType": "ProduceExamEffectType_ExamConcentration",
       "isLessonInt": 1,
       "seminarExamId": "seminar_gruop-01_07",
-      "description": "Belum mencapai nilai target. Percaya Diri meningkatkan pertumbuhan parameter dan konsumsi stamina. Ayo pelajari cara menggunakannya secara efektif dalam latihan!",
+      "description": "Belum mencapai nilai target. Confidence meningkatkan pertumbuhan parameter dan konsumsi stamina. Ayo pelajari cara menggunakannya secara efektif dalam latihan!",
       "seminarExamGroupName": "Latihan Dasar",
-      "seminarExamName": "【Dasar 8】Percaya Diri"
+      "seminarExamName": "【Dasar 8】Confidence"
     },
     {
       "examEffectType": "ProduceExamEffectType_ExamFullPower",
       "isLessonInt": 0,
       "seminarExamId": "seminar_gruop-03_06",
-      "description": "Belum mencapai nilai target. Kekuatan Penuh meningkatkan pertumbuhan parameter dan memungkinkan penggunaan satu skill card tambahan. Ayo pelajari cara menggunakannya secara efektif dalam latihan ujian!",
+      "description": "Belum mencapai nilai target. Full Power meningkatkan pertumbuhan parameter dan memungkinkan penggunaan satu skill card tambahan. Ayo pelajari cara menggunakannya secara efektif dalam latihan ujian!",
       "seminarExamGroupName": "Latihan Ujian",
-      "seminarExamName": "【Ujian 5】Kekuatan Penuh"
+      "seminarExamName": "【Ujian 5】Full Power"
     },
     {
       "examEffectType": "ProduceExamEffectType_ExamFullPower",
       "isLessonInt": 1,
       "seminarExamId": "seminar_gruop-01_08",
-      "description": "Belum mencapai nilai target. Kekuatan Penuh meningkatkan pertumbuhan parameter dan memungkinkan penggunaan satu skill card tambahan. Ayo pelajari cara menggunakannya secara efektif dalam latihan!",
+      "description": "Belum mencapai nilai target. Full Power meningkatkan pertumbuhan parameter dan memungkinkan penggunaan satu skill card tambahan. Ayo pelajari cara menggunakannya secara efektif dalam latihan!",
       "seminarExamGroupName": "Latihan Dasar",
-      "seminarExamName": "【Dasar 7】Kekuatan Penuh"
+      "seminarExamName": "【Dasar 7】Full Power"
     }
   ]
 }

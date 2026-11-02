@@ -149,12 +149,12 @@
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_concentration-000",
       "order": 21,
-      "title": "Parameter Meningkat saat Memperoleh Skill Card Percaya Diri"
+      "title": "Parameter Meningkat saat Memperoleh Skill Card Confidence"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_full_power-000",
       "order": 22,
-      "title": "Parameter Meningkat saat Memperoleh Skill Card Kekuatan Penuh"
+      "title": "Parameter Meningkat saat Memperoleh Skill Card Full Power"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_lesson_buff-000",
@@ -169,7 +169,7 @@
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_preservation-000",
       "order": 23,
-      "title": "Parameter Meningkat saat Memperoleh Skill Card Penghematan"
+      "title": "Parameter Meningkat saat Memperoleh Skill Card Konservasi"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_review-000",
@@ -194,7 +194,7 @@
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-produce_card_search_count-p_card_search-deck_all-effect_group-visible-exam_full_power-000-0008_0000",
       "order": 40,
-      "title": "Parameter Meningkat saat Memperoleh Skill Card jika memiliki 8 Skill Card atau lebih berefek Kekuatan Penuh"
+      "title": "Parameter Meningkat saat Memperoleh Skill Card jika memiliki 8 Skill Card atau lebih berefek Full Power"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-produce_card_search_count-p_card_search-deck_all-effect_group-visible-exam_parameter_buff-000-0008_0000",
@@ -204,7 +204,7 @@
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-produce_card_search_count-p_card_search-deck_all-effect_group-visible-exam_preservation-000-0008_0000",
       "order": 41,
-      "title": "Parameter Meningkat saat Memperoleh Skill Card jika memiliki 8 Skill Card atau lebih berefek Penghematan"
+      "title": "Parameter Meningkat saat Memperoleh Skill Card jika memiliki 8 Skill Card atau lebih berefek Konservasi"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_drink",

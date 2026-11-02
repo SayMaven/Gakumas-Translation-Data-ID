@@ -737,13 +737,13 @@
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_concentration-0001",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Percaya Diri +"
+      "description": "Confidence +"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_effect_timer-0001-01-e_effect-exam_preservation-0001",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Penghematan +"
+      "description": "Konservasi +"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_full_power_point-0002",
@@ -803,7 +803,7 @@
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_preservation-0001",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Penghematan +"
+      "description": "Konservasi +"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_review-0002",
@@ -821,13 +821,13 @@
       "id": "p_card_custom-070-g_effect-effect_change-e_effect-exam_concentration-0001-e_effect-exam_concentration-0002",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Percaya Diri +"
+      "description": "Confidence +"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_change-e_effect-exam_preservation-0001-e_effect-exam_preservation-0002",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Penghematan +"
+      "description": "Konservasi +"
     },
     {
       "id": "p_card_custom-070-g_effect-full_power_point_add-2",
@@ -1787,7 +1787,7 @@
       "id": "p_card_custom-wrapper-p_card-03-act-1_043-a-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Percaya Diri +"
+      "description": "Confidence +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-03-act-1_043-b-01",
@@ -1817,7 +1817,7 @@
       "id": "p_card_custom-wrapper-p_card-03-act-1_072-a-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Penghematan +"
+      "description": "Konservasi +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-03-act-1_072-b-01",
@@ -1847,7 +1847,7 @@
       "id": "p_card_custom-wrapper-p_card-03-act-1_073-a-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Penghematan +"
+      "description": "Konservasi +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-03-act-1_073-b-01",
@@ -1895,7 +1895,7 @@
       "id": "p_card_custom-wrapper-p_card-03-act-2_106-b-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Percaya Diri +"
+      "description": "Confidence +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-03-act-2_106-c-01",
@@ -1967,7 +1967,7 @@
       "id": "p_card_custom-wrapper-p_card-03-men-2_078-b-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Penghematan +"
+      "description": "Konservasi +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-03-men-2_103-a-01",
@@ -1985,7 +1985,7 @@
       "id": "p_card_custom-wrapper-p_card-03-men-2_112-a-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Penghematan +"
+      "description": "Konservasi +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-03-men-2_112-b-01",
@@ -2039,19 +2039,19 @@
       "id": "p_card_custom-wrapper-p_card-03-sup-3_183-b-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Percaya Diri +"
+      "description": "Confidence +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-03-sup-3_194-a-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Percaya Diri +"
+      "description": "Confidence +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-03-sup-3_194-b-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Penghematan +"
+      "description": "Konservasi +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-03-sup-3_196-a-01",

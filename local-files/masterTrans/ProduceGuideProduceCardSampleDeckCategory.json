@@ -79,11 +79,11 @@
     },
     {
       "id": "sample_deck_beginner_Concentration_group_20_Concentration",
-      "label": "Skill Card Percaya Diri"
+      "label": "Skill Card Confidence"
     },
     {
       "id": "sample_deck_beginner_Concentration_group_20_Preservation\n",
-      "label": "Skill Card Penghematan"
+      "label": "Skill Card Konservasi"
     },
     {
       "id": "sample_deck_beginner_Concentration_group_35_anomaly_other",
@@ -95,11 +95,11 @@
     },
     {
       "id": "sample_deck_beginner_Concentration_group_35_Concentration",
-      "label": "Skill Card Percaya Diri"
+      "label": "Skill Card Confidence"
     },
     {
       "id": "sample_deck_beginner_Concentration_group_35_Preservation\n",
-      "label": "Skill Card Penghematan"
+      "label": "Skill Card Konservasi"
     },
     {
       "id": "sample_deck_beginner_FullPower_group_20_anomaly_other",
@@ -115,7 +115,7 @@
     },
     {
       "id": "sample_deck_beginner_FullPower_group_20_Preservation",
-      "label": "Skill Card Penghematan"
+      "label": "Skill Card Konservasi"
     },
     {
       "id": "sample_deck_beginner_FullPower_group_35_anomaly_other",
@@ -131,7 +131,7 @@
     },
     {
       "id": "sample_deck_beginner_FullPower_group_35_Preservation",
-      "label": "Skill Card Penghematan"
+      "label": "Skill Card Konservasi"
     },
     {
       "id": "sample_deck_beginner_LessonBuff_group_20_LessonBuff",
