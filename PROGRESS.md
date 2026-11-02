@@ -615,6 +615,9 @@ Total: **534 berkas** (10.513 baris dialog).
 | 2026-11-02 | `resource/adv_pstory_*_hmsz_*.txt` (P-Story Misuzu Choice Overflow Fix) | Perbaikan | Merapikan seluruh 51 opsi pilihan respons (*choicegroup*) pada 26 berkas Skenario Produce Hataya Misuzu dengan pemenggalan escape `\n` alami. Bebas overflow (<= 18 karakter/baris), format LF murni. |
 | 2026-11-02 | `resource/adv_pstory_*_atbm_*.txt` (P-Story Tsubame Choice Overflow Fix) | Perbaikan | Merapikan seluruh 51 opsi pilihan respons (*choicegroup*) pada 25 berkas Skenario Produce Amaya Tsubame dengan pemenggalan escape `\n` alami. Bebas overflow (<= 18 karakter/baris), format LF murni. |
 | 2026-11-02 | **Perapian Choice P-Story (`adv_pstory_*.txt`)** | Milestone | **PERAPIAN CHOICE P-STORY TUNTAS 100%! Seluruh 734 pilihan overflow pada 329 berkas P-Story selesai dirapikan**. Seluruh 922 pilihan di 615 berkas P-Story kini bebas overflow (<= 18 karakter/baris), lolos validasi 3.558/3.558 berkas ADV, format LF murni. |
+| 2026-11-02 | `resource/adv_pgrowth_001_*.txt` (Pelatihan Karakter P-Growth) | Terjemahan | Seluruh 39 berkas (13 idol x 3 berkas) tuntas diterjemahkan (150 dialog). Bebas overflow (wrap <= 40 karakter/baris), format LF murni. |
+| 2026-11-02 | **Pelatihan Karakter P-Growth (`adv_pgrowth_*.txt`)** | Milestone | **FASE 1 P-GROWTH TUNTAS 100%! Seluruh 39 berkas interaksi pelatihan P-Growth selesai diterjemahkan**. Lolos validasi 3.558/3.558 berkas ADV, 0 overflow, format LF murni. Total berkas game: **3.122 berkas (83,63%)**. |
+
 
 
 
