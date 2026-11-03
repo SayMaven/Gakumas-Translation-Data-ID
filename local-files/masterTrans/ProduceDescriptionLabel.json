@@ -894,7 +894,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Kondisi Prima "
+          "text": "Kondisi Puncak "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -907,7 +907,7 @@
           "text": "bertambah\nTidak memengaruhi biaya dari status diperkuat yang berbeda "
         }
       ],
-      "name": "Peningkatan Biaya Kondisi Prima "
+      "name": "Peningkatan Biaya Kondisi Puncak "
     },
     {
       "id": "Label_CostParameterBuffMultiplePerTurnReduce",
@@ -930,7 +930,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Kondisi Prima "
+          "text": "Kondisi Puncak "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -943,7 +943,7 @@
           "text": "berkurang\nTidak memengaruhi biaya dari status diperkuat yang berbeda "
         }
       ],
-      "name": "Pengurangan Biaya Kondisi Prima "
+      "name": "Pengurangan Biaya Kondisi Puncak "
     },
     {
       "id": "Label_CostParameterBuffReduce",
@@ -5182,7 +5182,7 @@
           "text": ""
         }
       ],
-      "name": "Kondisi Prima "
+      "name": "Kondisi Puncak "
     },
     {
       "id": "Label_ExamParameterBuffMultiplePerTurnReduce",
@@ -5195,7 +5195,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Kondisi Prima "
+          "text": "Kondisi Puncak "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5208,7 +5208,7 @@
           "text": "berkurang sebesar ini "
         }
       ],
-      "name": "Penurunan Drastis "
+      "name": "Penurunan Kondisi Puncak "
     },
     {
       "id": "Label_ExamParameterBuffReduce",
@@ -7482,10 +7482,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Perolehan Kondisi Prima bertambah "
+          "text": "Perolehan Kondisi Puncak bertambah "
         }
       ],
-      "name": "Peningkatan Nilai Kondisi Prima "
+      "name": "Peningkatan Nilai Kondisi Puncak "
     },
     {
       "id": "Label_ParameterBuffMultiplePerTurnReduce",
@@ -7498,10 +7498,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Perolehan Kondisi Prima berkurang "
+          "text": "Perolehan Kondisi Puncak berkurang "
         }
       ],
-      "name": "Pengurangan Nilai Kondisi Prima "
+      "name": "Pengurangan Nilai Kondisi Puncak "
     },
     {
       "id": "Label_ParameterBuffTurnAdd",

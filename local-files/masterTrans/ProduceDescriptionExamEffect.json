@@ -239,7 +239,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuffMultiplePerTurn",
-      "name": "Kondisi Prima "
+      "name": "Kondisi Puncak "
     },
     {
       "type": "ProduceExamEffectType_StanceLock",

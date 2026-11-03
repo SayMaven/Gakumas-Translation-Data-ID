@@ -791,7 +791,7 @@
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_parameter_buff_multiple_per_turn-02",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnAdd",
-      "description": "Kondisi Prima +"
+      "description": "Kondisi Puncak +"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_parameter_buff-02",
@@ -2360,4 +2360,4 @@
       "description": "Remove 1x limit\\nper lesson"
     }
   ]
-}
+}

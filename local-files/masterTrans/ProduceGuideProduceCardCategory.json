@@ -167,7 +167,7 @@
     },
     {
       "id": "LessonBuff_group_35_parameter_buff_multiple",
-      "label": "Skill Card Kondisi Prima"
+      "label": "Skill Card Kondisi Puncak"
     },
     {
       "id": "LessonBuff_group_35_ParameterBuff",
@@ -187,7 +187,7 @@
     },
     {
       "id": "ParameterBuff_group_20_parameter_buff_multiple",
-      "label": "Skill Card Kondisi Prima"
+      "label": "Skill Card Kondisi Puncak"
     },
     {
       "id": "ParameterBuff_group_20_ParameterBuff",
@@ -207,7 +207,7 @@
     },
     {
       "id": "ParameterBuff_group_35_parameter_buff_multiple",
-      "label": "Skill Card Kondisi Prima"
+      "label": "Skill Card Kondisi Puncak"
     },
     {
       "id": "ParameterBuff_group_35_ParameterBuff",
@@ -274,4 +274,4 @@
       "label": "Skill Card Peningkat Skor"
     }
   ]
-}
+}

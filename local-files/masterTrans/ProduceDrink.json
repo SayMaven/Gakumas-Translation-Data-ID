@@ -363,7 +363,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "giliran</nobr>)"
+          "text": "turn</nobr>)"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -413,7 +413,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "giliran</nobr> "
+          "text": "turn</nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -549,7 +549,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "giliran</nobr> "
+          "text": "turn</nobr> "
         }
       ],
       "name": "Minuman Jamu Mujarab"
@@ -615,7 +615,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "giliran</nobr>)"
+          "text": "turn</nobr>)"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -939,7 +939,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "giliran</nobr> "
+          "text": "turn</nobr> "
         }
       ],
       "name": "Minuman Vitamin"
@@ -1001,7 +1001,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuffMultiplePerTurn",
-          "text": "Kondisi Prima "
+          "text": "Kondisi Puncak "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1031,7 +1031,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "giliran</nobr> "
+          "text": "turn</nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1163,7 +1163,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuffMultiplePerTurn",
-          "text": "Kondisi Prima "
+          "text": "Kondisi Puncak "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1193,7 +1193,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "giliran</nobr> "
+          "text": "turn</nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1419,7 +1419,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "giliran</nobr> "
+          "text": "turn</nobr> "
         }
       ],
       "name": "Cuka Hitam Hatsuboshi"
@@ -1865,7 +1865,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "giliran</nobr>)"
+          "text": "turn</nobr>)"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1965,7 +1965,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "giliran</nobr> "
+          "text": "turn</nobr> "
         }
       ],
       "name": "Ekstrak SP Hatsuboshi"
@@ -2345,7 +2345,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "giliran</nobr> "
+          "text": "turn</nobr> "
         }
       ],
       "name": "Super Soda Hatsuboshi"
@@ -2471,10 +2471,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "giliran</nobr> "
+          "text": "turn</nobr> "
         }
       ],
       "name": "Sup Hatsuboshi"
     }
   ]
-}
+}

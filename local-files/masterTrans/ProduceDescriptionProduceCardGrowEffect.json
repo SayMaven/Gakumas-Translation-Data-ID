@@ -153,14 +153,14 @@
     {
       "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnAdd",
       "produceDescriptionLabelId": "Label_ParameterBuffMultiplePerTurnAdd",
-      "name": "Kondisi Prima +",
-      "produceCardCustomizeDescription": "Kondisi Prima +"
+      "name": "Kondisi Puncak +",
+      "produceCardCustomizeDescription": "Kondisi Puncak +"
     },
     {
       "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnReduce",
       "produceDescriptionLabelId": "Label_ParameterBuffMultiplePerTurnReduce",
-      "name": "Kondisi Prima -",
-      "produceCardCustomizeDescription": "Kondisi Prima -"
+      "name": "Kondisi Puncak -",
+      "produceCardCustomizeDescription": "Kondisi Puncak -"
     },
     {
       "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnAdd",
@@ -315,14 +315,14 @@
     {
       "type": "ProduceCardGrowEffectType_CostParameterBuffMultiplePerTurnAdd",
       "produceDescriptionLabelId": "Label_CostParameterBuffMultiplePerTurnAdd",
-      "name": "Biaya Kondisi Prima +",
-      "produceCardCustomizeDescription": "Biaya Kondisi Prima +"
+      "name": "Biaya Kondisi Puncak +",
+      "produceCardCustomizeDescription": "Biaya Kondisi Puncak +"
     },
     {
       "type": "ProduceCardGrowEffectType_CostParameterBuffMultiplePerTurnReduce",
       "produceDescriptionLabelId": "Label_CostParameterBuffMultiplePerTurnReduce",
-      "name": "Biaya Kondisi Prima -",
-      "produceCardCustomizeDescription": "Biaya Kondisi Prima -"
+      "name": "Biaya Kondisi Puncak -",
+      "produceCardCustomizeDescription": "Biaya Kondisi Puncak -"
     }
   ]
-}
+}
