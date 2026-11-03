@@ -3333,7 +3333,7 @@
   "mission.receive_many.gift": "Terkirim ke Kotak Hadiah",
   "mission.receive_result_sheet.description": "Menerima {0:N0} Hadiah.",
   "mission.receive_result_sheet.title": "Hadiah Diterima",
-  "mission.remain_time_label": "sebelum reset",
+  "mission.remain_time_label": "",
   "mission.special.achievement_reward_condition": "Selesaikan Semua Misi untuk Menerima Hadiah",
   "mission.special.empty": "Tidak Ada Misi Berlangsung",
   "mission.special.receive_achievement_reward": "Semua Hadiah Misi Berhasil Diterima",
