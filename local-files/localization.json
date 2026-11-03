@@ -4685,7 +4685,7 @@
   "produce.reward.select.non": "Lanjut tanpa mengambil {0}",
   "produce.schedule.animation.final": "Menuju Final",
   "produce.schedule.animation.mid": "Menuju Midterm",
-  "produce.schedule.audition_remain_week": "Sisa {0}",
+  "produce.schedule.audition_remain_week": "{0}",
   "produce.schedule.category.present": "Uang Saku:",
   "produce.schedule.category.school_activities": "Aktivitas Sekolah:",
   "produce.schedule.detail_final_audition2": "Final",
