@@ -323,7 +323,7 @@
       "characterId": "hmsz",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "Memasak, merangkai bunga, tepat waktu"
+      "content": "Memasak,Rangkai bunga,tepat waktu"
     },
     {
       "characterId": "hmsz",
@@ -917,7 +917,7 @@
       "characterId": "shro",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "Menantang diri merawat tanaman hias"
+      "content": "Menantang diri, merawat tanaman hias"
     },
     {
       "characterId": "shro",

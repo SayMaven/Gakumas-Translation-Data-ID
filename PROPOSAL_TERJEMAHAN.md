@@ -380,6 +380,7 @@ Panggilan keluarga **berbeda** dari panggilan senior sekolah — ini adalah kont
 | **強気 (Kyouki / Aggressive)** | **Confidence** | Stance percaya diri/aktif pada plan Anomaly. |
 | **全力 (Zenryoku / Full Power)** | **Full Power** | ⭐ **TETAP "Full Power"**. Mode puncak all-out idol Anomaly. |
 | **全力ポイント (Full Power Point)** | **Poin Full Power** | Poin akumulasi pemicu mode Full Power. |
+| **リラックス (Relax / OverPreservation)** | **Relaks** | Stance spesial lanjutan Konservasi Tahap 3 plan Anomaly (skor & biaya stamina -100%, saat dihapus memberi Genki Tetap dan batas play kartu +1). |
 | **Active Card (アクティブ)** | **Kartu Aktif** (Active) | Kartu yang langsung menghasilkan skor/parameter. |
 | **Mental Card (メンタル)** | **Kartu Mental** (Mental) | Kartu pendukung buff status atau penataan stamina. |
 | **Trouble Card (トラブル)** | **Kartu Trouble** | Kartu beban/debuff penahan aksi. |
@@ -393,7 +394,9 @@ Panggilan keluarga **berbeda** dari panggilan senior sekolah — ini adalah kont
 | **集中 (Concentration)** | **Fokus** | Flat bonus skor pada setiap kartu aktif. Ringkas dan pas di kartu. |
 | **やる気 (Motivation)** | **Motivasi** | Arketipe Logic, meningkatkan perolehan Genki/shield. |
 | **好印象 (Good Impression)** | **Kesan Baik** | Memberikan skor pasif di akhir setiap turn. Singkatan UI: **"Kesan"**. |
+| **熱意 (Enthusiasm / Enthusiastic)** | **Antusiasme** | Buff status eksklusif Anomaly penambah pertumbuhan parameter / efek ujian saat terjadi transisi atau penghapusan stance. |
 | **元気 (Genki)** | **Genki** | ⭐ **TETAP "Genki"**. Berfungsi sebagai shield penahan stamina. Selaras dengan audio & identitas game. |
+| **固定元気 (Fixed Genki)** | **Genki Tetap** | Shield Genki instan tanpa pengali debuff (misal: saat efek Relaks dihapus). |
 | **消費体力減少** | **Konsumsi Stamina Turun** | Efek efisiensi penggunaan stamina. |
 | **消費体力増加** | **Konsumsi Stamina Naik** | Efek penalti/kartu beresiko. |
 | **体力回復** | **Pemulihan Stamina** | Pemulihan HP stamina idol. |

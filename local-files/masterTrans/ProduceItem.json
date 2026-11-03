@@ -196573,7 +196573,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "jika <nobr>10 atau lebih</nobr>:\n"
+          "text": "mencapai <nobr>10 atau lebih</nobr>:"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196623,7 +196623,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "4 "
+          "text": "4"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196683,7 +196683,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "25 "
+          "text": "25"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196693,7 +196693,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "%</nobr> "
+          "text": "%</nobr>"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196743,7 +196743,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1 kartu "
+          "text": "pindahkan 1 kartu ke "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -196753,7 +196753,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardPositionType_Hand",
-          "text": "ke Hand "
+          "text": "Tangan "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196763,7 +196763,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "pindahkan\n"
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196869,7 +196869,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "jika <nobr>10 atau lebih</nobr>:\n"
+          "text": "mencapai <nobr>10 atau lebih</nobr>:"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196919,7 +196919,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "11 "
+          "text": "11"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196979,7 +196979,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "25 "
+          "text": "25"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196989,7 +196989,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "%</nobr> "
+          "text": "%</nobr>"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197039,7 +197039,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1 kartu "
+          "text": "pindahkan 1 kartu ke "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -197049,7 +197049,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardPositionType_Hand",
-          "text": "ke Hand "
+          "text": "Tangan "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197059,7 +197059,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "pindahkan\n"
+          "text": ""
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
