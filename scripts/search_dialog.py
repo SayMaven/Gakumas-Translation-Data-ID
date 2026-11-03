@@ -47,7 +47,7 @@ MAX_SAFE_LINE_LENGTH = 40
 MAX_SAFE_CHOICE_LENGTH = 18
 
 RE_ADV_TAG = re.compile(
-    r'\[(message|narration|choice)\s+text=(.*?)(?=(?:\s+(?:name|isInner|clip|lip|target|voice|speaker|se|fontSize|fade|speed|setting|selectAction)=|\]))',
+    r'\[(message|narration|choice)\s+text=(.*?)(?=(?:\s+(?:name|isInner|clip|lip|target|voice|speaker|se|fontSize|fade|speed|setting|selectAction|hide)=|\]))',
     re.DOTALL
 )
 RE_NAME = re.compile(r'\s+name=([^\s\]]+)')
