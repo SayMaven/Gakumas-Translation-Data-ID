@@ -151,7 +151,7 @@
     },
     {
       "id": "LessonBuff_group_20_ParameterBuff",
-      "label": "Skill Card Kondisi Baik"
+      "label": "Skill Card Kondisi Prima"
     },
     {
       "id": "LessonBuff_group_20_sense_score",
@@ -171,7 +171,7 @@
     },
     {
       "id": "LessonBuff_group_35_ParameterBuff",
-      "label": "Skill Card Kondisi Baik"
+      "label": "Skill Card Kondisi Prima"
     },
     {
       "id": "LessonBuff_group_35_sense_score",
@@ -191,7 +191,7 @@
     },
     {
       "id": "ParameterBuff_group_20_ParameterBuff",
-      "label": "Skill Card Kondisi Baik"
+      "label": "Skill Card Kondisi Prima"
     },
     {
       "id": "ParameterBuff_group_20_sense_score",
@@ -211,7 +211,7 @@
     },
     {
       "id": "ParameterBuff_group_35_ParameterBuff",
-      "label": "Skill Card Kondisi Baik"
+      "label": "Skill Card Kondisi Prima"
     },
     {
       "id": "ParameterBuff_group_35_sense_score",

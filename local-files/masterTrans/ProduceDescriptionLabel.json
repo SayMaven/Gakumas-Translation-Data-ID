@@ -858,7 +858,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -871,7 +871,7 @@
           "text": "bertambah\nTidak memengaruhi biaya dari status diperkuat yang berbeda "
         }
       ],
-      "name": "Peningkatan Biaya Kondisi Baik "
+      "name": "Peningkatan Biaya Kondisi Prima "
     },
     {
       "id": "Label_CostParameterBuffMultiplePerTurnAdd",
@@ -966,7 +966,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -979,7 +979,7 @@
           "text": "berkurang\nTidak memengaruhi biaya dari status diperkuat yang berbeda "
         }
       ],
-      "name": "Pengurangan Biaya Kondisi Baik "
+      "name": "Pengurangan Biaya Kondisi Prima "
     },
     {
       "id": "Label_CostPenetrateAdd",
@@ -4994,7 +4994,7 @@
           "text": ""
         }
       ],
-      "name": "Kondisi Baik "
+      "name": "Kondisi Prima "
     },
     {
       "id": "Label_ExamParameterBuffAdditive",
@@ -5007,7 +5007,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5050,7 +5050,7 @@
           "text": ""
         }
       ],
-      "name": "Peningkatan Perolehan Kondisi Baik "
+      "name": "Peningkatan Perolehan Kondisi Prima "
     },
     {
       "id": "Label_ExamParameterBuffAdditiveFix",
@@ -5063,7 +5063,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5106,7 +5106,7 @@
           "text": ""
         }
       ],
-      "name": "Tambahan Kenaikan Kondisi Baik "
+      "name": "Tambahan Kenaikan Kondisi Prima "
     },
     {
       "id": "Label_ExamParameterBuffMultiplePerTurn",
@@ -5119,7 +5119,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5159,7 +5159,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5221,7 +5221,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5234,7 +5234,7 @@
           "text": "berkurang sebesar ini "
         }
       ],
-      "name": "Pengurangan Kondisi Baik "
+      "name": "Pengurangan Kondisi Prima "
     },
     {
       "id": "Label_ExamPlayableValueAdd_Exam",
@@ -7514,10 +7514,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Perolehan Kondisi Baik bertambah"
+          "text": "Perolehan Kondisi Prima bertambah"
         }
       ],
-      "name": "Peningkatan Nilai Kondisi Baik "
+      "name": "Peningkatan Nilai Kondisi Prima "
     },
     {
       "id": "Label_ParameterBuffTurnReduce",
@@ -7530,10 +7530,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Perolehan Kondisi Baik berkurang"
+          "text": "Perolehan Kondisi Prima berkurang"
         }
       ],
-      "name": "Pengurangan Nilai Kondisi Baik "
+      "name": "Pengurangan Nilai Kondisi Prima "
     },
     {
       "id": "Label_PlayEffectTriggerChange",
@@ -7854,7 +7854,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",

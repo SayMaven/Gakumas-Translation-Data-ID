@@ -93,14 +93,14 @@
     {
       "type": "ProduceCardGrowEffectType_ParameterBuffTurnAdd",
       "produceDescriptionLabelId": "Label_ParameterBuffTurnAdd",
-      "name": "Kondisi Baik +",
-      "produceCardCustomizeDescription": "Kondisi Baik +"
+      "name": "Kondisi Prima +",
+      "produceCardCustomizeDescription": "Kondisi Prima +"
     },
     {
       "type": "ProduceCardGrowEffectType_ParameterBuffTurnReduce",
       "produceDescriptionLabelId": "Label_ParameterBuffTurnReduce",
-      "name": "Kondisi Baik -",
-      "produceCardCustomizeDescription": "Kondisi Baik -"
+      "name": "Kondisi Prima -",
+      "produceCardCustomizeDescription": "Kondisi Prima -"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonBuffAdd",
@@ -273,14 +273,14 @@
     {
       "type": "ProduceCardGrowEffectType_CostParameterBuffReduce",
       "produceDescriptionLabelId": "Label_CostParameterBuffReduce",
-      "name": "Biaya Kondisi Baik -",
-      "produceCardCustomizeDescription": "Biaya Kondisi Baik -"
+      "name": "Biaya Kondisi Prima -",
+      "produceCardCustomizeDescription": "Biaya Kondisi Prima -"
     },
     {
       "type": "ProduceCardGrowEffectType_CostParameterBuffAdd",
       "produceDescriptionLabelId": "Label_CostParameterBuffAdd",
-      "name": "Biaya Kondisi Baik +",
-      "produceCardCustomizeDescription": "Biaya Kondisi Baik +"
+      "name": "Biaya Kondisi Prima +",
+      "produceCardCustomizeDescription": "Biaya Kondisi Prima +"
     },
     {
       "type": "ProduceCardGrowEffectType_CostFullPowerPointReduce",

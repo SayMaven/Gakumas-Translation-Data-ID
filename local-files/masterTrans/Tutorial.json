@@ -1037,7 +1037,7 @@
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "Berkat efek Skill Card, status {ExamEffectType.ExamParameterBuff}Kondisi Baik berhasil diterapkan!"
+        "Berkat efek Skill Card, status {ExamEffectType.ExamParameterBuff}Kondisi Prima berhasil diterapkan!"
       ],
       "title": ""
     },
@@ -1063,7 +1063,7 @@
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "Kamu bisa memeriksa status aktif dengan mengetuk ikon. Ayo lihat detail efek {ExamEffectType.ExamParameterBuff}Kondisi Baik!"
+        "Kamu bisa memeriksa status aktif dengan mengetuk ikon. Ayo lihat detail efek {ExamEffectType.ExamParameterBuff}Kondisi Prima!"
       ],
       "title": ""
     },
@@ -1076,7 +1076,7 @@
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "{ExamEffectType.ExamParameterBuff}Kondisi Baik adalah efek yang melipatgandakan jumlah peningkatan parameter."
+        "{ExamEffectType.ExamParameterBuff}Kondisi Prima adalah efek yang melipatgandakan jumlah peningkatan parameter."
       ],
       "title": ""
     },
@@ -1102,7 +1102,7 @@
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "P-Item yang kamu bawa saat ini sangat cocok dipadukan dengan {ExamEffectType.ExamParameterBuff}Kondisi Baik."
+        "P-Item yang kamu bawa saat ini sangat cocok dipadukan dengan {ExamEffectType.ExamParameterBuff}Kondisi Prima."
       ],
       "title": ""
     },
@@ -1115,7 +1115,7 @@
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "Coba pilih Skill Card saat sedang berada di bawah pengaruh {ExamEffectType.ExamParameterBuff}Kondisi Baik!"
+        "Coba pilih Skill Card saat sedang berada di bawah pengaruh {ExamEffectType.ExamParameterBuff}Kondisi Prima!"
       ],
       "title": ""
     },
@@ -1128,7 +1128,7 @@
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "Berkat pengaruh {ExamEffectType.ExamParameterBuff}Kondisi Baik, peningkatan parametermu jadi jauh lebih besar!"
+        "Berkat pengaruh {ExamEffectType.ExamParameterBuff}Kondisi Prima, peningkatan parametermu jadi jauh lebih besar!"
       ],
       "title": ""
     },
@@ -1594,7 +1594,7 @@
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Dengan mengirim idol untuk melakukan Pekerjaan, kamu bisa memperoleh berbagai macam hadiah.",
-        "Pekerjaan terkadang bisa meraih Sukses Besar yang melipatgandakan jumlah hadiah. Idol dalam Kondisi Baik selalu meraih Sukses Besar."
+        "Pekerjaan terkadang bisa meraih Sukses Besar yang melipatgandakan jumlah hadiah. Idol dalam Kondisi Prima selalu meraih Sukses Besar."
       ],
       "title": ""
     },

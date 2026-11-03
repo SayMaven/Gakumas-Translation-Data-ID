@@ -11,7 +11,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuff",
-      "name": "Kondisi Baik "
+      "name": "Kondisi Prima "
     },
     {
       "type": "ProduceExamEffectType_ExamBlock",
@@ -263,7 +263,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuffReduce",
-      "name": "Pengurangan Kondisi Baik "
+      "name": "Pengurangan Kondisi Prima "
     },
     {
       "type": "ProduceExamEffectType_ExamLessonValueMultipleDown",
@@ -299,7 +299,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuffAdditive",
-      "name": "Peningkatan Perolehan Kondisi Baik "
+      "name": "Peningkatan Perolehan Kondisi Prima "
     },
     {
       "type": "ProduceExamEffectType_ExamAggressiveAdditive",
@@ -339,7 +339,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuffAdditiveFix",
-      "name": "Tambahan Kenaikan Kondisi Baik"
+      "name": "Tambahan Kenaikan Kondisi Prima"
     },
     {
       "type": "ProduceExamEffectType_ExamLessonBuffAdditiveFix",

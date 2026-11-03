@@ -164,7 +164,7 @@
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_parameter_buff-000",
       "order": 17,
-      "title": "Parameter Meningkat saat Memperoleh Skill Card Kondisi Baik"
+      "title": "Parameter Meningkat saat Memperoleh Skill Card Kondisi Prima"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_preservation-000",
@@ -199,7 +199,7 @@
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-produce_card_search_count-p_card_search-deck_all-effect_group-visible-exam_parameter_buff-000-0008_0000",
       "order": 43,
-      "title": "Parameter Meningkat saat Memperoleh Skill Card jika memiliki 8 Skill Card atau lebih berefek Kondisi Baik"
+      "title": "Parameter Meningkat saat Memperoleh Skill Card jika memiliki 8 Skill Card atau lebih berefek Kondisi Prima"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-produce_card_search_count-p_card_search-deck_all-effect_group-visible-exam_preservation-000-0008_0000",

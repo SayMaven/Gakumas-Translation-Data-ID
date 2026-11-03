@@ -228,7 +228,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -248,7 +248,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1003,7 +1003,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1138,7 +1138,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1273,7 +1273,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1408,7 +1408,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1543,7 +1543,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1728,7 +1728,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3428,7 +3428,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4228,7 +4228,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4328,7 +4328,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuffReduce",
-          "text": "Kondisi Baik Berkurang "
+          "text": "Kondisi Prima Berkurang "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4403,7 +4403,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4503,7 +4503,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuffReduce",
-          "text": "Kondisi Baik Berkurang "
+          "text": "Kondisi Prima Berkurang "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4578,7 +4578,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4678,7 +4678,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuffReduce",
-          "text": "Kondisi Baik Berkurang "
+          "text": "Kondisi Prima Berkurang "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4753,7 +4753,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4853,7 +4853,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuffReduce",
-          "text": "Kondisi Baik Berkurang "
+          "text": "Kondisi Prima Berkurang "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5243,7 +5243,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5863,7 +5863,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6373,7 +6373,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6488,7 +6488,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6603,7 +6603,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6718,7 +6718,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6803,7 +6803,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7163,7 +7163,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7288,7 +7288,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -45623,7 +45623,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -46483,7 +46483,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -46558,7 +46558,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -47248,7 +47248,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -47898,7 +47898,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -47993,7 +47993,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -48678,7 +48678,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -49323,7 +49323,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -49888,7 +49888,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -49928,7 +49928,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -50043,7 +50043,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -50533,7 +50533,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -54308,7 +54308,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -54443,7 +54443,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -54953,7 +54953,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -55078,7 +55078,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -56468,7 +56468,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -56593,7 +56593,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -57348,7 +57348,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -57388,7 +57388,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -57483,7 +57483,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -57523,7 +57523,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -59993,7 +59993,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -60168,7 +60168,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -61113,7 +61113,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -61298,7 +61298,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -64543,7 +64543,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -64768,7 +64768,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -65128,7 +65128,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -65608,7 +65608,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -66053,7 +66053,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -66563,7 +66563,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -66758,7 +66758,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -67813,7 +67813,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -67988,7 +67988,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -68278,7 +68278,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -68318,7 +68318,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -68563,7 +68563,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -69008,7 +69008,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -69113,7 +69113,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -69218,7 +69218,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -69383,7 +69383,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -69618,7 +69618,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -69843,7 +69843,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -69928,7 +69928,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -69968,7 +69968,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -70193,7 +70193,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -70338,7 +70338,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -71023,7 +71023,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -71198,7 +71198,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -71333,7 +71333,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -71433,7 +71433,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -71548,7 +71548,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -71648,7 +71648,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -71763,7 +71763,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -71803,7 +71803,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -71938,7 +71938,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -71998,7 +71998,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -72143,7 +72143,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -72183,7 +72183,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -72543,7 +72543,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -72658,7 +72658,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -72803,7 +72803,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -72843,7 +72843,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -72988,7 +72988,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -73028,7 +73028,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -73993,7 +73993,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -74188,7 +74188,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -74498,7 +74498,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -74733,7 +74733,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -75038,7 +75038,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -76028,7 +76028,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -76128,7 +76128,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -76243,7 +76243,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -76418,7 +76418,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -77533,7 +77533,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -77573,7 +77573,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -77658,7 +77658,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -77698,7 +77698,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -78993,7 +78993,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -79188,7 +79188,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -79303,7 +79303,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -79343,7 +79343,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -79508,7 +79508,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -79548,7 +79548,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -80288,7 +80288,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -80523,7 +80523,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -82208,7 +82208,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -82383,7 +82383,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -82538,7 +82538,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -82578,7 +82578,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -83328,7 +83328,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -84033,7 +84033,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuffAdditive",
-          "text": "Jumlah kenaikan Kondisi Baik ditingkatkan "
+          "text": "Jumlah kenaikan Kondisi Prima ditingkatkan "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -84158,7 +84158,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuffAdditive",
-          "text": "Jumlah kenaikan Kondisi Baik ditingkatkan "
+          "text": "Jumlah kenaikan Kondisi Prima ditingkatkan "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -85433,7 +85433,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -85668,7 +85668,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -85903,7 +85903,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -86098,7 +86098,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -86333,7 +86333,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -86643,7 +86643,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -87313,7 +87313,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -87618,7 +87618,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -87703,7 +87703,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -87853,7 +87853,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuffReduce",
-          "text": "Kondisi Baik Berkurang "
+          "text": "Kondisi Prima Berkurang "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -87938,7 +87938,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -88108,7 +88108,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuffReduce",
-          "text": "Kondisi Baik Berkurang "
+          "text": "Kondisi Prima Berkurang "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -88473,7 +88473,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -88573,7 +88573,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -88788,7 +88788,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -88888,7 +88888,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -89113,7 +89113,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -89338,7 +89338,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -89413,7 +89413,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -89433,7 +89433,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -89698,7 +89698,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -89718,7 +89718,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -90433,7 +90433,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -90493,7 +90493,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -90628,7 +90628,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -90688,7 +90688,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -90893,7 +90893,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -91078,7 +91078,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -91273,7 +91273,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -91313,7 +91313,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -92748,7 +92748,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -92788,7 +92788,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -92943,7 +92943,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -92983,7 +92983,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -93228,7 +93228,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -93443,7 +93443,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -153763,7 +153763,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -166168,7 +166168,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -166803,7 +166803,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -169578,7 +169578,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -169693,7 +169693,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -170253,7 +170253,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -171693,7 +171693,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -172213,7 +172213,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -182528,7 +182528,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -182643,7 +182643,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -183073,7 +183073,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -183178,7 +183178,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -184433,7 +184433,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -184538,7 +184538,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -185173,7 +185173,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -185193,7 +185193,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -185288,7 +185288,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -185308,7 +185308,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -186798,7 +186798,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -187888,7 +187888,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -188033,7 +188033,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -188838,7 +188838,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -188993,7 +188993,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -191468,7 +191468,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -191938,7 +191938,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -192123,7 +192123,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -192423,7 +192423,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -192823,7 +192823,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -193198,7 +193198,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -193628,7 +193628,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -193793,7 +193793,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -194243,7 +194243,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -194408,7 +194408,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -194648,7 +194648,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -194668,7 +194668,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -194873,7 +194873,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -195238,7 +195238,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -195423,7 +195423,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -195508,7 +195508,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -195593,7 +195593,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -195728,7 +195728,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -195923,7 +195923,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196108,7 +196108,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196193,7 +196193,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196213,7 +196213,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196398,7 +196398,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -196523,7 +196523,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197203,7 +197203,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197348,7 +197348,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197473,7 +197473,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197543,7 +197543,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197658,7 +197658,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197728,7 +197728,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197843,7 +197843,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197863,7 +197863,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -198008,7 +198008,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -198103,7 +198103,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -198238,7 +198238,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -198258,7 +198258,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -198393,7 +198393,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -198413,7 +198413,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -199218,7 +199218,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -199383,7 +199383,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -199518,7 +199518,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -199693,7 +199693,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -199903,7 +199903,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -200038,7 +200038,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -200393,7 +200393,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -200818,7 +200818,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -200973,7 +200973,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -201078,7 +201078,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -201203,7 +201203,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -201348,7 +201348,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -201603,7 +201603,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -202623,7 +202623,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -203048,7 +203048,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -203118,7 +203118,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -203213,7 +203213,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -203358,7 +203358,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -204283,7 +204283,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -204303,7 +204303,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -204388,7 +204388,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -204408,7 +204408,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -205453,7 +205453,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -205618,7 +205618,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -205733,7 +205733,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -205753,7 +205753,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -205908,7 +205908,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -205928,7 +205928,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -206538,7 +206538,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -206733,7 +206733,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -208213,7 +208213,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuffReduce",
-          "text": "Kondisi Baik Berkurang "
+          "text": "Kondisi Prima Berkurang "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -208328,7 +208328,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuffReduce",
-          "text": "Kondisi Baik Berkurang "
+          "text": "Kondisi Prima Berkurang "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -208473,7 +208473,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -209013,7 +209013,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -209158,7 +209158,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -209303,7 +209303,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -209323,7 +209323,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -209963,7 +209963,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -210108,7 +210108,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -210688,7 +210688,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuffAdditive",
-          "text": "Jumlah kenaikan Kondisi Baik ditingkatkan "
+          "text": "Jumlah kenaikan Kondisi Prima ditingkatkan "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -210793,7 +210793,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuffAdditive",
-          "text": "Jumlah kenaikan Kondisi Baik ditingkatkan "
+          "text": "Jumlah kenaikan Kondisi Prima ditingkatkan "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -211868,7 +211868,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -212063,7 +212063,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -212268,7 +212268,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -212433,7 +212433,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -212618,7 +212618,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -212868,7 +212868,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -213128,7 +213128,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -213213,7 +213213,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -213468,7 +213468,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -213823,7 +213823,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -214118,7 +214118,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuffAdditive",
-          "text": "Jumlah kenaikan Kondisi Baik ditingkatkan "
+          "text": "Jumlah kenaikan Kondisi Prima ditingkatkan "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -214223,7 +214223,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuffAdditive",
-          "text": "Jumlah kenaikan Kondisi Baik ditingkatkan "
+          "text": "Jumlah kenaikan Kondisi Prima ditingkatkan "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -214448,7 +214448,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -214703,7 +214703,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -214788,7 +214788,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -214898,7 +214898,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuffReduce",
-          "text": "Kondisi Baik Berkurang "
+          "text": "Kondisi Prima Berkurang "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -214983,7 +214983,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -215113,7 +215113,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuffReduce",
-          "text": "Kondisi Baik Berkurang "
+          "text": "Kondisi Prima Berkurang "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -215428,7 +215428,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -215508,7 +215508,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -215703,7 +215703,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -215783,7 +215783,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -215988,7 +215988,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -216163,7 +216163,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -268158,7 +268158,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -276948,7 +276948,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -277493,7 +277493,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -279218,7 +279218,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -279313,7 +279313,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -279793,7 +279793,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -281003,7 +281003,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -281433,7 +281433,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -291838,7 +291838,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -293743,7 +293743,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -294758,7 +294758,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -295148,7 +295148,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -295453,7 +295453,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -295718,7 +295718,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Kondisi Baik "
+          "text": "Kondisi Prima "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
