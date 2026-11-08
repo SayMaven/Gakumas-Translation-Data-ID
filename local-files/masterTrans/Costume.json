@@ -2884,6 +2884,26 @@
       "id": "ttmr-cstm-0125",
       "name": "Sorakan Sepenuh Hati",
       "description": "Sorakan Sepenuh Hati (Temari)"
+    },
+    {
+      "id": "hmsz-cstm-0136",
+      "name": "Garakuta Road",
+      "description": "【Garakuta Road】Dapatkan Hataya Misuzu"
+    },
+    {
+      "id": "hmsz-cstm-0137",
+      "name": "Garakuta Road",
+      "description": "【Garakuta Road】Dapatkan dengan mencapai Talent Bloom Tahap 4 Hataya Misuzu"
+    },
+    {
+      "id": "kcna-cstm-0136",
+      "name": "Garakuta Road",
+      "description": "【Garakuta Road】Dapatkan Kuramoto China"
+    },
+    {
+      "id": "kcna-cstm-0137",
+      "name": "Garakuta Road",
+      "description": "【Garakuta Road】Dapatkan dengan mencapai Talent Bloom Tahap 4 Kuramoto China"
     }
   ]
 }

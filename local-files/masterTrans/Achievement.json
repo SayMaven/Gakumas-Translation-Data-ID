@@ -6289,6 +6289,66 @@
       "id": "achieve-p_idol-atbm-026",
       "name": "Jarak Menuju Bintang-Bintang",
       "description": "Lulus Ujian Final H.I.F bersama Tsubame Amaya sebanyak {threshold} kali"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-018-01",
+      "name": "Diriku yang Sebenarnya",
+      "description": "【Garakuta Road】Lulus Ujian Akhir saat memproduksi Hataya Misuzu"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-018-02",
+      "name": "Garakuta Road",
+      "description": "【Garakuta Road】Tingkatkan Training Level Hataya Misuzu ke {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-018-03",
+      "name": "Hadiah yang Menyenangkan",
+      "description": "【Garakuta Road】Raih evaluasi A+ atau lebih tinggi sebanyak {threshold} kali saat memproduksi Hataya Misuzu"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-018-04",
+      "name": "Garakuta Road +",
+      "description": "【Garakuta Road】Tingkatkan Training Level Hataya Misuzu ke {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-018-05",
+      "name": "Garakuta Road ++",
+      "description": "【Garakuta Road】Tingkatkan Training Level Hataya Misuzu ke {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-018-06",
+      "name": "Garakuta Road +++",
+      "description": "【Garakuta Road】Tingkatkan Training Level Hataya Misuzu ke {threshold}"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-019-01",
+      "name": "The Berharganya Pantang Menyerah",
+      "description": "【Garakuta Road】Lulus Ujian Akhir saat memproduksi Kuramoto China"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-019-02",
+      "name": "Garakuta Road",
+      "description": "【Garakuta Road】Tingkatkan Training Level Kuramoto China ke {threshold}"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-019-03",
+      "name": "I’ll Keep Looking Ahead",
+      "description": "【Garakuta Road】Raih evaluasi A+ atau lebih tinggi sebanyak {threshold} kali saat memproduksi Kuramoto China"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-019-04",
+      "name": "Garakuta Road +",
+      "description": "【Garakuta Road】Tingkatkan Training Level Kuramoto China ke {threshold}"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-019-05",
+      "name": "Garakuta Road ++",
+      "description": "【Garakuta Road】Tingkatkan Training Level Kuramoto China ke {threshold}"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-019-06",
+      "name": "Garakuta Road +++",
+      "description": "【Garakuta Road】Tingkatkan Training Level Kuramoto China ke {threshold}"
     }
   ]
 }

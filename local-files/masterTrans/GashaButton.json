@@ -1022,6 +1022,42 @@
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
+    },
+    {
+      "id": "gasha_button_01057-ssr-idol-001",
+      "order": 1,
+      "name": "Gacha Berbayar 10 Tarikan",
+      "description": "Gacha Berbayar 10 Tarikan",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": "{0}x More"
+    },
+    {
+      "id": "gasha_button_01060-ssr-idol-001",
+      "order": 1,
+      "name": "Gacha Berbayar 10 Tarikan",
+      "description": "Gacha Berbayar 10 Tarikan",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": "{0}x More"
+    },
+    {
+      "id": "gasha_button-01055-ticket-001",
+      "order": 1,
+      "name": "Gunakan Tiket Jaminan SSR Produce Idol",
+      "description": "Gunakan Tiket Jaminan SSR Produce Idol",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": ""
+    },
+    {
+      "id": "gasha_button-01055-ticket-002",
+      "order": 1,
+      "name": "Use a ticket with a 10x higher SSR P-Idol drop rate",
+      "description": "Use a ticket with a 10x higher SSR P-Idol drop rate",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": ""
     }
   ]
 }

@@ -273,6 +273,20 @@
       "name": "Kostum Kenangan",
       "texts": [],
       "hiddenHelpList": true
+    },
+    {
+      "id": "help-character-introduction-event",
+      "order": 23,
+      "name": "Hiwatari Kanae Episode 0",
+      "texts": [],
+      "hiddenHelpList": true
+    },
+    {
+      "id": "help-loginbonus",
+      "order": 100,
+      "name": "Login Bonus",
+      "texts": [],
+      "hiddenHelpList": false
     }
   ]
 }

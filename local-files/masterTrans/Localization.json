@@ -396,6 +396,22 @@
     {
       "id": "voice.idol_use_produce_card",
       "description": "Gunakan Kartu Skill Khas P-Idol"
+    },
+    {
+      "id": "card.sort.research_event_consumption_item_bonus",
+      "description": "Bonus Event Seminar Produce Asari-sensei "
+    },
+    {
+      "id": "card.sort.story_event_point_bonus",
+      "description": "Bonus Event Hiwatari Kanae Ep.0 "
+    },
+    {
+      "id": "login_bonus.selectable.cancel_sheet.description",
+      "description": "If you choose [Choose Later], you can claim it from [Home > Gifts > Selectable Login Bonus].\\n\\nWould you like to go to the Home screen without choosing now?\n\\n<color=#u:Strong>※ Claim deadline: {0}\\n※ If you miss the deadline, log in again during the login bonus period and the \"Tiket Gacha Produce Idol SSR Terjamin\" will be sent to your Gifts automatically.\\</color>"
+    },
+    {
+      "id": "story.story_event.section.main_story_condition_lock_text",
+      "description": "Unlocked by earning Mission Pts"
     }
   ]
 }

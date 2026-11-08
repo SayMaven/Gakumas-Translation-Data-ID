@@ -128,6 +128,14 @@
     {
       "id": "mission-release_memorial_group",
       "name": "Misi Peringatan Masuk Sekolah"
+    },
+    {
+      "id": "mission-group-highscorerush-event-016_daily",
+      "name": "Event Mission"
+    },
+    {
+      "id": "mission-group-story-character-introduction-001_daily",
+      "name": "Hiwatari Kanae Ep.0"
     }
   ]
 }

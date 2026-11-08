@@ -2920,6 +2920,66 @@
       "supportCardId": "s_card-3-0112",
       "number": 3,
       "text": "Perutku mulai terasa lapar nih..."
+    },
+    {
+      "supportCardId": "s_card-2-0057",
+      "number": 1,
+      "text": "Bisa masuk angin kalau tidur di sini."
+    },
+    {
+      "supportCardId": "s_card-2-0057",
+      "number": 2,
+      "text": "Zzz... Zzz..."
+    },
+    {
+      "supportCardId": "s_card-2-0057",
+      "number": 3,
+      "text": "Hehe, kamu benar-benar suka tidur siang ya?"
+    },
+    {
+      "supportCardId": "s_card-3-0113",
+      "number": 1,
+      "text": "Would you like to go together...?"
+    },
+    {
+      "supportCardId": "s_card-3-0113",
+      "number": 2,
+      "text": "W-What!? Aquarium tickets...?\nS-So this means... a date!?"
+    },
+    {
+      "supportCardId": "s_card-3-0113",
+      "number": 3,
+      "text": "A-A date!?"
+    },
+    {
+      "supportCardId": "s_card-3-0114",
+      "number": 1,
+      "text": "I brought tons of manga!!"
+    },
+    {
+      "supportCardId": "s_card-3-0114",
+      "number": 2,
+      "text": "This protagonist...\ndoesn’t she look like you, Kuramoto-san?\n"
+    },
+    {
+      "supportCardId": "s_card-3-0114",
+      "number": 3,
+      "text": "I could never say such\na scandalous line～～！"
+    },
+    {
+      "supportCardId": "s_card-3-0122",
+      "number": 1,
+      "text": "Look, Kanae. It’s the entrance ceremony\nat Hatsuboshi Academy. I’m so nervous."
+    },
+    {
+      "supportCardId": "s_card-3-0122",
+      "number": 2,
+      "text": "And now look at you, standing so\nconfidently. I’m so proud of you."
+    },
+    {
+      "supportCardId": "s_card-3-0122",
+      "number": 3,
+      "text": "Hehe, I have you to thank\nfor that too, Kanae."
     }
   ]
 }

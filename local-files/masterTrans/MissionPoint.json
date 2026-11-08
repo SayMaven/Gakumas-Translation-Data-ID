@@ -144,6 +144,14 @@
     {
       "id": "mission-weekly-point",
       "name": "Pt Mingguan"
+    },
+    {
+      "id": "highscorerush-event-016_point",
+      "name": "Event Pt"
+    },
+    {
+      "id": "story-character-introduction-001_point",
+      "name": "Mission Pt"
     }
   ]
 }
