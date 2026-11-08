@@ -3771,7 +3771,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ Medium"
+          "text": "/ Sedang"
         }
       ],
       "name": "Tidur Siang yang Megah"
@@ -3789,7 +3789,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
       "name": "A-Ajakan Kencan!?"
@@ -3807,7 +3807,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
       "name": "Kalian semua harus membacanya!"
@@ -3825,7 +3825,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "/ High"
+          "text": "/ Tinggi"
         }
       ],
       "name": "Ada juga foto yang seperti ini."

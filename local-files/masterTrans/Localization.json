@@ -407,11 +407,11 @@
     },
     {
       "id": "login_bonus.selectable.cancel_sheet.description",
-      "description": "If you choose [Choose Later], you can claim it from [Home > Gifts > Selectable Login Bonus].\\n\\nWould you like to go to the Home screen without choosing now?\n\\n<color=#u:Strong>※ Claim deadline: {0}\\n※ If you miss the deadline, log in again during the login bonus period and the \"Tiket Gacha Produce Idol SSR Terjamin\" will be sent to your Gifts automatically.\\</color>"
+      "description": "Jika memilih [Pilih Nanti], Anda dapat mengklaimnya dari [Home > Hadiah > Bonus Login Pilihan].\\n\\nApakah Anda ingin kembali ke layar Beranda tanpa memilih sekarang?\\n\\n<color=#u:Strong>※ Batas waktu klaim: {0}\\n※ Jika melewati batas waktu, masuk kembali selama periode bonus login dan \"Tiket Gacha Produce Idol SSR Terjamin\" akan dikirimkan ke Hadiah secara otomatis.\\</color>"
     },
     {
       "id": "story.story_event.section.main_story_condition_lock_text",
-      "description": "Unlocked by earning Mission Pts"
+      "description": "Terbuka dengan memperoleh Pt Misi"
     }
   ]
 }

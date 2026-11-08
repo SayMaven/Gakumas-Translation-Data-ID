@@ -375945,7 +375945,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Label_ProduceCardPositionType_Hold",
-          "text": "On hold "
+          "text": "Reserve "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -375957,7 +375957,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "Among the skill cards in "
+          "text": "Dari Skill Card di "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -375969,7 +375969,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Label_ProduceCardPositionType_Hand",
-          "text": "Hand "
+          "text": "Hand milikmu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -375981,7 +375981,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "Move to "
+          "text": "akan dipindahkan "
         }
       ],
       "customizeProduceDescriptions": [
@@ -376007,7 +376007,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Label_ProduceCardPositionType_Hold",
-          "text": "On hold "
+          "text": "Reserve "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -376019,7 +376019,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "Among the skill cards in "
+          "text": "Dari Skill Card di "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -376043,7 +376043,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "Move to "
+          "text": "akan dipindahkan "
         }
       ]
     },
@@ -376060,7 +376060,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "In exclusion "
+          "text": "Di Exile, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -376084,7 +376084,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "1 card "
+          "text": "1 kartu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -376096,7 +376096,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Label_ProduceCardPositionType_DeckFirst",
-          "text": "Top of Deck "
+          "text": "ke bagian atas Deck "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -376108,7 +376108,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "Move to "
+          "text": "akan dipindahkan "
         }
       ],
       "customizeProduceDescriptions": [
@@ -376134,7 +376134,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "In exclusion "
+          "text": "Di Exile, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -376158,7 +376158,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "1 card "
+          "text": "1 kartu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -376170,7 +376170,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Label_ProduceCardPositionType_DeckFirst",
-          "text": "Top of Deck "
+          "text": "ke bagian atas Deck "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -376182,7 +376182,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "Move to "
+          "text": "akan dipindahkan "
         }
       ]
     },
@@ -376199,7 +376199,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -376211,7 +376211,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "Of<nobr> "
+          "text": "Sebesar<nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -376235,7 +376235,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "%</nobr> portion "
+          "text": "%</nobr> bagian "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -376259,7 +376259,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "Increase "
+          "text": "Meningkat "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -376297,7 +376297,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -376309,7 +376309,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "Of<nobr> "
+          "text": "Sebesar<nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -376333,7 +376333,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "%</nobr> portion "
+          "text": "%</nobr> bagian "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -376357,7 +376357,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "Increase "
+          "text": "Meningkat "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -376386,7 +376386,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Label_ExamReviewCountAdd_Produce",
-          "text": "Additional Good Impression activation "
+          "text": "Tambahan Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -376446,7 +376446,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "Turn</nobr>) "
+          "text": "Giliran</nobr>) "
         }
       ],
       "customizeProduceDescriptions": [
@@ -376472,7 +376472,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Label_ExamReviewCountAdd_Produce",
-          "text": "Additional Good Impression activation "
+          "text": "Tambahan Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -376532,7 +376532,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "Turn</nobr>) "
+          "text": "Giliran</nobr>) "
         }
       ]
     },
@@ -376549,7 +376549,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Label_ExamReviewMultiple",
-          "text": "Good Impression Boost "
+          "text": "Penguatan Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -376609,7 +376609,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "Turn</nobr>) "
+          "text": "Giliran</nobr>) "
         }
       ],
       "customizeProduceDescriptions": [
@@ -376635,7 +376635,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Label_ExamReviewMultiple",
-          "text": "Good Impression Boost "
+          "text": "Penguatan Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -376695,7 +376695,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "Turn</nobr>) "
+          "text": "Giliran</nobr>) "
         }
       ]
     },
@@ -376724,7 +376724,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "Until the end, "
+          "text": "Hingga akhir, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -376736,7 +376736,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Direct Effect "
+          "text": "Efek Langsung "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -376760,7 +376760,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -376772,7 +376772,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "When it increases 3 times, "
+          "text": "Saat meningkat 3 kali, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -376784,7 +376784,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "Reuse "
+          "text": "Digunakan kembali "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -376820,7 +376820,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "Can activate up to times / once per turn)"
+          "text": "kali paling banyak / Maks. 1x per giliran)"
         }
       ],
       "customizeProduceDescriptions": [
@@ -376894,7 +376894,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -376906,7 +376906,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "When it increases 3 times, "
+          "text": "Saat meningkat 3 kali, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -376954,7 +376954,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "Up to times / once per turn) "
+          "text": "kali paling banyak / Maks. 1x per giliran) "
         }
       ]
     },
@@ -376983,7 +376983,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "Until the end, "
+          "text": "Hingga akhir, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -376995,7 +376995,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Label_ExamFullPower",
-          "text": "Full power "
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -377007,7 +377007,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "If so, each time you use 2 skill cards during the turn, "
+          "text": "Jika demikian, setiap menggunakan 2 Skill Card selama giliran, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -377019,7 +377019,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "Reuse "
+          "text": "Digunakan kembali "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -377055,7 +377055,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "Can activate up to times / once per turn)"
+          "text": "kali paling banyak / Maks. 1x per giliran)"
         }
       ],
       "customizeProduceDescriptions": [
@@ -377117,7 +377117,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "If so, each time you use 2 skill cards during the turn, "
+          "text": "Jika demikian, setiap menggunakan 2 Skill Card selama giliran, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -377165,7 +377165,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "Up to times / once per turn) "
+          "text": "kali paling banyak / Maks. 1x per giliran) "
         }
       ]
     }

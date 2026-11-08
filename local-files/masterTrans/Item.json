@@ -2265,37 +2265,37 @@
       "id": "item-medal-story-character-introduction-001",
       "name": "Hari-Hari Kita Berlari Bersama",
       "description": "Item yang dapat ditukarkan dengan berbagai reward di toko event",
-      "acquisitionRouteDescription": "Produce, etc."
+      "acquisitionRouteDescription": "Produce, dll."
     },
     {
       "id": "item-piece-idol_hmsz-3-018",
       "name": "Piece Hataya Misuzu [Garakuta Road]",
       "description": "Item yang digunakan untuk membuka potensi dan Talent Bloom Produce Idol",
-      "acquisitionRouteDescription": "Gacha, etc."
+      "acquisitionRouteDescription": "Gacha, dll."
     },
     {
       "id": "item-piece-idol_kcna-3-019",
       "name": "Piece Kuramoto China [Garakuta Road]",
       "description": "Item yang digunakan untuk membuka potensi dan Talent Bloom Produce Idol",
-      "acquisitionRouteDescription": "Gacha, etc."
+      "acquisitionRouteDescription": "Gacha, dll."
     },
     {
       "id": "item-selectgashaticket-gasha-01055-ticket-001",
       "name": "Tiket Gacha Produce Idol SSR Terjamin",
-      "description": "Ticket for a Gacha that Guarantees 1 SSR Produce Idol",
+      "description": "Tiket untuk Gacha yang menjamin 1 Produce Idol SSR",
       "acquisitionRouteDescription": ""
     },
     {
       "id": "item-selectgashaticket-gasha-01055-ticket-002",
       "name": "Tiket Gacha 5 Tarikan Rate 10x Produce Idol SSR",
-      "description": "Ticket for a 5-Tarik Gacha with a 10× SSR Produce Idol Rate",
+      "description": "Tiket untuk Gacha 5 Tarikan dengan peluang drop Produce Idol SSR 10x lebih tinggi",
       "acquisitionRouteDescription": ""
     },
     {
       "id": "item-selection-ticket-009",
       "name": "Tiket Seleksi 2.5th Anniversary",
-      "description": "Ticket exchangeable for Produce Idols and Support Cards at the ticket shop",
-      "acquisitionRouteDescription": "Shop, etc."
+      "description": "Tiket yang dapat ditukarkan dengan Produce Idol dan Support Card di toko tiket",
+      "acquisitionRouteDescription": "Shop, dll."
     }
   ]
 }

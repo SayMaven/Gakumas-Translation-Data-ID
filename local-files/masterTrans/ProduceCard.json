@@ -453992,7 +453992,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -454052,7 +454052,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReviewMultiple",
-          "text": "Good Impression strengthen "
+          "text": "Penguatan Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -454132,7 +454132,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Skill Card directly does a "
+          "text": "Skill Card langsung memicu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -454152,7 +454152,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -454162,7 +454162,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "When increase 3 times, "
+          "text": "Saat meningkat 3 kali, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -454172,7 +454172,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "This Skill Card is used again "
+          "text": "Skill Card ini digunakan lagi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -454202,7 +454202,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "x at most, Once per turn at most) "
+          "text": "x paling banyak, Maks. 1x per giliran) "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -454242,7 +454242,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_NoDeckDuplication",
-          "text": "No dupe "
+          "text": "Maks. 1 Kartu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -454262,7 +454262,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -454309,7 +454309,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -454369,7 +454369,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReviewMultiple",
-          "text": "Good Impression strengthen "
+          "text": "Penguatan Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -454449,7 +454449,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Skill Card directly does a "
+          "text": "Skill Card langsung memicu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -454469,7 +454469,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -454479,7 +454479,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "When increase 3 times, "
+          "text": "Saat meningkat 3 kali, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -454489,7 +454489,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "This Skill Card is used again "
+          "text": "Skill Card ini digunakan lagi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -454519,7 +454519,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "x at most, Once per turn at most) "
+          "text": "x paling banyak, Maks. 1x per giliran) "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -454559,7 +454559,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_NoDeckDuplication",
-          "text": "No dupe "
+          "text": "Maks. 1 Kartu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -454579,7 +454579,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -454626,7 +454626,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -454686,7 +454686,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReviewMultiple",
-          "text": "Good Impression strengthen "
+          "text": "Penguatan Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -454766,7 +454766,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Skill Card directly does a "
+          "text": "Skill Card langsung memicu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -454786,7 +454786,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -454796,7 +454796,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "When increase 3 times, "
+          "text": "Saat meningkat 3 kali, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -454806,7 +454806,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "This Skill Card is used again "
+          "text": "Skill Card ini digunakan lagi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -454836,7 +454836,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "x at most, Once per turn at most) "
+          "text": "x paling banyak, Maks. 1x per giliran) "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -454876,7 +454876,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_NoDeckDuplication",
-          "text": "No dupe "
+          "text": "Maks. 1 Kartu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -454896,7 +454896,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -454943,7 +454943,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -455003,7 +455003,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReviewMultiple",
-          "text": "Good Impression strengthen "
+          "text": "Penguatan Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -455083,7 +455083,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Skill Card directly does a "
+          "text": "Skill Card langsung memicu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -455103,7 +455103,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -455113,7 +455113,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "When increase 3 times, "
+          "text": "Saat meningkat 3 kali, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -455123,7 +455123,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "This Skill Card is used again "
+          "text": "Skill Card ini digunakan lagi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -455153,7 +455153,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "x at most, Once per turn at most) "
+          "text": "x paling banyak, Maks. 1x per giliran) "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -455193,7 +455193,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_NoDeckDuplication",
-          "text": "No dupe "
+          "text": "Maks. 1 Kartu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -455213,7 +455213,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -455260,7 +455260,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -455320,7 +455320,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If there are <nobr>7 or more</nobr> skill cards in Excluded, "
+          "text": "Jika terdapat <nobr>7 atau lebih</nobr> Skill Card di Exile, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -455330,7 +455330,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -455390,7 +455390,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If there are <nobr>11 or more</nobr> skill cards in Excluded, "
+          "text": "Jika terdapat <nobr>11 atau lebih</nobr> Skill Card di Exile, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -455400,7 +455400,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -455450,7 +455450,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "gain "
+          "text": "diperoleh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -455500,7 +455500,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_NoDeckDuplication",
-          "text": "No dupe "
+          "text": "Maks. 1 Kartu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -455557,7 +455557,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -455617,7 +455617,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If there are <nobr>7 or more</nobr> skill cards in Excluded, "
+          "text": "Jika terdapat <nobr>7 atau lebih</nobr> Skill Card di Exile, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -455627,7 +455627,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -455687,7 +455687,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If there are <nobr>11 or more</nobr> skill cards in Excluded, "
+          "text": "Jika terdapat <nobr>11 atau lebih</nobr> Skill Card di Exile, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -455697,7 +455697,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -455747,7 +455747,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "gain "
+          "text": "diperoleh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -455797,7 +455797,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_NoDeckDuplication",
-          "text": "No dupe "
+          "text": "Maks. 1 Kartu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -455854,7 +455854,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -455914,7 +455914,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If there are <nobr>7 or more</nobr> skill cards in Excluded, "
+          "text": "Jika terdapat <nobr>7 atau lebih</nobr> Skill Card di Exile, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -455924,7 +455924,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -455984,7 +455984,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If there are <nobr>11 or more</nobr> skill cards in Excluded, "
+          "text": "Jika terdapat <nobr>11 atau lebih</nobr> Skill Card di Exile, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -455994,7 +455994,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -456044,7 +456044,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "gain "
+          "text": "diperoleh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -456094,7 +456094,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_NoDeckDuplication",
-          "text": "No dupe "
+          "text": "Maks. 1 Kartu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -456151,7 +456151,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -456211,7 +456211,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If there are <nobr>7 or more</nobr> skill cards in Excluded, "
+          "text": "Jika terdapat <nobr>7 atau lebih</nobr> Skill Card di Exile, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -456221,7 +456221,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -456281,7 +456281,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If there are <nobr>11 or more</nobr> skill cards in Excluded, "
+          "text": "Jika terdapat <nobr>11 atau lebih</nobr> Skill Card di Exile, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -456291,7 +456291,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -456341,7 +456341,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "gain "
+          "text": "diperoleh "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -456391,7 +456391,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_NoDeckDuplication",
-          "text": "No dupe "
+          "text": "Maks. 1 Kartu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -456448,7 +456448,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Full Power points "
+          "text": "Poin Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -456508,7 +456508,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "Skill Card uses "
+          "text": "Batas Penggunaan Skill Card "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -456598,7 +456598,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "For every 2 skill cards used during the turn, "
+          "text": "Setiap 2 Skill Card yang digunakan selama giliran, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -456608,7 +456608,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "This Skill Card is used again "
+          "text": "Skill Card ini digunakan lagi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -456638,7 +456638,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "x at most, Once per turn at most) "
+          "text": "x paling banyak, Maks. 1x per giliran) "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -456678,7 +456678,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_NoDeckDuplication",
-          "text": "No dupe "
+          "text": "Maks. 1 Kartu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -456698,7 +456698,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -456745,7 +456745,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Full Power points "
+          "text": "Poin Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -456805,7 +456805,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "Skill Card uses "
+          "text": "Batas Penggunaan Skill Card "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -456895,7 +456895,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "For every 2 skill cards used during the turn, "
+          "text": "Setiap 2 Skill Card yang digunakan selama giliran, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -456905,7 +456905,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "This Skill Card is used again "
+          "text": "Skill Card ini digunakan lagi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -456935,7 +456935,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "x at most, Once per turn at most) "
+          "text": "x paling banyak, Maks. 1x per giliran) "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -456975,7 +456975,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_NoDeckDuplication",
-          "text": "No dupe "
+          "text": "Maks. 1 Kartu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -456995,7 +456995,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -457042,7 +457042,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Full Power points "
+          "text": "Poin Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -457102,7 +457102,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "Skill Card uses "
+          "text": "Batas Penggunaan Skill Card "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -457192,7 +457192,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "For every 2 skill cards used during the turn, "
+          "text": "Setiap 2 Skill Card yang digunakan selama giliran, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -457202,7 +457202,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "This Skill Card is used again "
+          "text": "Skill Card ini digunakan lagi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -457232,7 +457232,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "x at most, Once per turn at most) "
+          "text": "x paling banyak, Maks. 1x per giliran) "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -457272,7 +457272,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_NoDeckDuplication",
-          "text": "No dupe "
+          "text": "Maks. 1 Kartu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -457292,7 +457292,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -457339,7 +457339,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Full Power points "
+          "text": "Poin Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -457399,7 +457399,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "Skill Card uses "
+          "text": "Batas Penggunaan Skill Card "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -457489,7 +457489,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "For every 2 skill cards used during the turn, "
+          "text": "Setiap 2 Skill Card yang digunakan selama giliran, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -457499,7 +457499,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "This Skill Card is used again "
+          "text": "Skill Card ini digunakan lagi "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -457529,7 +457529,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "x at most, Once per turn at most) "
+          "text": "x paling banyak, Maks. 1x per giliran) "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -457569,7 +457569,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_NoDeckDuplication",
-          "text": "No dupe "
+          "text": "Maks. 1 Kartu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -457589,7 +457589,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -457616,7 +457616,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "Stamina usage "
+          "text": "Konsumsi stamina "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -457676,7 +457676,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "among the skill cards in "
+          "text": "dari Skill Card di "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -457686,7 +457686,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardPositionType_Hand",
-          "text": "your hand "
+          "text": "Hand milikmu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -457696,7 +457696,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "it is moved to "
+          "text": "akan dipindahkan ke "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -457726,7 +457726,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "Skill Card uses "
+          "text": "Batas Penggunaan Skill Card "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -457796,7 +457796,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_NoDeckDuplication",
-          "text": "No dupe "
+          "text": "Maks. 1 Kartu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -457816,7 +457816,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -457843,7 +457843,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "Stamina usage "
+          "text": "Konsumsi stamina "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -457893,7 +457893,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -457963,7 +457963,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "among the skill cards in "
+          "text": "dari Skill Card di "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -457973,7 +457973,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardPositionType_Hand",
-          "text": "your hand "
+          "text": "Hand milikmu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -457983,7 +457983,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "it is moved to "
+          "text": "akan dipindahkan ke "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -458013,7 +458013,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "Skill Card uses "
+          "text": "Batas Penggunaan Skill Card "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -458083,7 +458083,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_NoDeckDuplication",
-          "text": "No dupe "
+          "text": "Maks. 1 Kartu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -458103,7 +458103,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -458130,7 +458130,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "Stamina usage "
+          "text": "Konsumsi stamina "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -458180,7 +458180,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -458250,7 +458250,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "among the skill cards in "
+          "text": "dari Skill Card di "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -458260,7 +458260,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardPositionType_Hand",
-          "text": "your hand "
+          "text": "Hand milikmu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -458270,7 +458270,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "it is moved to "
+          "text": "akan dipindahkan ke "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -458300,7 +458300,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "Skill Card uses "
+          "text": "Batas Penggunaan Skill Card "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -458370,7 +458370,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_NoDeckDuplication",
-          "text": "No dupe "
+          "text": "Maks. 1 Kartu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -458390,7 +458390,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -458417,7 +458417,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "Stamina usage "
+          "text": "Konsumsi stamina "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -458467,7 +458467,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -458537,7 +458537,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "among the skill cards in "
+          "text": "dari Skill Card di "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -458547,7 +458547,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardPositionType_Hand",
-          "text": "your hand "
+          "text": "Hand milikmu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -458557,7 +458557,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "it is moved to "
+          "text": "akan dipindahkan ke "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -458587,7 +458587,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "Skill Card uses "
+          "text": "Batas Penggunaan Skill Card "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -458657,7 +458657,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_NoDeckDuplication",
-          "text": "No dupe "
+          "text": "Maks. 1 Kartu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -458677,7 +458677,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Lost",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardMovePositionType_Lost",
-          "text": "1x during lesson "
+          "text": "1x per Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",

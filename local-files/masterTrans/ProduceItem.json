@@ -197261,7 +197261,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "When choosing an allowance  or gift, if Vocal is at least 400, "
+          "text": "Saat memilih Uang Saku atau Hadiah, jika Vocal minimal 400, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -197281,7 +197281,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Vocal Increase+"
+          "text": "Peningkatan Vocal +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -197321,7 +197321,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Stamina Recovery "
+          "text": "Pemulihan Stamina "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -197361,7 +197361,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "(During production 2x)"
+          "text": "(Maks. 2x per Produce)"
         }
       ],
       "name": "Album Persahabatan"
@@ -197377,7 +197377,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Direct Effect "
+          "text": "Efek Langsung "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197397,7 +197397,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197407,7 +197407,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "When increases by 4, "
+          "text": "Saat bertambah 4, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197437,7 +197437,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReviewCountAdd_Produce",
-          "text": "Activates Good Impression additionally "
+          "text": "Tambahan Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197487,7 +197487,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Turn(s)</nobr>)"
+          "text": "Giliran)</nobr>)"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197517,7 +197517,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReviewMultiple",
-          "text": "Good Impression Boost "
+          "text": "Penguatan Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197567,7 +197567,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Turn(s)</nobr>)"
+          "text": "Giliran)</nobr>)"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197597,7 +197597,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "Stamina Usage "
+          "text": "Konsumsi Stamina "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197653,7 +197653,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Direct Effect "
+          "text": "Efek Langsung "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197673,7 +197673,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197683,7 +197683,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "When increases by 4, "
+          "text": "Saat bertambah 4, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197713,7 +197713,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReviewCountAdd_Produce",
-          "text": "Activates Good Impression additionally "
+          "text": "Tambahan Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197763,7 +197763,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Turn(s)</nobr>)"
+          "text": "Giliran)</nobr>)"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197793,7 +197793,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReviewMultiple",
-          "text": "Good Impression Boost "
+          "text": "Penguatan Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197843,7 +197843,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Turn(s)</nobr>)"
+          "text": "Giliran)</nobr>)"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197879,7 +197879,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "When you obtain a skill card from \"Kilau Penguasa Bintang\", if Vocal is at least 900, "
+          "text": "Saat memperoleh Skill Card dari \"Kilau Penguasa Bintang\", jika Vocal minimal 900, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -197899,7 +197899,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Vocal Increase+"
+          "text": "Peningkatan Vocal +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -197939,7 +197939,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "A random Skill Card "
+          "text": "Skill Card acak "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -197949,7 +197949,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Upgrade "
+          "text": "Tingkatkan "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -197979,7 +197979,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "(During production 2x)"
+          "text": "(Maks. 2x per Produce)"
         }
       ],
       "name": "Pilihan yang Cukup Berani?"
@@ -198005,7 +198005,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "After use, "
+          "text": "Setelah digunakan, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -198035,7 +198035,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "In Exclusion "
+          "text": "Dari Exile, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -198055,7 +198055,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1 card "
+          "text": "1 kartu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -198065,7 +198065,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardPositionType_DeckFirst",
-          "text": "Top of Deck "
+          "text": "ke bagian atas Deck "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -198075,7 +198075,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Move to "
+          "text": "akan dipindahkan "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -198105,7 +198105,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "Stamina Usage "
+          "text": "Konsumsi Stamina "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -198185,7 +198185,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "3x Out of the Total) "
+          "text": "Total Maks. 3x) "
         }
       ],
       "name": "Kilau Impian"
@@ -198211,7 +198211,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "After use, "
+          "text": "Setelah digunakan, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -198241,7 +198241,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "In Exclusion "
+          "text": "Dari Exile, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -198261,7 +198261,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1 card "
+          "text": "1 kartu "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -198271,7 +198271,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardPositionType_DeckFirst",
-          "text": "Top of Deck "
+          "text": "ke bagian atas Deck "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -198281,7 +198281,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Move to "
+          "text": "akan dipindahkan "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -198311,7 +198311,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Genki "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -198391,7 +198391,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "3x Out of the Total) "
+          "text": "Total Maks. 3x) "
         }
       ],
       "name": "Kilau Impian+"

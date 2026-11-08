@@ -1030,7 +1030,7 @@
       "description": "Gacha Berbayar 10 Tarikan",
       "appealText": "",
       "highAppealText": "",
-      "bottomAppealText": "{0}x More"
+      "bottomAppealText": "{0}x Lebih Banyak"
     },
     {
       "id": "gasha_button_01060-ssr-idol-001",
@@ -1039,7 +1039,7 @@
       "description": "Gacha Berbayar 10 Tarikan",
       "appealText": "",
       "highAppealText": "",
-      "bottomAppealText": "{0}x More"
+      "bottomAppealText": "{0}x Lebih Banyak"
     },
     {
       "id": "gasha_button-01055-ticket-001",
@@ -1053,8 +1053,8 @@
     {
       "id": "gasha_button-01055-ticket-002",
       "order": 1,
-      "name": "Use a ticket with a 10x higher SSR P-Idol drop rate",
-      "description": "Use a ticket with a 10x higher SSR P-Idol drop rate",
+      "name": "Gunakan tiket dengan peluang drop SSR P-Idol 10x lebih tinggi",
+      "description": "Gunakan tiket dengan peluang drop SSR P-Idol 10x lebih tinggi",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""

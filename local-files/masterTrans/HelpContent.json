@@ -1943,21 +1943,21 @@
       "helpCategoryId": "help-character-introduction-event",
       "id": "help-character-introduction-event-finish",
       "order": 7,
-      "name": "After the Event",
+      "name": "Setelah Event Berakhir",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/7cda9fe112f555b42a9ad3324badc88e1266e92b5d77b0c6596a2c78ad347bc4/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-character-introduction-event",
       "id": "help-character-introduction-event-mission",
       "order": 2,
-      "name": "Event Missions",
+      "name": "Misi Event",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/1fd476586bad6133b4a6140a3c343f1000c1a05f24ca08710e27d2aa8102c699/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-character-introduction-event",
       "id": "help-character-introduction-event-point",
       "order": 5,
-      "name": "Cumulative Event Points Rewards",
+      "name": "Hadiah Akumulasi Poin Event",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/93f7d097acf0411e8a89291203c472ad5109d902fe4e2d7645e4c680e719e4e1/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1971,14 +1971,14 @@
       "helpCategoryId": "help-loginbonus",
       "id": "loginbonus-loginbonus",
       "order": 1,
-      "name": "Login Bonus",
+      "name": "Bonus Login",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/6bcc0a33131be06b4746ac8145d3259bfe27b3b2b8db3aa5bef4227e68b25cc9/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-loginbonus",
       "id": "loginbonus-select-loginbonus",
       "order": 2,
-      "name": "Selectable Login Bonus",
+      "name": "Bonus Login Pilihan",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/8fa749b76253e7e47e61c6f599cced5df2cd5a3b62cea537897fc3e90b5a7b52/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     }
   ]

@@ -56479,7 +56479,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "After use: "
+          "text": "Setelah digunakan: "
         }
       ],
       "playProduceDescriptions": [
@@ -56493,7 +56493,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "If so, usable "
+          "text": "Jika demikian, dapat digunakan "
         }
       ],
       "playEffectProduceDescriptions": [
@@ -56536,7 +56536,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "If, then each time you use 2 skill cards in a turn, "
+          "text": "maka setiap kali menggunakan 2 Skill Card dalam giliran, "
         }
       ],
       "playProduceDescriptions": [
@@ -56562,7 +56562,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "If so, usable "
+          "text": "Jika demikian, dapat digunakan "
         }
       ],
       "playEffectProduceDescriptions": [
@@ -56605,7 +56605,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Direct Effect "
+          "text": "Efek Langsung "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -56629,7 +56629,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Kesan Baik "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -56641,7 +56641,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "When it increases 3 times, "
+          "text": "Saat meningkat 3 kali, "
         }
       ],
       "playProduceDescriptions": [
@@ -56655,7 +56655,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "If so, usable "
+          "text": "Jika demikian, dapat digunakan "
         }
       ],
       "playEffectProduceDescriptions": [
@@ -56686,7 +56686,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "At the start of the turn: "
+          "text": "Pada awal giliran: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -56710,7 +56710,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "and "
+          "text": "dan "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -56722,7 +56722,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Label_ProduceCardPositionType_Hold",
-          "text": "On hold "
+          "text": "Reserve "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -56734,7 +56734,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "If there are <nobr>2 or more</nobr> skill cards in, "
+          "text": "Jika terdapat <nobr>2 atau lebih</nobr> Skill Card di dalamnya, "
         }
       ],
       "playProduceDescriptions": [
@@ -56760,7 +56760,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "and "
+          "text": "dan "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -56772,7 +56772,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Label_ProduceCardPositionType_Hold",
-          "text": "On hold "
+          "text": "Reserve "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -56784,7 +56784,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "If there are <nobr>2 or more</nobr> skill cards in, can be used "
+          "text": "Jika terdapat <nobr>2 atau lebih</nobr> Skill Card di dalamnya, dapat digunakan "
         }
       ],
       "playEffectProduceDescriptions": [
@@ -56810,7 +56810,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "and "
+          "text": "dan "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -56822,7 +56822,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Label_ProduceCardPositionType_Hold",
-          "text": "On hold "
+          "text": "Reserve "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -56834,7 +56834,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "If there are <nobr>2 or more</nobr> skill cards in, "
+          "text": "Jika terdapat <nobr>2 atau lebih</nobr> Skill Card di dalamnya, "
         }
       ]
     },
@@ -56851,7 +56851,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "If there are <nobr>11 or more</nobr> skill cards in Excluded, "
+          "text": "Jika terdapat <nobr>11 atau lebih</nobr> Skill Card di Exile, "
         }
       ],
       "playProduceDescriptions": [
@@ -56865,7 +56865,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "If there are <nobr>11 or more</nobr> skill cards in Excluded, can be used "
+          "text": "Jika terdapat <nobr>11 atau lebih</nobr> Skill Card di Exile, dapat digunakan "
         }
       ],
       "playEffectProduceDescriptions": [
@@ -56879,7 +56879,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "If there are <nobr>11 or more</nobr> skill cards in Excluded, "
+          "text": "Jika terdapat <nobr>11 atau lebih</nobr> Skill Card di Exile, "
         }
       ]
     }
