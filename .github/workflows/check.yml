@@ -92,6 +92,8 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
 
     - name: Authorize Git
       run: |
@@ -107,6 +109,22 @@ jobs:
         echo "VERSION=$datetime.$branch.$hash" >> $GITHUB_ENV
         echo "RELEASE_DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
 
+    - name: Generate Release Notes
+      run: |
+        PREV_COMMIT="${{ github.event.before }}"
+        if [ -z "$PREV_COMMIT" ] || [ "$PREV_COMMIT" = "0000000000000000000000000000000000000000" ]; then
+          COMMITS=$(git log -1 --pretty=format:"- %s (%h)")
+        else
+          COMMITS=$(git log $PREV_COMMIT..${{ github.sha }} --pretty=format:"- %s (%h)")
+        fi
+
+        echo "Rilis otomatis data terjemahan Bahasa Indonesia terbaru untuk Gakumas." > release_notes.md
+        echo "" >> release_notes.md
+        echo "### 📝 Pembaruan Terkini:" >> release_notes.md
+        echo "$COMMITS" >> release_notes.md
+        echo "" >> release_notes.md
+        echo "Lihat [PROGRESS.md](PROGRESS.md) untuk memantau status terjemahan terkini." >> release_notes.md
+
     - name: Create ZIP Archive
       run: |
         zip -r Gakumas-Translation-Data-ID-${{ env.VERSION }}.zip local-files version.txt
@@ -116,10 +134,7 @@ jobs:
       with:
         tag_name: ${{ env.VERSION }}
         name: Rilis Data Terjemahan ID ${{ env.RELEASE_DATE }}
-        body: |
-          Rilis otomatis data terjemahan Bahasa Indonesia terbaru untuk Gakumas.
-
-          Lihat PROGRESS.md untuk memantau status terjemahan terkini.
+        body_path: release_notes.md
         files: |
           Gakumas-Translation-Data-ID-${{ env.VERSION }}.zip
         draft: false
