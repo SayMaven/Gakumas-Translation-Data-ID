@@ -1,24 +1,24 @@
 {
   "url": "https://gitlab.com/SayMaven/gakumas-translation-data-id",
   "html_url": "https://gitlab.com/SayMaven/gakumas-translation-data-id",
-  "tag_name": "20261025.091942.main.976b46f",
+  "tag_name": "20261109.073509.main.44c37d9",
   "target_commitish": "main",
-  "name": "Rilis Data Terjemahan ID 2026-10-25",
+  "name": "Rilis Data Terjemahan ID 2026-11-09",
   "draft": false,
   "prerelease": false,
-  "created_at": "2026-10-25T09:19:42Z",
-  "published_at": "2026-10-25T09:19:42Z",
-  "body": "Rilis data terjemahan Bahasa Indonesia untuk Gakumas.",
+  "created_at": "2026-11-09T07:23:45Z",
+  "published_at": "2026-11-09T07:23:45Z",
+  "body": "Rilis otomatis data terjemahan Bahasa Indonesia terbaru untuk Gakumas.\n\nPembaruan:\n- Simplify release notes format for clean plaintext display\n\nLihat PROGRESS.md untuk memantau status terjemahan terkini.",
   "assets": [
     {
       "url": "https://gitlab.com/SayMaven/gakumas-translation-data-id",
       "id": 1,
-      "name": "Gakumas-Translation-Data-ID-20261025.091942.main.976b46f.zip",
+      "name": "Gakumas-Translation-Data-ID-20261109.073509.main.44c37d9.zip",
       "label": "",
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 25073564,
-      "browser_download_url": "https://gitlab.com/-/project/88095150/uploads/d0dd7d1b5458c594def687380fe6e7e8/Gakumas-Translation-Data-ID-20261025.091942.main.976b46f.zip"
+      "size": 25894572,
+      "browser_download_url": "https://github.com/SayMaven/Gakumas-Translation-Data-ID/releases/download/20261109.073509.main.44c37d9/Gakumas-Translation-Data-ID-20261109.073509.main.44c37d9.zip"
     }
   ]
 }
