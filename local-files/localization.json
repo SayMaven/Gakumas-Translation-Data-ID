@@ -3974,7 +3974,7 @@
   "produce.customize.customize_button.text": "Kustomisasi",
   "produce.customize.end_sheet.description": "Kamu masih memiliki skill card yang dapat dikustomisasi.\nIngin mengakhiri Konsultasi Khusus?",
   "produce.customize.end_sheet.title": "Konfirmasi Akhiri Konsultasi Khusus",
-  "produce.customize.execute_button.lack_cost": "P-Point Tidak Cukup",
+  "produce.customize.execute_button.lack_cost": "P-Point Kurang",
   "produce.customize.execute_button.limit_customize": "Tidak ada sisa kesempatan kustomisasi untuk skill card ini.",
   "produce.customize.execute_button.not_remain_customize": "Tidak ada kartu pilihan yang tersisa.",
   "produce.customize.execute_button.select_customize": "Silakan pilih menu kustomisasi.",
