@@ -1103,7 +1103,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_084",
-          "text": "Melampaui Persimpangan "
+          "text": "Di Balik Perlintasan Kereta "
         }
       ]
     },
@@ -2573,7 +2573,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-ido-3_066",
-          "text": "Lonjakan Adrenalin "
+          "text": "Semburan Adrenalin "
         }
       ]
     },
@@ -2603,7 +2603,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-men-2_034",
-          "text": "Rencana Produce "
+          "text": "Rencana Performa "
         }
       ]
     },
@@ -3713,7 +3713,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-2_031",
-          "text": "Turn Motivasi"
+          "text": "Giliran Motivasi"
         }
       ]
     },
@@ -3893,7 +3893,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-men-2_034",
-          "text": "Rencana Produce "
+          "text": "Rencana Performa "
         }
       ]
     },
@@ -4013,7 +4013,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-men-2_043",
-          "text": "Sorakan Besar"
+          "text": "Gemuruh Sorak Penonton"
         }
       ]
     },
@@ -4058,7 +4058,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-act-1_004",
-          "text": "Sapaan Bermotivasi"
+          "text": "Sapaan Penuh Semangat"
         }
       ]
     },
@@ -4388,7 +4388,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_076",
-          "text": "Ganti Citra "
+          "text": "Ubah Tampilan "
         }
       ]
     },
@@ -4418,7 +4418,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-2_008",
-          "text": "Latihan Imajinasi"
+          "text": "Simulasi Pikiran"
         }
       ]
     },
@@ -4568,7 +4568,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-2_060",
-          "text": "Hati Sang Gadis"
+          "text": "Hati Gadis"
         }
       ]
     },
@@ -4643,7 +4643,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-act-1_043",
-          "text": "Bermotivasi"
+          "text": "Bersemangat"
         }
       ]
     },
@@ -5063,7 +5063,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-men-2_076",
-          "text": "Pemicu Motivasi"
+          "text": "Pembangkit Suasana"
         }
       ]
     },
@@ -5278,7 +5278,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-ido-3_249",
-          "text": "You're My Prey"
+          "text": "Kaulah Mangsaku"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5318,7 +5318,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-2_113",
-          "text": "Impulse"
+          "text": "Impuls"
         }
       ]
     },
@@ -5333,7 +5333,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-men-1_026",
-          "text": "Competitive Drive"
+          "text": "Semangat Bersaing"
         }
       ]
     },
@@ -5348,7 +5348,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-men-1_091",
-          "text": "Stability"
+          "text": "Kestabilan"
         }
       ]
     },
@@ -5363,7 +5363,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-act-2_044",
-          "text": "Angelic Smile"
+          "text": "Senyuman Malaikat"
         }
       ]
     },
@@ -5408,7 +5408,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_094",
-          "text": "Romantic"
+          "text": "Romantis"
         }
       ]
     },
@@ -5463,7 +5463,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_209",
-          "text": "Saat Ini Sebagai Hasilnya "
+          "text": "Buah dari Perjuangan "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5568,7 +5568,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_219",
-          "text": "Small steps forward "
+          "text": "Langkah Kecil ke Depan "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5618,7 +5618,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_219",
-          "text": "Small steps forward "
+          "text": "Langkah Kecil ke Depan "
         }
       ]
     }

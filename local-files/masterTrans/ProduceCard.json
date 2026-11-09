@@ -12825,7 +12825,7 @@
           "text": ""
         }
       ],
-      "name": "Diskusi Peregangan"
+      "name": "Obrolan Sambil Peregangan"
     },
     {
       "id": "p_card-00-sup-2_028",
@@ -13102,7 +13102,7 @@
           "text": ""
         }
       ],
-      "name": "Diskusi Peregangan+"
+      "name": "Obrolan Sambil Peregangan+"
     },
     {
       "id": "p_card-00-sup-2_028",
@@ -13379,7 +13379,7 @@
           "text": ""
         }
       ],
-      "name": "Diskusi Peregangan++"
+      "name": "Obrolan Sambil Peregangan++"
     },
     {
       "id": "p_card-00-sup-2_028",
@@ -13656,7 +13656,7 @@
           "text": ""
         }
       ],
-      "name": "Diskusi Peregangan+++"
+      "name": "Obrolan Sambil Peregangan+++"
     },
     {
       "id": "p_card-00-sup-2_029",
@@ -14781,7 +14781,7 @@
           "text": ""
         }
       ],
-      "name": "Rasa Musiman"
+      "name": "Cita Rasa Musim Ini"
     },
     {
       "id": "p_card-00-sup-2_092",
@@ -14998,7 +14998,7 @@
           "text": ""
         }
       ],
-      "name": "Rasa Musiman+"
+      "name": "Cita Rasa Musim Ini+"
     },
     {
       "id": "p_card-00-sup-2_092",
@@ -15215,7 +15215,7 @@
           "text": ""
         }
       ],
-      "name": "Rasa Musiman++"
+      "name": "Cita Rasa Musim Ini++"
     },
     {
       "id": "p_card-00-sup-2_092",
@@ -15432,7 +15432,7 @@
           "text": ""
         }
       ],
-      "name": "Rasa Musiman+++"
+      "name": "Cita Rasa Musim Ini+++"
     },
     {
       "id": "p_card-00-sup-3_024",
@@ -28703,7 +28703,7 @@
           "text": ""
         }
       ],
-      "name": "Penangkap Gigih"
+      "name": "Tangkapan Gigih"
     },
     {
       "id": "p_card-00-sup-3_161",
@@ -28940,7 +28940,7 @@
           "text": ""
         }
       ],
-      "name": "Penangkap Gigih+"
+      "name": "Tangkapan Gigih+"
     },
     {
       "id": "p_card-00-sup-3_161",
@@ -29177,7 +29177,7 @@
           "text": ""
         }
       ],
-      "name": "Penangkap Gigih++"
+      "name": "Tangkapan Gigih++"
     },
     {
       "id": "p_card-00-sup-3_161",
@@ -29414,7 +29414,7 @@
           "text": ""
         }
       ],
-      "name": "Penangkap Gigih+++"
+      "name": "Tangkapan Gigih+++"
     },
     {
       "id": "p_card-01-act-0_005",
@@ -30139,7 +30139,7 @@
           "text": ""
         }
       ],
-      "name": "Percobaan dan Kesalahan"
+      "name": "Belajar dari Kesalahan"
     },
     {
       "id": "p_card-01-act-0_006",
@@ -30276,7 +30276,7 @@
           "text": ""
         }
       ],
-      "name": "Percobaan dan Kesalahan+"
+      "name": "Belajar dari Kesalahan+"
     },
     {
       "id": "p_card-01-act-0_006",
@@ -30413,7 +30413,7 @@
           "text": ""
         }
       ],
-      "name": "Percobaan dan Kesalahan++"
+      "name": "Belajar dari Kesalahan++"
     },
     {
       "id": "p_card-01-act-0_006",
@@ -30550,7 +30550,7 @@
           "text": ""
         }
       ],
-      "name": "Percobaan dan Kesalahan+++"
+      "name": "Belajar dari Kesalahan+++"
     },
     {
       "id": "p_card-01-act-0_022",
@@ -45750,7 +45750,7 @@
           "text": ""
         }
       ],
-      "name": "Turn Gelora"
+      "name": "Giliran Motivasi"
     },
     {
       "id": "p_card-01-act-2_031",
@@ -45907,7 +45907,7 @@
           "text": ""
         }
       ],
-      "name": "Turn Gelora+"
+      "name": "Giliran Motivasi+"
     },
     {
       "id": "p_card-01-act-2_031",
@@ -46064,7 +46064,7 @@
           "text": ""
         }
       ],
-      "name": "Turn Gelora++"
+      "name": "Giliran Motivasi++"
     },
     {
       "id": "p_card-01-act-2_031",
@@ -46221,7 +46221,7 @@
           "text": ""
         }
       ],
-      "name": "Turn Gelora+++"
+      "name": "Giliran Motivasi+++"
     },
     {
       "id": "p_card-01-act-2_032",
@@ -61320,7 +61320,7 @@
           "text": ""
         }
       ],
-      "name": "Angkuh tapi Manis"
+      "name": "Angkuh tapi Manja"
     },
     {
       "id": "p_card-01-ido-1_011",
@@ -61517,7 +61517,7 @@
           "text": ""
         }
       ],
-      "name": "Angkuh tapi Manis+"
+      "name": "Angkuh tapi Manja+"
     },
     {
       "id": "p_card-01-ido-1_011",
@@ -61714,7 +61714,7 @@
           "text": ""
         }
       ],
-      "name": "Angkuh tapi Manis++"
+      "name": "Angkuh tapi Manja++"
     },
     {
       "id": "p_card-01-ido-1_011",
@@ -61911,7 +61911,7 @@
           "text": ""
         }
       ],
-      "name": "Angkuh tapi Manis+++"
+      "name": "Angkuh tapi Manja+++"
     },
     {
       "id": "p_card-01-ido-1_013",
@@ -63066,7 +63066,7 @@
           "text": ""
         }
       ],
-      "name": "Sosok yang Mendekap"
+      "name": "Dekapan Hangat"
     },
     {
       "id": "p_card-01-ido-1_014",
@@ -63313,7 +63313,7 @@
           "text": ""
         }
       ],
-      "name": "Sosok yang Mendekap+"
+      "name": "Dekapan Hangat+"
     },
     {
       "id": "p_card-01-ido-1_014",
@@ -63560,7 +63560,7 @@
           "text": ""
         }
       ],
-      "name": "Sosok yang Mendekap++"
+      "name": "Dekapan Hangat++"
     },
     {
       "id": "p_card-01-ido-1_014",
@@ -63807,7 +63807,7 @@
           "text": ""
         }
       ],
-      "name": "Sosok yang Mendekap+++"
+      "name": "Dekapan Hangat+++"
     },
     {
       "id": "p_card-01-ido-1_017",
@@ -67924,7 +67924,7 @@
           "text": ""
         }
       ],
-      "name": "Kedatangan Pertama"
+      "name": "Kemunculan Perdana"
     },
     {
       "id": "p_card-01-ido-1_065",
@@ -68121,7 +68121,7 @@
           "text": ""
         }
       ],
-      "name": "Kedatangan Pertama+"
+      "name": "Kemunculan Perdana+"
     },
     {
       "id": "p_card-01-ido-1_065",
@@ -68318,7 +68318,7 @@
           "text": ""
         }
       ],
-      "name": "Kedatangan Pertama++"
+      "name": "Kemunculan Perdana++"
     },
     {
       "id": "p_card-01-ido-1_065",
@@ -68515,7 +68515,7 @@
           "text": ""
         }
       ],
-      "name": "Kedatangan Pertama+++"
+      "name": "Kemunculan Perdana+++"
     },
     {
       "id": "p_card-01-ido-100_039",
@@ -69830,7 +69830,7 @@
           "text": ""
         }
       ],
-      "name": "Tak Melepaskan Puncak"
+      "name": "Pantang Lepas Puncak"
     },
     {
       "id": "p_card-01-ido-2_016",
@@ -70027,7 +70027,7 @@
           "text": ""
         }
       ],
-      "name": "Tak Melepaskan Puncak+"
+      "name": "Pantang Lepas Puncak+"
     },
     {
       "id": "p_card-01-ido-2_016",
@@ -70224,7 +70224,7 @@
           "text": ""
         }
       ],
-      "name": "Tak Melepaskan Puncak++"
+      "name": "Pantang Lepas Puncak++"
     },
     {
       "id": "p_card-01-ido-2_016",
@@ -70421,7 +70421,7 @@
           "text": ""
         }
       ],
-      "name": "Tak Melepaskan Puncak+++"
+      "name": "Pantang Lepas Puncak+++"
     },
     {
       "id": "p_card-01-ido-2_017",
@@ -75226,7 +75226,7 @@
           "text": ""
         }
       ],
-      "name": "Bintang Berbusana Sempurna"
+      "name": "Bintang Berbusana Anggun"
     },
     {
       "id": "p_card-01-ido-3_016",
@@ -75463,7 +75463,7 @@
           "text": ""
         }
       ],
-      "name": "Bintang Berbusana Sempurna+"
+      "name": "Bintang Berbusana Anggun+"
     },
     {
       "id": "p_card-01-ido-3_016",
@@ -75700,7 +75700,7 @@
           "text": ""
         }
       ],
-      "name": "Bintang Berbusana Sempurna++"
+      "name": "Bintang Berbusana Anggun++"
     },
     {
       "id": "p_card-01-ido-3_016",
@@ -75937,7 +75937,7 @@
           "text": ""
         }
       ],
-      "name": "Bintang Berbusana Sempurna+++"
+      "name": "Bintang Berbusana Anggun+++"
     },
     {
       "id": "p_card-01-ido-3_017",
@@ -86752,7 +86752,7 @@
           "text": ""
         }
       ],
-      "name": "Cepat dan Mudah"
+      "name": "Cepat dan Praktis"
     },
     {
       "id": "p_card-01-ido-3_087",
@@ -86999,7 +86999,7 @@
           "text": ""
         }
       ],
-      "name": "Cepat dan Mudah+"
+      "name": "Cepat dan Praktis+"
     },
     {
       "id": "p_card-01-ido-3_087",
@@ -87246,7 +87246,7 @@
           "text": ""
         }
       ],
-      "name": "Cepat dan Mudah++"
+      "name": "Cepat dan Praktis++"
     },
     {
       "id": "p_card-01-ido-3_087",
@@ -87493,7 +87493,7 @@
           "text": ""
         }
       ],
-      "name": "Cepat dan Mudah+++"
+      "name": "Cepat dan Praktis+++"
     },
     {
       "id": "p_card-01-ido-3_097",
@@ -93190,7 +93190,7 @@
           "text": ""
         }
       ],
-      "name": "Jumpai Sang Pahlawan"
+      "name": "Temui Sang Pahlawan"
     },
     {
       "id": "p_card-01-ido-3_118",
@@ -93607,7 +93607,7 @@
           "text": ""
         }
       ],
-      "name": "Jumpai Sang Pahlawan+"
+      "name": "Temui Sang Pahlawan+"
     },
     {
       "id": "p_card-01-ido-3_118",
@@ -94024,7 +94024,7 @@
           "text": ""
         }
       ],
-      "name": "Jumpai Sang Pahlawan++"
+      "name": "Temui Sang Pahlawan++"
     },
     {
       "id": "p_card-01-ido-3_118",
@@ -94441,7 +94441,7 @@
           "text": ""
         }
       ],
-      "name": "Jumpai Sang Pahlawan+++"
+      "name": "Temui Sang Pahlawan+++"
     },
     {
       "id": "p_card-01-ido-3_128",
@@ -103440,7 +103440,7 @@
           "text": ""
         }
       ],
-      "name": "Motivasi yang Tersisa"
+      "name": "Sisa-Sisa Motivasi"
     },
     {
       "id": "p_card-01-ido-3_168",
@@ -103727,7 +103727,7 @@
           "text": ""
         }
       ],
-      "name": "Motivasi yang Tersisa+"
+      "name": "Sisa-Sisa Motivasi+"
     },
     {
       "id": "p_card-01-ido-3_168",
@@ -104014,7 +104014,7 @@
           "text": ""
         }
       ],
-      "name": "Motivasi yang Tersisa++"
+      "name": "Sisa-Sisa Motivasi++"
     },
     {
       "id": "p_card-01-ido-3_168",
@@ -104301,7 +104301,7 @@
           "text": ""
         }
       ],
-      "name": "Motivasi yang Tersisa+++"
+      "name": "Sisa-Sisa Motivasi+++"
     },
     {
       "id": "p_card-01-ido-3_170",
@@ -118396,7 +118396,7 @@
           "text": ""
         }
       ],
-      "name": "Hasrat untuk Membalas"
+      "name": "Menjawab Harapan"
     },
     {
       "id": "p_card-01-ido-3_242",
@@ -118623,7 +118623,7 @@
           "text": ""
         }
       ],
-      "name": "Hasrat untuk Membalas+"
+      "name": "Menjawab Harapan+"
     },
     {
       "id": "p_card-01-ido-3_242",
@@ -118850,7 +118850,7 @@
           "text": ""
         }
       ],
-      "name": "Hasrat untuk Membalas++"
+      "name": "Menjawab Harapan++"
     },
     {
       "id": "p_card-01-ido-3_242",
@@ -119077,7 +119077,7 @@
           "text": ""
         }
       ],
-      "name": "Hasrat untuk Membalas+++"
+      "name": "Menjawab Harapan+++"
     },
     {
       "id": "p_card-01-ido-3_244",
@@ -120252,7 +120252,7 @@
           "text": ""
         }
       ],
-      "name": "Pesona Tanpa Sengaja"
+      "name": "Pesona Alami"
     },
     {
       "id": "p_card-01-ido-3_246",
@@ -120699,7 +120699,7 @@
           "text": ""
         }
       ],
-      "name": "Pesona Tanpa Sengaja+"
+      "name": "Pesona Alami+"
     },
     {
       "id": "p_card-01-ido-3_246",
@@ -121146,7 +121146,7 @@
           "text": ""
         }
       ],
-      "name": "Pesona Tanpa Sengaja++"
+      "name": "Pesona Alami++"
     },
     {
       "id": "p_card-01-ido-3_246",
@@ -121593,7 +121593,7 @@
           "text": ""
         }
       ],
-      "name": "Pesona Tanpa Sengaja+++"
+      "name": "Pesona Alami+++"
     },
     {
       "id": "p_card-01-men-0_007",
@@ -136446,7 +136446,7 @@
           "text": ""
         }
       ],
-      "name": "Sorakan Besar"
+      "name": "Gemuruh Sorak Penonton"
     },
     {
       "id": "p_card-01-men-2_043",
@@ -136603,7 +136603,7 @@
           "text": ""
         }
       ],
-      "name": "Sorakan Besar+"
+      "name": "Gemuruh Sorak Penonton+"
     },
     {
       "id": "p_card-01-men-2_043",
@@ -136760,7 +136760,7 @@
           "text": ""
         }
       ],
-      "name": "Sorakan Besar++"
+      "name": "Gemuruh Sorak Penonton++"
     },
     {
       "id": "p_card-01-men-2_043",
@@ -136917,7 +136917,7 @@
           "text": ""
         }
       ],
-      "name": "Sorakan Besar+++"
+      "name": "Gemuruh Sorak Penonton+++"
     },
     {
       "id": "p_card-01-men-2_098",
@@ -149034,7 +149034,7 @@
           "text": ""
         }
       ],
-      "name": "Tali Putus Pengikat Bond"
+      "name": "Tali Putus Pengerat Ikatan"
     },
     {
       "id": "p_card-01-sup-2_088",
@@ -149241,7 +149241,7 @@
           "text": ""
         }
       ],
-      "name": "Tali Putus Pengikat Bond+"
+      "name": "Tali Putus Pengerat Ikatan+"
     },
     {
       "id": "p_card-01-sup-2_088",
@@ -149448,7 +149448,7 @@
           "text": ""
         }
       ],
-      "name": "Tali Putus Pengikat Bond++"
+      "name": "Tali Putus Pengerat Ikatan++"
     },
     {
       "id": "p_card-01-sup-2_088",
@@ -149655,7 +149655,7 @@
           "text": ""
         }
       ],
-      "name": "Tali Putus Pengikat Bond+++"
+      "name": "Tali Putus Pengerat Ikatan+++"
     },
     {
       "id": "p_card-01-sup-2_090",
@@ -151608,7 +151608,7 @@
           "text": ""
         }
       ],
-      "name": "Pertengkaran Penguat Bond"
+      "name": "Pertengkaran Pengerat Ikatan"
     },
     {
       "id": "p_card-01-sup-3_047",
@@ -151865,7 +151865,7 @@
           "text": ""
         }
       ],
-      "name": "Pertengkaran Penguat Bond+"
+      "name": "Pertengkaran Pengerat Ikatan+"
     },
     {
       "id": "p_card-01-sup-3_047",
@@ -152122,7 +152122,7 @@
           "text": ""
         }
       ],
-      "name": "Pertengkaran Penguat Bond++"
+      "name": "Pertengkaran Pengerat Ikatan++"
     },
     {
       "id": "p_card-01-sup-3_047",
@@ -152379,7 +152379,7 @@
           "text": ""
         }
       ],
-      "name": "Pertengkaran Penguat Bond+++"
+      "name": "Pertengkaran Pengerat Ikatan+++"
     },
     {
       "id": "p_card-01-sup-3_090",
@@ -164640,7 +164640,7 @@
           "text": ""
         }
       ],
-      "name": "Sapaan Bersemangat"
+      "name": "Sapaan Penuh Semangat"
     },
     {
       "id": "p_card-02-act-1_004",
@@ -164807,7 +164807,7 @@
           "text": ""
         }
       ],
-      "name": "Sapaan Bersemangat+"
+      "name": "Sapaan Penuh Semangat+"
     },
     {
       "id": "p_card-02-act-1_004",
@@ -164974,7 +164974,7 @@
           "text": ""
         }
       ],
-      "name": "Sapaan Bersemangat++"
+      "name": "Sapaan Penuh Semangat++"
     },
     {
       "id": "p_card-02-act-1_004",
@@ -165141,7 +165141,7 @@
           "text": ""
         }
       ],
-      "name": "Sapaan Bersemangat+++"
+      "name": "Sapaan Penuh Semangat+++"
     },
     {
       "id": "p_card-02-act-1_027",
@@ -191164,7 +191164,7 @@
           "text": ""
         }
       ],
-      "name": "Si Jenius yang Belum Sempurna"
+      "name": "Bakat yang Belum Terasah"
     },
     {
       "id": "p_card-02-ido-1_053",
@@ -191391,7 +191391,7 @@
           "text": ""
         }
       ],
-      "name": "Si Jenius yang Belum Sempurna+"
+      "name": "Bakat yang Belum Terasah+"
     },
     {
       "id": "p_card-02-ido-1_053",
@@ -191618,7 +191618,7 @@
           "text": ""
         }
       ],
-      "name": "Si Jenius yang Belum Sempurna++"
+      "name": "Bakat yang Belum Terasah++"
     },
     {
       "id": "p_card-02-ido-1_053",
@@ -191845,7 +191845,7 @@
           "text": ""
         }
       ],
-      "name": "Si Jenius yang Belum Sempurna+++"
+      "name": "Bakat yang Belum Terasah+++"
     },
     {
       "id": "p_card-02-ido-1_056",
@@ -196622,7 +196622,7 @@
           "text": ""
         }
       ],
-      "name": "Helaan Napas Pertama"
+      "name": "Tarikan Napas Pertama"
     },
     {
       "id": "p_card-02-ido-1_066",
@@ -196819,7 +196819,7 @@
           "text": ""
         }
       ],
-      "name": "Helaan Napas Pertama+"
+      "name": "Tarikan Napas Pertama+"
     },
     {
       "id": "p_card-02-ido-1_066",
@@ -197016,7 +197016,7 @@
           "text": ""
         }
       ],
-      "name": "Helaan Napas Pertama++"
+      "name": "Tarikan Napas Pertama++"
     },
     {
       "id": "p_card-02-ido-1_066",
@@ -197213,7 +197213,7 @@
           "text": ""
         }
       ],
-      "name": "Helaan Napas Pertama+++"
+      "name": "Tarikan Napas Pertama+++"
     },
     {
       "id": "p_card-02-ido-1_067",
@@ -202548,7 +202548,7 @@
           "text": ""
         }
       ],
-      "name": "Mengalahkan Kakak"
+      "name": "Melampaui Sang Kakak"
     },
     {
       "id": "p_card-02-ido-2_083",
@@ -202795,7 +202795,7 @@
           "text": ""
         }
       ],
-      "name": "Mengalahkan Kakak+"
+      "name": "Melampaui Sang Kakak+"
     },
     {
       "id": "p_card-02-ido-2_083",
@@ -203042,7 +203042,7 @@
           "text": ""
         }
       ],
-      "name": "Mengalahkan Kakak++"
+      "name": "Melampaui Sang Kakak++"
     },
     {
       "id": "p_card-02-ido-2_083",
@@ -203289,7 +203289,7 @@
           "text": ""
         }
       ],
-      "name": "Mengalahkan Kakak+++"
+      "name": "Melampaui Sang Kakak+++"
     },
     {
       "id": "p_card-02-ido-2_107",
@@ -207228,7 +207228,7 @@
           "text": ""
         }
       ],
-      "name": "Debut Akbar Sang Lady"
+      "name": "Debut Gemilang Sang Nona"
     },
     {
       "id": "p_card-02-ido-3_021",
@@ -207535,7 +207535,7 @@
           "text": ""
         }
       ],
-      "name": "Debut Akbar Sang Lady+"
+      "name": "Debut Gemilang Sang Nona+"
     },
     {
       "id": "p_card-02-ido-3_021",
@@ -207842,7 +207842,7 @@
           "text": ""
         }
       ],
-      "name": "Debut Akbar Sang Lady++"
+      "name": "Debut Gemilang Sang Nona++"
     },
     {
       "id": "p_card-02-ido-3_021",
@@ -208149,7 +208149,7 @@
           "text": ""
         }
       ],
-      "name": "Debut Akbar Sang Lady+++"
+      "name": "Debut Gemilang Sang Nona+++"
     },
     {
       "id": "p_card-02-ido-3_022",
@@ -215252,7 +215252,7 @@
           "text": ""
         }
       ],
-      "name": "Kerja Keras Buatan Sendiri"
+      "name": "Jerih Payah Buatan Tangan"
     },
     {
       "id": "p_card-02-ido-3_079",
@@ -215559,7 +215559,7 @@
           "text": ""
         }
       ],
-      "name": "Kerja Keras Buatan Sendiri+"
+      "name": "Jerih Payah Buatan Tangan+"
     },
     {
       "id": "p_card-02-ido-3_079",
@@ -215866,7 +215866,7 @@
           "text": ""
         }
       ],
-      "name": "Kerja Keras Buatan Sendiri++"
+      "name": "Jerih Payah Buatan Tangan++"
     },
     {
       "id": "p_card-02-ido-3_079",
@@ -216173,7 +216173,7 @@
           "text": ""
         }
       ],
-      "name": "Kerja Keras Buatan Sendiri+++"
+      "name": "Jerih Payah Buatan Tangan+++"
     },
     {
       "id": "p_card-02-ido-3_081",
@@ -231862,7 +231862,7 @@
           "text": ""
         }
       ],
-      "name": "Masa Depan yang Kuraih"
+      "name": "Masa Depan di Genggaman"
     },
     {
       "id": "p_card-02-ido-3_136",
@@ -232119,7 +232119,7 @@
           "text": ""
         }
       ],
-      "name": "Masa Depan yang Kuraih+"
+      "name": "Masa Depan di Genggaman+"
     },
     {
       "id": "p_card-02-ido-3_136",
@@ -232376,7 +232376,7 @@
           "text": ""
         }
       ],
-      "name": "Masa Depan yang Kuraih++"
+      "name": "Masa Depan di Genggaman++"
     },
     {
       "id": "p_card-02-ido-3_136",
@@ -232633,7 +232633,7 @@
           "text": ""
         }
       ],
-      "name": "Masa Depan yang Kuraih+++"
+      "name": "Masa Depan di Genggaman+++"
     },
     {
       "id": "p_card-02-ido-3_140",
@@ -232960,7 +232960,7 @@
           "text": ""
         }
       ],
-      "name": "Takkan Pernah"
+      "name": "Takkan Pernah Mundur"
     },
     {
       "id": "p_card-02-ido-3_140",
@@ -233287,7 +233287,7 @@
           "text": ""
         }
       ],
-      "name": "Takkan Pernah+"
+      "name": "Takkan Pernah Mundur+"
     },
     {
       "id": "p_card-02-ido-3_140",
@@ -233614,7 +233614,7 @@
           "text": ""
         }
       ],
-      "name": "Takkan Pernah++"
+      "name": "Takkan Pernah Mundur++"
     },
     {
       "id": "p_card-02-ido-3_140",
@@ -233941,7 +233941,7 @@
           "text": ""
         }
       ],
-      "name": "Takkan Pernah+++"
+      "name": "Takkan Pernah Mundur+++"
     },
     {
       "id": "p_card-02-ido-3_143",
@@ -241963,7 +241963,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-ido-3_190",
-          "text": "Surpass Me (Beyond) "
+          "text": "Lampaui Diriku (Beyond) "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -242230,7 +242230,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-ido-3_190",
-          "text": "Surpass Me (Beyond) "
+          "text": "Lampaui Diriku (Beyond) "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -242497,7 +242497,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-ido-3_190",
-          "text": "Surpass Me (Beyond) "
+          "text": "Lampaui Diriku (Beyond) "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -242764,7 +242764,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-ido-3_190",
-          "text": "Surpass Me (Beyond) "
+          "text": "Lampaui Diriku (Beyond) "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -248934,7 +248934,7 @@
           "text": ""
         }
       ],
-      "name": "Idol yang Terlalu Keren"
+      "name": "Idol Teramat Keren"
     },
     {
       "id": "p_card-02-ido-3_198",
@@ -249291,7 +249291,7 @@
           "text": ""
         }
       ],
-      "name": "Idol yang Terlalu Keren+"
+      "name": "Idol Teramat Keren+"
     },
     {
       "id": "p_card-02-ido-3_198",
@@ -249648,7 +249648,7 @@
           "text": ""
         }
       ],
-      "name": "Idol yang Terlalu Keren++"
+      "name": "Idol Teramat Keren++"
     },
     {
       "id": "p_card-02-ido-3_198",
@@ -250005,7 +250005,7 @@
           "text": ""
         }
       ],
-      "name": "Idol yang Terlalu Keren+++"
+      "name": "Idol Teramat Keren+++"
     },
     {
       "id": "p_card-02-ido-3_201",
@@ -250392,7 +250392,7 @@
           "text": ""
         }
       ],
-      "name": "Kata-kata Pendukungku"
+      "name": "Kata Penyemangatku"
     },
     {
       "id": "p_card-02-ido-3_201",
@@ -250779,7 +250779,7 @@
           "text": ""
         }
       ],
-      "name": "Kata-kata Pendukungku+"
+      "name": "Kata Penyemangatku+"
     },
     {
       "id": "p_card-02-ido-3_201",
@@ -251166,7 +251166,7 @@
           "text": ""
         }
       ],
-      "name": "Kata-kata Pendukungku++"
+      "name": "Kata Penyemangatku++"
     },
     {
       "id": "p_card-02-ido-3_201",
@@ -251553,7 +251553,7 @@
           "text": ""
         }
       ],
-      "name": "Kata-kata Pendukungku+++"
+      "name": "Kata Penyemangatku+++"
     },
     {
       "id": "p_card-02-ido-3_203",
@@ -258190,7 +258190,7 @@
           "text": ""
         }
       ],
-      "name": "Inilah Sosok Idol Sejati!"
+      "name": "Inilah Idol Sejati!"
     },
     {
       "id": "p_card-02-ido-3_236",
@@ -258607,7 +258607,7 @@
           "text": ""
         }
       ],
-      "name": "Inilah Sosok Idol Sejati!+"
+      "name": "Inilah Idol Sejati!+"
     },
     {
       "id": "p_card-02-ido-3_236",
@@ -259024,7 +259024,7 @@
           "text": ""
         }
       ],
-      "name": "Inilah Sosok Idol Sejati!++"
+      "name": "Inilah Idol Sejati!++"
     },
     {
       "id": "p_card-02-ido-3_236",
@@ -259441,7 +259441,7 @@
           "text": ""
         }
       ],
-      "name": "Inilah Sosok Idol Sejati!+++"
+      "name": "Inilah Idol Sejati!+++"
     },
     {
       "id": "p_card-02-ido-3_243",
@@ -271236,7 +271236,7 @@
           "text": ""
         }
       ],
-      "name": "Ganti Citra"
+      "name": "Ubah Tampilan"
     },
     {
       "id": "p_card-02-men-1_076",
@@ -271443,7 +271443,7 @@
           "text": ""
         }
       ],
-      "name": "Ganti Citra+"
+      "name": "Ubah Tampilan+"
     },
     {
       "id": "p_card-02-men-1_076",
@@ -271700,7 +271700,7 @@
           "text": ""
         }
       ],
-      "name": "Ganti Citra++"
+      "name": "Ubah Tampilan++"
     },
     {
       "id": "p_card-02-men-1_076",
@@ -271957,7 +271957,7 @@
           "text": ""
         }
       ],
-      "name": "Ganti Citra+++"
+      "name": "Ubah Tampilan+++"
     },
     {
       "id": "p_card-02-men-100_007",
@@ -273903,7 +273903,7 @@
           "text": ""
         }
       ],
-      "name": "Latihan Imajinasi"
+      "name": "Simulasi Pikiran"
     },
     {
       "id": "p_card-02-men-2_008",
@@ -274060,7 +274060,7 @@
           "text": ""
         }
       ],
-      "name": "Latihan Imajinasi+"
+      "name": "Simulasi Pikiran+"
     },
     {
       "id": "p_card-02-men-2_008",
@@ -274217,7 +274217,7 @@
           "text": ""
         }
       ],
-      "name": "Latihan Imajinasi++"
+      "name": "Simulasi Pikiran++"
     },
     {
       "id": "p_card-02-men-2_008",
@@ -274374,7 +274374,7 @@
           "text": ""
         }
       ],
-      "name": "Latihan Imajinasi+++"
+      "name": "Simulasi Pikiran+++"
     },
     {
       "id": "p_card-02-men-2_050",
@@ -299401,7 +299401,7 @@
           "text": ""
         }
       ],
-      "name": "Masakan Buruk"
+      "name": "Bencana di Dapur"
     },
     {
       "id": "p_card-02-sup-3_023",
@@ -299658,7 +299658,7 @@
           "text": ""
         }
       ],
-      "name": "Masakan Buruk+"
+      "name": "Bencana di Dapur+"
     },
     {
       "id": "p_card-02-sup-3_023",
@@ -299915,7 +299915,7 @@
           "text": ""
         }
       ],
-      "name": "Masakan Buruk++"
+      "name": "Bencana di Dapur++"
     },
     {
       "id": "p_card-02-sup-3_023",
@@ -300172,7 +300172,7 @@
           "text": ""
         }
       ],
-      "name": "Masakan Buruk+++"
+      "name": "Bencana di Dapur+++"
     },
     {
       "id": "p_card-02-sup-3_089",
@@ -342861,7 +342861,7 @@
           "text": ""
         }
       ],
-      "name": "Jiwa, Raga, Keterampilan"
+      "name": "Harmoni Jiwa dan Raga"
     },
     {
       "id": "p_card-03-act-3_056",
@@ -343178,7 +343178,7 @@
           "text": ""
         }
       ],
-      "name": "Jiwa, Raga, Keterampilan+"
+      "name": "Harmoni Jiwa dan Raga+"
     },
     {
       "id": "p_card-03-act-3_056",
@@ -343495,7 +343495,7 @@
           "text": ""
         }
       ],
-      "name": "Jiwa, Raga, Keterampilan++"
+      "name": "Harmoni Jiwa dan Raga++"
     },
     {
       "id": "p_card-03-act-3_056",
@@ -343812,7 +343812,7 @@
           "text": ""
         }
       ],
-      "name": "Jiwa, Raga, Keterampilan+++"
+      "name": "Harmoni Jiwa dan Raga+++"
     },
     {
       "id": "p_card-03-act-3_057",
@@ -350141,7 +350141,7 @@
           "text": ""
         }
       ],
-      "name": "Orang Santai"
+      "name": "Si Pembawa Tenang"
     },
     {
       "id": "p_card-03-ido-1_054",
@@ -350358,7 +350358,7 @@
           "text": ""
         }
       ],
-      "name": "Orang Santai+"
+      "name": "Si Pembawa Tenang+"
     },
     {
       "id": "p_card-03-ido-1_054",
@@ -350575,7 +350575,7 @@
           "text": ""
         }
       ],
-      "name": "Orang Santai++"
+      "name": "Si Pembawa Tenang++"
     },
     {
       "id": "p_card-03-ido-1_054",
@@ -350792,7 +350792,7 @@
           "text": ""
         }
       ],
-      "name": "Orang Santai+++"
+      "name": "Si Pembawa Tenang+++"
     },
     {
       "id": "p_card-03-ido-1_055",
@@ -351817,7 +351817,7 @@
           "text": ""
         }
       ],
-      "name": "Puncak Harga Diri"
+      "name": "Penuh Kebanggaan"
     },
     {
       "id": "p_card-03-ido-1_077",
@@ -352054,7 +352054,7 @@
           "text": ""
         }
       ],
-      "name": "Puncak Harga Diri+"
+      "name": "Penuh Kebanggaan+"
     },
     {
       "id": "p_card-03-ido-1_077",
@@ -352291,7 +352291,7 @@
           "text": ""
         }
       ],
-      "name": "Puncak Harga Diri++"
+      "name": "Penuh Kebanggaan++"
     },
     {
       "id": "p_card-03-ido-1_077",
@@ -352528,7 +352528,7 @@
           "text": ""
         }
       ],
-      "name": "Puncak Harga Diri+++"
+      "name": "Penuh Kebanggaan+++"
     },
     {
       "id": "p_card-03-ido-100_038",
@@ -353993,7 +353993,7 @@
           "text": ""
         }
       ],
-      "name": "Lanjut Setelah Istirahat"
+      "name": "Lanjut Seusai Rehat"
     },
     {
       "id": "p_card-03-ido-2_084",
@@ -354220,7 +354220,7 @@
           "text": ""
         }
       ],
-      "name": "Lanjut Setelah Istirahat+"
+      "name": "Lanjut Seusai Rehat+"
     },
     {
       "id": "p_card-03-ido-2_084",
@@ -354447,7 +354447,7 @@
           "text": ""
         }
       ],
-      "name": "Lanjut Setelah Istirahat++"
+      "name": "Lanjut Seusai Rehat++"
     },
     {
       "id": "p_card-03-ido-2_084",
@@ -354674,7 +354674,7 @@
           "text": ""
         }
       ],
-      "name": "Lanjut Setelah Istirahat+++"
+      "name": "Lanjut Seusai Rehat+++"
     },
     {
       "id": "p_card-03-ido-2_085",
@@ -362687,7 +362687,7 @@
           "text": ""
         }
       ],
-      "name": "Sanggupkah Kamu?"
+      "name": "Bisa Mengimbangiku?"
     },
     {
       "id": "p_card-03-ido-3_110",
@@ -362894,7 +362894,7 @@
           "text": ""
         }
       ],
-      "name": "Sanggupkah Kamu?+"
+      "name": "Bisa Mengimbangiku?+"
     },
     {
       "id": "p_card-03-ido-3_110",
@@ -363111,7 +363111,7 @@
           "text": ""
         }
       ],
-      "name": "Sanggupkah Kamu?++"
+      "name": "Bisa Mengimbangiku?++"
     },
     {
       "id": "p_card-03-ido-3_110",
@@ -363328,7 +363328,7 @@
           "text": ""
         }
       ],
-      "name": "Sanggupkah Kamu?+++"
+      "name": "Bisa Mengimbangiku?+++"
     },
     {
       "id": "p_card-03-ido-3_112",
@@ -363605,7 +363605,7 @@
           "text": ""
         }
       ],
-      "name": "Aku Sudah Berusaha Keras"
+      "name": "Aku Sudah Berjuang Keras!"
     },
     {
       "id": "p_card-03-ido-3_112",
@@ -363882,7 +363882,7 @@
           "text": ""
         }
       ],
-      "name": "Aku Sudah Berusaha Keras+"
+      "name": "Aku Sudah Berjuang Keras!+"
     },
     {
       "id": "p_card-03-ido-3_112",
@@ -364159,7 +364159,7 @@
           "text": ""
         }
       ],
-      "name": "Aku Sudah Berusaha Keras++"
+      "name": "Aku Sudah Berjuang Keras!++"
     },
     {
       "id": "p_card-03-ido-3_112",
@@ -364436,7 +364436,7 @@
           "text": ""
         }
       ],
-      "name": "Aku Sudah Berusaha Keras+++"
+      "name": "Aku Sudah Berjuang Keras!+++"
     },
     {
       "id": "p_card-03-ido-3_113",
@@ -384961,7 +384961,7 @@
           "text": ""
         }
       ],
-      "name": "Kuberi Tahu Kamu"
+      "name": "Biar Kuajari"
     },
     {
       "id": "p_card-03-ido-3_177",
@@ -385288,7 +385288,7 @@
           "text": ""
         }
       ],
-      "name": "Kuberi Tahu Kamu+"
+      "name": "Biar Kuajari+"
     },
     {
       "id": "p_card-03-ido-3_177",
@@ -385615,7 +385615,7 @@
           "text": ""
         }
       ],
-      "name": "Kuberi Tahu Kamu++"
+      "name": "Biar Kuajari++"
     },
     {
       "id": "p_card-03-ido-3_177",
@@ -385942,7 +385942,7 @@
           "text": ""
         }
       ],
-      "name": "Kuberi Tahu Kamu+++"
+      "name": "Biar Kuajari+++"
     },
     {
       "id": "p_card-03-ido-3_193",
@@ -388782,7 +388782,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_197",
-          "text": "Reaching out my hand "
+          "text": "Mengulurkan Tanganku "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -388965,7 +388965,7 @@
           "text": ""
         }
       ],
-      "name": "Mempertaruhkan Seluruh Hidup"
+      "name": "Kutaruhkan Seluruh Hidup"
     },
     {
       "id": "p_card-03-ido-3_210",
@@ -389039,7 +389039,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_197",
-          "text": "Reaching out my hand "
+          "text": "Mengulurkan Tanganku "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -389222,7 +389222,7 @@
           "text": ""
         }
       ],
-      "name": "Mempertaruhkan Seluruh Hidup+"
+      "name": "Kutaruhkan Seluruh Hidup+"
     },
     {
       "id": "p_card-03-ido-3_210",
@@ -389296,7 +389296,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_197",
-          "text": "Reaching out my hand "
+          "text": "Mengulurkan Tanganku "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -389479,7 +389479,7 @@
           "text": ""
         }
       ],
-      "name": "Mempertaruhkan Seluruh Hidup++"
+      "name": "Kutaruhkan Seluruh Hidup++"
     },
     {
       "id": "p_card-03-ido-3_210",
@@ -389553,7 +389553,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_197",
-          "text": "Reaching out my hand "
+          "text": "Mengulurkan Tanganku "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -389736,7 +389736,7 @@
           "text": ""
         }
       ],
-      "name": "Mempertaruhkan Seluruh Hidup+++"
+      "name": "Kutaruhkan Seluruh Hidup+++"
     },
     {
       "id": "p_card-03-ido-3_234",
@@ -396163,7 +396163,7 @@
           "text": ""
         }
       ],
-      "name": "Pembajak Hati Jahil"
+      "name": "Pembajak Hati yang Usil"
     },
     {
       "id": "p_card-03-ido-3_247",
@@ -396420,7 +396420,7 @@
           "text": ""
         }
       ],
-      "name": "Pembajak Hati Jahil+"
+      "name": "Pembajak Hati yang Usil+"
     },
     {
       "id": "p_card-03-ido-3_247",
@@ -396677,7 +396677,7 @@
           "text": ""
         }
       ],
-      "name": "Pembajak Hati Jahil++"
+      "name": "Pembajak Hati yang Usil++"
     },
     {
       "id": "p_card-03-ido-3_247",
@@ -396934,7 +396934,7 @@
           "text": ""
         }
       ],
-      "name": "Pembajak Hati Jahil+++"
+      "name": "Pembajak Hati yang Usil+++"
     },
     {
       "id": "p_card-03-men-0_013",
@@ -410502,7 +410502,7 @@
           "text": ""
         }
       ],
-      "name": "Pemicu Motivasi"
+      "name": "Pembangkit Suasana"
     },
     {
       "id": "p_card-03-men-2_076",
@@ -410729,7 +410729,7 @@
           "text": ""
         }
       ],
-      "name": "Pemicu Motivasi+"
+      "name": "Pembangkit Suasana+"
     },
     {
       "id": "p_card-03-men-2_076",
@@ -410956,7 +410956,7 @@
           "text": ""
         }
       ],
-      "name": "Pemicu Motivasi++"
+      "name": "Pembangkit Suasana++"
     },
     {
       "id": "p_card-03-men-2_076",
@@ -411183,7 +411183,7 @@
           "text": ""
         }
       ],
-      "name": "Pemicu Motivasi+++"
+      "name": "Pembangkit Suasana+++"
     },
     {
       "id": "p_card-03-men-2_077",
@@ -450922,7 +450922,7 @@
           "text": ""
         }
       ],
-      "name": "Kindness Star"
+      "name": "Bintang Kebaikan"
     },
     {
       "id": "p_card-03-ido-3_209",
@@ -451379,7 +451379,7 @@
           "text": ""
         }
       ],
-      "name": "Saat Ini Sebagai Hasilnya"
+      "name": "Buah dari Perjuangan"
     },
     {
       "id": "p_card-03-ido-3_209",
@@ -451836,7 +451836,7 @@
           "text": ""
         }
       ],
-      "name": "Saat Ini Sebagai Hasilnya+"
+      "name": "Buah dari Perjuangan+"
     },
     {
       "id": "p_card-03-ido-3_209",
@@ -452293,7 +452293,7 @@
           "text": ""
         }
       ],
-      "name": "Saat Ini Sebagai Hasilnya++"
+      "name": "Buah dari Perjuangan++"
     },
     {
       "id": "p_card-03-ido-3_209",
@@ -452750,7 +452750,7 @@
           "text": ""
         }
       ],
-      "name": "Saat Ini Sebagai Hasilnya+++"
+      "name": "Buah dari Perjuangan+++"
     },
     {
       "id": "p_card-03-ido-3_222",
@@ -453037,7 +453037,7 @@
           "text": ""
         }
       ],
-      "name": "Keinginan Penggemar"
+      "name": "Harapan Penggemar"
     },
     {
       "id": "p_card-03-ido-3_222",
@@ -453324,7 +453324,7 @@
           "text": ""
         }
       ],
-      "name": "Keinginan Penggemar+"
+      "name": "Harapan Penggemar+"
     },
     {
       "id": "p_card-03-ido-3_222",
@@ -453611,7 +453611,7 @@
           "text": ""
         }
       ],
-      "name": "Keinginan Penggemar++"
+      "name": "Harapan Penggemar++"
     },
     {
       "id": "p_card-03-ido-3_222",
@@ -453958,7 +453958,7 @@
           "text": ""
         }
       ],
-      "name": "Keinginan Penggemar+++"
+      "name": "Harapan Penggemar+++"
     },
     {
       "id": "p_card-02-ido-3_208",
@@ -455523,7 +455523,7 @@
           "text": ""
         }
       ],
-      "name": "Orang yang Menerimaku"
+      "name": "Sosok Tempatku Bersandar"
     },
     {
       "id": "p_card-02-ido-3_221",
@@ -455820,7 +455820,7 @@
           "text": ""
         }
       ],
-      "name": "Orang yang Menerimaku+"
+      "name": "Sosok Tempatku Bersandar+"
     },
     {
       "id": "p_card-02-ido-3_221",
@@ -456117,7 +456117,7 @@
           "text": ""
         }
       ],
-      "name": "Orang yang Menerimaku++"
+      "name": "Sosok Tempatku Bersandar++"
     },
     {
       "id": "p_card-02-ido-3_221",
@@ -456414,7 +456414,7 @@
           "text": ""
         }
       ],
-      "name": "Orang yang Menerimaku+++"
+      "name": "Sosok Tempatku Bersandar+++"
     },
     {
       "id": "p_card-03-ido-3_206",
@@ -456711,7 +456711,7 @@
           "text": ""
         }
       ],
-      "name": "Berharganya Pantang Menyerah"
+      "name": "Arti Pantang Menyerah"
     },
     {
       "id": "p_card-03-ido-3_206",
@@ -457008,7 +457008,7 @@
           "text": ""
         }
       ],
-      "name": "Berharganya Pantang Menyerah+"
+      "name": "Arti Pantang Menyerah+"
     },
     {
       "id": "p_card-03-ido-3_206",
@@ -457305,7 +457305,7 @@
           "text": ""
         }
       ],
-      "name": "Berharganya Pantang Menyerah++"
+      "name": "Arti Pantang Menyerah++"
     },
     {
       "id": "p_card-03-ido-3_206",
@@ -457602,7 +457602,7 @@
           "text": ""
         }
       ],
-      "name": "Berharganya Pantang Menyerah+++"
+      "name": "Arti Pantang Menyerah+++"
     },
     {
       "id": "p_card-03-ido-3_219",
