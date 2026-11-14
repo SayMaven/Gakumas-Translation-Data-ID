@@ -112,10 +112,10 @@ jobs:
     - name: Generate Release Notes
       run: |
         PREV_COMMIT="${{ github.event.before }}"
-        if [ -z "$PREV_COMMIT" ] || [ "$PREV_COMMIT" = "0000000000000000000000000000000000000000" ]; then
+        if [ -z "$PREV_COMMIT" ] || [ "$PREV_COMMIT" = "0000000000000000000000000000000000000000" ] || ! git merge-base --is-ancestor "$PREV_COMMIT" HEAD 2>/dev/null; then
           COMMITS=$(git log -1 --pretty=format:"- %s")
         else
-          COMMITS=$(git log $PREV_COMMIT..${{ github.sha }} --pretty=format:"- %s")
+          COMMITS=$(git log $PREV_COMMIT..${{ github.sha }} --pretty=format:"- %s") || COMMITS=$(git log -1 --pretty=format:"- %s")
         fi
 
         echo "Rilis otomatis data terjemahan Bahasa Indonesia terbaru untuk Gakumas." > release_notes.md
