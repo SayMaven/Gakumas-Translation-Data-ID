@@ -651,9 +651,9 @@ Gunakan komentar atau tag berikut jika menemui teks yang sulit:
 - Idealnya tinggi dialog berkisar antara 1 hingga 3 baris per pesan `[message ...]`.
 
 > [!WARNING]
-> **ATURAN KHUSUS BERKAS `adv_unit_*.txt` (MAKSIMAL 45 KARAKTER, MAKSIMAL 2 BARIS & CHOICE <= 18 CHAR / 2 BARIS)**:
-> Pada berkas cerita utama/unit (`adv_unit_*.txt`), dialog ditampilkan secara sinematik menyatu langsung dengan scene tanpa boks kotak (bergaya subtitle melayang):
-> 1. **Dialog (`[message text=...]`)**: Panjang baris maksimal **45 karakter per baris** dan **TIDAK BOLEH LEBIH DARI 2 BARIS**. Jika mencapai 3 baris atau lebih, baris paling bawah akan bertabrakan/bentrok secara visual menimpa teks nama karakter yang berada di bawahnya.
+> **ATURAN KHUSUS BERKAS CUTSCENE HORIZONTAL (`adv_unit_*.txt` & `adv_*_*-horizontal.txt`) (MAKSIMAL 45 KARAKTER, MAKSIMAL 2 BARIS & CHOICE <= 18 CHAR / 2 BARIS)**:
+> Pada berkas cerita utama/unit (`adv_unit_*.txt`) dan cerita berformat landscape/horizontal (misalnya `adv_dear_hkne_000-*-horizontal.txt`), dialog ditampilkan secara sinematik menyatu langsung dengan scene tanpa boks vertikal (bergaya subtitle melayang):
+> 1. **Dialog (`[message text=...]`)**: Panjang baris maksimal **45 karakter per baris** dan **TIDAK BOLEH LEBIH DARI 2 BARIS**. Jika mencapai 3 baris atau lebih, baris teks akan bertabrakan/bentrok secara visual menimpa teks nama karakter (*nameplate*).
 > 2. **Pilihan Respons (`[choice text=...]`)**: Dibatasi **maksimal 2 baris** dan masing-masing baris **maksimal 18 karakter** (pemotongan baris wajib menggunakan escape literal `\n`).
 
 #### 9.2.1 Tool Inspeksi, Editor & Auto-Wrap Dialog (`scripts/search_dialog.py`)
