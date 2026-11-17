@@ -25,9 +25,9 @@
     },
     {
       "tutorialType": "TutorialType_MoneyReceive",
-      "name": "Uang Saku",
-      "description": "Fitur Uang Saku telah terbuka",
-      "routeDescription": "Periksa dari menu \"Uang Saku\" di Beranda"
+      "name": "Dana Kas",
+      "description": "Fitur Dana Kas telah terbuka",
+      "routeDescription": "Periksa dari menu \"Dana Kas\" di Beranda"
     },
     {
       "tutorialType": "TutorialType_IdolCardLevelLimitRankUpdate",
@@ -82,6 +82,12 @@
       "name": "Tukar Kartu Skill",
       "description": "Fitur \"Tukar Kartu Skill\" telah terbuka",
       "routeDescription": "Tersedia saat sesi Produce"
+    },
+    {
+      "tutorialType": "TutorialType_Refine",
+      "name": "　",
+      "description": "　",
+      "routeDescription": "　"
     }
   ]
 }

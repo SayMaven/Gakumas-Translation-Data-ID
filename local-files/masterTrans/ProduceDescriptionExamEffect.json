@@ -368,6 +368,22 @@
     {
       "type": "ProduceExamEffectType_ExamEffectTimerEndTurn",
       "name": "Reservasi Aktivasi "
+    },
+    {
+      "type": "ProduceExamEffectType_ExamFullPowerPointReduceCancellable",
+      "name": "Pengurangan Poin Full Power "
+    },
+    {
+      "type": "ProduceExamEffectType_ExamMetamorphose",
+      "name": "Metamorphose (Persiapan) "
+    },
+    {
+      "type": "ProduceExamEffectType_ExamMetamorphoseAfter",
+      "name": "Metamorphose (Pementasan) "
+    },
+    {
+      "type": "ProduceExamEffectType_ExamStaminaReduceFixAffected",
+      "name": "Biaya Stamina "
     }
   ]
 }

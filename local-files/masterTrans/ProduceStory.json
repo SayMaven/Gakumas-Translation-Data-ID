@@ -18486,6 +18486,502 @@
       "id": "p_story-s_card-3-0122-03",
       "title": "Idol Selamanya",
       "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-after-audition-final-failure-01",
+      "title": "Dan hasil ujiannya adalah...",
+      "produceEventHintProduceConditionDescriptions": [
+        " Gagal pada ujian final"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-audition-final-normal-01",
+      "title": "Dan hasil ujiannya adalah...",
+      "produceEventHintProduceConditionDescriptions": [
+        " Capai Bond Lv 4 atau lebih tinggi ",
+        " Peringkat 1 pada ujian final "
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-audition-final-normal-02",
+      "title": "Dan hasil ujiannya adalah...",
+      "produceEventHintProduceConditionDescriptions": [
+        " Capai Bond Lv 4 atau lebih tinggi ",
+        " Peringkat 2 pada ujian final"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-audition-final-normal-03",
+      "title": "Dan hasil ujiannya adalah...",
+      "produceEventHintProduceConditionDescriptions": [
+        " Capai Bond Lv 4 atau lebih tinggi ",
+        " Peringkat 3 pada ujian final"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-audition-final-normal-04",
+      "title": "Dan hasil ujiannya adalah...",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-after-audition-mid-failure-01",
+      "title": "Dan hasil ujiannya adalah...",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-after-audition-mid-normal-01",
+      "title": "Dan hasil ujiannya adalah...",
+      "produceEventHintProduceConditionDescriptions": [
+        " Capai Bond Lv 4 atau lebih tinggi ",
+        " Place 1st in the midterm test"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-audition-mid-normal-02",
+      "title": "Dan hasil ujiannya adalah...",
+      "produceEventHintProduceConditionDescriptions": [
+        " Capai Bond Lv 4 atau lebih tinggi ",
+        " Place 2nd in the midterm test"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-audition-mid-normal-03",
+      "title": "Dan hasil ujiannya adalah...",
+      "produceEventHintProduceConditionDescriptions": [
+        " Capai Bond Lv 4 atau lebih tinggi ",
+        " Place 3rd in the midterm test"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-audition-mid-normal-04",
+      "title": "Dan hasil ujiannya adalah...",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-after-step-1-normal-01",
+      "title": "A curious mood",
+      "produceEventHintProduceConditionDescriptions": [
+        " Capai Bond Lv 7 atau lebih tinggi ",
+        " Before the test, ensure all parameters are at 80% or more of evaluation criteria"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-step-1-normal-02",
+      "title": "A curious mood",
+      "produceEventHintProduceConditionDescriptions": [
+        " Capai Bond Lv 4 atau lebih tinggi ",
+        " Before the test, ensure all parameters are at 50% or more of evaluation criteria"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-step-1-normal-03",
+      "title": "A curious mood",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-after-step-2-normal-01",
+      "title": "A curious mood",
+      "produceEventHintProduceConditionDescriptions": [
+        " Capai Bond Lv 7 atau lebih tinggi ",
+        " Before the test, ensure all parameters are at 80% or more of evaluation criteria"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-step-2-normal-02",
+      "title": "A curious mood",
+      "produceEventHintProduceConditionDescriptions": [
+        " Capai Bond Lv 4 atau lebih tinggi ",
+        " Before the test, ensure all parameters are at 50% or more of evaluation criteria"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-step-2-normal-03",
+      "title": "A curious mood",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-before-audition-final-normal-01",
+      "title": "Menuju ujian akhir!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-before-audition-mid-normal-01",
+      "title": "Menuju ujian tengah semester!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-ending-normal-01",
+      "title": "【A End】Melampaui Langkah yang Kupijak",
+      "produceEventHintProduceConditionDescriptions": [
+        " Capai Bond Lv 4 atau lebih tinggi ",
+        " Peringkat 1 pada ujian final "
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-ending-normal-02",
+      "title": "【B End】As an Idol",
+      "produceEventHintProduceConditionDescriptions": [
+        " Capai Bond Lv 4 atau lebih tinggi ",
+        " Peringkat 2 pada ujian final"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-ending-normal-03",
+      "title": "【C End】Kata-kata yang Sangat Ingin Kudengar",
+      "produceEventHintProduceConditionDescriptions": [
+        " Lulus ujian final"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-ending-normal-04",
+      "title": "【D End】The Road I Set Out On",
+      "produceEventHintProduceConditionDescriptions": [
+        " Peringkat 4 atau 5 pada ujian final"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-ending-normal-05",
+      "title": "【E End】A Choice as Her Attendant",
+      "produceEventHintProduceConditionDescriptions": [
+        " Peringkat 6 pada ujian final"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-ending-true-01",
+      "title": "True End",
+      "produceEventHintProduceConditionDescriptions": [
+        "Pass the Final Exam in 1st place",
+        "Earn the achievement [A Maid and an Idol]",
+        "Earn the achievement [By Your Side]",
+        "Earn the achievement [A Flawless Performance]"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-fb-01",
+      "title": "Perjalanan Ribuan Mil Dimulai dari Satu Langkah",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-fb-02",
+      "title": "Bercita-cita Menjadi Idol",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-fb-03",
+      "title": "Bunga yang Mekar Menatap Bintang",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-opening-normal-01",
+      "title": "Production starts!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-opening-normal-02",
+      "title": "Kanae Hiwatari, Siap Bertindak!",
+      "produceEventHintProduceConditionDescriptions": [
+        " Begin production"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-opening-normal-03",
+      "title": "Kanae Hiwatari, Siap Bertindak!",
+      "produceEventHintProduceConditionDescriptions": [
+        " Begin production"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-opening-normal-04",
+      "title": "Kanae Hiwatari, Siap Bertindak!",
+      "produceEventHintProduceConditionDescriptions": [
+        " Capai Bond Lv 4 atau lebih tinggi"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-opening-normal-05",
+      "title": "Kanae Hiwatari, Siap Bertindak!",
+      "produceEventHintProduceConditionDescriptions": [
+        " Capai Bond Lv 4 atau lebih tinggi"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-opening-true-01",
+      "title": "Demi semakin dekat dengan impian",
+      "produceEventHintProduceConditionDescriptions": [
+        "See Kanae’s True End"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-opening-true-02",
+      "title": "Demi semakin dekat dengan impian",
+      "produceEventHintProduceConditionDescriptions": [
+        "See Kanae’s True End"
+      ]
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_001",
+      "title": "Cita Rasa Teh",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_002",
+      "title": "Which Idol Caught Your Eye?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_003",
+      "title": "The Maid Cafe Everyone’s Talking About",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_004",
+      "title": "Apa Menu Makan Malam Hari Ini?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_005",
+      "title": "Buku Jenis Apa Itu?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_006",
+      "title": "An Interrogation over Tea",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_007",
+      "title": "Her Ladyship’s Choice",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_008",
+      "title": "Inilah Pakaiannya!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_009",
+      "title": "Panduan Menikmati Hari Libur",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_010",
+      "title": "The Worry-Song Karaoke Room",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_011",
+      "title": "Kita Berdua, Selalu Bersama",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_012",
+      "title": "Idol dengan Karakter Unik",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_013",
+      "title": "Kebenaran di Balik Pijatan Bahu",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_014",
+      "title": "Tugas Seorang Pelayan",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_015",
+      "title": "A Mandatory Day Off",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_016",
+      "title": "Mari Mulai dengan Mengobrol",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_017-01",
+      "title": "The Legendary Melon Bread",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_017-02",
+      "title": "The Legendary Melon Bread",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_018-01",
+      "title": "Himawatari’s Move",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_018-02",
+      "title": "Himawatari’s Move",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_019",
+      "title": "Piknik untuk Melepas Lelah",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_020",
+      "title": "Mind Your Grooming!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_001",
+      "title": "Insider Knowledge",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_002",
+      "title": "Seberapa Dekat Mereka Berdua?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_003",
+      "title": "Support Is Important!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_004",
+      "title": "Kanae’s Strength",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_005",
+      "title": "When Did You Start Wearing Your Favorite Idol’s Happi Coat?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_006",
+      "title": "Mana yang Sedang On Air?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_007",
+      "title": "What’s an SP?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_008",
+      "title": "One More Time!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_009",
+      "title": "Bath Time Is Important!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_010",
+      "title": "Producing Together",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_011",
+      "title": "Kanae’s Lesson",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hkne-3-000-01",
+      "title": "Metamorphose Ep.1",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hkne-3-000-02",
+      "title": "Metamorphose Ep.2",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hkne-3-000-03",
+      "title": "Metamorphose Ep.3",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-1-0013-01",
+      "title": "Karena Kau Berlari di Sisiku",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-1-0013-02",
+      "title": "Let’s Do Our Best Today, Too♪",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0084-01",
+      "title": "Bersih-bersih Ala China",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0084-02",
+      "title": "Apa Rahasia Menjadi Seorang Pelayan?!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0115-01",
+      "title": "Menantang Burger Raksasa",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0115-02",
+      "title": "Matching Hamburgers",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0115-03",
+      "title": "Is This a Fancy Restaurant?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hkne-001",
+      "title": "Ep.1",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hkne-002",
+      "title": "Ep.2",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hkne-003",
+      "title": "Ep.3",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hkne-004",
+      "title": "Ep.4",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hkne-005",
+      "title": "Ep.5",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hkne-006",
+      "title": "Ep.6",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hkne-007",
+      "title": "Ep.7",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hkne-008",
+      "title": "Ep.8",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hkne-009",
+      "title": "Ep.9",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hkne-010",
+      "title": "Ep.10",
+      "produceEventHintProduceConditionDescriptions": []
     }
   ]
 }

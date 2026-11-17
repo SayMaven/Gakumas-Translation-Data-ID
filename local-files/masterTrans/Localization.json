@@ -412,6 +412,10 @@
     {
       "id": "story.story_event.section.main_story_condition_lock_text",
       "description": "Terbuka dengan memperoleh Pt Misi"
+    },
+    {
+      "id": "producer_ranking.character_detail_sheet.tower_no_layers",
+      "description": "Direncanakan untuk pembaruan mendatang"
     }
   ]
 }

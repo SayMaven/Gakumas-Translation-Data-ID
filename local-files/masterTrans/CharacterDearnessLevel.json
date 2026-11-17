@@ -2410,6 +2410,56 @@
       "characterId": "atbm",
       "dearnessLevel": 37,
       "produceConditionDescription": "Menjadi Prima Stella"
+    },
+    {
+      "characterId": "hkne",
+      "dearnessLevel": 1,
+      "produceConditionDescription": ""
+    },
+    {
+      "characterId": "hkne",
+      "dearnessLevel": 2,
+      "produceConditionDescription": "Selesaikan minimal satu lesson selama Produce"
+    },
+    {
+      "characterId": "hkne",
+      "dearnessLevel": 3,
+      "produceConditionDescription": "Satu minggu setelah lulus ujian tengah semester selama Produce"
+    },
+    {
+      "characterId": "hkne",
+      "dearnessLevel": 4,
+      "produceConditionDescription": "Minggu ke-2 Produce"
+    },
+    {
+      "characterId": "hkne",
+      "dearnessLevel": 5,
+      "produceConditionDescription": "Lulus ujian tengah semester di peringkat 1"
+    },
+    {
+      "characterId": "hkne",
+      "dearnessLevel": 6,
+      "produceConditionDescription": "Tingkatkan Vocal ke 450 atau lebih tinggi selama Produce"
+    },
+    {
+      "characterId": "hkne",
+      "dearnessLevel": 7,
+      "produceConditionDescription": "Dapatkan pencapaian [Penampilan Sempurna]"
+    },
+    {
+      "characterId": "hkne",
+      "dearnessLevel": 8,
+      "produceConditionDescription": "Tingkatkan Visual ke 1000 atau lebih tinggi selama Produce"
+    },
+    {
+      "characterId": "hkne",
+      "dearnessLevel": 9,
+      "produceConditionDescription": "Juara 1 dalam ujian akhir tingkat kesulitan \"Pro\""
+    },
+    {
+      "characterId": "hkne",
+      "dearnessLevel": 10,
+      "produceConditionDescription": "Selesaikan Produce dengan rating A+ dan saksikan True End"
     }
   ]
 }

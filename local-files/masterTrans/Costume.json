@@ -2904,6 +2904,61 @@
       "id": "kcna-cstm-0137",
       "name": "Garakuta Road",
       "description": "【Garakuta Road】Dapatkan dengan mencapai Talent Bloom Tahap 4 Kuramoto China"
+    },
+    {
+      "id": "hkne-cstm-0000",
+      "name": "Hajime",
+      "description": "Dimiliki sejak awal"
+    },
+    {
+      "id": "hkne-cstm-0069",
+      "name": "Celemek Anak",
+      "description": "Beli Celemek Anak (Kanae Hiwatari)"
+    },
+    {
+      "id": "hkne-cstm-0108",
+      "name": "Metamorphose",
+      "description": "【Metamorphose】Dapatkan Kanae Hiwatari"
+    },
+    {
+      "id": "hkne-cstm-0109",
+      "name": "Metamorphose",
+      "description": "【Metamorphose】Dapatkan saat mencapai Rank Bakat Tahap 4 untuk Kanae Hiwatari"
+    },
+    {
+      "id": "hkne-cstm-0111",
+      "name": "Baju Renang Pelaut",
+      "description": "Beli Baju Renang Pelaut (Kanae Hiwatari)"
+    },
+    {
+      "id": "hkne-othr-0002",
+      "name": "Baju Renang Air Panas",
+      "description": "Beli Baju Renang Air Panas (Kanae Hiwatari)"
+    },
+    {
+      "id": "hkne-othr-0004",
+      "name": "Kuramoto Family Maid Outfit",
+      "description": "Dimiliki sejak awal"
+    },
+    {
+      "id": "hkne-schl-0000",
+      "name": "Seragam Akademi Hatsuboshi",
+      "description": "Tingkatkan Level Bond Kanae Hiwatari ke 10"
+    },
+    {
+      "id": "hkne-trng-0000",
+      "name": "Training Wear",
+      "description": "Dimiliki sejak awal"
+    },
+    {
+      "id": "hkne-trng-0001",
+      "name": "Baju Latihan",
+      "description": "Tingkatkan Pencapaian Master Kanae Hiwatari ke Rank 3"
+    },
+    {
+      "id": "hkne-trng-0002",
+      "name": "Baju Senam Akademi Hatsuboshi",
+      "description": "Beli Baju Senam Akademi Hatsuboshi (Kanae Hiwatari)"
     }
   ]
 }

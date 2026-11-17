@@ -200,6 +200,10 @@
     {
       "id": "panel-mission-01",
       "name": "Misi Panel"
+    },
+    {
+      "id": "panel_mission-event-012",
+      "name": "Misi Panel Ayo Kita Semua Menjadi Pelayan!"
     }
   ]
 }

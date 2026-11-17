@@ -10160,6 +10160,441 @@
       "characterId": "atbm",
       "assetId": "sud_vo_system_atbm_selection_result-04",
       "title": "Hasil Produce Kualifikasi (Gagal)"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_cmmn_clothe-01",
+      "title": "Ganti Pakaian"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_birthday-01",
+      "title": "Beranda (Ulang Tahun)"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-01",
+      "title": "Beranda ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-02",
+      "title": "Beranda ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-03",
+      "title": "Beranda ③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-04",
+      "title": "Beranda ④"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-05",
+      "title": "Beranda ⑤"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-06",
+      "title": "Beranda ⑥"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-07",
+      "title": "Beranda ⑦"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-08",
+      "title": "Beranda ⑧"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-09",
+      "title": "Beranda (Bond Lv1〜3) ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-10",
+      "title": "Beranda (Bond Lv1〜3) ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-11",
+      "title": "Beranda (Bond Lv1〜2)"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-12",
+      "title": "Beranda (Bond Lv4〜6)"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-13",
+      "title": "Beranda (Bond Lv6〜7) ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-14",
+      "title": "Beranda (Bond Lv6〜7) ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-15",
+      "title": "Beranda (Bond Lv7〜)"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-16",
+      "title": "Beranda (Bond Lv9〜)"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-17",
+      "title": "Beranda (Bond Lv10〜)"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-18",
+      "title": "Beranda ⑨"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-19",
+      "title": "Beranda ⑩"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-20",
+      "title": "Beranda ⑪"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-21",
+      "title": "Beranda ⑫"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-22",
+      "title": "Beranda ⑬"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-23",
+      "title": "Beranda ⑭"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-24",
+      "title": "Beranda ⑮"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-25",
+      "title": "Beranda ⑯"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_touch-01",
+      "title": "Beranda ⑰"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_touch-02",
+      "title": "Beranda ⑱"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-01",
+      "title": "Beranda (Pagi) ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-02",
+      "title": "Beranda (Pagi) ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-03",
+      "title": "Beranda (Siang) ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-04",
+      "title": "Beranda (Siang) ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-05",
+      "title": "Beranda (Sore) ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-06",
+      "title": "Beranda (Sore) ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-07",
+      "title": "Beranda (Malam) ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-08",
+      "title": "Beranda (Malam) ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-09",
+      "title": "Beranda (Tahun Baru 2025)"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-10",
+      "title": "Beranda (Hari Valentine 2025)"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-11",
+      "title": "Beranda (Halloween 2024)"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-12",
+      "title": "Beranda (Natal 2024)"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-13",
+      "title": "Beranda (Malam Tahun Baru 2024)"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-14",
+      "title": "Beranda (Musim Semi) ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-15",
+      "title": "Beranda (Musim Semi) ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-16",
+      "title": "Beranda (Musim Semi) ③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-17",
+      "title": "Beranda (Musim Panas) ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-18",
+      "title": "Beranda (Musim Panas) ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-19",
+      "title": "Beranda (Musim Panas) ③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-20",
+      "title": "Beranda (Musim Gugur) ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-21",
+      "title": "Beranda (Musim Gugur) ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-22",
+      "title": "Beranda (Musim Gugur) ③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-23",
+      "title": "Beranda (Musim Dingin) ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-24",
+      "title": "Beranda (Musim Dingin) ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-25",
+      "title": "Beranda (Musim Dingin) ③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_idol_potential-01",
+      "title": "Potensi ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_idol_potential-02",
+      "title": "Potensi ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_result-01",
+      "title": "Hasil Produce (True End) ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_result-02",
+      "title": "Hasil Produce (True End) ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_result-03",
+      "title": "Hasil Produce (True End) ③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_result-04",
+      "title": "Hasil Produce (Ending A) ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_result-05",
+      "title": "Hasil Produce (Ending A) ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_result-06",
+      "title": "Hasil Produce (Ending A) ③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_result-07",
+      "title": "Hasil Produce (Ending B〜C) ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_result-08",
+      "title": "Hasil Produce (Ending B〜C) ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-01",
+      "title": "Basis Aktivitas ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-02",
+      "title": "Basis Aktivitas ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-03",
+      "title": "Basis Aktivitas ③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-04",
+      "title": "Basis Aktivitas ④"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-05",
+      "title": "Basis Aktivitas ⑤"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-06",
+      "title": "Basis Aktivitas ⑥"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-07",
+      "title": "Atap Sekolah ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-08",
+      "title": "Atap Sekolah ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-09",
+      "title": "Atap Sekolah ③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-10",
+      "title": "Halaman Dalam ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-11",
+      "title": "Halaman Dalam ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-12",
+      "title": "Halaman Dalam ③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-13",
+      "title": "Ruang Kelas Idol ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-14",
+      "title": "Ruang Kelas Idol ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-15",
+      "title": "Ruang Kelas Idol ③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-16",
+      "title": "Basis Aktivitas ⑦"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-17",
+      "title": "Basis Aktivitas ⑧"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-18",
+      "title": "Ruang Kelas Idol ④"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-19",
+      "title": "Ruang Kelas Idol ⑤"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_work_result-01",
+      "title": "Pekerjaan Sukses"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_work_result-02",
+      "title": "Pekerjaan Selesai Bagus"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_work_start-01",
+      "title": "Mulai Bekerja ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_work_start-02",
+      "title": "Mulai Bekerja ②"
     }
   ]
 }

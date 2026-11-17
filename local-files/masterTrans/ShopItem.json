@@ -1184,6 +1184,78 @@
     {
       "id": "shop_pack_item-0075",
       "name": "Paket Malam 2.5th Anniversary"
+    },
+    {
+      "id": "shop_costume_costume_head_hkne-hair-0001",
+      "name": "Hiasan Rambut Hydrangea (Kanae Hiwatari)"
+    },
+    {
+      "id": "shop_costume_costume_head_hkne-hair-0003",
+      "name": "Kacamata Bulat (Kanae Hiwatari)"
+    },
+    {
+      "id": "shop_costume_costume_head_hkne-hair-0004",
+      "name": "Telinga Kucing (Kanae Hiwatari)"
+    },
+    {
+      "id": "shop_costume_costume_head_hkne-hair-0006",
+      "name": "Aksesori Hatsumi☆ (Kanae Hiwatari)"
+    },
+    {
+      "id": "shop_costume_costume_head_hkne-hair-0007",
+      "name": "Kacamata Teardrop (Kanae Hiwatari)"
+    },
+    {
+      "id": "shop_costume_costume_head_hkne-hair-0008",
+      "name": "Telinga Anjing (Kanae Hiwatari)"
+    },
+    {
+      "id": "shop_costume_costume_head_hkne-hair-0009",
+      "name": "Pita Besar (Kanae Hiwatari)"
+    },
+    {
+      "id": "shop_costume_costume_head_hkne-hair-0023",
+      "name": "Telinga Kelinci (Kanae Hiwatari)"
+    },
+    {
+      "id": "shop_costume_costume_head_hkne-hair-0038",
+      "name": "Kacamata Penyamaran (Kanae Hiwatari)"
+    },
+    {
+      "id": "shop_costume_hkne-cstm-0069",
+      "name": "Celemek Anak (Kanae Hiwatari)"
+    },
+    {
+      "id": "shop_costume_hkne-cstm-0111",
+      "name": "Baju Renang Pelaut (Kanae Hiwatari)"
+    },
+    {
+      "id": "shop_costume_hkne-othr-0002",
+      "name": "Baju Renang Air Panas (Kanae Hiwatari)"
+    },
+    {
+      "id": "shop_costume_hkne-trng-0002",
+      "name": "Baju Senam Akademi Hatsuboshi (Kanae Hiwatari)"
+    },
+    {
+      "id": "shop_jewel_item-0040",
+      "name": "[Penawaran 1 Kali!] 12.300 Jewel"
+    },
+    {
+      "id": "shop_jewel_item-0041",
+      "name": "[Penawaran Spesial 2 Kali!] 6.000 Jewel"
+    },
+    {
+      "id": "shop_pack_hkne-0001",
+      "name": "[Terbatas 72 Jam] Paket Piece Produce Idol (Kanae)"
+    },
+    {
+      "id": "shop_pack_item-0072",
+      "name": "Paket Idol 2.5th Anniversary"
+    },
+    {
+      "id": "shop_pack_item-0073",
+      "name": "Paket Support 2.5th Anniversary"
     }
   ]
 }

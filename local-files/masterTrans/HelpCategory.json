@@ -287,6 +287,27 @@
       "name": "Login Bonus",
       "texts": [],
       "hiddenHelpList": false
+    },
+    {
+      "id": "help-refine",
+      "order": 101,
+      "name": "　",
+      "texts": [],
+      "hiddenHelpList": true
+    },
+    {
+      "id": "help-selectloginbonus",
+      "order": 102,
+      "name": "Bonus Login Pilihan",
+      "texts": [],
+      "hiddenHelpList": true
+    },
+    {
+      "id": "help-unitstoryevent",
+      "order": 103,
+      "name": "　",
+      "texts": [],
+      "hiddenHelpList": true
     }
   ]
 }

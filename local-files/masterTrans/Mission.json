@@ -14356,6 +14356,754 @@
     {
       "id": "achieve-i_card-kcna-3-019-06",
       "name": "【Garakuta Road】Tingkatkan Training Level Kuramoto China ke {threshold}"
+    },
+    {
+      "id": "hidden_mission-normal-produce-clear-i_card-hkne-3-000-b",
+      "name": "Raih rating B bersama SSR Kanae"
+    },
+    {
+      "id": "hidden_mission-view-ending-a-hkne",
+      "name": "Tonton A End bersama Kanae"
+    },
+    {
+      "id": "hidden_mission-view-ending-b-hkne",
+      "name": "Tonton B End bersama Kanae"
+    },
+    {
+      "id": "hidden_mission-view-ending-c-hkne",
+      "name": "Tonton C End bersama Kanae"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-hkne",
+      "name": "Tonton True End bersama Kanae"
+    },
+    {
+      "id": "mission-normal-view-shop_pack_hkne-0001",
+      "name": "Syarat Terbukanya Paket Piece Kanae"
+    },
+    {
+      "id": "panel_mission-event-012-mission_1",
+      "name": "Selesaikan Produce bersama Saki Hanami sebanyak {threshold} kali"
+    },
+    {
+      "id": "panel_mission-event-012-mission_11",
+      "name": "Tukar {threshold} kali di Tempat Penukaran Uang"
+    },
+    {
+      "id": "panel_mission-event-012-mission_12",
+      "name": "Selesaikan Produce bersama Lilja Katsuragi sebanyak {threshold} kali"
+    },
+    {
+      "id": "panel_mission-event-012-mission_13",
+      "name": "Selesaikan Produce bersama Sumika Shiun sebanyak {threshold} kali"
+    },
+    {
+      "id": "panel_mission-event-012-mission_14",
+      "name": "Selesaikan Produce bersama Tsubame Amaya sebanyak {threshold} kali"
+    },
+    {
+      "id": "panel_mission-event-012-mission_15",
+      "name": "Selesaikan Produce bersama Sena Juo sebanyak {threshold} kali"
+    },
+    {
+      "id": "panel_mission-event-012-mission_16",
+      "name": "Selesaikan Produce bersama Misuzu Hataya sebanyak {threshold} kali"
+    },
+    {
+      "id": "panel_mission-event-012-mission_17",
+      "name": "Ikuti kontes sebanyak {threshold} kali"
+    },
+    {
+      "id": "panel_mission-event-012-mission_18",
+      "name": "Selesaikan Produce bersama Mao Arimura sebanyak {threshold} kali"
+    },
+    {
+      "id": "panel_mission-event-012-mission_19",
+      "name": "Selesaikan Produce bersama Rinami Himesaki sebanyak {threshold} kali"
+    },
+    {
+      "id": "panel_mission-event-012-mission_2",
+      "name": "Selesaikan Produce bersama Temari Tsukimura sebanyak {threshold} kali"
+    },
+    {
+      "id": "panel_mission-event-012-mission_3",
+      "name": "Selesaikan Produce bersama Kotone Fujita sebanyak {threshold} kali"
+    },
+    {
+      "id": "panel_mission-event-012-mission_4",
+      "name": "Collect money"
+    },
+    {
+      "id": "panel_mission-event-012-mission_5",
+      "name": "Selesaikan Produce bersama Kanae Hiwatari sebanyak {threshold} kali"
+    },
+    {
+      "id": "panel_mission-event-012-mission_6",
+      "name": "Start {threshold} jobs"
+    },
+    {
+      "id": "panel_mission-event-012-mission_7",
+      "name": "Selesaikan Produce bersama Ume Hanami sebanyak {threshold} kali"
+    },
+    {
+      "id": "panel_mission-event-012-mission_8",
+      "name": "Selesaikan Produce bersama China Kuramoto sebanyak {threshold} kali"
+    },
+    {
+      "id": "panel_mission-event-012-mission_9",
+      "name": "Selesaikan Produce bersama Hiro Shinosawa sebanyak {threshold} kali"
+    },
+    {
+      "id": "achieve-i_card-hkne-2-000-01",
+      "name": "【Taking it One Step at a Time】Lulus Ujian Final saat mem-produce Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-i_card-hkne-2-000-02",
+      "name": "【Taking it One Step at a Time】Tingkatkan Tahap Latihan Kanae Hiwatari ke {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hkne-2-000-03",
+      "name": "【Taking it One Step at a Time】Raih Penilaian A+ atau lebih tinggi {threshold} kali saat mem-produce Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-i_card-hkne-2-000-04",
+      "name": "【Taking it One Step at a Time】Tingkatkan Tahap Latihan Kanae Hiwatari ke {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hkne-2-000-05",
+      "name": "【Taking it One Step at a Time】Tingkatkan Tahap Latihan Kanae Hiwatari ke {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hkne-2-000-06",
+      "name": "【Taking it One Step at a Time】Tingkatkan Tahap Latihan Kanae Hiwatari ke {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hkne-3-000-01",
+      "name": "【Metamorphose】Lulus Ujian Final saat mem-produce Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-i_card-hkne-3-000-02",
+      "name": "【Metamorphose】Tingkatkan Tahap Latihan Kanae Hiwatari ke {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hkne-3-000-03",
+      "name": "【Metamorphose】Raih Penilaian A+ atau lebih tinggi {threshold} kali saat mem-produce Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-i_card-hkne-3-000-04",
+      "name": "【Metamorphose】Tingkatkan Tahap Latihan Kanae Hiwatari ke {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hkne-3-000-05",
+      "name": "【Metamorphose】Tingkatkan Tahap Latihan Kanae Hiwatari ke {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hkne-3-000-06",
+      "name": "【Metamorphose】Tingkatkan Tahap Latihan Kanae Hiwatari ke {threshold}"
+    },
+    {
+      "id": "achieve-m_hkne-001",
+      "name": "Raih {threshold} bintang di Pencapaian Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-amao-030",
+      "name": "Dapatkan total {threshold} kostum untuk Mao Arimura"
+    },
+    {
+      "id": "achieve-p_idol-amao-031",
+      "name": "Dapatkan total {threshold} gaya rambut untuk Mao Arimura"
+    },
+    {
+      "id": "achieve-p_idol-amao-033",
+      "name": "Buka total {threshold} lagu untuk Mao Arimura"
+    },
+    {
+      "id": "achieve-p_idol-amao-034",
+      "name": "Masuk peringkat 2.000 teratas di Ranking Producer Mao Arimura selama {threshold} musim"
+    },
+    {
+      "id": "achieve-p_idol-amao-035",
+      "name": "Dapatkan total {threshold} Produce Idol untuk Mao Arimura"
+    },
+    {
+      "id": "achieve-p_idol-amao-036",
+      "name": "Tonton {threshold} True Live berbeda untuk Mao Arimura"
+    },
+    {
+      "id": "achieve-p_idol-amao-037",
+      "name": "Bekerja selama total {threshold} jam bersama Mao Arimura"
+    },
+    {
+      "id": "achieve-p_idol-amao-038",
+      "name": "Ambil {threshold} foto Mao Arimura"
+    },
+    {
+      "id": "achieve-p_idol-amao-039",
+      "name": "Ikuti Kontes sebanyak {threshold} kali bersama Mao Arimura"
+    },
+    {
+      "id": "achieve-p_idol-atbm-030",
+      "name": "Dapatkan total {threshold} kostum untuk Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-031",
+      "name": "Dapatkan total {threshold} gaya rambut untuk Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-033",
+      "name": "Buka total {threshold} lagu untuk Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-034",
+      "name": "Masuk peringkat 2.000 teratas di Ranking Producer Tsubame Amaya selama {threshold} musim"
+    },
+    {
+      "id": "achieve-p_idol-atbm-035",
+      "name": "Dapatkan total {threshold} Produce Idol untuk Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-036",
+      "name": "Tonton {threshold} True Live berbeda untuk Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-037",
+      "name": "Bekerja selama total {threshold} jam bersama Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-038",
+      "name": "Ambil {threshold} foto Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-039",
+      "name": "Ikuti Kontes sebanyak {threshold} kali bersama Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-fktn-030",
+      "name": "Dapatkan total {threshold} kostum untuk Kotone Fujita"
+    },
+    {
+      "id": "achieve-p_idol-fktn-031",
+      "name": "Dapatkan total {threshold} gaya rambut untuk Kotone Fujita"
+    },
+    {
+      "id": "achieve-p_idol-fktn-033",
+      "name": "Buka total {threshold} lagu untuk Kotone Fujita"
+    },
+    {
+      "id": "achieve-p_idol-fktn-034",
+      "name": "Masuk peringkat 2.000 teratas di Ranking Producer Kotone Fujita selama {threshold} musim"
+    },
+    {
+      "id": "achieve-p_idol-fktn-035",
+      "name": "Dapatkan total {threshold} Produce Idol untuk Kotone Fujita"
+    },
+    {
+      "id": "achieve-p_idol-fktn-036",
+      "name": "Tonton {threshold} True Live berbeda untuk Kotone Fujita"
+    },
+    {
+      "id": "achieve-p_idol-fktn-037",
+      "name": "Bekerja selama total {threshold} jam bersama Kotone Fujita"
+    },
+    {
+      "id": "achieve-p_idol-fktn-038",
+      "name": "Ambil {threshold} foto Kotone Fujita"
+    },
+    {
+      "id": "achieve-p_idol-fktn-039",
+      "name": "Ikuti Kontes sebanyak {threshold} kali bersama Kotone Fujita"
+    },
+    {
+      "id": "achieve-p_idol-hkne-000",
+      "name": "See Kanae Hiwatari’s True End"
+    },
+    {
+      "id": "achieve-p_idol-hkne-001",
+      "name": "Use skill cards {threshold} times while producing Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-002",
+      "name": "Selesaikan Lesson {threshold} kali bersama Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-003",
+      "name": "Selesaikan SP Lesson {threshold} kali bersama Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-004",
+      "name": "Lulus Ujian Final dengan penilaian B atau lebih tinggi {threshold} kali bersama Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-005",
+      "name": "Lulus Ujian Final dengan penilaian A atau lebih tinggi {threshold} kali bersama Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-006",
+      "name": "Lulus Ujian Final dengan penilaian S atau lebih tinggi {threshold} kali bersama Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-007",
+      "name": "Selesaikan Produce bersama Kanae Hiwatari sebanyak {threshold} kali"
+    },
+    {
+      "id": "achieve-p_idol-hkne-008",
+      "name": "Tingkatkan Tahap Latihan Kanae Hiwatari ke {threshold}"
+    },
+    {
+      "id": "achieve-p_idol-hkne-009",
+      "name": "Lulus Ujian Final {threshold} kali saat mem-produce Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-010",
+      "name": "Dapatkan {threshold} penggemar untuk Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-011",
+      "name": "Tingkatkan Level Bond Kanae Hiwatari ke {threshold}"
+    },
+    {
+      "id": "achieve-p_idol-hkne-012",
+      "name": "Raih total Penilaian Produce {threshold} bersama Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-013",
+      "name": "Upgrade skill cards {threshold} times while producing Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-014",
+      "name": "Selesaikan Produce bersama Kanae Hiwatari setelah meningkatkan Visual ke minimal 1.000"
+    },
+    {
+      "id": "achieve-p_idol-hkne-015",
+      "name": "Dapatkan {threshold}★ di 【The Idol Road】"
+    },
+    {
+      "id": "achieve-p_idol-hkne-016",
+      "name": "Lulus Ujian Final dengan penilaian S+ atau lebih tinggi {threshold} kali bersama Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-017",
+      "name": "Raih peringkat ke-1 pada Ujian Final tingkat kesulitan Master di Pementasan Reguler \"Hajime\" Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-018",
+      "name": "Pilih Konsultasi SP {threshold} kali saat Produce"
+    },
+    {
+      "id": "achieve-p_idol-hkne-020",
+      "name": "Lulus Ujian Final dengan penilaian SS atau lebih tinggi {threshold} kali bersama Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-021",
+      "name": "Lulus Ujian Final dengan penilaian SS+ atau lebih tinggi {threshold} kali bersama Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-023",
+      "name": "Lulus Ujian Final dengan penilaian SSS atau lebih tinggi {threshold} kali bersama Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-024",
+      "name": "Lulus Ujian Final dengan penilaian SSS+ atau lebih tinggi {threshold} kali bersama Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-027",
+      "name": "Lulus Ujian Final dengan penilaian S4 atau lebih tinggi {threshold} kali bersama Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-030",
+      "name": "Dapatkan total {threshold} kostum untuk Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-031",
+      "name": "Dapatkan total {threshold} gaya rambut untuk Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-033",
+      "name": "Buka total {threshold} lagu untuk Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-034",
+      "name": "Masuk peringkat 2.000 teratas di Ranking Producer Kanae Hiwatari selama {threshold} musim"
+    },
+    {
+      "id": "achieve-p_idol-hkne-035",
+      "name": "Dapatkan total {threshold} Produce Idol untuk Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-036",
+      "name": "Tonton {threshold} True Live berbeda untuk Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-037",
+      "name": "Bekerja selama total {threshold} jam bersama Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-038",
+      "name": "Ambil {threshold} foto Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-039",
+      "name": "Ikuti Kontes sebanyak {threshold} kali bersama Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-030",
+      "name": "Dapatkan total {threshold} kostum untuk Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-031",
+      "name": "Dapatkan total {threshold} gaya rambut untuk Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-033",
+      "name": "Buka total {threshold} lagu untuk Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-034",
+      "name": "Masuk peringkat 2.000 teratas di Ranking Producer Misuzu Hataya selama {threshold} musim"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-035",
+      "name": "Dapatkan total {threshold} Produce Idol untuk Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-036",
+      "name": "Tonton {threshold} True Live berbeda untuk Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-037",
+      "name": "Bekerja selama total {threshold} jam bersama Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-038",
+      "name": "Ambil {threshold} foto Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-039",
+      "name": "Ikuti Kontes sebanyak {threshold} kali bersama Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-030",
+      "name": "Dapatkan total {threshold} kostum untuk Rinami Himesaki"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-031",
+      "name": "Dapatkan total {threshold} gaya rambut untuk Rinami Himesaki"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-033",
+      "name": "Buka total {threshold} lagu untuk Rinami Himesaki"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-034",
+      "name": "Masuk peringkat 2.000 teratas di Ranking Producer Rinami Himesaki selama {threshold} musim"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-035",
+      "name": "Dapatkan total {threshold} Produce Idol untuk Rinami Himesaki"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-036",
+      "name": "Tonton {threshold} True Live berbeda untuk Rinami Himesaki"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-037",
+      "name": "Bekerja selama total {threshold} jam bersama Rinami Himesaki"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-038",
+      "name": "Ambil {threshold} foto Rinami Himesaki"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-039",
+      "name": "Ikuti Kontes sebanyak {threshold} kali bersama Rinami Himesaki"
+    },
+    {
+      "id": "achieve-p_idol-hski-030",
+      "name": "Dapatkan total {threshold} kostum untuk Saki Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hski-031",
+      "name": "Dapatkan total {threshold} gaya rambut untuk Saki Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hski-033",
+      "name": "Buka total {threshold} lagu untuk Saki Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hski-034",
+      "name": "Masuk peringkat 2.000 teratas di Ranking Producer Saki Hanami selama {threshold} musim"
+    },
+    {
+      "id": "achieve-p_idol-hski-035",
+      "name": "Dapatkan total {threshold} Produce Idol untuk Saki Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hski-036",
+      "name": "Tonton {threshold} True Live berbeda untuk Saki Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hski-037",
+      "name": "Bekerja selama total {threshold} jam bersama Saki Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hski-038",
+      "name": "Ambil {threshold} foto Saki Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hski-039",
+      "name": "Ikuti Kontes sebanyak {threshold} kali bersama Saki Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hume-030",
+      "name": "Dapatkan total {threshold} kostum untuk Ume Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hume-031",
+      "name": "Dapatkan total {threshold} gaya rambut untuk Ume Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hume-033",
+      "name": "Buka total {threshold} lagu untuk Ume Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hume-034",
+      "name": "Masuk peringkat 2.000 teratas di Ranking Producer Ume Hanami selama {threshold} musim"
+    },
+    {
+      "id": "achieve-p_idol-hume-035",
+      "name": "Dapatkan total {threshold} Produce Idol untuk Ume Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hume-036",
+      "name": "Tonton {threshold} True Live berbeda untuk Ume Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hume-037",
+      "name": "Bekerja selama total {threshold} jam bersama Ume Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hume-038",
+      "name": "Ambil {threshold} foto Ume Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hume-039",
+      "name": "Ikuti Kontes sebanyak {threshold} kali bersama Ume Hanami"
+    },
+    {
+      "id": "achieve-p_idol-jsna-030",
+      "name": "Dapatkan total {threshold} kostum untuk Sena Juo"
+    },
+    {
+      "id": "achieve-p_idol-jsna-031",
+      "name": "Dapatkan total {threshold} gaya rambut untuk Sena Juo"
+    },
+    {
+      "id": "achieve-p_idol-jsna-033",
+      "name": "Buka total {threshold} lagu untuk Sena Juo"
+    },
+    {
+      "id": "achieve-p_idol-jsna-034",
+      "name": "Masuk peringkat 2.000 teratas di Ranking Producer Sena Juo selama {threshold} musim"
+    },
+    {
+      "id": "achieve-p_idol-jsna-035",
+      "name": "Dapatkan total {threshold} Produce Idol untuk Sena Juo"
+    },
+    {
+      "id": "achieve-p_idol-jsna-036",
+      "name": "Tonton {threshold} True Live berbeda untuk Sena Juo"
+    },
+    {
+      "id": "achieve-p_idol-jsna-037",
+      "name": "Bekerja selama total {threshold} jam bersama Sena Juo"
+    },
+    {
+      "id": "achieve-p_idol-jsna-038",
+      "name": "Ambil {threshold} foto Sena Juo"
+    },
+    {
+      "id": "achieve-p_idol-jsna-039",
+      "name": "Ikuti Kontes sebanyak {threshold} kali bersama Sena Juo"
+    },
+    {
+      "id": "achieve-p_idol-kcna-030",
+      "name": "Dapatkan total {threshold} kostum untuk China Kuramoto"
+    },
+    {
+      "id": "achieve-p_idol-kcna-031",
+      "name": "Dapatkan total {threshold} gaya rambut untuk China Kuramoto"
+    },
+    {
+      "id": "achieve-p_idol-kcna-033",
+      "name": "Buka total {threshold} lagu untuk China Kuramoto"
+    },
+    {
+      "id": "achieve-p_idol-kcna-034",
+      "name": "Masuk peringkat 2.000 teratas di Ranking Producer China Kuramoto selama {threshold} musim"
+    },
+    {
+      "id": "achieve-p_idol-kcna-035",
+      "name": "Dapatkan total {threshold} Produce Idol untuk China Kuramoto"
+    },
+    {
+      "id": "achieve-p_idol-kcna-036",
+      "name": "Tonton {threshold} True Live berbeda untuk China Kuramoto"
+    },
+    {
+      "id": "achieve-p_idol-kcna-037",
+      "name": "Bekerja selama total {threshold} jam bersama China Kuramoto"
+    },
+    {
+      "id": "achieve-p_idol-kcna-038",
+      "name": "Ambil {threshold} foto China Kuramoto"
+    },
+    {
+      "id": "achieve-p_idol-kcna-039",
+      "name": "Ikuti Kontes sebanyak {threshold} kali bersama China Kuramoto"
+    },
+    {
+      "id": "achieve-p_idol-kllj-030",
+      "name": "Dapatkan total {threshold} kostum untuk Lilja Katsuragi"
+    },
+    {
+      "id": "achieve-p_idol-kllj-031",
+      "name": "Dapatkan total {threshold} gaya rambut untuk Lilja Katsuragi"
+    },
+    {
+      "id": "achieve-p_idol-kllj-033",
+      "name": "Buka total {threshold} lagu untuk Lilja Katsuragi"
+    },
+    {
+      "id": "achieve-p_idol-kllj-034",
+      "name": "Masuk peringkat 2.000 teratas di Ranking Producer Lilja Katsuragi selama {threshold} musim"
+    },
+    {
+      "id": "achieve-p_idol-kllj-035",
+      "name": "Dapatkan total {threshold} Produce Idol untuk Lilja Katsuragi"
+    },
+    {
+      "id": "achieve-p_idol-kllj-036",
+      "name": "Tonton {threshold} True Live berbeda untuk Lilja Katsuragi"
+    },
+    {
+      "id": "achieve-p_idol-kllj-037",
+      "name": "Bekerja selama total {threshold} jam bersama Lilja Katsuragi"
+    },
+    {
+      "id": "achieve-p_idol-kllj-038",
+      "name": "Ambil {threshold} foto Lilja Katsuragi"
+    },
+    {
+      "id": "achieve-p_idol-kllj-039",
+      "name": "Ikuti Kontes sebanyak {threshold} kali bersama Lilja Katsuragi"
+    },
+    {
+      "id": "achieve-p_idol-shro-030",
+      "name": "Dapatkan total {threshold} kostum untuk Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-p_idol-shro-031",
+      "name": "Dapatkan total {threshold} gaya rambut untuk Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-p_idol-shro-033",
+      "name": "Buka total {threshold} lagu untuk Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-p_idol-shro-034",
+      "name": "Masuk peringkat 2.000 teratas di Ranking Producer Hiro Shinosawa selama {threshold} musim"
+    },
+    {
+      "id": "achieve-p_idol-shro-035",
+      "name": "Dapatkan total {threshold} Produce Idol untuk Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-p_idol-shro-036",
+      "name": "Tonton {threshold} True Live berbeda untuk Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-p_idol-shro-037",
+      "name": "Bekerja selama total {threshold} jam bersama Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-p_idol-shro-038",
+      "name": "Ambil {threshold} foto Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-p_idol-shro-039",
+      "name": "Ikuti Kontes sebanyak {threshold} kali bersama Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-030",
+      "name": "Dapatkan total {threshold} kostum untuk Sumika Shiun"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-031",
+      "name": "Dapatkan total {threshold} gaya rambut untuk Sumika Shiun"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-033",
+      "name": "Buka total {threshold} lagu untuk Sumika Shiun"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-034",
+      "name": "Masuk peringkat 2.000 teratas di Ranking Producer Sumika Shiun selama {threshold} musim"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-035",
+      "name": "Dapatkan total {threshold} Produce Idol untuk Sumika Shiun"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-036",
+      "name": "Tonton {threshold} True Live berbeda untuk Sumika Shiun"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-037",
+      "name": "Bekerja selama total {threshold} jam bersama Sumika Shiun"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-038",
+      "name": "Ambil {threshold} foto Sumika Shiun"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-039",
+      "name": "Ikuti Kontes sebanyak {threshold} kali bersama Sumika Shiun"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-030",
+      "name": "Dapatkan total {threshold} kostum untuk Temari Tsukimura"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-031",
+      "name": "Dapatkan total {threshold} gaya rambut untuk Temari Tsukimura"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-033",
+      "name": "Buka total {threshold} lagu untuk Temari Tsukimura"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-034",
+      "name": "Masuk peringkat 2.000 teratas di Ranking Producer Temari Tsukimura selama {threshold} musim"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-035",
+      "name": "Dapatkan total {threshold} Produce Idol untuk Temari Tsukimura"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-036",
+      "name": "Tonton {threshold} True Live berbeda untuk Temari Tsukimura"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-037",
+      "name": "Bekerja selama total {threshold} jam bersama Temari Tsukimura"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-038",
+      "name": "Ambil {threshold} foto Temari Tsukimura"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-039",
+      "name": "Ikuti Kontes sebanyak {threshold} kali bersama Temari Tsukimura"
     }
   ]
 }

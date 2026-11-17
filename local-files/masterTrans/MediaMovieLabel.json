@@ -1,0 +1,21 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "mediaMovieType"
+    ]
+  },
+  "data": [
+    {
+      "mediaMovieType": "MediaMovieType_Movie",
+      "name": "Film"
+    },
+    {
+      "mediaMovieType": "MediaMovieType_Birthday",
+      "name": "Ulang Tahun"
+    },
+    {
+      "mediaMovieType": "MediaMovieType_Story",
+      "name": "Cerita"
+    }
+  ]
+}

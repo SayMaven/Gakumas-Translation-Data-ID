@@ -290,6 +290,16 @@
       "missionPanelSheetGroupId": "panel-mission-01",
       "number": 2,
       "name": "Ke-2"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-012",
+      "number": 1,
+      "name": "Ke-1"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-012",
+      "number": 2,
+      "name": "Ke-2"
     }
   ]
 }

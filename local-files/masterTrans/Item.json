@@ -2296,6 +2296,66 @@
       "name": "Tiket Seleksi 2.5th Anniversary",
       "description": "Tiket yang dapat ditukarkan dengan Produce Idol dan Support Card di toko tiket",
       "acquisitionRouteDescription": "Shop, dll."
+    },
+    {
+      "id": "item-exchange-campaign-medal-2026kne-001",
+      "name": "Tiket Penukaran Kampanye Debut Kanae Hiwatari & 2.5th Anniversary",
+      "description": "Item yang dapat ditukarkan dengan berbagai hadiah di toko event",
+      "acquisitionRouteDescription": "Produce"
+    },
+    {
+      "id": "item-gacha-ticket-2.5th-anniv-ssr-idolcard",
+      "name": "Tiket Gacha Jaminan SSR Produce Idol (Termasuk Musim 2.5th Anniv)",
+      "description": "Tiket Gacha Jaminan SSR Produce Idol termasuk Idol Terbatas Musim 2.5th Anniversary",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gacha-ticket-2.5th-anniv-ssr-supportcard",
+      "name": "Tiket Gacha Jaminan SSR Support Card (Termasuk Musim 2.5th Anniv)",
+      "description": "Tiket Gacha Jaminan SSR Support Card termasuk Kartu Terbatas Musim 2.5th Anniversary",
+      "acquisitionRouteDescription": "Tukar Event"
+    },
+    {
+      "id": "item-gachaticket-2.5th-anniv-10-001",
+      "name": "Tiket Gacha 10 Tarikan 2.5th Anniversary",
+      "description": "Tiket untuk Gacha 10 Tarikan 2.5th Anniversary",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-new-wednesday-26-1118-1",
+      "name": "Tiket Gacha Rabu Gakumas",
+      "description": "Tiket yang digunakan dalam Gacha Rabu Gakumas",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-piece-idol_hkne-1-000",
+      "name": "Piece Kanae Hiwatari [School Life]",
+      "description": "Item yang digunakan untuk membuka potensi dan Rank Bakat Produce Idol",
+      "acquisitionRouteDescription": "Gacha, dll."
+    },
+    {
+      "id": "item-piece-idol_hkne-2-000",
+      "name": "Piece Kanae Hiwatari [Taking it One Step at a Time]",
+      "description": "Item yang digunakan untuk membuka potensi dan Rank Bakat Produce Idol",
+      "acquisitionRouteDescription": "Gacha, dll."
+    },
+    {
+      "id": "item-piece-idol_hkne-3-000",
+      "name": "Piece Kanae Hiwatari [Metamorphose]",
+      "description": "Item yang digunakan untuk membuka potensi dan Rank Bakat Produce Idol",
+      "acquisitionRouteDescription": "Gacha, dll."
+    },
+    {
+      "id": "item-selectgashaticket-gasha-01070-ticket-001",
+      "name": "Tiket Gacha 2 Tarikan Jaminan 2 SSR Produce Idol!",
+      "description": "Tiket untuk Gacha 2 Tarikan yang menjamin 2 SSR Produce Idol",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-selectgashaticket-gasha-01070-ticket-002",
+      "name": "Tiket Gacha 10 Tarikan Peluang SSR Produce Idol 10×!",
+      "description": "Tiket untuk Gacha 10 Tarikan dengan peluang kemunculan SSR Produce Idol 10×",
+      "acquisitionRouteDescription": ""
     }
   ]
 }

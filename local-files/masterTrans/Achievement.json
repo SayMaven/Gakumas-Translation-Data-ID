@@ -6349,6 +6349,821 @@
       "id": "achieve-i_card-kcna-3-019-06",
       "name": "Garakuta Road +++",
       "description": "【Garakuta Road】Tingkatkan Training Level Kuramoto China ke {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hkne-2-000-01",
+      "name": "Kesetiaan di Lubuk Hati",
+      "description": "【Taking it One Step at a Time】Lulus Ujian Final saat mem-produce Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-i_card-hkne-2-000-02",
+      "name": "Taking it One Step at a Time",
+      "description": "【Taking it One Step at a Time】Tingkatkan Tahap Latihan Kanae Hiwatari ke {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hkne-2-000-03",
+      "name": "Kelak, Kita Akan Melihat Pemandangan yang Sama",
+      "description": "【Taking it One Step at a Time】Raih Penilaian A+ atau lebih tinggi {threshold} kali saat mem-produce Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-i_card-hkne-2-000-04",
+      "name": "Taking it One Step at a Time+",
+      "description": "【Taking it One Step at a Time】Tingkatkan Tahap Latihan Kanae Hiwatari ke {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hkne-2-000-05",
+      "name": "Taking it One Step at a Time++",
+      "description": "【Taking it One Step at a Time】Tingkatkan Tahap Latihan Kanae Hiwatari ke {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hkne-2-000-06",
+      "name": "Taking it One Step at a Time+++",
+      "description": "【Taking it One Step at a Time】Tingkatkan Tahap Latihan Kanae Hiwatari ke {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hkne-3-000-01",
+      "name": "Dalam Cahaya Lembut",
+      "description": "【Metamorphose】Lulus Ujian Final saat mem-produce Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-i_card-hkne-3-000-02",
+      "name": "Metamorphose",
+      "description": "【Metamorphose】Tingkatkan Tahap Latihan Kanae Hiwatari ke {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hkne-3-000-03",
+      "name": "A New Me as an Idol",
+      "description": "【Metamorphose】Raih Penilaian A+ atau lebih tinggi {threshold} kali saat mem-produce Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-i_card-hkne-3-000-04",
+      "name": "Metamorphose+",
+      "description": "【Metamorphose】Tingkatkan Tahap Latihan Kanae Hiwatari ke {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hkne-3-000-05",
+      "name": "Metamorphose++",
+      "description": "【Metamorphose】Tingkatkan Tahap Latihan Kanae Hiwatari ke {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hkne-3-000-06",
+      "name": "Metamorphose+++",
+      "description": "【Metamorphose】Tingkatkan Tahap Latihan Kanae Hiwatari ke {threshold}"
+    },
+    {
+      "id": "achieve-m_hkne-001",
+      "name": "Pencapaian Master",
+      "description": "Dapatkan {threshold} bintang dalam Pencapaian Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-amao-030",
+      "name": "Kostum agar Mao Lebih Bersinar",
+      "description": "Dapatkan total {threshold} kostum untuk Mao Arimura"
+    },
+    {
+      "id": "achieve-p_idol-amao-031",
+      "name": "Gaya Rambut Penunjang Penampilan Mao",
+      "description": "Dapatkan total {threshold} gaya rambut untuk Mao Arimura"
+    },
+    {
+      "id": "achieve-p_idol-amao-033",
+      "name": "A Song That’s So Me",
+      "description": "Buka total {threshold} lagu untuk Mao Arimura"
+    },
+    {
+      "id": "achieve-p_idol-amao-034",
+      "name": "There’s Only One Place I’m Aiming For",
+      "description": "Masuk peringkat 2.000 teratas di Ranking Producer Mao Arimura selama {threshold} musim"
+    },
+    {
+      "id": "achieve-p_idol-amao-035",
+      "name": "Imut dan Keren",
+      "description": "Dapatkan total {threshold} Produce Idol untuk Mao Arimura"
+    },
+    {
+      "id": "achieve-p_idol-amao-036",
+      "name": "A Prince’s Stage",
+      "description": "Tonton {threshold} True Live berbeda untuk Mao Arimura"
+    },
+    {
+      "id": "achieve-p_idol-amao-037",
+      "name": "Watch Me Do My Job",
+      "description": "Bekerja selama total {threshold} jam bersama Mao Arimura"
+    },
+    {
+      "id": "achieve-p_idol-amao-038",
+      "name": "Mao Lewat Jendela Bidik",
+      "description": "Ambil {threshold} foto Mao Arimura"
+    },
+    {
+      "id": "achieve-p_idol-amao-039",
+      "name": "Berdiri di Atas Panggung yang Tak Terhitung",
+      "description": "Ikuti Kontes sebanyak {threshold} kali bersama Mao Arimura"
+    },
+    {
+      "id": "achieve-p_idol-atbm-030",
+      "name": "Kostum agar Tsubame Lebih Bersinar",
+      "description": "Dapatkan total {threshold} kostum untuk Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-031",
+      "name": "Gaya Rambut Penunjang Penampilan Tsubame",
+      "description": "Dapatkan total {threshold} gaya rambut untuk Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-033",
+      "name": "Lagu yang Penuh Perasaan",
+      "description": "Buka total {threshold} lagu untuk Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-034",
+      "name": "Aku Takkan Menyerahkan Posisi Teratas",
+      "description": "Masuk peringkat 2.000 teratas di Ranking Producer Tsubame Amaya selama {threshold} musim"
+    },
+    {
+      "id": "achieve-p_idol-atbm-035",
+      "name": "Caraku Menjadi Diri Sendiri",
+      "description": "Dapatkan total {threshold} Produce Idol untuk Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-036",
+      "name": "The Ideal Made Real",
+      "description": "Tonton {threshold} True Live berbeda untuk Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-037",
+      "name": "I’ll Handle Any Job",
+      "description": "Bekerja selama total {threshold} jam bersama Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-038",
+      "name": "Tsubame Lewat Jendela Bidik",
+      "description": "Ambil {threshold} foto Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-039",
+      "name": "Forged Through a Thousand Trials",
+      "description": "Ikuti Kontes sebanyak {threshold} kali bersama Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-fktn-030",
+      "name": "Kostum agar Kotone Lebih Bersinar",
+      "description": "Dapatkan total {threshold} kostum untuk Kotone Fujita"
+    },
+    {
+      "id": "achieve-p_idol-fktn-031",
+      "name": "Gaya Rambut Penunjang Penampilan Kotone",
+      "description": "Dapatkan total {threshold} gaya rambut untuk Kotone Fujita"
+    },
+    {
+      "id": "achieve-p_idol-fktn-033",
+      "name": "Lagu Khusus untukku",
+      "description": "Buka total {threshold} lagu untuk Kotone Fujita"
+    },
+    {
+      "id": "achieve-p_idol-fktn-034",
+      "name": "The Praise Is All Mine♡",
+      "description": "Masuk peringkat 2.000 teratas di Ranking Producer Kotone Fujita selama {threshold} musim"
+    },
+    {
+      "id": "achieve-p_idol-fktn-035",
+      "name": "Keimutan Itu Tak Terbatas",
+      "description": "Dapatkan total {threshold} Produce Idol untuk Kotone Fujita"
+    },
+    {
+      "id": "achieve-p_idol-fktn-036",
+      "name": "Begitu Banyak yang Kucintai",
+      "description": "Tonton {threshold} True Live berbeda untuk Kotone Fujita"
+    },
+    {
+      "id": "achieve-p_idol-fktn-037",
+      "name": "I Just Love Work♡",
+      "description": "Bekerja selama total {threshold} jam bersama Kotone Fujita"
+    },
+    {
+      "id": "achieve-p_idol-fktn-038",
+      "name": "Kotone Lewat Jendela Bidik",
+      "description": "Ambil {threshold} foto Kotone Fujita"
+    },
+    {
+      "id": "achieve-p_idol-fktn-039",
+      "name": "Cute Whether I Win or Lose!",
+      "description": "Ikuti Kontes sebanyak {threshold} kali bersama Kotone Fujita"
+    },
+    {
+      "id": "achieve-p_idol-hkne-000",
+      "name": "Two Dreams",
+      "description": "See Kanae Hiwatari’s True End"
+    },
+    {
+      "id": "achieve-p_idol-hkne-001",
+      "name": "Arti Menjadi Seorang Idol",
+      "description": "Use skill cards {threshold} times while producing Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-002",
+      "name": "A Flawless Performance",
+      "description": "Selesaikan Lesson {threshold} kali bersama Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-003",
+      "name": "Moves That Mesmerize",
+      "description": "Selesaikan SP Lesson {threshold} kali bersama Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-004",
+      "name": "Segalanya demi Nona",
+      "description": "Lulus Ujian Final dengan penilaian B atau lebih tinggi {threshold} kali bersama Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-005",
+      "name": "Diriku di Bawah Sorotan Lampu",
+      "description": "Lulus Ujian Final dengan penilaian A atau lebih tinggi {threshold} kali bersama Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-006",
+      "name": "Awal dari Perjalanan Baru",
+      "description": "Lulus Ujian Final dengan penilaian S atau lebih tinggi {threshold} kali bersama Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-007",
+      "name": "Between Shadow and Light",
+      "description": "Selesaikan Produce {threshold} kali bersama Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-008",
+      "name": "Beyond My Admiration",
+      "description": "Tingkatkan Tahap Latihan Kanae Hiwatari ke {threshold}"
+    },
+    {
+      "id": "achieve-p_idol-hkne-009",
+      "name": "Toward My Dream",
+      "description": "Lulus Ujian Final {threshold} kali saat mem-produce Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-010",
+      "name": "Holding Our Dreams and Feelings",
+      "description": "Dapatkan {threshold} penggemar untuk Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-011",
+      "name": "By Your Side",
+      "description": "Tingkatkan Level Bond Kanae Hiwatari ke {threshold}"
+    },
+    {
+      "id": "achieve-p_idol-hkne-012",
+      "name": "An Idol’s Potential",
+      "description": "Raih total P-Rating sebesar {threshold} bersama Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-013",
+      "name": "A Devoted Attendant",
+      "description": "Upgrade skill cards {threshold} times while producing Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-014",
+      "name": "A Maid and an Idol",
+      "description": "Selesaikan Produce bersama Kanae Hiwatari setelah meningkatkan Visual ke minimal 1.000"
+    },
+    {
+      "id": "achieve-p_idol-hkne-015",
+      "name": "The Idol Road: Kanae Hiwatari",
+      "description": "Dapatkan {threshold} bintang dengan menyelesaikan \"The Idol Road\""
+    },
+    {
+      "id": "achieve-p_idol-hkne-016",
+      "name": "I Want Both Radiance and Devotion",
+      "description": "Lulus Ujian Final dengan penilaian S+ atau lebih tinggi {threshold} kali bersama Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-017",
+      "name": "Kanae Hiwatari Master",
+      "description": "Raih peringkat ke-1 pada Ujian Final tingkat kesulitan Master di Pementasan Reguler \"Hatsu\" Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-018",
+      "name": "Jalan Menuju Impianku",
+      "description": "Pilih Konsultasi SP {threshold} kali saat Produce"
+    },
+    {
+      "id": "achieve-p_idol-hkne-020",
+      "name": "Keramahan di Atas Panggung",
+      "description": "Lulus Ujian Final dengan penilaian SS atau lebih tinggi {threshold} kali bersama Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-021",
+      "name": "Aku Akan Mekar dalam Cahaya",
+      "description": "Lulus Ujian Final dengan penilaian SS+ atau lebih tinggi {threshold} kali bersama Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-023",
+      "name": "The Celebrated Young Lady",
+      "description": "Lulus Ujian Final dengan penilaian SSS atau lebih tinggi {threshold} kali bersama Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-024",
+      "name": "The Idol I Am",
+      "description": "Lulus Ujian Final dengan penilaian SSS+ atau lebih tinggi {threshold} kali bersama Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-027",
+      "name": "A Leading Lady’s Resolve",
+      "description": "Lulus Ujian Final dengan penilaian S4 atau lebih tinggi {threshold} kali bersama Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-030",
+      "name": "Kostum agar Kanae Lebih Bersinar",
+      "description": "Dapatkan total {threshold} kostum untuk Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-031",
+      "name": "Gaya Rambut Penunjang Penampilan Kanae",
+      "description": "Dapatkan total {threshold} gaya rambut untuk Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-033",
+      "name": "Lagu untuk Diriku",
+      "description": "Buka total {threshold} lagu untuk Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-034",
+      "name": "Pertarungan yang Layak bagi Nona",
+      "description": "Masuk peringkat 2.000 teratas di Ranking Producer Kanae Hiwatari selama {threshold} musim"
+    },
+    {
+      "id": "achieve-p_idol-hkne-035",
+      "name": "Pertemuan dengan Diriku yang Baru",
+      "description": "Dapatkan total {threshold} Produce Idol untuk Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-036",
+      "name": "Lautan Cahaya",
+      "description": "Tonton {threshold} True Live berbeda untuk Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-037",
+      "name": "I’ll Fulfill My Duty",
+      "description": "Bekerja selama total {threshold} jam bersama Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-038",
+      "name": "Kanae Lewat Jendela Bidik",
+      "description": "Ambil {threshold} foto Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-039",
+      "name": "Memanfaatkan Pengetahuanku",
+      "description": "Ikuti Kontes sebanyak {threshold} kali bersama Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-030",
+      "name": "Kostum agar Misuzu Lebih Bersinar",
+      "description": "Dapatkan total {threshold} kostum untuk Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-031",
+      "name": "Gaya Rambut Penunjang Penampilan Misuzu",
+      "description": "Dapatkan total {threshold} gaya rambut untuk Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-033",
+      "name": "A Song Just as I Wish",
+      "description": "Buka total {threshold} lagu untuk Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-034",
+      "name": "I’m Better",
+      "description": "Masuk peringkat 2.000 teratas di Ranking Producer Misuzu Hataya selama {threshold} musim"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-035",
+      "name": "Langit Malam yang Semakin Pekat",
+      "description": "Dapatkan total {threshold} Produce Idol untuk Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-036",
+      "name": "A Successful Enlightenment Campaign",
+      "description": "Tonton {threshold} True Live berbeda untuk Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-037",
+      "name": "Take It Easy at Work",
+      "description": "Bekerja selama total {threshold} jam bersama Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-038",
+      "name": "Misuzu Lewat Jendela Bidik",
+      "description": "Ambil {threshold} foto Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-039",
+      "name": "Batu Loncatan Menuju Puncak",
+      "description": "Ikuti Kontes sebanyak {threshold} kali bersama Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-030",
+      "name": "Kostum agar Rinami Lebih Bersinar",
+      "description": "Dapatkan total {threshold} kostum untuk Rinami Himesaki"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-031",
+      "name": "Gaya Rambut Penunjang Penampilan Rinami",
+      "description": "Dapatkan total {threshold} gaya rambut untuk Rinami Himesaki"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-033",
+      "name": "Crystallized Feelings",
+      "description": "Buka total {threshold} lagu untuk Rinami Himesaki"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-034",
+      "name": "No Matter How Many Times, I Won’t Give Up",
+      "description": "Masuk peringkat 2.000 teratas di Ranking Producer Rinami Himesaki selama {threshold} musim"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-035",
+      "name": "Potensi yang Terbuka Bebas",
+      "description": "Dapatkan total {threshold} Produce Idol untuk Rinami Himesaki"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-036",
+      "name": "An Older Sister’s Stage",
+      "description": "Tonton {threshold} True Live berbeda untuk Rinami Himesaki"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-037",
+      "name": "I’ll Work Hard at My Job",
+      "description": "Bekerja selama total {threshold} jam bersama Rinami Himesaki"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-038",
+      "name": "Rinami Lewat Jendela Bidik",
+      "description": "Ambil {threshold} foto Rinami Himesaki"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-039",
+      "name": "Turning Challenges into Confidence",
+      "description": "Ikuti Kontes sebanyak {threshold} kali bersama Rinami Himesaki"
+    },
+    {
+      "id": "achieve-p_idol-hski-030",
+      "name": "Kostum agar Saki Lebih Bersinar",
+      "description": "Dapatkan total {threshold} kostum untuk Saki Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hski-031",
+      "name": "Gaya Rambut Penunjang Penampilan Saki",
+      "description": "Dapatkan total {threshold} gaya rambut untuk Saki Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hski-033",
+      "name": "Songs We’ve Fought Through Together",
+      "description": "Buka total {threshold} lagu untuk Saki Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hski-034",
+      "name": "Hanya Puncak Tertinggi!",
+      "description": "Masuk peringkat 2.000 teratas di Ranking Producer Saki Hanami selama {threshold} musim"
+    },
+    {
+      "id": "achieve-p_idol-hski-035",
+      "name": "Semua Kartu di Tangan Adalah Kekuatanku",
+      "description": "Dapatkan total {threshold} Produce Idol untuk Saki Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hski-036",
+      "name": "A Fiery, Gentle Flame",
+      "description": "Tonton {threshold} True Live berbeda untuk Saki Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hski-037",
+      "name": "Serahkan Pekerjaan Apa Pun Padaku!",
+      "description": "Bekerja selama total {threshold} jam bersama Saki Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hski-038",
+      "name": "Saki Lewat Jendela Bidik",
+      "description": "Ambil {threshold} foto Saki Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hski-039",
+      "name": "Makin Kuat di Setiap Pertarungan",
+      "description": "Ikuti Kontes sebanyak {threshold} kali bersama Saki Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hume-030",
+      "name": "Kostum agar Ume Lebih Bersinar",
+      "description": "Dapatkan total {threshold} kostum untuk Ume Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hume-031",
+      "name": "Gaya Rambut Penunjang Penampilan Ume",
+      "description": "Dapatkan total {threshold} gaya rambut untuk Ume Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hume-033",
+      "name": "So Many Close Friends!",
+      "description": "Buka total {threshold} lagu untuk Ume Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hume-034",
+      "name": "Aku Takkan Kalah dari Siapa Pun!",
+      "description": "Masuk peringkat 2.000 teratas di Ranking Producer Ume Hanami selama {threshold} musim"
+    },
+    {
+      "id": "achieve-p_idol-hume-035",
+      "name": "Pakar Idol",
+      "description": "Dapatkan total {threshold} Produce Idol untuk Ume Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hume-036",
+      "name": "Thrilling and Exciting!",
+      "description": "Tonton {threshold} True Live berbeda untuk Ume Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hume-037",
+      "name": "I’ll Do My Best at Work!",
+      "description": "Bekerja selama total {threshold} jam bersama Ume Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hume-038",
+      "name": "Ume Lewat Jendela Bidik",
+      "description": "Ambil {threshold} foto Ume Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hume-039",
+      "name": "Uji Kemampuan yang Menegangkan",
+      "description": "Ikuti Kontes sebanyak {threshold} kali bersama Ume Hanami"
+    },
+    {
+      "id": "achieve-p_idol-jsna-030",
+      "name": "Kostum agar Sena Lebih Bersinar",
+      "description": "Dapatkan total {threshold} kostum untuk Sena Juo"
+    },
+    {
+      "id": "achieve-p_idol-jsna-031",
+      "name": "Gaya Rambut Penunjang Penampilan Sena",
+      "description": "Dapatkan total {threshold} gaya rambut untuk Sena Juo"
+    },
+    {
+      "id": "achieve-p_idol-jsna-033",
+      "name": "Special Songs",
+      "description": "Buka total {threshold} lagu untuk Sena Juo"
+    },
+    {
+      "id": "achieve-p_idol-jsna-034",
+      "name": "Posisi Teratas Adalah Milikku",
+      "description": "Masuk peringkat 2.000 teratas di Ranking Producer Sena Juo selama {threshold} musim"
+    },
+    {
+      "id": "achieve-p_idol-jsna-035",
+      "name": "Bintang yang Bersinar Lebih Terang",
+      "description": "Dapatkan total {threshold} Produce Idol untuk Sena Juo"
+    },
+    {
+      "id": "achieve-p_idol-jsna-036",
+      "name": "Satu Lembaran Kisah",
+      "description": "Tonton {threshold} True Live berbeda untuk Sena Juo"
+    },
+    {
+      "id": "achieve-p_idol-jsna-037",
+      "name": "A Rewarding Job",
+      "description": "Bekerja selama total {threshold} jam bersama Sena Juo"
+    },
+    {
+      "id": "achieve-p_idol-jsna-038",
+      "name": "Sena Lewat Jendela Bidik",
+      "description": "Ambil {threshold} foto Sena Juo"
+    },
+    {
+      "id": "achieve-p_idol-jsna-039",
+      "name": "Belajar dari Setiap Pertandingan",
+      "description": "Ikuti Kontes sebanyak {threshold} kali bersama Sena Juo"
+    },
+    {
+      "id": "achieve-p_idol-kcna-030",
+      "name": "Kostum agar China Lebih Bersinar",
+      "description": "Dapatkan total {threshold} kostum untuk China Kuramoto"
+    },
+    {
+      "id": "achieve-p_idol-kcna-031",
+      "name": "Gaya Rambut Penunjang Penampilan China",
+      "description": "Dapatkan total {threshold} gaya rambut untuk China Kuramoto"
+    },
+    {
+      "id": "achieve-p_idol-kcna-033",
+      "name": "Irreplaceable Songs",
+      "description": "Buka total {threshold} lagu untuk China Kuramoto"
+    },
+    {
+      "id": "achieve-p_idol-kcna-034",
+      "name": "Carrying Everyone’s Expectations",
+      "description": "Masuk peringkat 2.000 teratas di Ranking Producer China Kuramoto selama {threshold} musim"
+    },
+    {
+      "id": "achieve-p_idol-kcna-035",
+      "name": "Bukti Perkembangan Pesat",
+      "description": "Dapatkan total {threshold} Produce Idol untuk China Kuramoto"
+    },
+    {
+      "id": "achieve-p_idol-kcna-036",
+      "name": "Kehangatan Cahaya Mentari",
+      "description": "Tonton {threshold} True Live berbeda untuk China Kuramoto"
+    },
+    {
+      "id": "achieve-p_idol-kcna-037",
+      "name": "I’ll See Every Job Through!",
+      "description": "Bekerja selama total {threshold} jam bersama China Kuramoto"
+    },
+    {
+      "id": "achieve-p_idol-kcna-038",
+      "name": "China Lewat Jendela Bidik",
+      "description": "Ambil {threshold} foto China Kuramoto"
+    },
+    {
+      "id": "achieve-p_idol-kcna-039",
+      "name": "Even When I Fall, I Move Forward!",
+      "description": "Ikuti Kontes sebanyak {threshold} kali bersama China Kuramoto"
+    },
+    {
+      "id": "achieve-p_idol-kllj-030",
+      "name": "Kostum agar Lilja Lebih Bersinar",
+      "description": "Dapatkan total {threshold} kostum untuk Lilja Katsuragi"
+    },
+    {
+      "id": "achieve-p_idol-kllj-031",
+      "name": "Gaya Rambut Penunjang Penampilan Lilja",
+      "description": "Dapatkan total {threshold} gaya rambut untuk Lilja Katsuragi"
+    },
+    {
+      "id": "achieve-p_idol-kllj-033",
+      "name": "Lagu yang Terjalin dengan Pengabdian",
+      "description": "Buka total {threshold} lagu untuk Lilja Katsuragi"
+    },
+    {
+      "id": "achieve-p_idol-kllj-034",
+      "name": "Pertarungan Dimulai Sekarang",
+      "description": "Masuk peringkat 2.000 teratas di Ranking Producer Lilja Katsuragi selama {threshold} musim"
+    },
+    {
+      "id": "achieve-p_idol-kllj-035",
+      "name": "Kemampuan yang Telah Kuperoleh",
+      "description": "Dapatkan total {threshold} Produce Idol untuk Lilja Katsuragi"
+    },
+    {
+      "id": "achieve-p_idol-kllj-036",
+      "name": "A Captivating World",
+      "description": "Tonton {threshold} True Live berbeda untuk Lilja Katsuragi"
+    },
+    {
+      "id": "achieve-p_idol-kllj-037",
+      "name": "I’ll Do My Best at Work!",
+      "description": "Bekerja selama total {threshold} jam bersama Lilja Katsuragi"
+    },
+    {
+      "id": "achieve-p_idol-kllj-038",
+      "name": "Lilja Lewat Jendela Bidik",
+      "description": "Ambil {threshold} foto Lilja Katsuragi"
+    },
+    {
+      "id": "achieve-p_idol-kllj-039",
+      "name": "Tiap Tantangan Menjadikanku Lebih Kuat",
+      "description": "Ikuti Kontes sebanyak {threshold} kali bersama Lilja Katsuragi"
+    },
+    {
+      "id": "achieve-p_idol-shro-030",
+      "name": "Kostum agar Hiro Lebih Bersinar",
+      "description": "Dapatkan total {threshold} kostum untuk Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-p_idol-shro-031",
+      "name": "Gaya Rambut Penunjang Penampilan Hiro",
+      "description": "Dapatkan total {threshold} gaya rambut untuk Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-p_idol-shro-033",
+      "name": "Trials I’ve Overcome",
+      "description": "Buka total {threshold} lagu untuk Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-p_idol-shro-034",
+      "name": "Helaan Napas Kemenangan",
+      "description": "Masuk peringkat 2.000 teratas di Ranking Producer Hiro Shinosawa selama {threshold} musim"
+    },
+    {
+      "id": "achieve-p_idol-shro-035",
+      "name": "Memperluas Kemungkinan",
+      "description": "Dapatkan total {threshold} Produce Idol untuk Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-p_idol-shro-036",
+      "name": "The Goddess’s Passion",
+      "description": "Tonton {threshold} True Live berbeda untuk Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-p_idol-shro-037",
+      "name": "Work Is Fun, Isn’t It?",
+      "description": "Bekerja selama total {threshold} jam bersama Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-p_idol-shro-038",
+      "name": "Hiro Lewat Jendela Bidik",
+      "description": "Ambil {threshold} foto Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-p_idol-shro-039",
+      "name": "A Fun Challenge",
+      "description": "Ikuti Kontes sebanyak {threshold} kali bersama Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-030",
+      "name": "Kostum agar Sumika Lebih Bersinar",
+      "description": "Dapatkan total {threshold} kostum untuk Sumika Shiun"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-031",
+      "name": "Gaya Rambut Penunjang Penampilan Sumika",
+      "description": "Dapatkan total {threshold} gaya rambut untuk Sumika Shiun"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-033",
+      "name": "Bukti Perkembanganku",
+      "description": "Buka total {threshold} lagu untuk Sumika Shiun"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-034",
+      "name": "Even Stronger!",
+      "description": "Masuk peringkat 2.000 teratas di Ranking Producer Sumika Shiun selama {threshold} musim"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-035",
+      "name": "Mengubah Kebohongan Menjadi Kenyataan",
+      "description": "Dapatkan total {threshold} Produce Idol untuk Sumika Shiun"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-036",
+      "name": "An Unshattered Fantasy",
+      "description": "Tonton {threshold} True Live berbeda untuk Sumika Shiun"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-037",
+      "name": "Let’s Have Fun at Work♪",
+      "description": "Bekerja selama total {threshold} jam bersama Sumika Shiun"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-038",
+      "name": "Sumika Lewat Jendela Bidik",
+      "description": "Ambil {threshold} foto Sumika Shiun"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-039",
+      "name": "Jejak Langkah Penuh Tantangan",
+      "description": "Ikuti Kontes sebanyak {threshold} kali bersama Sumika Shiun"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-030",
+      "name": "Kostum agar Temari Lebih Bersinar",
+      "description": "Dapatkan total {threshold} kostum untuk Temari Tsukimura"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-031",
+      "name": "Gaya Rambut Penunjang Penampilan Temari",
+      "description": "Dapatkan total {threshold} gaya rambut untuk Temari Tsukimura"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-033",
+      "name": "My Signature Songs",
+      "description": "Buka total {threshold} lagu untuk Temari Tsukimura"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-034",
+      "name": "Hanya Kemenangan Mutlak yang Berarti",
+      "description": "Masuk peringkat 2.000 teratas di Ranking Producer Temari Tsukimura selama {threshold} musim"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-035",
+      "name": "Sayap yang Terus Mengepak Lebih Tinggi",
+      "description": "Dapatkan total {threshold} Produce Idol untuk Temari Tsukimura"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-036",
+      "name": "My True Feelings",
+      "description": "Tonton {threshold} True Live berbeda untuk Temari Tsukimura"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-037",
+      "name": "That Was a Job Well Done",
+      "description": "Bekerja selama total {threshold} jam bersama Temari Tsukimura"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-038",
+      "name": "Temari Lewat Jendela Bidik",
+      "description": "Ambil {threshold} foto Temari Tsukimura"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-039",
+      "name": "Pertarungan yang Membakar Semangatku",
+      "description": "Ikuti Kontes sebanyak {threshold} kali bersama Temari Tsukimura"
     }
   ]
 }

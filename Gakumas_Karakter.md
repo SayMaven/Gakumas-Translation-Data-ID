@@ -151,6 +151,18 @@ Dokumen ini merangkum semua karakter utama, termasuk idol playable, rival, NPC, 
 - **Unit**: (muncul di berbagai unit, sering solo atau bersama OSIS)
 - **Catatan**: Playable sejak 1.5 anniversary (Nov 2025). Representasi “No.2 yang ingin melampaui No.1”.
 
+### 緋渡 華苗 (Hiwatari Kanae)
+- **Kelas**: 1年 (Idol Department - transfer dari sekolah pelayan)
+- **Usia**: 15 tahun | **Asal**: Shizuoka | **Tinggi**: 165 cm | **Berat**: 50 kg | **Golongan Darah**: A
+- **Sifat**: Sopan santun, berdedikasi tinggi, rajin, terampil dalam pekerjaan rumah tangga, bela diri, dan trivia sejarah. Sebagai pelayan pribadi Kuramoto China, ia selalu memprioritaskan Nona China di atas segalanya hingga tidak peka (*oblivious*) terhadap perasaannya sendiri dan tidak menyadari pesona serta bakat idol miliknya. Menyukai hal-hal feminin yang manis (*frill*, gaun putri).
+- **Hubungan**:
+  - Pelayan pribadi (*exclusive maid / attendant*) yang melayani **倉本千奈 (Kuramoto China)** sejak kecil. Mengabdi dengan sepenuh hati dan diam-diam menjadi pengurus "Klub Penggemar Kuramoto China" (Anggota No. 9).
+  - Pindah (*transfer*) ke Jurusan Idol Hatsuboshi atas dorongan dan permintaan China, agar Kanae bisa mengejar impiannya sendiri serta mendukung China dari dekat.
+  - Memanggil China: **"Nona"** atau **"Nona China"** (*Ojou-sama*).
+  - Memanggil Producer: **"Producer"** (register sopan-resmi khas pelayan profesional).
+- **Unit**: (Solo / berinteraksi sangat dekat dengan China)
+- **Catatan**: Playable idol baru. Lagu solo: *Metamorphose*.
+
 ---
 
 ## 2. Unit / Group Utama

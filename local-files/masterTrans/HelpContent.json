@@ -1980,6 +1980,13 @@
       "order": 2,
       "name": "Bonus Login Pilihan",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/8fa749b76253e7e47e61c6f599cced5df2cd5a3b62cea537897fc3e90b5a7b52/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-produce-card-metamorphose",
+      "order": 20,
+      "name": "Metamorphose",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/a8adca61704d4303fcfabce9d73763404b22a28afd92be4060dbb88db4852673/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     }
   ]
 }

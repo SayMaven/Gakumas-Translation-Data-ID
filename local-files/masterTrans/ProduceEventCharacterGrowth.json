@@ -239,6 +239,24 @@
       "number": 3,
       "title": "Menembus Batas",
       "description": "Vocal 1000 atau lebih tinggi"
+    },
+    {
+      "characterId": "hkne",
+      "number": 1,
+      "title": "Cara Menampilkan Diri",
+      "description": "Dance 300 atau lebih tinggi"
+    },
+    {
+      "characterId": "hkne",
+      "number": 2,
+      "title": "Kekuatan untuk Bermimpi",
+      "description": "Vocal 450 atau lebih tinggi"
+    },
+    {
+      "characterId": "hkne",
+      "number": 3,
+      "title": "Menuju Cahaya",
+      "description": "Visual 1000 atau lebih tinggi"
     }
   ]
 }

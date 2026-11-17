@@ -1058,6 +1058,69 @@
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
+    },
+    {
+      "id": "gasha_button_01070-ssr-idol-001",
+      "order": 1,
+      "name": "Paid 10-Time gacha",
+      "description": "Paid 10-Time gacha",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": "{0}x More"
+    },
+    {
+      "id": "gasha_button_item-gachaticket-2.5th-anniv-10-001",
+      "order": 1,
+      "name": "Pull using a 2.5th Anniversary 10-Pull Gacha Ticket",
+      "description": "10-Time Gacha",
+      "appealText": "1 SR or Higher ",
+      "highAppealText": "1 SR or Higher ",
+      "bottomAppealText": ""
+    },
+    {
+      "id": "gasha_button-01070-ssr-idol-002",
+      "order": 1,
+      "name": "Tarik menggunakan Tiket Gacha Jaminan SSR Produce Idol Termasuk Terbatas Musim 2.5th Anniversary",
+      "description": "Tarik menggunakan Tiket Gacha Jaminan SSR Produce Idol Termasuk Terbatas Musim 2.5th Anniversary",
+      "appealText": "Guaranteed SSR ",
+      "highAppealText": "",
+      "bottomAppealText": ""
+    },
+    {
+      "id": "gasha_button-01070-ssr-support-002",
+      "order": 1,
+      "name": "Tarik menggunakan Tiket Gacha Jaminan SSR Support Card Termasuk Terbatas Musim 2.5th Anniversary",
+      "description": "Tarik menggunakan Tiket Gacha Jaminan SSR Support Card Termasuk Terbatas Musim 2.5th Anniversary",
+      "appealText": "Guaranteed SSR ",
+      "highAppealText": "",
+      "bottomAppealText": ""
+    },
+    {
+      "id": "gasha_button-01070-ticket-001",
+      "order": 1,
+      "name": "Tarik menggunakan Tiket Gacha Jaminan 2 SSR Produce Idol! (2 Tarikan)",
+      "description": "Tarik menggunakan Tiket Gacha Jaminan 2 SSR Produce Idol! (2 Tarikan)",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": ""
+    },
+    {
+      "id": "gasha_button-01070-ticket-002",
+      "order": 1,
+      "name": "Tarik menggunakan Tiket Gacha 10 Tarikan dengan Peluang Muncul SSR Produce Idol 10×",
+      "description": "Tarik menggunakan Tiket Gacha 10 Tarikan dengan Peluang Muncul SSR Produce Idol 10×",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": ""
+    },
+    {
+      "id": "gasha_button-01070-wednesday-001",
+      "order": 1,
+      "name": "Tarik dengan Tiket",
+      "description": "Tarik dengan Tiket",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": ""
     }
   ]
 }

@@ -1176,6 +1176,14 @@
     {
       "id": "mission-group-story-character-introduction-001_5",
       "name": "Hiwatari Kanae Ep.0 Mission"
+    },
+    {
+      "id": "panel_mission-event-012-group_1",
+      "name": "Panel Mission Group 1"
+    },
+    {
+      "id": "panel_mission-event-012-group_2",
+      "name": "Panel Mission Group 2"
     }
   ]
 }

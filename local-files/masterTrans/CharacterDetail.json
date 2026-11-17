@@ -1092,6 +1092,84 @@
       "type": "CharacterDetailType_Introduction",
       "order": 14,
       "content": "Mantan anggota unit nomor satu di SMP, \"SyngUp!\". Murid kelas satu dengan kemampuan menyanyi setingkat profesional, namun dikenal bermasalah dalam sikap dan sering memicu kekacauan."
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_Grade",
+      "order": 1,
+      "content": "Tahun 1"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_Height",
+      "order": 2,
+      "content": "165"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_Weight",
+      "order": 3,
+      "content": "50"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_BloodType",
+      "order": 4,
+      "content": "A"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_ThreeSize",
+      "order": 5,
+      "content": "85/55/81"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_ZodiacSign",
+      "order": 6,
+      "content": "Leo"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_Cv",
+      "order": 7,
+      "content": "Abe Sayaka"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_Age",
+      "order": 8,
+      "content": "15"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_Birthday",
+      "order": 9,
+      "content": "Aug 8 "
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_DominantHand",
+      "order": 10,
+      "content": "Kanan"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_Birthplace",
+      "order": 11,
+      "content": "Shizuoka"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_SpecialSkill",
+      "order": 12,
+      "content": "Pekerjaan rumah tangga, bela diri, trivia sejarah"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_Hobby",
+      "order": 13,
+      "content": "Melayani Nona, mengelola Fan Club China"
     }
   ]
 }

@@ -1189,6 +1189,97 @@
       "number": 3,
       "title": "Temari Tsukimura",
       "message": "Producer, apa tadi kamu menonton? Siarannya berjalan lancar. Aku mengharapkan reward yang bagus!"
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_ApFull",
+      "number": 1,
+      "title": "Kanae Hiwatari",
+      "message": "Apa kamu sudah sempat beristirahat? Setelah mendampingi Nona, tolong beri tahu aku saat kamu siap untuk Lesson ya."
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_ApFull",
+      "number": 2,
+      "title": "Kanae Hiwatari",
+      "message": "Kesehatanku sangat prima. Sudah waktunya untuk Lesson, jadi beri tahu aku bila kamu sudah siap."
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_MoneyFull",
+      "number": 1,
+      "title": "Kanae Hiwatari",
+      "message": "Sepertinya ada Uang yang bisa dikumpulkan. Ayo kita ambil bersama."
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_MoneyFull",
+      "number": 2,
+      "title": "Kanae Hiwatari",
+      "message": "Sepertinya kamu lupa mengambil Uang milikmu. Tolong segera dikumpulkan ya."
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_DailyMission",
+      "number": 1,
+      "title": "Kanae Hiwatari",
+      "message": "...Sepertinya kamu belum menyelesaikan Misi hari ini. Aku sarankan untuk segera menyelesaikannya."
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_Login",
+      "number": 1,
+      "title": "Kanae Hiwatari",
+      "message": "...Um, tolong kembalilah."
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_PvpRateRemainingPlayCount",
+      "number": 1,
+      "title": "Kanae Hiwatari",
+      "message": "Kamu belum mengikuti Kontes hari ini. Ayo segera ikuti."
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 1,
+      "title": "Kanae Hiwatari",
+      "message": "A-aku sempat sangat gugup, tapi kurasa aku berhasil membawakan Mini Live yang bagus..."
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 2,
+      "title": "Kanae Hiwatari",
+      "message": "Mini Live telah selesai. Aku ingin segera mengevaluasinya, jadi tolong dampingi aku ya."
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 3,
+      "title": "Kanae Hiwatari",
+      "message": "Mini Live telah selesai, jadi tolong ambil hadiahmu."
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 1,
+      "title": "Kanae Hiwatari",
+      "message": "Siaran langsung telah selesai, jadi ambillah hadiahmu terlebih dahulu. Setelah itu, mari kita evaluasi hasilnya bersama."
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 2,
+      "title": "Kanae Hiwatari",
+      "message": "Um... Aku sempat ragu tentang banyak hal, tapi ternyata siaran langsung itu menyenangkan."
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 3,
+      "title": "Kanae Hiwatari",
+      "message": "Siaran langsung telah selesai. Kuharap suatu hari nanti aku bisa melakukan hal seperti ini bersama Nona...!"
     }
   ]
 }
