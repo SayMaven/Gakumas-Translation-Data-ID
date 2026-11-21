@@ -118,12 +118,10 @@ jobs:
           COMMITS=$(git log $PREV_COMMIT..${{ github.sha }} --pretty=format:"- %s") || COMMITS=$(git log -1 --pretty=format:"- %s")
         fi
 
-        echo "Rilis otomatis data terjemahan Bahasa Indonesia terbaru untuk Gakumas." > release_notes.md
+        echo "Update otomatis terjemahan Bahasa Indonesia untuk Gakumas." > release_notes.md
         echo "" >> release_notes.md
         echo "Pembaruan:" >> release_notes.md
         echo "$COMMITS" >> release_notes.md
-        echo "" >> release_notes.md
-        echo "Lihat PROGRESS.md untuk memantau status terjemahan terkini." >> release_notes.md
 
     - name: Create ZIP Archive
       run: |
