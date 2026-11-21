@@ -1163,13 +1163,13 @@
       "characterId": "hkne",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "Pekerjaan rumah tangga, bela diri, trivia sejarah"
+      "content": "Pekerjaan rumah, bela diri, sejarah"
     },
     {
       "characterId": "hkne",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "Melayani Nona, mengelola Fan Club China"
+      "content": "Melayani China, mengelola Fan Club China"
     }
   ]
 }
